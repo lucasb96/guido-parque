@@ -42,7 +42,8 @@ function db(): PDO
     $pdo = new PDO('sqlite:' . $file);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
-    $pdo->exec('PRAGMA journal_mode = WAL; PRAGMA foreign_keys = ON;');
+    // WAL + synchronous NORMAL: seguro e muito mais rápido (no Windows cada gravação avulsa levava ~140 ms)
+    $pdo->exec('PRAGMA journal_mode = WAL; PRAGMA synchronous = NORMAL; PRAGMA foreign_keys = ON;');
     migrate($pdo);
 
     // Banco novo: reconstrói a partir dos arquivos content/ e state/ (versionados no Git)

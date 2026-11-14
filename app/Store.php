@@ -151,6 +151,7 @@ final class Store
         $content = self::contentDir();
         $state = self::stateDir();
 
+        $pdo->beginTransaction(); // tudo de uma vez: centenas de gravações viram uma só
         $pdo->exec('DELETE FROM chunks; DELETE FROM docs; DELETE FROM faq; DELETE FROM settings;');
 
         $put = $pdo->prepare('INSERT OR REPLACE INTO settings(key, value) VALUES(?, ?)');
@@ -184,6 +185,7 @@ final class Store
             if (is_file($manual)) Sync::indexText($d['id'], (string) file_get_contents($manual), 'manual');
             elseif (is_file($auto) && $d['text_status'] === 'ok') Sync::indexText($d['id'], (string) file_get_contents($auto), 'ok');
         }
+        $pdo->commit();
     }
 
     /* ------------------------------------------------------------------ */

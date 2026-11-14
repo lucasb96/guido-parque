@@ -144,6 +144,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     switch ($action) {
         case 'publish':
             if (!is_local_git()) { flash('A publicação só funciona com o painel aberto no seu computador.', 'err'); redirect(); }
+            @set_time_limit(300);
             // Andamento da obra: lido daqui (o site da Cury bloqueia os servidores do GitHub)
             $obraMsg = '';
             try {

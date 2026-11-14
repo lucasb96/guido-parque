@@ -197,7 +197,8 @@ final class Sync
     public static function indexText(string $docId, string $text, string $status, ?string $error = null): void
     {
         $pdo = db();
-        $pdo->beginTransaction();
+        $own = !$pdo->inTransaction(); // pode estar dentro da importação
+        if ($own) $pdo->beginTransaction();
         $pdo->prepare('DELETE FROM chunks WHERE doc_id = ?')->execute([$docId]);
         $text = Text::redact($text);
         $ins = $pdo->prepare('INSERT INTO chunks (doc_id, n, text, norm) VALUES (?,?,?,?)');
@@ -209,7 +210,7 @@ final class Sync
         }
         $pdo->prepare('UPDATE docs SET text_status = ?, text_error = ?, char_count = ? WHERE id = ?')
             ->execute([$status, $error, mb_strlen($text), $docId]);
-        $pdo->commit();
+        if ($own) $pdo->commit();
     }
 
     /** Converte a planilha de indicações em lista de fornecedores. */
