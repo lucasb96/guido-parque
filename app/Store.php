@@ -90,6 +90,45 @@ final class Store
         self::writeJson("$dir/settings.json", $settings);
     }
 
+    /**
+     * Andamento da obra lido no computador local (o site da Cury bloqueia os servidores do GitHub).
+     * Fica em content/obra.json; na importação vale a leitura mais recente entre esta e a do robô.
+     */
+    public static function exportObraLocal(): void
+    {
+        $obra = setting('obra_progress');
+        if (!$obra) return;
+        self::writeJson(self::contentDir() . '/obra.json', [
+            'obra_progress' => $obra,
+            'obra_progress_history' => setting('obra_progress_history', []),
+        ]);
+    }
+
+    /** Junta a leitura local (content/obra.json) com a do robô, ficando com a mais recente. */
+    private static function mergeObra(PDO $pdo): void
+    {
+        $local = self::readJson(self::contentDir() . '/obra.json');
+        if (!$local) return;
+        $get = function (string $k) use ($pdo) {
+            $st = $pdo->prepare('SELECT value FROM settings WHERE key = ?');
+            $st->execute([$k]);
+            $v = $st->fetchColumn();
+            return $v === false ? null : json_decode($v, true);
+        };
+        $put = $pdo->prepare('INSERT OR REPLACE INTO settings(key, value) VALUES(?, ?)');
+
+        $robot = $get('obra_progress');
+        $mine = $local['obra_progress'] ?? null;
+        if ($mine && (!$robot || strcmp((string) $mine['checked_at'], (string) ($robot['checked_at'] ?? '')) > 0)) {
+            $put->execute(['obra_progress', json_encode($mine, JSON_UNESCAPED_UNICODE)]);
+        }
+        // Histórico: união das duas fontes, por data
+        $hist = [];
+        foreach (array_merge($get('obra_progress_history') ?: [], $local['obra_progress_history'] ?? []) as $h) $hist[$h['date']] = $h;
+        ksort($hist);
+        $put->execute(['obra_progress_history', json_encode(array_slice(array_values($hist), -120), JSON_UNESCAPED_UNICODE)]);
+    }
+
     /** Guarda o texto de um documento no arquivo certo (manual → content/, automático → state/). */
     public static function saveText(string $docId, string $text, string $status): void
     {
@@ -118,6 +157,8 @@ final class Store
         foreach ([self::readJson("$state/settings.json"), self::readJson("$content/settings.json")] as $set) {
             foreach ($set as $k => $v) $put->execute([$k, json_encode($v, JSON_UNESCAPED_UNICODE)]);
         }
+
+        self::mergeObra($pdo);
 
         $ins = $pdo->prepare('INSERT INTO faq (id, cat, status, q, a, tags, src, sort, published, updated_at) VALUES (?,?,?,?,?,?,?,?,?,?)');
         foreach (self::readJson("$content/faq.json") as $i => $f) {

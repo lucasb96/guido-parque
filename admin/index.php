@@ -144,6 +144,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     switch ($action) {
         case 'publish':
             if (!is_local_git()) { flash('A publicação só funciona com o painel aberto no seu computador.', 'err'); redirect(); }
+            // Andamento da obra: lido daqui (o site da Cury bloqueia os servidores do GitHub)
+            $obraMsg = '';
+            try {
+                CuryProgress::update();
+                Store::exportObraLocal();
+            } catch (Throwable $e) {
+                $obraMsg = ' (Não foi possível ler o andamento da obra agora: ' . $e->getMessage() . ')';
+            }
             Store::exportContent();
             $log = [];
             if (pending_changes()) {
@@ -159,7 +167,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if ($c4) { flash('Não foi possível enviar para o GitHub: ' . $o4, 'err'); redirect(); }
             // Reconstrói o banco local com a versão mais recente dos arquivos
             Store::import(db());
-            flash(($log ? 'Publicado! ' : 'Nada novo para publicar. ') . 'O site é atualizado em 1 a 2 minutos. Seu painel também foi atualizado com as novidades do robô.');
+            flash(($log ? 'Publicado! ' : 'Nada novo para publicar. ') . 'O site é atualizado em 1 a 2 minutos. Seu painel também foi atualizado com as novidades do robô.' . $obraMsg);
             redirect();
 
         case 'sync':
@@ -327,7 +335,7 @@ case 'dashboard':
         <p class="muted">Acompanhamento da obra (site da Cury):
             <?php if ($obra): ?>
                 <strong>média <?= h((string) $obra['average']) ?>%</strong> · verificado em <?= h(fmt_date($obra['checked_at'])) ?> · última mudança em <?= h(fmt_date($obra['changed_at'])) ?>
-                <?php if ($obraStale): ?><span class="pill pill-warn">sem leitura há mais de 3 dias: o site da Cury pode ter mudado</span><?php endif; ?>
+                <?php if ($obraStale): ?><span class="pill pill-warn">sem leitura há mais de 3 dias: clique em "Publicar / Atualizar do GitHub" para ler daqui</span><?php endif; ?>
             <?php else: ?>
                 <span class="pill pill-muted">ainda não lido</span>
             <?php endif; ?>

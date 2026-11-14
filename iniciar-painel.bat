@@ -20,7 +20,7 @@ rem Pasta do PHP (para carregar as extensoes necessarias mesmo sem php.ini)
 for /f "delims=" %%i in ('where php') do (set "PHPEXE=%%i" & goto :found)
 :found
 for %%i in ("%PHPEXE%") do set "PHPDIR=%%~dpi"
-set PHPOPTS=-d extension_dir="%PHPDIR%ext" -d extension=pdo_sqlite -d extension=sqlite3 -d extension=mbstring -d extension=intl -d extension=curl -d extension=openssl -d extension=zip -d extension=fileinfo
+set PHPOPTS=-d extension_dir="%PHPDIR%ext" -d extension=pdo_sqlite -d extension=sqlite3 -d extension=mbstring -d extension=intl -d extension=curl -d extension=openssl -d extension=zip -d extension=fileinfo -d curl.cainfo="%~dp0tools\cacert.pem" -d openssl.cafile="%~dp0tools\cacert.pem"
 
 echo Baixando as atualizacoes do site (GitHub)...
 git pull --rebase --autostash
