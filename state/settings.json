@@ -1,0 +1,199 @@
+{
+    "vendors": [
+        {
+            "service": "Engenheira, vistoria",
+            "name": "Letícia",
+            "phone": "11 99358-7116",
+            "link": "https://www.instagram.com/eng.lerodrigues",
+            "note": "Engenheira moradora do condomínio, possui preço abaixo do mercado para realizar a vistoria apenas para moradores do Nações Unidas."
+        },
+        {
+            "service": "Piso laminado/vinílico",
+            "name": "Matheus",
+            "phone": "11 97281-5932",
+            "link": "https://www.instagram.com/mrpisosvl",
+            "note": ""
+        },
+        {
+            "service": "Marmoraria Nova Pedreira",
+            "name": "Wesley",
+            "phone": "11 95826-0932",
+            "link": "https://www.instagram.com/weslley0817/",
+            "note": ""
+        },
+        {
+            "service": "Reforma em geral",
+            "name": "Benício",
+            "phone": "11 94795-5986",
+            "link": "",
+            "note": ""
+        },
+        {
+            "service": "Marcenaria",
+            "name": "BF Marcenaria",
+            "phone": "11 99131-3935",
+            "link": "https://www.instagram.com/bfmarcenaria",
+            "note": ""
+        },
+        {
+            "service": "Engenheiro - Vistoria",
+            "name": "Rafael Nunes",
+            "phone": "11 98711-1759",
+            "link": "https://www.linkedin.com/in/rafael-nlima",
+            "note": ""
+        },
+        {
+            "service": "Reformas em geral",
+            "name": "Claudio Pereira",
+            "phone": "11 93147-1851",
+            "link": "https://www.instagram.com/claudiopereiracp5",
+            "note": ""
+        },
+        {
+            "service": "Marmoraria Calcario",
+            "name": "Anderson",
+            "phone": "11 97823-0876",
+            "link": "https://www.instagram.com/marmoraria.calcario",
+            "note": ""
+        },
+        {
+            "service": "Engenheiro",
+            "name": "Guilherme",
+            "phone": "11 96589-4194",
+            "link": "https://www.instagram.com/guimendes_07",
+            "note": "Indicação Derlucia"
+        },
+        {
+            "service": "Gles Aquecedores",
+            "name": "Gles Aquecedores",
+            "phone": "11 93363-5866",
+            "link": "https://www.instagram.com/gles.aquecedores/",
+            "note": "Indicação Faby"
+        },
+        {
+            "service": "Marcenaria - BGS Planejados",
+            "name": "Bruno",
+            "phone": "11 98654-8997",
+            "link": "https://www.instagram.com/bgsplanejados",
+            "note": ""
+        },
+        {
+            "service": "MARCENARIA EDISIO PLANEJADOS",
+            "name": "MARCENARIA EDISIO PLANEJADOS",
+            "phone": "",
+            "link": "",
+            "note": "Idi"
+        },
+        {
+            "service": "Marceneiro",
+            "name": "Calebe",
+            "phone": "11 91604-1088",
+            "link": "https://www.instagram.com/calebe_lojafisica",
+            "note": "Marceneiro há quase 40 anos. \nEles tem 2 modelos prontos já do apartamento de 34m no valor de R$ 7.500,00 \nCaso for fazer orçamento para fazer de acordo com o material (cor, textura, modelos de planejados) é outro valor. \nMas na loja eles tem várias peças avulsas também."
+        },
+        {
+            "service": "Gesso",
+            "name": "Eduardo",
+            "phone": "11 96091-2111",
+            "link": "",
+            "note": ""
+        },
+        {
+            "service": "Esquadria de alumínio",
+            "name": "João",
+            "phone": "11 98130-2756",
+            "link": "",
+            "note": ""
+        },
+        {
+            "service": "Reformas Completas",
+            "name": "G.G Construções e Reformas",
+            "phone": "11 99533-1673",
+            "link": "",
+            "note": ""
+        },
+        {
+            "service": "Internet Residencial e móvel",
+            "name": "Giga Sul Telecom",
+            "phone": "11 96685-2010",
+            "link": "https://gigasultelecom.com.br",
+            "note": "Serviço de internet, proprietária. Estaremos com ótimas condições para nossos vizinhos e futuros amigos."
+        },
+        {
+            "service": "RD Marmoraria",
+            "name": "Marmoraria",
+            "phone": "11 98220-2715",
+            "link": "https://www.instagram.com/rd_marmorariaa/",
+            "note": "Serviço de marmoraria, o mais em conta que encontrei"
+        }
+    ],
+    "obra_progress": {
+        "items": [
+            {
+                "label": "Mobiliz. Canteiro",
+                "pct": 100
+            },
+            {
+                "label": "Fundação",
+                "pct": 100
+            },
+            {
+                "label": "Estrutura",
+                "pct": 100
+            },
+            {
+                "label": "Alvenaria",
+                "pct": 100
+            },
+            {
+                "label": "Acabamento interno",
+                "pct": 96
+            },
+            {
+                "label": "Acabamento externo",
+                "pct": 99
+            },
+            {
+                "label": "Inst. Elétricas",
+                "pct": 100
+            },
+            {
+                "label": "Inst. Hidráulicas",
+                "pct": 99
+            },
+            {
+                "label": "Pintura",
+                "pct": 83
+            },
+            {
+                "label": "Serv. Complementares",
+                "pct": 94
+            }
+        ],
+        "average": 97.1,
+        "checked_at": "2026-11-13 23:32:47",
+        "changed_at": "2026-11-13 23:21:15",
+        "source": "https://cury.net/imovel/SP/zona-sul/guido-parque-nacoes-unidas"
+    },
+    "obra_progress_history": [
+        {
+            "date": "2026-11-13 23:21:15",
+            "items": {
+                "Mobiliz. Canteiro": 100,
+                "Fundação": 100,
+                "Estrutura": 100,
+                "Alvenaria": 100,
+                "Acabamento interno": 96,
+                "Acabamento externo": 99,
+                "Inst. Elétricas": 100,
+                "Inst. Hidráulicas": 99,
+                "Pintura": 83,
+                "Serv. Complementares": 94
+            },
+            "average": 97.1
+        }
+    ],
+    "initialized": true,
+    "initialized_at": "2026-11-13 22:13:55",
+    "last_sync": "2026-11-13 23:32:48"
+}

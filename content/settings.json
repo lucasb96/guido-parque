@@ -1,0 +1,577 @@
+{
+    "categories": [
+        {
+            "id": "todas",
+            "label": "Todas",
+            "icon": "layout-grid"
+        },
+        {
+            "id": "entrega",
+            "label": "Entrega e chaves",
+            "icon": "key-round"
+        },
+        {
+            "id": "vistoria",
+            "label": "Vistoria",
+            "icon": "clipboard-check"
+        },
+        {
+            "id": "obra",
+            "label": "Obra e documentos",
+            "icon": "hard-hat"
+        },
+        {
+            "id": "apartamento",
+            "label": "Apartamento",
+            "icon": "house"
+        },
+        {
+            "id": "instalacoes",
+            "label": "Elétrica, gás e água",
+            "icon": "zap"
+        },
+        {
+            "id": "reforma",
+            "label": "Reformas",
+            "icon": "hammer"
+        },
+        {
+            "id": "condominio",
+            "label": "Condomínio e regras",
+            "icon": "scroll-text"
+        },
+        {
+            "id": "financeiro",
+            "label": "Financeiro",
+            "icon": "wallet"
+        },
+        {
+            "id": "lazer",
+            "label": "Lazer e áreas comuns",
+            "icon": "trees"
+        }
+    ],
+    "quick_searches": [
+        "entrega das chaves",
+        "vistoria",
+        "AGI",
+        "220V",
+        "ar-condicionado",
+        "gás",
+        "vaga de garagem",
+        "reforma",
+        "animais"
+    ],
+    "status": [
+        {
+            "label": "Habite-se",
+            "value": "Emitido",
+            "detail": "Deferido em 21/10/2026",
+            "tone": "ok"
+        },
+        {
+            "label": "Vistorias",
+            "value": "Após a AGI",
+            "detail": "Junto com a entrega das chaves, agendadas pela Cury",
+            "tone": "warn"
+        },
+        {
+            "label": "AGI",
+            "value": "27/11/2026",
+            "detail": "Online pela OMA · votação 10h–20h",
+            "tone": "warn"
+        },
+        {
+            "label": "Chaves",
+            "value": "Dez/26 a Abr/27",
+            "detail": "Maior parte entre dez. e fev.",
+            "tone": "warn"
+        }
+    ],
+    "stats": [
+        {
+            "value": "4",
+            "label": "torres"
+        },
+        {
+            "value": "744",
+            "label": "apartamentos"
+        },
+        {
+            "value": "T + 9",
+            "label": "pavimentos por torre"
+        },
+        {
+            "value": "34–41 m²",
+            "label": "área privativa"
+        },
+        {
+            "value": "12",
+            "label": "elevadores"
+        },
+        {
+            "value": "30+",
+            "label": "itens de lazer"
+        }
+    ],
+    "timeline": [
+        {
+            "date": "27/09/2023",
+            "title": "Incorporação registrada",
+            "text": "R.4 da matrícula 490.565, no 11º Registro de Imóveis de SP.",
+            "state": "done"
+        },
+        {
+            "date": "Out/2023",
+            "title": "Lançamento",
+            "text": "Book de vendas e Memorial Descritivo (rev. 02/10/2023).",
+            "state": "done"
+        },
+        {
+            "date": "13/03/2024",
+            "title": "Comissão de Representantes eleita",
+            "text": "Assembleia online de 11 a 13/03. Ata registrada em 01/04/2024.",
+            "state": "done"
+        },
+        {
+            "date": "16/03/2026",
+            "title": "Reunião com o engenheiro",
+            "text": "Obra com ~67,7%. Cury comunica a possível carência de 180 dias.",
+            "state": "done"
+        },
+        {
+            "date": "27/03/2026",
+            "title": "2ª visita da Comissão",
+            "text": "Estrutura das 4 torres e revestimento externo concluídos.",
+            "state": "done"
+        },
+        {
+            "date": "08/2026",
+            "title": "Perguntas e Respostas Cury",
+            "text": "Respostas formais sobre vistoria, AGI e chaves.",
+            "state": "done"
+        },
+        {
+            "date": "21/10/2026",
+            "title": "Habite-se emitido 🎉",
+            "text": "Certificado de Conclusão Total nº 72969-26-SP-CCE.",
+            "state": "done"
+        },
+        {
+            "date": "31/10/2026",
+            "title": "Prazo contratual",
+            "text": "Data de entrega prevista em contrato.",
+            "state": "done"
+        },
+        {
+            "date": "05/11/2026",
+            "title": "Visita à obra",
+            "text": "Água, luz e gás ligados. Faltam textura, paisagismo, salão e academia.",
+            "state": "done"
+        },
+        {
+            "date": "12/11/2026",
+            "title": "Comunicado da Cury",
+            "text": "Instruções pré-assembleia: cronograma da AGI e das candidaturas.",
+            "state": "done"
+        },
+        {
+            "date": "13–18/11/2026",
+            "title": "Indicação de síndico profissional",
+            "text": "Propostas de empresas para candidatura@cury.net (até 18/11, 17h).",
+            "state": "current"
+        },
+        {
+            "date": "16/11/2026",
+            "title": "Acesso à plataforma da AGI",
+            "text": "A OMA envia por e-mail (agi@oma.com.br) o acesso único de cada unidade.",
+            "state": "next"
+        },
+        {
+            "date": "25–26/11/2026",
+            "title": "Vídeo da AGI e candidaturas",
+            "text": "Vídeo com a pauta a partir de 25/11, 9h30. Candidaturas de proprietários até 26/11, 17h.",
+            "state": "next"
+        },
+        {
+            "date": "27/11/2026",
+            "title": "AGI: votação",
+            "text": "Eleição de síndico, subsíndico e conselho e demais pautas, das 10h às 20h, online.",
+            "state": "next"
+        },
+        {
+            "date": "30/11/2026",
+            "title": "Resultado da AGI",
+            "text": "Divulgado no próximo dia útil após o encerramento.",
+            "state": "next"
+        },
+        {
+            "date": "Após a AGI",
+            "title": "Vistoria da área comum",
+            "text": "O síndico eleito vistoria e aceita as áreas comuns.",
+            "state": "next"
+        },
+        {
+            "date": "Dez/26 – Abr/27",
+            "title": "Vistorias e entrega das chaves",
+            "text": "Vistoria da unidade junto com a entrega das chaves, para clientes aptos, com agendamento pela Cury.",
+            "state": "next"
+        },
+        {
+            "date": "29/04/2027",
+            "title": "Fim da carência",
+            "text": "Data-limite com os 180 dias de tolerância.",
+            "state": "next"
+        }
+    ],
+    "amenities": [
+        {
+            "name": "Piscina adulto e infantil",
+            "icon": "waves",
+            "items": "Não aquecidas · escada e equipamento de transferência · deck com 4 espreguiçadeiras · solários com 9 espreguiçadeiras, mesas, ombrelone e poltronas"
+        },
+        {
+            "name": "Salão de festas",
+            "icon": "party-popper",
+            "items": "Sofá em L · 9 mesas com 4 cadeiras · copa com fogão 4 bocas e geladeira · WC PCD"
+        },
+        {
+            "name": "Fitness",
+            "icon": "dumbbell",
+            "items": "2 esteiras · 2 bicicletas ergométricas · multiestação · supino · halteres e anilhas · 2 jumps · bolas de pilates"
+        },
+        {
+            "name": "Churrasqueiras (2)",
+            "icon": "flame",
+            "items": "Cada uma com churrasqueira, forno de pizza, bancada com cuba inox e 5 mesas · WC"
+        },
+        {
+            "name": "Sport bar",
+            "icon": "beer",
+            "items": "TV · cervejeira · pebolim · mesa de carteado · bancada com banquetas"
+        },
+        {
+            "name": "Salão de games",
+            "icon": "gamepad-2",
+            "items": "TV · pufes · banco e mesa de apoio"
+        },
+        {
+            "name": "Coworking (4)",
+            "icon": "laptop",
+            "items": "Bancadas e mesas de apoio, cadeiras, prateleiras · um deles com TV"
+        },
+        {
+            "name": "Brinquedoteca e play baby",
+            "icon": "toy-brick",
+            "items": "Piscina de bolinhas · gangorra · cozinha infantil · mesas infantis · TV"
+        },
+        {
+            "name": "Playground",
+            "icon": "ferris-wheel",
+            "items": "4 brinquedos certificados · piso emborrachado e grama"
+        },
+        {
+            "name": "Quadra de grama sintética",
+            "icon": "goal",
+            "items": "2 traves de gol · alambrado"
+        },
+        {
+            "name": "Fitness externo",
+            "icon": "activity",
+            "items": "3 caixas de salto · 2 barras fixas · 2 cordas náuticas · 2 gaiolas"
+        },
+        {
+            "name": "Espaço multifuncional",
+            "icon": "heart-pulse",
+            "items": "TV · saco de pancada · espaldar · halteres e anilhas · bola de pilates"
+        },
+        {
+            "name": "Sauna, descanso e spa",
+            "icon": "bath",
+            "items": "Sauna em madeira · sala de descanso com chuveiro e espreguiçadeiras · maca de massagem"
+        },
+        {
+            "name": "Espaço beleza",
+            "icon": "scissors",
+            "items": "Lavatório · 2 cadeiras hidráulicas · bancadas · espelhos"
+        },
+        {
+            "name": "Pet care",
+            "icon": "paw-print",
+            "items": "Bancada com cuba inox · secador profissional · chuveiro · 2 baias com portão"
+        },
+        {
+            "name": "Lavanderia (pay-per-use)",
+            "icon": "washing-machine",
+            "items": "2 lavadoras · 3 secadoras · tanque · bancada"
+        },
+        {
+            "name": "Easy market (pay-per-use)",
+            "icon": "shopping-cart",
+            "items": "Ambiente decorado · produtos e geladeiras por conta do operador"
+        },
+        {
+            "name": "Delivery",
+            "icon": "package",
+            "items": "Armário locker · geladeira expositora · carrinho 140 L · estante"
+        },
+        {
+            "name": "Oficina",
+            "icon": "wrench",
+            "items": "Bancada com tanque inox · painel de ferramentas · estante · mesa"
+        },
+        {
+            "name": "Praça da fogueira",
+            "icon": "flame-kindling",
+            "items": "Lareira · bancos · poltronas · mesas laterais"
+        },
+        {
+            "name": "Horta, piquenique e redário",
+            "icon": "sprout",
+            "items": "Horta · 2 mesas de madeira com bancos · 2 redes"
+        },
+        {
+            "name": "Bicicletário",
+            "icon": "bike",
+            "items": "Ganchos para bicicleta"
+        }
+    ],
+    "checklist": [
+        {
+            "group": "Antes de ir",
+            "items": [
+                "Confirmar quem vai (titular do contrato ou procurador com procuração)",
+                "Se levar engenheiro/arquiteto: contrato de prestação de serviços",
+                "Levar documento com foto, trena, nível (ou app), carregador de celular para testar tomadas",
+                "Imprimir ou abrir as plantas e o Memorial Descritivo"
+            ]
+        },
+        {
+            "group": "Hidráulica",
+            "items": [
+                "Abrir todas as torneiras: pressão, vazamento e água quente/fria",
+                "Dar descarga e checar se a caixa acoplada para de encher",
+                "Jogar água nos ralos do banheiro, área de serviço e terraço: escoamento e caimento",
+                "Verificar sifões e flexíveis embaixo da pia e do lavatório",
+                "Conferir o registro geral e os registros de cada ambiente"
+            ]
+        },
+        {
+            "group": "Elétrica",
+            "items": [
+                "Testar todas as tomadas (110V) com o carregador",
+                "Testar interruptores e pontos de luz",
+                "Identificar a tomada de circuito dedicado (micro-ondas/geladeira)",
+                "Ponto 220V do chuveiro elétrico (se aplicável)",
+                "Quadro de distribuição: disjuntores identificados",
+                "Exaustor do banheiro ligando com a luz",
+                "Pontos de TV (sala e dormitório)"
+            ]
+        },
+        {
+            "group": "Acabamentos",
+            "items": [
+                "Piso laminado dos dormitórios: riscos, desníveis e rodapés",
+                "Cerâmicas: peças trincadas, ocas (bater de leve) e rejunte",
+                "Paredes e teto: pintura, manchas, fissuras",
+                "Bancada da cozinha e tanque: fixação e trincas",
+                "Louças: bacia e lavatório sem trincas"
+            ]
+        },
+        {
+            "group": "Esquadrias e portas",
+            "items": [
+                "Janelas abrem e fecham sem esforço; trincos funcionando",
+                "Vidros sem riscos ou trincas (banheiro com vidro fantasia)",
+                "Porta de entrada e portas internas: alinhamento, fechadura e chaves",
+                "Porta e gradil do terraço (se houver)",
+                "Peitoris e vedação das janelas"
+            ]
+        },
+        {
+            "group": "Gás (unidades a gás)",
+            "items": [
+                "Ponto para aquecedor e localização do medidor",
+                "Ponto de gás do fogão"
+            ]
+        },
+        {
+            "group": "Para finalizar",
+            "items": [
+                "Fotografar e anotar todos os problemas no termo de vistoria",
+                "Pedir cópia do termo assinado",
+                "Anotar o prazo para os reparos (até 45 dias se reprovada)"
+            ]
+        }
+    ],
+    "glossary": [
+        {
+            "term": "AGI",
+            "def": "Assembleia Geral de Instalação. É a primeira assembleia, que institui o condomínio, elege o síndico e aprova o orçamento. A cobrança do condomínio começa depois dela."
+        },
+        {
+            "term": "Habite-se",
+            "def": "Certificado de Conclusão emitido pela Prefeitura atestando que a obra foi concluída conforme o projeto aprovado. O nosso saiu em 21/10/2026."
+        },
+        {
+            "term": "AVCB",
+            "def": "Auto de Vistoria do Corpo de Bombeiros. Precisa ser renovado periodicamente. Fechar varandas com vidro pode impedir a renovação."
+        },
+        {
+            "term": "Patrimônio de afetação",
+            "def": "Regime que separa o dinheiro e os bens desta obra do restante da construtora, protegendo os compradores. É fiscalizado pela Comissão de Representantes."
+        },
+        {
+            "term": "Carência (180 dias)",
+            "def": "Tolerância prevista em contrato para atrasar a entrega sem penalidade. A nossa vai até 29/04/2027."
+        },
+        {
+            "term": "Taxa de obra / juros de obra",
+            "def": "Encargo cobrado pela Caixa durante a construção, em financiamentos na planta. Termina com a entrega e a averbação do Habite-se."
+        },
+        {
+            "term": "Alvenaria estrutural",
+            "def": "Sistema em que as paredes sustentam o prédio, sem pilares e vigas. Por isso não se pode quebrar, abrir vãos nem fazer rasgos."
+        },
+        {
+            "term": "Fração ideal",
+            "def": "Parte do terreno e das áreas comuns que pertence a cada unidade. Define o peso do voto e o valor do rateio do condomínio."
+        },
+        {
+            "term": "ART / RRT",
+            "def": "Anotação (engenheiro) ou Registro (arquiteto) de Responsabilidade Técnica. É exigida para reformas relevantes."
+        },
+        {
+            "term": "HIS-2",
+            "def": "Habitação de Interesse Social, faixa 2: famílias com renda entre R$ 2.994 e R$ 5.988 (valores de 2019)."
+        },
+        {
+            "term": "Pay-per-use",
+            "def": "Serviço pago por uso, como a lavanderia e o easy market, operado por empresa terceirizada."
+        },
+        {
+            "term": "PCD / PNE",
+            "def": "Pessoa com Deficiência / Portador de Necessidades Especiais. São as unidades e os espaços adaptados conforme a NBR 9050."
+        },
+        {
+            "term": "Síndico",
+            "def": "Administrador e representante legal do condomínio, eleito em assembleia para mandato de 2 anos. Pode ser morador ou profissional de fora."
+        },
+        {
+            "term": "Subsíndico",
+            "def": "Morador eleito para substituir o síndico em faltas e impedimentos. Mandato de 2 anos, sem remuneração."
+        },
+        {
+            "term": "Conselho Consultivo",
+            "def": "Grupo de 3 moradores efetivos e 3 suplentes que examina as contas todo mês, dá parecer sobre o orçamento e assessora o síndico."
+        },
+        {
+            "term": "Administradora",
+            "def": "Empresa contratada para o trabalho de escritório do condomínio: boletos, cobrança, contabilidade, folha de pagamento e assembleias. No primeiro biênio, é a OMA."
+        },
+        {
+            "term": "Regulamento Interno",
+            "def": "Regras do dia a dia do condomínio (reservas, mudanças, horários, convidados, animais). Complementa a Convenção e é aprovado ou alterado por maioria simples em assembleia."
+        }
+    ],
+    "doc_meta": {
+        "1haD54wduRBM79dAGbeU9NN4ueh524H73": {
+            "title": "Memorial Descritivo de Clientes",
+            "description": "O que será entregue em cada ambiente do apartamento e das áreas comuns.",
+            "doc_type": "Oficial",
+            "doc_date": "02/10/2023"
+        },
+        "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ": {
+            "title": "Convenção de Condomínio",
+            "description": "Regras de uso, despesas, assembleias, vagas, penalidades e administração.",
+            "doc_type": "Oficial",
+            "doc_date": "Registrada"
+        },
+        "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7": {
+            "title": "Habite-se (Certificado de Conclusão Total)",
+            "description": "Nº 72969-26-SP-CCE, emitido pela Prefeitura de São Paulo.",
+            "doc_type": "Oficial",
+            "doc_date": "21/10/2026"
+        },
+        "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o": {
+            "title": "Perguntas e Respostas Cury",
+            "description": "13 respostas formais da Cury sobre vistoria, AGI, chaves e pendências.",
+            "doc_type": "Oficial",
+            "doc_date": "08/2026"
+        },
+        "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB": {
+            "title": "Comunicado 1/3: histórico, prazos e obra",
+            "description": "Prazos contratuais, carência de 180 dias, taxa de obra e evolução.",
+            "doc_type": "Comissão",
+            "doc_date": "2026"
+        },
+        "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa": {
+            "title": "Comunicado 2/3: informações técnicas",
+            "description": "Medidas, elétrica, gás, ventilação, reformas, garantia.",
+            "doc_type": "Comissão",
+            "doc_date": "2026"
+        },
+        "1fmD7Ct2ofgkIGLUld3krUsf4ipz7OZbv": {
+            "title": "Comunicado 3/3: vistoria e indicações",
+            "description": "Procedimentos de vistoria e planilha de fornecedores.",
+            "doc_type": "Comissão",
+            "doc_date": "2026"
+        },
+        "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o": {
+            "title": "Informações da visita à obra",
+            "description": "Ligações de água, luz e gás, pendências finais e previsão de vistorias.",
+            "doc_type": "Comissão",
+            "doc_date": "05/11/2026"
+        },
+        "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u": {
+            "title": "Resumo da vistoria da obra (07/08)",
+            "description": "Medidas das paredes, modificações permitidas, ralos e procedimentos.",
+            "doc_type": "Comissão",
+            "doc_date": "07/08"
+        },
+        "15LQriDDFWythWq1FG5ZLmwqjixfJW0cE": {
+            "title": "ATA da Comissão de Representantes",
+            "description": "Eleição dos membros do Patrimônio de Afetação (registrada em cartório).",
+            "doc_type": "Oficial",
+            "doc_date": "13/03/2024"
+        },
+        "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn": {
+            "title": "Book de lançamento",
+            "description": "Ficha técnica, plantas, localização e lista de lazer.",
+            "doc_type": "Comercial",
+            "doc_date": "10/2023"
+        },
+        "1sDsPy0aB9Yod5IMm5rMc_CyWMS3fhR7G": {
+            "title": "Cury Chega Mais: regulamento",
+            "description": "Regras do programa de benefícios para quem paga em dia.",
+            "doc_type": "Oficial",
+            "doc_date": "2018–2023"
+        },
+        "1hx0xeP9tdHQtO3RSPLBWLGMSjntcshE3xMD48vyZR_I": {
+            "title": "Planilha de indicação de fornecedores",
+            "description": "Lista colaborativa: qualquer morador pode adicionar indicações.",
+            "doc_type": "Colaborativo",
+            "doc_date": "Atualização contínua"
+        },
+        "1WxWk9aXyhp9Vhhvd17tN2hpwl9ZL7wsa": {
+            "title": "Instruções da AGI (OMA)",
+            "description": "Datas, acesso ao portal, material de apoio e votação da Assembleia Geral de Instalação.",
+            "doc_type": "Oficial",
+            "doc_date": "11/2026"
+        },
+        "1ZYYOpseZwmEOxhpDZUV-soIorH4WlPzQ": {
+            "title": "Requisitos para síndico profissional (RFP Cury)",
+            "description": "Documentos exigidos de empresas candidatas a síndico na AGI.",
+            "doc_type": "Oficial",
+            "doc_date": "11/2026"
+        },
+        "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb": {
+            "title": "Comunicado Cury: instruções pré-assembleia",
+            "description": "Cronograma da AGI, candidaturas a síndico e conselho, e os próximos passos até a entrega das chaves.",
+            "doc_type": "Oficial",
+            "doc_date": "12/11/2026"
+        }
+    },
+    "updated_at": "13/11/2026",
+    "vendor_sheet_id": "1hx0xeP9tdHQtO3RSPLBWLGMSjntcshE3xMD48vyZR_I"
+}

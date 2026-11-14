@@ -1,0 +1,9 @@
+# Configuração local (contém a chave do Google e o hash da senha do painel)
+app/config.php
+
+# Banco local (é reconstruído a partir de content/ e state/)
+storage/*
+!storage/.htaccess
+
+# Site gerado (publicado pelo GitHub Actions)
+dist/

@@ -1,0 +1,13 @@
+{
+  "name": "guidoparque/central-duvidas",
+  "description": "Central de dúvidas do Guido Parque Nações Unidas",
+  "type": "project",
+  "require": {
+    "php": ">=8.0",
+    "smalot/pdfparser": "^2.11"
+  },
+  "config": {
+    "platform": { "php": "8.0.30" },
+    "optimize-autoloader": true
+  }
+}

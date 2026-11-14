@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Guido Parque Nações Unidas · Central de Dúvidas</title>
+  <meta name="description" content="Tire suas dúvidas sobre o empreendimento Guido Parque Nações Unidas: entrega das chaves, vistoria, apartamento, regras do condomínio e mais." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/svg+xml" href="img/favicon.svg" />
+  <!-- App instalável (PWA) -->
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Guido Parque" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0f1720" media="(prefers-color-scheme: dark)" />
+  <meta name="color-scheme" content="light dark" />
+  <script>
+    // Aplica o tema salvo antes de desenhar a página (evita "piscar" branco no modo escuro)
+    (function () {
+      try {
+        var t = localStorage.getItem("gp-theme");
+        if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t);
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Pular para o conteúdo</a>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="#" class="brand" aria-label="Início">
+        <img class="brand-logo" src="img/logo.svg" alt="Cury" width="99" height="32" />
+        <span class="brand-sep" aria-hidden="true"></span>
+        <span class="brand-text">
+          <strong>Guido Parque</strong>
+          <small>Nações Unidas</small>
+        </span>
+      </a>
+      <div class="top-search" role="search">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 0 1 5.96 12.06l4.24 4.24-1.42 1.42-4.24-4.24A7.5 7.5 0 1 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11Z"/></svg>
+        <input id="search-mini" class="search-input" type="search" autocomplete="off" placeholder="Buscar…" aria-label="Buscar dúvidas" tabindex="-1" />
+      </div>
+      <button type="button" class="theme-btn" id="theme-btn" aria-label="Tema: automático (segue o aparelho)" title="Tema: automático">
+        <svg class="ico" aria-hidden="true"><use href="img/icons.svg#i-monitor"/></svg>
+      </button>
+      <button type="button" class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="site-nav">
+        <svg class="ico" aria-hidden="true"><use href="img/icons.svg#i-menu"/></svg><span>Menu</span>
+      </button>
+      <nav class="nav" id="site-nav" aria-label="Seções">
+        <a href="#duvidas">Dúvidas</a>
+        <a href="#linha-do-tempo">Linha do tempo</a>
+        <a href="#lazer">Lazer</a>
+        <a href="#checklist">Checklist</a>
+        <a href="#fornecedores">Fornecedores</a>
+        <a href="#obra" class="nav-extra">Andamento da obra</a>
+        <a href="#galeria" class="nav-extra">Fotos e vídeos</a>
+        <a href="#glossario" class="nav-extra">Glossário</a>
+        <a href="#documentos">Documentos</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">Central de dúvidas dos proprietários</p>
+      <h1>Tudo sobre o <span>Guido Parque Nações Unidas</span> em um só lugar</h1>
+      <p class="hero-sub">Respostas reunidas a partir do Memorial Descritivo, da Convenção, dos comunicados da Comissão e das respostas oficiais da Cury.</p>
+
+      <div class="search-wrap" role="search">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 0 1 5.96 12.06l4.24 4.24-1.42 1.42-4.24-4.24A7.5 7.5 0 1 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11Z"/></svg>
+        <input id="search" class="search-input" type="search" autocomplete="off" placeholder="Pergunte algo: chaves, vistoria, 220V, ar-condicionado, vaga..." aria-label="Buscar dúvidas" />
+        <kbd class="search-kbd" aria-hidden="true">/</kbd>
+      </div>
+      <div class="chips" id="quick-chips" aria-label="Buscas rápidas"></div>
+    </div>
+  </section>
+
+  <main class="container" id="main" tabindex="-1">
+    <!-- STATUS -->
+    <section class="status-card" aria-labelledby="status-title">
+      <div class="status-head">
+        <span class="pulse" aria-hidden="true"></span>
+        <h2 id="status-title">Situação atual</h2>
+        <span class="status-date" id="status-date"></span>
+      </div>
+      <div class="status-grid" id="status-grid"></div>
+      <p class="status-note">Previsões de datas vêm de conversas com a equipe da obra e <strong>não são datas oficiais</strong>. Datas oficiais serão comunicadas pela Cury.</p>
+    </section>
+
+    <!-- ACOMPANHAMENTO DA OBRA (lido do site da Cury pelo cron) -->
+    <section class="obra-card" id="obra" aria-labelledby="obra-title" hidden></section>
+
+    <!-- AVISO SEM INTERNET -->
+    <div class="offline-bar" id="offline-bar" role="status" hidden>
+      <svg class="ico" aria-hidden="true"><use href="img/icons.svg#i-wifi-off"/></svg>
+      <span>Você está sem internet. Mostrando a última versão salva. O checklist continua funcionando; busca nos documentos, fotos e vídeos voltam quando a conexão voltar.</span>
+    </div>
+
+    <!-- INSTALAR COMO APP -->
+    <div class="install-card" id="install-card" hidden>
+      <span class="install-icon"><img src="img/icon-192.png" alt="" width="44" height="44" /></span>
+      <div class="install-text">
+        <strong>Instale no seu celular</strong>
+        <span id="install-hint">Abra como um app, direto da tela inicial, e use o checklist da vistoria até sem internet.</span>
+      </div>
+      <div class="install-actions">
+        <button type="button" class="btn" id="install-btn">
+          <svg class="ico" aria-hidden="true"><use href="img/icons.svg#i-download"/></svg> Instalar
+        </button>
+        <button type="button" class="btn btn-ghost" id="install-dismiss">Agora não</button>
+      </div>
+    </div>
+
+
+    <!-- NÚMEROS -->
+    <section class="stats" id="stats" aria-label="Números do empreendimento"></section>
+
+    <!-- FAQ -->
+    <section id="duvidas" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Perguntas frequentes</h2>
+          <p class="section-sub" id="result-count" aria-live="polite"></p>
+        </div>
+        <div class="legend">
+          <span class="badge badge-oficial">Oficial</span>
+          <span class="badge badge-informado">Informado em visita</span>
+          <span class="badge badge-pendente">Pendente</span>
+        </div>
+      </div>
+      <div class="filters" id="filters" role="group" aria-label="Filtrar por categoria"></div>
+      <div class="cat-select-wrap">
+        <label for="cat-select">Categoria</label>
+        <div class="cat-select">
+          <select id="cat-select"></select>
+          <svg class="ico" aria-hidden="true"><use href="img/icons.svg#i-layout-grid"/></svg>
+        </div>
+      </div>
+      <div class="gl-callout" id="gl-callout" hidden></div>
+      <div class="faq-grid" id="faq-grid" aria-busy="true">
+        <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+        <div class="skeleton"></div><div class="skeleton"></div>
+      </div>
+      <div class="empty" id="empty" hidden>
+        <p><strong>Nenhuma resposta encontrada.</strong></p>
+        <p>Tente outras palavras ou envie sua dúvida para a Comissão de Representantes, que leva as perguntas à Cury de forma organizada.</p>
+      </div>
+      <div class="doc-results" id="doc-results" hidden></div>
+      <div class="also" id="also" hidden></div>
+    </section>
+
+    <!-- LINHA DO TEMPO -->
+    <section id="linha-do-tempo" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Linha do tempo</h2>
+          <p class="section-sub">Do registro da incorporação até a entrega das chaves.</p>
+        </div>
+      </div>
+      <ol class="timeline" id="timeline"></ol>
+    </section>
+
+    <!-- LAZER -->
+    <section id="lazer" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Áreas de lazer e o que vem em cada uma</h2>
+          <p class="section-sub">Conforme o Memorial Descritivo. As áreas comuns são entregues mobiliadas e equipadas.</p>
+        </div>
+      </div>
+      <div class="amenity-grid" id="amenities"></div>
+    </section>
+
+    <!-- CHECKLIST -->
+    <section id="checklist" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Checklist da vistoria</h2>
+          <p class="section-sub">Marque os itens durante a vistoria. O progresso fica salvo neste navegador.</p>
+        </div>
+        <div class="checklist-actions">
+          <span class="progress-label" id="check-progress"></span>
+          <button class="btn btn-ghost" id="check-print" type="button">Imprimir</button>
+          <button class="btn btn-ghost" id="check-reset" type="button">Limpar</button>
+        </div>
+      </div>
+      <div class="progress"><div class="progress-bar" id="check-bar"></div></div>
+      <div class="checklist-grid" id="checklist-grid"></div>
+    </section>
+
+    <!-- FORNECEDORES -->
+    <section id="fornecedores" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Indicações de fornecedores</h2>
+          <p class="section-sub">Indicados por moradores na planilha colaborativa. Não há verificação nem endosso da Comissão.</p>
+        </div>
+        <a class="btn" id="vendor-sheet-link" href="#" target="_blank" rel="noopener">+ Indicar fornecedor</a>
+      </div>
+      <input id="vendor-search" class="vendor-search" type="search" placeholder="Filtrar por serviço: marcenaria, gesso, vistoria..." aria-label="Filtrar fornecedores" />
+      <div class="vendor-grid" id="vendors"></div>
+    </section>
+
+    <!-- GALERIA -->
+    <section id="galeria" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Fotos e vídeos da obra</h2>
+          <p class="section-sub" id="gallery-sub">Registros feitos pela Comissão nas visitas.</p>
+        </div>
+      </div>
+      <div class="gallery-bar">
+        <div class="album-tabs" id="album-tabs" role="tablist" aria-label="Álbuns"></div>
+        <div class="media-filter" id="media-filter" role="group" aria-label="Tipo de mídia"></div>
+      </div>
+      <div class="gallery" id="gallery"></div>
+      <div class="gallery-more"><button type="button" class="btn btn-ghost" id="gallery-more" hidden></button></div>
+    </section>
+
+    <!-- GLOSSÁRIO -->
+    <section id="glossario" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Glossário</h2>
+          <p class="section-sub">Siglas e termos que aparecem nos comunicados.</p>
+        </div>
+      </div>
+      <dl class="glossary" id="glossary"></dl>
+    </section>
+
+    <!-- DOCUMENTOS -->
+    <section id="documentos" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Documentos oficiais e informativos</h2>
+          <p class="section-sub">Fontes usadas para montar as respostas. Clique para ler aqui mesmo.</p>
+        </div>
+      </div>
+      <div class="doc-grid" id="docs"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p><strong>Aviso:</strong> este site é uma iniciativa informativa dos moradores e não é um canal oficial da Cury. Em caso de divergência, valem o contrato, o Memorial Descritivo, a Convenção e os comunicados oficiais da construtora.</p>
+      <p class="footer-meta">Informações atualizadas até <span id="updated-at"></span>. Novos arquivos do Drive são verificados automaticamente todos os dias.</p>
+    </div>
+  </footer>
+
+  <dialog id="lightbox" class="lightbox" aria-label="Visualizar foto ou vídeo">
+    <div class="lb-top">
+      <span class="lb-counter" id="lb-counter"></span>
+      <div class="lb-actions">
+        <a class="lb-btn" id="lb-drive" href="#" target="_blank" rel="noopener" title="Abrir no Google Drive">Drive ↗</a>
+        <button class="lb-btn lb-close" type="button" id="lb-close" aria-label="Fechar" autofocus>&times;</button>
+      </div>
+    </div>
+    <div class="lb-stage" id="lb-stage">
+      <div class="lb-spinner" aria-hidden="true"></div>
+      <img id="lb-img" alt="" hidden />
+      <iframe id="lb-video" title="Vídeo" allow="autoplay; fullscreen" allowfullscreen hidden></iframe>
+    </div>
+    <button class="lb-nav lb-prev" type="button" id="lb-prev" aria-label="Anterior">&#8249;</button>
+    <button class="lb-nav lb-next" type="button" id="lb-next" aria-label="Próxima">&#8250;</button>
+  </dialog>
+
+  <dialog id="viewer" class="viewer" aria-labelledby="viewer-title">
+    <div class="viewer-head">
+      <strong id="viewer-title"></strong>
+      <div class="viewer-actions">
+        <a id="viewer-download" class="btn btn-sm btn-ghost" href="#" rel="noopener"><svg class="ico" aria-hidden="true"><use href="img/icons.svg#i-download"/></svg> Baixar</a>
+        <a id="viewer-open" class="btn btn-sm btn-ghost" href="#" target="_blank" rel="noopener">Abrir no Drive ↗</a>
+        <button id="viewer-close" class="viewer-close" type="button" aria-label="Fechar">&times;</button>
+      </div>
+    </div>
+    <div class="viewer-body">
+      <div class="viewer-spinner" aria-hidden="true"><span></span>Carregando documento…</div>
+      <iframe id="viewer-frame" title="Visualização do documento" allow="autoplay; fullscreen" referrerpolicy="no-referrer"></iframe>
+    </div>
+  </dialog>
+
+  <button type="button" class="to-top" id="to-top" aria-label="Voltar ao topo" title="Voltar ao topo">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5l-7 7 1.41 1.41L11 8.83V20h2V8.83l4.59 4.58L19 12z"/></svg>
+  </button>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/pwa.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

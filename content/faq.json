@@ -1,0 +1,2224 @@
+[
+    {
+        "id": "data-entrega",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "Qual é o prazo de entrega do empreendimento?",
+        "a": "<p>O prazo contratual é <strong>31 de outubro de 2026</strong>. O contrato permite usar até <strong>180 dias de carência</strong>. Se todo esse prazo for usado, a data-limite é <strong>29 de abril de 2027</strong>.</p>\n<p>A Cury informou que o aviso sobre a carência tem caráter administrativo, preventivo e jurídico. O aviso não significa que todo o prazo será usado.</p>",
+        "tags": [
+            "prazo",
+            "carência",
+            "180 dias",
+            "atraso",
+            "data",
+            "contrato",
+            "entrega"
+        ],
+        "src": [
+            "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB"
+        ],
+        "sort": 0,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:01"
+    },
+    {
+        "id": "quando-chaves",
+        "cat": "entrega",
+        "status": "informado",
+        "q": "Quando vou receber as chaves?",
+        "a": "<p><strong>Sequência oficial</strong> (comunicado de 12/11/2026): AGI em 27/11, depois a vistoria da área comum pelo síndico eleito e, em seguida, <strong>vistoria e entrega das chaves</strong> com agendamento pela Central de Relacionamento da Cury.</p><p>Na visita de <strong>05/11/2026</strong>, o engenheiro responsável disse que a entrega deve acontecer <strong>até abril de 2027</strong>. A expectativa é que a maior parte das unidades seja entregue entre <strong>dezembro, janeiro e fevereiro</strong>.</p>\n<p>Oficialmente, a Cury diz que ainda <strong>não há data definida</strong>. A entrega das chaves começa depois da AGI, para clientes aptos financeiramente.</p>",
+        "tags": [
+            "chaves",
+            "data",
+            "previsão",
+            "quando",
+            "entrega",
+            "receber"
+        ],
+        "src": [
+            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o",
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o"
+        ],
+        "sort": 1,
+        "published": 1,
+        "updated_at": "2026-11-13 23:34:58"
+    },
+    {
+        "id": "chaves-apos-agi",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "A entrega das chaves acontece logo depois da AGI?",
+        "a": "<p>Logo depois, não. Há uma etapa no meio. Pelo comunicado de 12/11/2026:</p>\n<ol>\n<li>a <strong>AGI</strong> instala o condomínio (votação em 27/11);</li>\n<li>o <strong>síndico eleito vistoria e aceita a área comum</strong>;</li>\n<li>começam as <strong>vistorias das unidades junto com a entrega das chaves</strong>, para clientes aptos, com agendamento prévio pela Central de Relacionamento da Cury.</li>\n</ol>",
+        "tags": [
+            "AGI",
+            "assembleia",
+            "instalação",
+            "chaves"
+        ],
+        "src": [
+            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o"
+        ],
+        "sort": 2,
+        "published": 1,
+        "updated_at": "2026-11-13 23:34:57"
+    },
+    {
+        "id": "data-agi",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "Quando será a AGI (Assembleia Geral de Instalação)?",
+        "a": "<p>A AGI é a <strong>entrega oficial do empreendimento</strong> e será <strong>100% online</strong>, pela administradora <strong>OMA</strong>:</p>\n<ul>\n<li><strong>16/11/2026:</strong> a OMA envia por e-mail (remetente <strong>agi@oma.com.br</strong>) o <strong>acesso único</strong> à plataforma;</li>\n<li><strong>25/11/2026, a partir das 9h30:</strong> fica disponível o <strong>vídeo</strong> com o conteúdo completo da assembleia, em que um mestre de cerimônias apresenta a pauta. Separe um tempo para assistir do início ao fim;</li>\n<li><strong>25 e 26/11:</strong> material de apoio para consulta;</li>\n<li><strong>27/11/2026, das 10h às 20h:</strong> <strong>votação</strong> (síndico, subsíndico, conselho e demais pautas);</li>\n<li><strong>Resultado:</strong> divulgado no <strong>próximo dia útil</strong> após o encerramento.</li>\n</ul>\n<p>Veja <a href=\"#faq-como-participar-agi\">como participar</a> e <a href=\"#faq-candidatura-cargos\">como se candidatar</a>.</p>\n<p class=\"note\">A data de 30 de dezembro que aparecia no aplicativo da Cury era só uma previsão do sistema.</p>",
+        "tags": [
+            "AGI",
+            "assembleia",
+            "instalação",
+            "data",
+            "quando",
+            "27 de novembro",
+            "votação",
+            "OMA",
+            "30 de dezembro",
+            "aplicativo"
+        ],
+        "src": [
+            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
+            "1WxWk9aXyhp9Vhhvd17tN2hpwl9ZL7wsa",
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o"
+        ],
+        "sort": 3,
+        "published": 1,
+        "updated_at": "2026-11-13 23:34:57"
+    },
+    {
+        "id": "como-participar-agi",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "Como participar e votar na AGI?",
+        "a": "<ol>\n<li><strong>Acesso (16/11):</strong> você recebe por e-mail, do remetente <strong>agi@oma.com.br</strong>, o convite de acesso ao portal da OMA. Cadastre uma senha e faça o login. É <strong>um acesso por unidade</strong>.</li>\n<li><strong>Assista ao vídeo (a partir de 25/11, 9h30):</strong> ele apresenta a pauta e os pontos que serão votados.</li>\n<li><strong>Leia o material de apoio</strong> (ícone \"Documentos\"): edital de convocação, apresentação da administradora, <strong>previsão orçamentária de implantação</strong>, <strong>propostas das empresas concorrentes</strong> e perfil dos candidatos.</li>\n<li><strong>Registre presença:</strong> no ícone \"Assembleia\", clique em \"Acessar\".</li>\n<li><strong>Vote em 27/11, das 10h às 20h:</strong> em cada item, escolha a opção e clique em \"Registrar Voto\".</li>\n</ol>\n<p><strong>Suporte da OMA:</strong> (11) 3191-5000, de segunda a sexta, das 8h30 às 18h.</p>\n<p class=\"note\">Não recebeu o e-mail? Confira o spam e se o seu cadastro na Cury está atualizado. Pela Convenção, quem estiver em atraso com o condomínio pode participar, mas o voto não conta. Também é possível votar por procuração, desde que o procurador não seja o síndico nem membro do conselho.</p>",
+        "tags": [
+            "AGI",
+            "assembleia",
+            "votar",
+            "votação",
+            "participar",
+            "OMA",
+            "portal",
+            "login",
+            "senha",
+            "convite",
+            "presença",
+            "candidatos",
+            "procuração"
+        ],
+        "src": [
+            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
+            "1WxWk9aXyhp9Vhhvd17tN2hpwl9ZL7wsa",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 4,
+        "published": 1,
+        "updated_at": "2026-11-13 23:34:57"
+    },
+    {
+        "id": "canais-atendimento-cury",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "Quais são os canais de atendimento da Cury?",
+        "a": "<ul>\n<li><strong>App Cury Cliente</strong> (iOS e Android);</li>\n<li><strong>Portal do Cliente:</strong> <a href=\"https://cliente.cury.net\" target=\"_blank\" rel=\"noopener\">cliente.cury.net</a>;</li>\n<li><strong>WhatsApp com a Clara</strong>, a atendente virtual, <strong>24 horas</strong>;</li>\n<li><strong>Central de Relacionamento:</strong> SP <strong>(11) 3117-1300</strong> · RJ (21) 3543-6887;</li>\n<li><strong>Atendimento humano:</strong> das 9h às 16h, de segunda a sexta (exceto feriados).</li>\n</ul>\n<p>É pela Central de Relacionamento que a Cury vai <strong>agendar a vistoria e a entrega das chaves</strong>. <strong>Mantenha seus dados cadastrais atualizados</strong> para receber os comunicados e o acesso à AGI.</p>\n<p>A adesão ao <strong>Cury Chega Mais</strong> é feita em relacionamentocury.com.br.</p>",
+        "tags": [
+            "atendimento",
+            "contato",
+            "telefone",
+            "WhatsApp",
+            "Clara",
+            "app",
+            "aplicativo",
+            "portal",
+            "central de relacionamento",
+            "cadastro",
+            "Cury"
+        ],
+        "src": [
+            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
+            "1sDsPy0aB9Yod5IMm5rMc_CyWMS3fhR7G"
+        ],
+        "sort": 5,
+        "published": 1,
+        "updated_at": "2026-11-13 23:34:58"
+    },
+    {
+        "id": "requisitos-chaves",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "O que preciso ter em dia para receber as chaves?",
+        "a": "<ul>\n<li><strong>Vistoria da unidade aprovada</strong> e torre liberada.</li>\n<li><strong>Nenhuma pendência vencida</strong> com a construtora ou com o agente financeiro (Caixa), incluindo juros de obra, quando aplicável.</li>\n<li>Se comprou <strong>sem financiamento</strong>: estar quitado <strong>ou</strong> ter o contrato de alienação registrado.</li>\n</ul>",
+        "tags": [
+            "adimplência",
+            "pendência",
+            "requisito",
+            "liberação",
+            "apto",
+            "financeiro",
+            "quitado"
+        ],
+        "src": [
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o",
+            "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB",
+            "1fmD7Ct2ofgkIGLUld3krUsf4ipz7OZbv"
+        ],
+        "sort": 6,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:01"
+    },
+    {
+        "id": "renegociacao-chaves",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "Fiz uma renegociação com a Cury. Consigo receber as chaves mesmo com parcelas a vencer?",
+        "a": "<p>Sim. Basta que o <strong>acordo esteja sendo cumprido em dia</strong> e que <strong>não existam parcelas vencidas</strong> em aberto.</p>",
+        "tags": [
+            "renegociação",
+            "acordo",
+            "parcelas",
+            "dívida"
+        ],
+        "src": [
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o"
+        ],
+        "sort": 7,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:01"
+    },
+    {
+        "id": "despesas-quando",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "A partir de quando começo a pagar condomínio, luz e gás?",
+        "a": "<p>A cobrança do condomínio <strong>não começa durante a obra</strong>. Ela só começa <strong>depois da AGI</strong>. No cenário previsto pela Cury, condomínio, energia e demais encargos passam a ser do proprietário <strong>a partir do recebimento das chaves</strong>.</p>",
+        "tags": [
+            "condomínio",
+            "taxa",
+            "cobrança",
+            "energia",
+            "despesas",
+            "pagar",
+            "começa"
+        ],
+        "src": [
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o",
+            "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB"
+        ],
+        "sort": 8,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:01"
+    },
+    {
+        "id": "apos-chaves",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "Recebi as chaves. O que preciso fazer antes de me mudar?",
+        "a": "<ol>\n<li><strong>Agendar a mudança</strong> com a administradora do condomínio. A Convenção proíbe mudanças sem aviso prévio com data e hora.</li>\n<li><strong>Pedir a ligação de energia</strong> à Enel (instalação do medidor/ligação em seu nome).</li>\n<li>Se for reformar, pedir <strong>aprovação prévia do síndico</strong>, com ART/RRT e projeto, quando aplicável.</li>\n<li>Ler o <strong>Manual do Proprietário</strong>, entregue junto com as chaves, antes de furar paredes.</li>\n</ol>",
+        "tags": [
+            "mudança",
+            "mudar",
+            "Enel",
+            "energia",
+            "ligação",
+            "procedimentos",
+            "morar"
+        ],
+        "src": [
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o",
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 9,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:02"
+    },
+    {
+        "id": "kit-proprietario",
+        "cat": "entrega",
+        "status": "informado",
+        "q": "O que vem no kit do proprietário?",
+        "a": "<p>Na entrega das chaves haverá um kit com <strong>arejadores</strong>, <strong>componentes dos ralos</strong>, <strong>brindes</strong>, <strong>termo de retirada das chaves</strong> e outros materiais da entrega. O <strong>Manual do Proprietário</strong> também é entregue nesse momento.</p>",
+        "tags": [
+            "kit",
+            "brinde",
+            "arejador",
+            "manual"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u"
+        ],
+        "sort": 10,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:02"
+    },
+    {
+        "id": "manual-proprietario",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "O que tem no Manual do Proprietário?",
+        "a": "<p>O manual é entregue com as chaves. Ele traz a estrutura da unidade, as instalações elétricas e hidráulicas, a <strong>localização das tubulações</strong>, os <strong>pontos seguros para furar</strong>, as garantias, os prazos de assistência técnica e as manutenções necessárias. Também será entregue o Manual do Síndico.</p>\n<p>⚠️ Consulte o manual <strong>antes de furar paredes</strong> ou começar qualquer reforma.</p>",
+        "tags": [
+            "manual",
+            "garantia",
+            "furar",
+            "tubulação"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 11,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:02"
+    },
+    {
+        "id": "mudanca-regras",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "Como faço a mudança? Preciso agendar?",
+        "a": "<p><strong>Sim, é obrigatório agendar.</strong></p>\n<ul>\n<li>Depois de receber as chaves, agende a mudança com a <strong>administradora do condomínio</strong>, seguindo as regras do condomínio (resposta oficial da Cury).</li>\n<li>A Convenção <strong>proíbe mudanças sem aviso prévio</strong> à administração, com <strong>data e hora</strong> marcadas para a entrada ou saída de móveis.</li>\n<li>Móveis e volumes grandes no <strong>elevador ou na escada</strong> devem passar com o acompanhamento do zelador ou de alguém designado pela administração.</li>\n<li>Não é permitido deixar móveis nem objetos nas <strong>áreas comuns</strong>, nem temporariamente.</li>\n</ul>\n<p class=\"note\">Os horários e dias permitidos para mudança ainda serão definidos no <strong>Regulamento Interno</strong>. Como muitos moradores vão se mudar ao mesmo tempo, agende com antecedência.</p>",
+        "tags": [
+            "mudança",
+            "mudar",
+            "caminhão",
+            "móveis",
+            "agendar",
+            "agendamento",
+            "elevador",
+            "horário"
+        ],
+        "src": [
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 12,
+        "published": 1,
+        "updated_at": "2026-11-13 23:19:30"
+    },
+    {
+        "id": "quando-vistoria",
+        "cat": "vistoria",
+        "status": "oficial",
+        "q": "Quando começam as vistorias?",
+        "a": "<p>Pelo comunicado oficial de <strong>12/11/2026</strong>, as vistorias dos apartamentos começam <strong>depois da AGI</strong> (27/11) e da <strong>vistoria da área comum pelo síndico eleito</strong>. Elas acontecem <strong>junto com a entrega das chaves</strong>.</p>\n<ul>\n<li>O <strong>agendamento é feito pela Central de Relacionamento da Cury</strong>. Aguarde o contato e mantenha seus dados atualizados.</li>\n<li>A ordem segue os <strong>andares, de baixo para cima</strong>, com prioridade para o <strong>Cury Chega Mais</strong>.</li>\n<li>Só são chamadas as unidades <strong>adimplentes</strong>, com a taxa de obra em dia.</li>\n</ul>\n<p>Na visita de 05/11, a equipe da obra falava em começar entre o fim de novembro e o início de dezembro. Com a nova sequência, o mais provável é a partir de <strong>dezembro</strong>, mas ainda não há data oficial.</p>",
+        "tags": [
+            "vistoria",
+            "data",
+            "quando",
+            "início",
+            "Caixa"
+        ],
+        "src": [
+            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o",
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o"
+        ],
+        "sort": 13,
+        "published": 1,
+        "updated_at": "2026-11-13 23:34:57"
+    },
+    {
+        "id": "ordem-vistoria",
+        "cat": "vistoria",
+        "status": "oficial",
+        "q": "Em que ordem os proprietários são chamados para a vistoria?",
+        "a": "<p>A convocação segue a <strong>ordem dos andares, de baixo para cima</strong>. Clientes do programa <strong>Cury Chega Mais</strong> têm prioridade.</p>\n<p>A vistoria só é liberada para unidades <strong>adimplentes</strong>, com a <strong>taxa de obra</strong> em dia.</p>",
+        "tags": [
+            "ordem",
+            "convocação",
+            "andar",
+            "prioridade",
+            "Chega Mais",
+            "taxa de obra"
+        ],
+        "src": [
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o",
+            "1sDsPy0aB9Yod5IMm5rMc_CyWMS3fhR7G"
+        ],
+        "sort": 14,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:02"
+    },
+    {
+        "id": "vistoria-antes-agi",
+        "cat": "vistoria",
+        "status": "oficial",
+        "q": "A vistoria acontece antes ou depois da AGI?",
+        "a": "<p><strong>Depois da AGI.</strong> O comunicado oficial da Cury de <strong>12/11/2026</strong> definiu esta sequência:</p>\n<ol>\n<li><strong>AGI</strong> (votação em 27/11/2026), que instala o condomínio;</li>\n<li><strong>Vistoria e aceite da área comum</strong> pelo síndico eleito;</li>\n<li><strong>Vistorias dos apartamentos junto com a entrega das chaves</strong>, para clientes aptos, com agendamento feito pela Central de Relacionamento da Cury.</li>\n</ol>\n<p class=\"note\">Isso substitui a previsão de agosto/2026 (Perguntas e Respostas), quando a Cury indicava vistorias antes da AGI e sem entrega de chaves.</p>",
+        "tags": [
+            "vistoria",
+            "AGI",
+            "antes",
+            "depois"
+        ],
+        "src": [
+            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o"
+        ],
+        "sort": 15,
+        "published": 1,
+        "updated_at": "2026-11-13 23:34:57"
+    },
+    {
+        "id": "quem-vistoria",
+        "cat": "vistoria",
+        "status": "informado",
+        "q": "Quem pode participar da vistoria? Posso levar alguém?",
+        "a": "<ul>\n<li>O <strong>proprietário</strong> ou alguém que <strong>conste no contrato</strong>.</li>\n<li>Pode levar <strong>1 acompanhante</strong>, que não precisa constar no contrato.</li>\n<li>Se ninguém do contrato puder ir, é preciso uma <strong>procuração</strong>.</li>\n<li>Para levar um <strong>engenheiro ou arquiteto particular</strong>, leve o <strong>contrato de prestação de serviços</strong> com o profissional.</li>\n<li>Um engenheiro ou representante da Cury acompanha a vistoria.</li>\n</ul>",
+        "tags": [
+            "acompanhante",
+            "procuração",
+            "engenheiro",
+            "arquiteto",
+            "participar",
+            "levar"
+        ],
+        "src": [
+            "1fmD7Ct2ofgkIGLUld3krUsf4ipz7OZbv",
+            "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u"
+        ],
+        "sort": 16,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:02"
+    },
+    {
+        "id": "vistoria-reprovada",
+        "cat": "vistoria",
+        "status": "informado",
+        "q": "E se a minha vistoria for reprovada?",
+        "a": "<p>A Cury informou um prazo de <strong>até 45 dias</strong> para os ajustes. Segundo a equipe, normalmente o problema é resolvido antes disso.</p>",
+        "tags": [
+            "reprovada",
+            "reprovação",
+            "ajustes",
+            "45 dias",
+            "defeito"
+        ],
+        "src": [
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o"
+        ],
+        "sort": 17,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:02"
+    },
+    {
+        "id": "vistoria-atencao",
+        "cat": "vistoria",
+        "status": "informado",
+        "q": "Em que devo prestar atenção na vistoria?",
+        "a": "<p>Veja o <a href=\"#checklist\">checklist completo</a>. Os pontos destacados pela Comissão são:</p>\n<ul>\n<li><strong>Ralos:</strong> banheiro (perto do vaso), lavanderia (perto do tanque) e varanda. <em>Não há ralo na cozinha.</em></li>\n<li>Caimento da água, vazamentos e funcionamento das descargas e torneiras.</li>\n<li>Tomadas e disjuntores, incluindo a <strong>tomada de circuito dedicado</strong> (micro-ondas, geladeira, airfryer).</li>\n<li>Exaustor do banheiro, que liga junto com a luz.</li>\n<li>Esquadrias, vidros, portas e acabamentos.</li>\n</ul>",
+        "tags": [
+            "checklist",
+            "ralo",
+            "atenção",
+            "verificar",
+            "dicas"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 18,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:02"
+    },
+    {
+        "id": "vistoria-habitese",
+        "cat": "vistoria",
+        "status": "oficial",
+        "q": "A vistoria depende do Habite-se?",
+        "a": "<p>Não mais: o <strong>Habite-se foi emitido em 21/10/2026</strong>. Agora a vistoria depende de duas etapas: a <strong>AGI</strong> (27/11/2026) e a <strong>vistoria da área comum pelo síndico eleito</strong>. Depois disso, as vistorias das unidades acontecem junto com a entrega das chaves.</p>",
+        "tags": [
+            "habite-se",
+            "vistoria"
+        ],
+        "src": [
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7",
+            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb"
+        ],
+        "sort": 19,
+        "published": 1,
+        "updated_at": "2026-11-13 23:34:57"
+    },
+    {
+        "id": "habite-se",
+        "cat": "obra",
+        "status": "oficial",
+        "q": "O Habite-se já saiu?",
+        "a": "<p><strong>Sim!</strong> A Prefeitura de São Paulo emitiu o <strong>Certificado de Conclusão Total nº 72969-26-SP-CCE</strong>. Ele foi deferido em <strong>21/10/2026</strong> e publicado em <strong>22/10/2026</strong>.</p>\n<ul>\n<li>Cobre as <strong>744 unidades</strong> (área construída de 33.591,92 m²).</li>\n<li>Foi emitido com o AVCB do Corpo de Bombeiros (nº 862047) e o cadastro dos 12 elevadores.</li>\n<li>As unidades devem ser registradas no Cartório de Registro de Imóveis em até 1 ano.</li>\n</ul>",
+        "tags": [
+            "habite-se",
+            "certificado de conclusão",
+            "prefeitura",
+            "AVCB",
+            "bombeiros"
+        ],
+        "src": [
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
+        ],
+        "sort": 20,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:02"
+    },
+    {
+        "id": "andamento-obra",
+        "cat": "obra",
+        "status": "informado",
+        "q": "O que ainda falta terminar na obra?",
+        "a": "<p>Na visita de <strong>05/11/2026</strong>, faltavam:</p>\n<ul>\n<li>Aplicação da <strong>textura</strong>;</li>\n<li><strong>Paisagismo</strong>;</li>\n<li><strong>Salão de festas e academia</strong> (em fase de pintura e decoração).</li>\n</ul>\n<p>Cerca de <strong>80 profissionais</strong> da Cury trabalham na obra, ou cerca de 100 contando as empresas parceiras. Água, esgoto, energia (Enel) e gás já estão ligados.</p>",
+        "tags": [
+            "andamento",
+            "evolução",
+            "falta",
+            "obra",
+            "paisagismo",
+            "textura"
+        ],
+        "src": [
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o"
+        ],
+        "sort": 21,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:02"
+    },
+    {
+        "id": "percentual",
+        "cat": "obra",
+        "status": "informado",
+        "q": "Por que o percentual da obra é diferente no portal da Cury e na Caixa?",
+        "a": "<p>Há duas medições diferentes. A da <strong>Cury</strong> é mais detalhada e dividida por etapas. A da <strong>Caixa</strong> é mais ampla e serve para acompanhar o financiamento. Por isso os números podem ser diferentes sem que exista divergência no andamento. Em março/2026, a medição da Cury indicava cerca de <strong>67,7%</strong>.</p><p>Veja o <a href=\"#obra\">acompanhamento atualizado por etapa</a>, lido todos os dias do site da Cury.</p>",
+        "tags": [
+            "percentual",
+            "evolução",
+            "Caixa",
+            "portal",
+            "medição"
+        ],
+        "src": [
+            "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB"
+        ],
+        "sort": 22,
+        "published": 1,
+        "updated_at": "2026-11-13 23:22:21"
+    },
+    {
+        "id": "santo-amaro",
+        "cat": "obra",
+        "status": "informado",
+        "q": "O Guido Parque Santo Amaro, ao lado, já entregou. Isso vale para nós?",
+        "a": "<p><strong>Não.</strong> O Guido Parque Santo Amaro é um projeto <strong>totalmente independente</strong>. Cronograma, Habite-se, terceirizadas, vistorias e entrega de chaves podem ser bem diferentes. Comparar datas pode levar a conclusões erradas.</p>",
+        "tags": [
+            "Santo Amaro",
+            "vizinho",
+            "outro condomínio",
+            "comparação"
+        ],
+        "src": [
+            "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB"
+        ],
+        "sort": 23,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:03"
+    },
+    {
+        "id": "visitas-obra",
+        "cat": "obra",
+        "status": "oficial",
+        "q": "Posso visitar a obra?",
+        "a": "<p>Visitas individuais <strong>não são permitidas</strong>. A Cury agenda <strong>visitas coletivas</strong> com a Comissão de Representantes. O plano prevê visitas com cerca de 33%, 66% e entre 90% e 95% da obra. As informações de cada visita são repassadas no grupo.</p>",
+        "tags": [
+            "visita",
+            "obra",
+            "conhecer"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB"
+        ],
+        "sort": 24,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:03"
+    },
+    {
+        "id": "comissao",
+        "cat": "obra",
+        "status": "oficial",
+        "q": "O que é a Comissão de Representantes (Patrimônio de Afetação)?",
+        "a": "<p>São os proprietários eleitos em assembleia (11 a 13/03/2024, ata registrada em cartório em 01/04/2024) para acompanhar a obra até a conclusão. Pela Lei 4.591/64, a Comissão pode:</p>\n<ul>\n<li>fiscalizar a obra e verificar se o projeto e o memorial estão sendo cumpridos;</li>\n<li>receber da incorporadora relatórios trimestrais da obra e balancetes;</li>\n<li>aprovar mudanças de cronograma junto ao agente financeiro.</li>\n</ul>\n<p>Envie suas dúvidas para a Comissão. Ela as reúne e leva à Cury de forma organizada.</p>",
+        "tags": [
+            "comissão",
+            "patrimônio de afetação",
+            "representantes",
+            "ata",
+            "eleição"
+        ],
+        "src": [
+            "15LQriDDFWythWq1FG5ZLmwqjixfJW0cE",
+            "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB"
+        ],
+        "sort": 25,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:03"
+    },
+    {
+        "id": "terreno-vizinho",
+        "cat": "obra",
+        "status": "oficial",
+        "q": "O condomínio pode comprar o terreno vazio ao lado para fazer estacionamento?",
+        "a": "<p>A Cury <strong>não tem informações</strong> sobre o dono ou o uso futuro do terreno vizinho e não está negociando nada sobre ele. Se houver interesse, o assunto deve ser discutido entre os condôminos e a administração depois da instalação do condomínio.</p>",
+        "tags": [
+            "terreno",
+            "estacionamento",
+            "vizinho",
+            "vagas"
+        ],
+        "src": [
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o"
+        ],
+        "sort": 26,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:03"
+    },
+    {
+        "id": "terreno-reabilitado",
+        "cat": "obra",
+        "status": "oficial",
+        "q": "O terreno teve algum problema ambiental? É seguro para morar?",
+        "a": "<p>A Convenção (art. 82) informa que a incorporadora levantou os <strong>possíveis impactos na qualidade do solo e das águas subterrâneas devido ao uso anterior</strong> do terreno. O documento não detalha qual era esse uso.</p>\n<ul>\n<li>O imóvel <strong>já estava reabilitado para uso residencial</strong> pelos proprietários anteriores, com averbação na matrícula (Lei Estadual 13.577/2009) e <strong>Termo de Reabilitação para o Uso Declarado nº 0982/2018</strong>.</li>\n<li>O projeto foi submetido à <strong>CETESB</strong>. O Parecer Técnico nº 33101545, de 02/10/2022, concluiu que <strong>não eram necessárias investigações adicionais</strong> e que <strong>não havia impedimento para o uso residencial</strong>.</li>\n</ul>\n<p>Por causa disso, a Convenção prevê dois cuidados:</p>\n<ul>\n<li>É <strong>proibido perfurar poços</strong> para tirar água subterrânea sem autorização.</li>\n<li>A manutenção de <strong>espaços confinados</strong> (como reservatórios) deve seguir a norma NR-33.</li>\n</ul>",
+        "tags": [
+            "terreno",
+            "solo",
+            "contaminação",
+            "CETESB",
+            "reabilitação",
+            "ambiental",
+            "poço",
+            "água subterrânea",
+            "seguro"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 27,
+        "published": 1,
+        "updated_at": "2026-11-13 23:17:59"
+    },
+    {
+        "id": "alteracao-projeto",
+        "cat": "obra",
+        "status": "oficial",
+        "q": "A construtora podia mudar o projeto depois da compra?",
+        "a": "<p>Sim, dentro de limites previstos nos documentos:</p>\n<ul>\n<li><strong>Convenção (art. 65):</strong> até a entrega com o certificado de conclusão (Habite-se), a incorporadora podia alterar o projeto, inclusive o tamanho, a divisão e a quantidade de unidades e a implantação, sem consulta aos compradores. Também podia fazê-lo por exigência legal.</li>\n<li><strong>Procuração no contrato (art. 66):</strong> o comprador nomeou a incorporadora como procuradora, de forma irrevogável, para registrar essas alterações em cartório.</li>\n<li><strong>Memorial:</strong> materiais em falta no mercado podem ser <strong>substituídos por outros de qualidade equivalente</strong>, e as áreas comuns podem ter pequenas alterações técnicas ou estéticas.</li>\n<li><strong>Medidas:</strong> variação de até <strong>5%</strong> nas dimensões (art. 500 do Código Civil).</li>\n</ul>\n<p>O <strong>Habite-se foi emitido em 21/10/2026</strong> para as 744 unidades. O que for entregue diferente do <strong>Memorial Descritivo</strong> deve ser apontado na <strong>vistoria</strong>.</p>",
+        "tags": [
+            "projeto",
+            "alteração",
+            "mudança",
+            "planta",
+            "memorial",
+            "diferente",
+            "substituição",
+            "material"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
+        ],
+        "sort": 28,
+        "published": 1,
+        "updated_at": "2026-11-13 23:18:00"
+    },
+    {
+        "id": "localizacao",
+        "cat": "obra",
+        "status": "oficial",
+        "q": "Onde fica o empreendimento e o que tem por perto?",
+        "a": "<p><strong>Endereço:</strong> Avenida Guido Caloi, s/n, Santo Amaro, São Paulo/SP, CEP 05802-140.</p>\n<p><strong>Próximo a</strong> (segundo o material de lançamento):</p>\n<ul>\n<li><strong>Estação de metrô Santo Amaro</strong> (Linha 5-Lilás);</li>\n<li><strong>Terminal de ônibus Guido Caloi</strong> e <strong>Terminal Santo Amaro</strong>;</li>\n<li><strong>Shopping Fiesta</strong>, <strong>Assaí Atacadista</strong> e <strong>Poupatempo</strong>;</li>\n<li><strong>Universidade Cruzeiro do Sul</strong>.</li>\n</ul>\n<p><strong>Acesso fácil</strong> à Marginal Pinheiros, às avenidas Washington Luís, Guarapiranga, Santo Amaro e João Dias e ao Complexo Viário Nelson Paulino.</p>",
+        "tags": [
+            "endereço",
+            "localização",
+            "onde fica",
+            "metrô",
+            "ônibus",
+            "terminal",
+            "shopping",
+            "mercado",
+            "transporte",
+            "Santo Amaro"
+        ],
+        "src": [
+            "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn",
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
+        ],
+        "sort": 29,
+        "published": 1,
+        "updated_at": "2026-11-13 23:18:00"
+    },
+    {
+        "id": "tamanhos",
+        "cat": "apartamento",
+        "status": "oficial",
+        "q": "Quais são os tamanhos dos apartamentos?",
+        "a": "<p>Todos têm <strong>2 dormitórios</strong>, exceto as unidades adaptadas para PCD, que têm 1 dormitório. As áreas privativas vão de <strong>34,26 m² a 40,98 m²</strong>:</p>\n<ul>\n<li><strong>~34 m²</strong>: sem terraço (a maioria).</li>\n<li><strong>38,37 m² a 38,62 m²</strong>: com terraço.</li>\n<li><strong>40,76 m² a 40,98 m²</strong>: com terraço (final 11 das torres A e D).</li>\n</ul>\n<p>Podem existir variações técnicas de até 5% (art. 500 do Código Civil).</p>",
+        "tags": [
+            "metragem",
+            "m²",
+            "tamanho",
+            "área",
+            "planta",
+            "terraço",
+            "varanda"
+        ],
+        "src": [
+            "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 30,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:03"
+    },
+    {
+        "id": "terraco-finais",
+        "cat": "apartamento",
+        "status": "oficial",
+        "q": "Quais finais de apartamento têm terraço (varanda)?",
+        "a": "<ul>\n<li><strong>Torres A (1) e D (4):</strong> finais <strong>05, 06, 11, 17 e 18</strong>.</li>\n<li><strong>Torres B (2) e C (3):</strong> finais <strong>04, 05, 12 e 13</strong>.</li>\n</ul>",
+        "tags": [
+            "terraço",
+            "varanda",
+            "final",
+            "sacada"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 31,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:03"
+    },
+    {
+        "id": "torres-unidades",
+        "cat": "apartamento",
+        "status": "oficial",
+        "q": "Quantos apartamentos e elevadores tem cada torre?",
+        "a": "<table class=\"mini-table\">\n<thead><tr><th>Torre</th><th>Unidades</th><th>Por andar</th><th>Elevadores</th></tr></thead>\n<tbody>\n<tr><td>A (1)</td><td>216</td><td>22 (térreo 18)</td><td>4</td></tr>\n<tr><td>B (2)</td><td>156</td><td>16 (térreo 12)</td><td>2</td></tr>\n<tr><td>C (3)</td><td>156</td><td>16 (térreo 12)</td><td>2</td></tr>\n<tr><td>D (4)</td><td>216</td><td>22 (térreo 18)</td><td>4</td></tr>\n</tbody>\n</table>\n<p>Total: <strong>744 unidades</strong>. Cada torre tem térreo + 9 pavimentos.</p>",
+        "tags": [
+            "torre",
+            "elevador",
+            "unidades",
+            "andar",
+            "quantidade"
+        ],
+        "src": [
+            "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
+        ],
+        "sort": 32,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:04"
+    },
+    {
+        "id": "pcd",
+        "cat": "apartamento",
+        "status": "oficial",
+        "q": "Onde ficam as unidades adaptadas para PCD?",
+        "a": "<p>São <strong>23 unidades</strong> de 1 dormitório, adaptadas conforme a NBR 9050:</p>\n<ul>\n<li><strong>Torre B:</strong> final 11, do térreo ao 9º andar, e final 14, do térreo ao 2º andar.</li>\n<li><strong>Torre C:</strong> final 11, do térreo ao 9º andar.</li>\n</ul>\n<p>O banheiro tem barras de apoio e assento para chuveiro.</p>",
+        "tags": [
+            "PCD",
+            "PNE",
+            "acessibilidade",
+            "deficiência",
+            "adaptado"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 33,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:04"
+    },
+    {
+        "id": "medidas-paredes",
+        "cat": "apartamento",
+        "status": "informado",
+        "q": "Quais as medidas das paredes para TV e sofá?",
+        "a": "<p><strong>Apartamento de 34 m² (sem varanda):</strong></p>\n<ul><li>Sala: parede da TV ≈ <strong>1,30 m</strong>; parede do sofá ≈ <strong>2,00 m</strong></li><li>Quarto de casal: parede da TV ≈ <strong>2,00 m</strong></li></ul>\n<p><strong>Apartamento de 38 m² (com varanda):</strong></p>\n<ul><li>Sala: parede da TV ≈ <strong>1,60 m</strong>; parede do sofá ≈ <strong>1,65 m</strong></li><li>Quarto de casal: parede da TV ≈ <strong>1,90 m</strong></li><li>Quarto de solteiro: parede da TV ≈ <strong>1,25 m</strong></li><li>Balcão entre cozinha e sala: ≈ <strong>0,67 m</strong></li></ul>\n<p class=\"note\">Use essas medidas só como referência. Confirme na vistoria antes de encomendar móveis planejados.</p>",
+        "tags": [
+            "medida",
+            "parede",
+            "TV",
+            "sofá",
+            "móveis",
+            "planejados",
+            "marcenaria",
+            "balcão"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u"
+        ],
+        "sort": 34,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:04"
+    },
+    {
+        "id": "pe-direito",
+        "cat": "apartamento",
+        "status": "informado",
+        "q": "Qual é o pé-direito?",
+        "a": "<p>O pé-direito padrão é de cerca de <strong>2,60 m</strong>. No <strong>térreo</strong>, varia entre cerca de <strong>2,80 m e 2,90 m</strong>.</p>",
+        "tags": [
+            "pé-direito",
+            "altura",
+            "teto"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 35,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:04"
+    },
+    {
+        "id": "acabamentos",
+        "cat": "apartamento",
+        "status": "oficial",
+        "q": "Como o apartamento é entregue? Tem piso em todos os cômodos?",
+        "a": "<table class=\"mini-table\">\n<thead><tr><th>Ambiente</th><th>Piso</th><th>Paredes / teto</th></tr></thead>\n<tbody>\n<tr><td>Sala</td><td>Laje acabada</td><td>Pintura sobre gesso; textura ou pintura no teto</td></tr>\n<tr><td>Dormitórios</td><td><strong>Piso laminado</strong></td><td>Pintura sobre gesso</td></tr>\n<tr><td>Cozinha</td><td>Laje acabada</td><td>Barrado cerâmico sobre a bancada; bancada com cuba inox, mármore sintético ou granito</td></tr>\n<tr><td>Área de serviço</td><td>Cerâmica</td><td>Cerâmica em todas as paredes; tanque</td></tr>\n<tr><td>Banheiro</td><td>Cerâmica</td><td>Cerâmica no box e sobre o lavatório; forro de gesso</td></tr>\n<tr><td>Terraço</td><td>Cerâmica</td><td>Textura da fachada; gradil de ferro</td></tr>\n</tbody>\n</table>\n<p>Segundo o Memorial, a <strong>sala e a cozinha</strong> são entregues em <strong>laje acabada</strong>, sem revestimento. Na visita de nov/2026, foi informado o revestimento <strong>Eliane 45×45 cm, cor gelo/cinza</strong>. Todas as unidades têm o mesmo padrão e a mesma cor.</p>",
+        "tags": [
+            "piso",
+            "acabamento",
+            "laminado",
+            "cerâmica",
+            "revestimento",
+            "Eliane",
+            "entregue",
+            "laje"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn",
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o",
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 36,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:04"
+    },
+    {
+        "id": "persianas-janelas",
+        "cat": "apartamento",
+        "status": "informado",
+        "q": "As janelas vêm com persiana? O banheiro tem janela?",
+        "a": "<ul>\n<li>Todas as unidades têm janela na sala. As janelas <strong>não vêm com persiana</strong>.</li>\n<li>As esquadrias são de alumínio com vidro liso incolor. No banheiro, o vidro é do tipo fantasia.</li>\n<li>Os banheiros <strong>não têm janela</strong>: usam <strong>ventilação mecânica</strong> (exaustor/\"vento kit\").</li>\n<li>A iluminação natural varia conforme a torre, o andar, a posição e a orientação solar.</li>\n</ul>",
+        "tags": [
+            "janela",
+            "persiana",
+            "banheiro",
+            "ventilação",
+            "exaustor",
+            "iluminação",
+            "sol"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 37,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:04"
+    },
+    {
+        "id": "exaustor",
+        "cat": "apartamento",
+        "status": "informado",
+        "q": "O exaustor do banheiro precisa ligar junto com a luz?",
+        "a": "<p>Na entrega, o exaustor liga <strong>junto com a luz</strong> do banheiro. Um eletricista pode <strong>separar os circuitos</strong>, desde que siga as regras técnicas.</p>",
+        "tags": [
+            "exaustor",
+            "banheiro",
+            "luz",
+            "ventilação"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 38,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:04"
+    },
+    {
+        "id": "acustica",
+        "cat": "apartamento",
+        "status": "pendente",
+        "q": "Qual é o desempenho acústico e térmico das janelas e paredes?",
+        "a": "<p>Segundo a Cury, os caixilhos e materiais passam por ensaios e atendem à norma de acústica, dentro das tolerâncias. Ainda <strong>não foram informados</strong>:</p>\n<ul><li>o nível exato de desempenho acústico;</li><li>a especificação completa dos vidros;</li><li>o desempenho térmico.</li></ul>",
+        "tags": [
+            "acústica",
+            "barulho",
+            "ruído",
+            "térmico",
+            "vidro",
+            "isolamento"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 39,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:04"
+    },
+    {
+        "id": "incendio",
+        "cat": "apartamento",
+        "status": "informado",
+        "q": "Tem detector de fumaça no apartamento?",
+        "a": "<p><strong>Não.</strong> O sistema de detecção de incêndio fica nas áreas comuns (corredores, escadas e circulações). As escadas das <strong>torres 1 e 4</strong> têm <strong>pressurização por ventiladores</strong>. As das <strong>torres 2 e 3</strong> têm ventilação natural por caixilhos.</p>",
+        "tags": [
+            "incêndio",
+            "fumaça",
+            "detector",
+            "escada",
+            "pressurização",
+            "segurança"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 40,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:05"
+    },
+    {
+        "id": "tv-interfone",
+        "cat": "apartamento",
+        "status": "oficial",
+        "q": "Tem ponto de TV e interfone?",
+        "a": "<ul>\n<li><strong>TV:</strong> 1 ponto em um dormitório e 1 na sala, com tubulação seca para TV a cabo (contratação por conta do morador).</li>\n<li><strong>Interfone:</strong> sistema eletrônico <strong>sem fio</strong> que liga a portaria ao <strong>telefone fixo ou celular</strong> do proprietário. Não inclui aparelhos.</li>\n<li>Os portões são automatizados, com controle na guarita. <strong>Não</strong> são entregues controles individuais.</li>\n</ul>",
+        "tags": [
+            "TV",
+            "antena",
+            "cabo",
+            "interfone",
+            "portão",
+            "controle",
+            "internet"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 41,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:05"
+    },
+    {
+        "id": "cozinha-coifa",
+        "cat": "apartamento",
+        "status": "oficial",
+        "q": "Posso instalar coifa? Tem ralo na cozinha?",
+        "a": "<ul>\n<li><strong>Não há infraestrutura para coifa.</strong> Há ponto elétrico para <strong>depurador de ar</strong>.</li>\n<li><strong>Não há ralo na cozinha.</strong> Só o banheiro e a área de serviço são impermeabilizados, então evite lavar a cozinha com balde.</li>\n<li>A Cury recomenda fogão de <strong>4 bocas</strong>.</li>\n</ul>",
+        "tags": [
+            "coifa",
+            "depurador",
+            "ralo",
+            "cozinha",
+            "fogão",
+            "impermeabilização"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 42,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:05"
+    },
+    {
+        "id": "decorado-diferente",
+        "cat": "apartamento",
+        "status": "oficial",
+        "q": "O apartamento será igual ao decorado e às imagens de venda?",
+        "a": "<p><strong>Não necessariamente.</strong> O Memorial Descritivo e o material de vendas avisam que:</p>\n<ul>\n<li><strong>Quadros de luz, tomadas, interruptores e registros</strong> podem ficar em <strong>locais diferentes</strong> do apartamento modelo do estande.</li>\n<li><strong>Móveis, equipamentos e decoração</strong> do decorado são ilustrativos e <strong>não fazem parte do contrato</strong>.</li>\n<li>Layouts, cores, paginação de pisos, vegetação e as imagens e maquetes são <strong>ilustrativos</strong>. As áreas comuns são entregues conforme o Memorial, e a vegetação é plantada em mudas.</li>\n<li>As medidas podem variar até <strong>5%</strong>.</li>\n</ul>\n<p class=\"note\">Antes de encomendar móveis planejados, <strong>confira as medidas e as posições dos pontos elétricos na vistoria</strong>.</p>",
+        "tags": [
+            "decorado",
+            "apartamento modelo",
+            "imagem",
+            "maquete",
+            "ilustrativo",
+            "tomada",
+            "posição",
+            "diferente",
+            "planejados"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn"
+        ],
+        "sort": 43,
+        "published": 1,
+        "updated_at": "2026-11-13 23:18:00"
+    },
+    {
+        "id": "voltagem",
+        "cat": "instalacoes",
+        "status": "oficial",
+        "q": "As tomadas são 110V ou 220V?",
+        "a": "<p>Todas as tomadas são <strong>110V</strong>. O <strong>único ponto 220V</strong> é o do chuveiro elétrico, nas unidades que têm chuveiro elétrico.</p>\n<ul>\n<li><strong>Não é possível converter tomadas para 220V</strong>, o que inviabiliza o fogão de indução.</li>\n<li>Não há ponto 220V específico para lava e seca.</li>\n<li>O ponto do forno embutido é 110V.</li>\n<li>Há uma tomada de <strong>circuito dedicado</strong> (tomada preta no quadro) para micro-ondas, geladeira ou airfryer.</li>\n</ul>",
+        "tags": [
+            "110V",
+            "220V",
+            "voltagem",
+            "tomada",
+            "indução",
+            "lava e seca",
+            "elétrica",
+            "disjuntor"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u"
+        ],
+        "sort": 44,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:05"
+    },
+    {
+        "id": "forno-eletrico",
+        "cat": "instalacoes",
+        "status": "informado",
+        "q": "Posso instalar forno elétrico?",
+        "a": "<p>A equipe da obra <strong>não recomenda</strong> forno elétrico, por causa da capacidade elétrica prevista para a unidade.</p>",
+        "tags": [
+            "forno",
+            "elétrico",
+            "embutido",
+            "cozinha"
+        ],
+        "src": [
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o"
+        ],
+        "sort": 45,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:05"
+    },
+    {
+        "id": "chuveiro",
+        "cat": "instalacoes",
+        "status": "informado",
+        "q": "Meu chuveiro é a gás ou elétrico?",
+        "a": "<ul>\n<li><strong>Apartamentos do meio e unidades PCD:</strong> chuveiro <strong>elétrico</strong> (único ponto 220V).</li>\n<li><strong>Apartamentos de ponta e de quina:</strong> aquecimento a <strong>gás</strong>.</li>\n</ul>\n<p>A Cury <strong>não fornece</strong> o chuveiro nem o aquecedor a gás. A indicação inicial é um aquecedor de <strong>até 15 litros</strong>, a confirmar no manual entregue com as chaves.</p>",
+        "tags": [
+            "chuveiro",
+            "gás",
+            "aquecedor",
+            "elétrico",
+            "água quente",
+            "15 litros"
+        ],
+        "src": [
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o",
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 46,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:05"
+    },
+    {
+        "id": "gas-individual",
+        "cat": "instalacoes",
+        "status": "informado",
+        "q": "O gás é individualizado?",
+        "a": "<p>Em nov/2026, os <strong>medidores de gás individuais já estavam instalados</strong> e o gás estava ligado com medidor definitivo. A <strong>forma de cobrança</strong> (individual ou rateio) será decidida <strong>em assembleia</strong>.</p>\n<p>Antes disso, a informação era de que o rateio seria feito pela administradora, conforme o tipo de unidade.</p>",
+        "tags": [
+            "gás",
+            "medidor",
+            "individualizado",
+            "rateio",
+            "cobrança",
+            "Comgás"
+        ],
+        "src": [
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o",
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 47,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:05"
+    },
+    {
+        "id": "energia",
+        "cat": "instalacoes",
+        "status": "informado",
+        "q": "Como funciona a conta de luz?",
+        "a": "<p>A energia é <strong>individual</strong>. Depois de receber as chaves, peça à <strong>Enel</strong> a instalação do medidor e a ligação em seu nome. A Enel já está ligada no empreendimento desde nov/2026.</p>",
+        "tags": [
+            "energia",
+            "luz",
+            "Enel",
+            "medidor",
+            "conta"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o"
+        ],
+        "sort": 48,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:06"
+    },
+    {
+        "id": "agua",
+        "cat": "instalacoes",
+        "status": "pendente",
+        "q": "A água é individualizada?",
+        "a": "<p>O Memorial diz que será entregue <strong>\"previsão para medição individualizada\"</strong> de água. A individualização em si, com hidrômetros por unidade, ainda <strong>não foi confirmada</strong> e segue entre as perguntas pendentes.</p>",
+        "tags": [
+            "água",
+            "hidrômetro",
+            "individualizado",
+            "Sabesp",
+            "conta"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 49,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:06"
+    },
+    {
+        "id": "ar-condicionado",
+        "cat": "instalacoes",
+        "status": "oficial",
+        "q": "Posso instalar ar-condicionado?",
+        "a": "<p>O <strong>Memorial Descritivo</strong> diz que <strong>não há carga elétrica prevista</strong> para ar-condicionado nos apartamentos. Também diz que <strong>não será permitida</strong> a instalação de nenhum tipo de aparelho, nem por conta do proprietário.</p>\n<p>A <strong>Convenção</strong> só admitiria a instalação depois de uma consulta à Enel sobre energia adicional para o condomínio, com engenheiro, em local pré-definido e sem aparelho visível na fachada. Na prática, hoje <strong>não é possível</strong>.</p>\n<p>As áreas de lazer cobertas e a portaria têm previsão para split. Os aparelhos ficam por conta do condomínio.</p>",
+        "tags": [
+            "ar-condicionado",
+            "ar condicionado",
+            "split",
+            "climatização",
+            "calor",
+            "ventilador"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 50,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:06"
+    },
+    {
+        "id": "alexa",
+        "cat": "instalacoes",
+        "status": "informado",
+        "q": "Posso usar automação (Alexa, lâmpadas inteligentes)?",
+        "a": "<p>Sim. Assistentes virtuais e automação não dependem de infraestrutura da Cury. Qualquer mudança no sistema elétrico precisa respeitar as regras técnicas e a capacidade da rede, e pode exigir ART.</p>",
+        "tags": [
+            "Alexa",
+            "automação",
+            "smart",
+            "inteligente"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 51,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:06"
+    },
+    {
+        "id": "cftv",
+        "cat": "instalacoes",
+        "status": "oficial",
+        "q": "O condomínio vem com câmeras (CFTV)?",
+        "a": "<p><strong>Não.</strong> Os equipamentos de CFTV <strong>não fazem parte da entrega</strong>. O condomínio terá que comprá-los depois.</p>",
+        "tags": [
+            "câmera",
+            "CFTV",
+            "segurança",
+            "monitoramento"
+        ],
+        "src": [
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 52,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:06"
+    },
+    {
+        "id": "internet",
+        "cat": "instalacoes",
+        "status": "pendente",
+        "q": "Como vai funcionar a internet? Quais operadoras atendem?",
+        "a": "<p>O Memorial não fala de internet especificamente. O que está previsto é:</p>\n<ul>\n<li><strong>Tubulação seca</strong> (sem fios) para futura instalação de <strong>TV a cabo</strong>, com contratação <strong>por conta do morador ou do condomínio</strong>.</li>\n<li><strong>Pontos de TV:</strong> 1 na sala e 1 em um dormitório.</li>\n</ul>\n<p>As operadoras de internet costumam passar o cabo pelo mesmo caminho. Confirme com a operadora na hora de contratar.</p>\n<p><strong>Ainda não se sabe</strong> quais operadoras terão rede no empreendimento. Esse assunto deve ser tratado com a administradora depois da AGI.</p>\n<p>Na lista de <a href=\"#fornecedores\">fornecedores</a>, há a indicação de uma moradora que tem um provedor de internet: <strong>Giga Sul Telecom</strong>.</p>\n<p class=\"note\">Pela Convenção, é proibido instalar <strong>antenas individuais</strong> em locais visíveis (inclusive parabólica). Antenas <strong>coletivas</strong> são permitidas.</p>",
+        "tags": [
+            "internet",
+            "wi-fi",
+            "wifi",
+            "fibra",
+            "operadora",
+            "provedor",
+            "Vivo",
+            "Claro",
+            "TIM",
+            "TV a cabo",
+            "antena",
+            "banda larga"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1hx0xeP9tdHQtO3RSPLBWLGMSjntcshE3xMD48vyZR_I"
+        ],
+        "sort": 53,
+        "published": 1,
+        "updated_at": "2026-11-13 23:19:29"
+    },
+    {
+        "id": "derrubar-parede",
+        "cat": "reforma",
+        "status": "oficial",
+        "q": "Posso derrubar ou abrir uma parede?",
+        "a": "<p><strong>Não.</strong> O prédio é de <strong>alvenaria estrutural</strong>: as paredes sustentam o edifício. Ficam <strong>proibidos</strong> quebras, demolições, abertura de vãos e <strong>rasgos para novos pontos elétricos ou hidráulicos</strong>. Isso compromete a estrutura e faz <strong>perder a garantia</strong>.</p>",
+        "tags": [
+            "parede",
+            "derrubar",
+            "quebrar",
+            "estrutural",
+            "alvenaria",
+            "rasgo",
+            "vão"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 54,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:06"
+    },
+    {
+        "id": "o-que-pode-mudar",
+        "cat": "reforma",
+        "status": "informado",
+        "q": "O que posso mudar no apartamento?",
+        "a": "<p><strong>Em geral é possível</strong> (seguindo as regras do condomínio):</p>\n<ul><li>Retirar portas internas e algumas vedações que <strong>não sejam estruturais</strong>.</li><li>Trocar pisos e revestimentos, rebaixar o teto com gesso e remover a textura do teto.</li></ul>\n<p><strong>Precisa de aprovação do síndico ou da assembleia</strong> (às vezes com ART):</p>\n<ul><li>Mudar o revestimento da varanda ou retirar a porta da varanda.</li><li>Qualquer mudança que altere a fachada.</li><li>Fechadura digital, que deve seguir um padrão definido pelo condomínio.</li></ul>\n<p>Pela Convenção, reformas com mudança de alvenaria, pisos ou ramais hidráulicos precisam de <strong>aprovação prévia do Síndico e do Conselho Consultivo</strong>, com projeto e cronograma, e de assinatura de um <strong>termo de responsabilidade</strong>.</p>",
+        "tags": [
+            "reforma",
+            "modificar",
+            "piso",
+            "gesso",
+            "porta",
+            "personalizar",
+            "ART",
+            "aprovação"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 55,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:06"
+    },
+    {
+        "id": "fechar-varanda",
+        "cat": "reforma",
+        "status": "oficial",
+        "q": "Posso fechar a varanda com vidro?",
+        "a": "<p><strong>Não.</strong> O Memorial cita a Instrução Técnica 09/19 do Corpo de Bombeiros de SP, que <strong>proíbe fechamento em vidro nos terraços</strong>. O descumprimento pode impedir a renovação do AVCB do condomínio. Alterar a fachada também exige <strong>unanimidade</strong> em assembleia, segundo a Convenção.</p>",
+        "tags": [
+            "varanda",
+            "terraço",
+            "vidro",
+            "fechamento",
+            "envidraçamento",
+            "sacada",
+            "fachada"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 56,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:07"
+    },
+    {
+        "id": "horario-obra",
+        "cat": "reforma",
+        "status": "oficial",
+        "q": "Em que horário posso fazer obra no apartamento?",
+        "a": "<p>A Convenção <strong>proíbe obras</strong>:</p>\n<ul><li>entre <strong>20h e 8h</strong>;</li><li>aos <strong>sábados depois das 16h</strong>;</li><li>aos <strong>domingos e feriados</strong>, o dia todo.</li></ul>\n<p>O entulho deve ficar dentro da unidade até ser levado direto para a caçamba ou o veículo de transporte.</p>",
+        "tags": [
+            "horário",
+            "obra",
+            "barulho",
+            "sábado",
+            "domingo",
+            "entulho",
+            "reforma"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 57,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:07"
+    },
+    {
+        "id": "garantia",
+        "cat": "reforma",
+        "status": "oficial",
+        "q": "Como funciona a garantia? Perco a garantia se reformar?",
+        "a": "<p>A assistência técnica é pedida pelos <strong>canais de atendimento da Cury</strong>. Prazos e condições estão no Manual do Proprietário.</p>\n<p>Mudanças feitas pelo proprietário podem fazer <strong>perder a garantia</strong> do sistema ou do local modificado, principalmente quando a intervenção tem relação com o problema.</p>",
+        "tags": [
+            "garantia",
+            "assistência técnica",
+            "defeito",
+            "reparo"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u"
+        ],
+        "sort": 58,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:07"
+    },
+    {
+        "id": "armarios",
+        "cat": "reforma",
+        "status": "oficial",
+        "q": "Tem algum cuidado na instalação de armários planejados?",
+        "a": "<ul>\n<li>Em paredes que dividem com o banheiro ou em paredes externas, coloque uma <strong>placa de isopor de pelo menos 1 cm</strong> atrás do armário, para evitar mofo e umidade.</li>\n<li>Não deixe o marceneiro danificar ou retirar os <strong>sifões e flexíveis</strong> das pias.</li>\n<li>Consulte o Manual do Proprietário para saber onde é seguro furar.</li>\n</ul>",
+        "tags": [
+            "armário",
+            "planejado",
+            "marcenaria",
+            "mofo",
+            "umidade",
+            "furar"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 59,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:07"
+    },
+    {
+        "id": "isolamento-acustico-piso",
+        "cat": "reforma",
+        "status": "oficial",
+        "q": "Preciso de isolamento acústico ao trocar ou instalar piso?",
+        "a": "<p>A Convenção (art. 7º, \"w\") obriga a <strong>revestir os pisos das áreas não frias</strong> (quartos e sala) com material que garanta <strong>isolamento acústico</strong>. Ela cita como exemplo o carpete de nylon com <strong>espessura mínima de 6 mm</strong>.</p>\n<ul>\n<li>Os <strong>dormitórios</strong> já são entregues com <strong>piso laminado</strong>.</li>\n<li>A <strong>sala</strong> e a <strong>cozinha</strong> são entregues em <strong>laje acabada</strong>, sem revestimento.</li>\n</ul>\n<p>Na prática, ao instalar piso laminado ou vinílico na sala, use uma <strong>manta acústica</strong> por baixo. Isso reduz o barulho de passos para o vizinho de baixo.</p>\n<p class=\"note\">Essa cláusula parece vir de um modelo padrão de convenção. Os detalhes (material e espessura aceitos) podem ser definidos no <strong>Regulamento Interno</strong>. Na dúvida, consulte o síndico antes da obra.</p>",
+        "tags": [
+            "barulho",
+            "ruído",
+            "acústica",
+            "piso",
+            "manta",
+            "laminado",
+            "vinílico",
+            "carpete",
+            "vizinho de baixo",
+            "reforma"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 60,
+        "published": 1,
+        "updated_at": "2026-11-13 23:18:00"
+    },
+    {
+        "id": "fechadura",
+        "cat": "reforma",
+        "status": "informado",
+        "q": "Posso trocar a fechadura da porta ou colocar fechadura digital?",
+        "a": "<p>Depende do tipo de troca:</p>\n<ul>\n<li><strong>Fechadura digital ou maçaneta eletrônica:</strong> como a porta de entrada fica de frente para o corredor, ela faz parte do <strong>visual da área comum</strong>. A instalação deve seguir o <strong>padrão que o condomínio definir</strong> e pode precisar de <strong>aprovação em assembleia</strong>.</li>\n<li><strong>Trocar só o miolo (o \"segredo\"):</strong> não muda a aparência da porta, e os documentos não tratam desse caso. Muita gente troca o segredo ao receber as chaves, por segurança.</li>\n<li><strong>Trocar a porta</strong> ou mudar cor e acabamento pelo lado do corredor: pela Convenção, é proibido alterar o aspecto externo e as tonalidades das esquadrias.</li>\n</ul>\n<p class=\"note\">Mudanças em itens entregues pela construtora podem fazer <strong>perder a garantia</strong> daquele item. Antes de instalar uma fechadura digital, espere o padrão ser definido em assembleia.</p>",
+        "tags": [
+            "fechadura",
+            "fechadura digital",
+            "fechadura eletrônica",
+            "porta",
+            "chave",
+            "segredo",
+            "miolo",
+            "maçaneta",
+            "segurança",
+            "smart lock"
+        ],
+        "src": [
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 61,
+        "published": 1,
+        "updated_at": "2026-11-13 23:19:30"
+    },
+    {
+        "id": "rede-protecao",
+        "cat": "reforma",
+        "status": "pendente",
+        "q": "Posso colocar rede de proteção nas janelas e na varanda?",
+        "a": "<p>Os documentos <strong>não tratam especificamente</strong> de rede de proteção (para crianças ou pets). O que eles dizem sobre a fachada:</p>\n<ul>\n<li>É <strong>proibido fechar a varanda com vidro</strong> (norma do Corpo de Bombeiros, citada no Memorial).</li>\n<li>É proibido <strong>alterar a forma externa da fachada</strong> e as tonalidades das esquadrias.</li>\n<li>Mudanças visíveis por fora devem seguir o <strong>padrão definido em assembleia</strong> (cor, material etc.).</li>\n</ul>\n<p>Na prática, a rede de proteção costuma ser permitida em condomínios por segurança, desde que siga um <strong>padrão único de cor e instalação</strong>. Esse padrão deve ser aprovado em assembleia ou no <strong>Regulamento Interno</strong>.</p>",
+        "tags": [
+            "rede de proteção",
+            "tela",
+            "janela",
+            "varanda",
+            "sacada",
+            "criança",
+            "pet",
+            "gato",
+            "segurança",
+            "fachada"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u"
+        ],
+        "sort": 62,
+        "published": 1,
+        "updated_at": "2026-11-13 23:19:30"
+    },
+    {
+        "id": "administradora",
+        "cat": "condominio",
+        "status": "informado",
+        "q": "Qual será a administradora do condomínio?",
+        "a": "<p>A Convenção permite que a incorporadora contrate a administradora do <strong>primeiro biênio</strong>. A indicada é a <strong>OMA</strong>. Segundo a Comissão, o condomínio pode <strong>trocá-la depois</strong>, com <strong>aviso prévio de 60 dias</strong>.</p>\n<p>A Comissão recomenda escolher bem o <strong>síndico</strong> nesta fase inicial.</p>",
+        "tags": [
+            "administradora",
+            "OMA",
+            "síndico",
+            "gestão"
+        ],
+        "src": [
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 63,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:07"
+    },
+    {
+        "id": "sindico",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Como são eleitos o síndico e o conselho?",
+        "a": "<ul>\n<li><strong>Síndico:</strong> eleito em assembleia, com mandato de <strong>2 anos</strong> e reeleição permitida. Pode ser morador ou profissional externo.</li>\n<li><strong>Subsíndico:</strong> precisa ser condômino, tem mandato de 2 anos e não é remunerado.</li>\n<li><strong>Conselho Consultivo:</strong> 3 membros efetivos e 3 suplentes, de preferência moradores, sem remuneração.</li>\n<li>Quem está <strong>atrasado com o condomínio</strong> não pode ser eleito para esses cargos.</li>\n</ul>\n<p>Existe um único síndico e uma única administradora para todo o empreendimento.</p>",
+        "tags": [
+            "síndico",
+            "subsíndico",
+            "conselho",
+            "eleição",
+            "mandato"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 64,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:07"
+    },
+    {
+        "id": "o-que-faz-sindico",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O que faz o síndico?",
+        "a": "<p>O síndico é o <strong>administrador e representante legal</strong> do condomínio. Pela Convenção (art. 23) e pelo art. 1.348 do Código Civil, cabe a ele:</p>\n<ul>\n<li><strong>representar o condomínio</strong>, inclusive na Justiça, e fazer cumprir a Convenção, o Regulamento Interno e as decisões das assembleias;</li>\n<li><strong>contratar e demitir funcionários</strong>, dentro do orçamento aprovado;</li>\n<li><strong>cobrar as cotas</strong> e aplicar o dinheiro arrecadado;</li>\n<li><strong>autorizar obras urgentes</strong> e comprar o necessário para a conservação;</li>\n<li>manter a <strong>contabilidade em ordem</strong>, enviar <strong>balancete mensal</strong> aos moradores e <strong>prestar contas</strong> em assembleia;</li>\n<li><strong>aplicar multas</strong> a quem descumprir as regras, ouvindo o Conselho Consultivo;</li>\n<li><strong>contratar os seguros</strong> do condomínio;</li>\n<li><strong>convocar assembleias</strong> e reuniões do Conselho.</li>\n</ul>\n<p><strong>Como funciona:</strong></p>\n<ul>\n<li>O mandato é de <strong>2 anos</strong>, com reeleição permitida.</li>\n<li>Pode ser um <strong>morador</strong> ou alguém de fora: pessoa física ou empresa (<a href=\"#faq-requisitos-sindico-profissional\">síndico profissional</a>).</li>\n<li>Pode repassar tarefas administrativas à <a href=\"#faq-sindico-x-administradora\">administradora</a>, mas continua responsável por elas.</li>\n<li>A <strong>remuneração</strong>, se houver, é fixada pela assembleia.</li>\n</ul>",
+        "tags": [
+            "síndico",
+            "síndica",
+            "função",
+            "atribuições",
+            "responsabilidade",
+            "o que faz",
+            "papel",
+            "administração",
+            "mandato"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 65,
+        "published": 1,
+        "updated_at": "2026-11-13 23:28:27"
+    },
+    {
+        "id": "o-que-faz-subsindico",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O que faz o subsíndico?",
+        "a": "<ul>\n<li><strong>Substitui o síndico</strong> nas faltas ou impedimentos ocasionais, com poder inclusive de representar o condomínio na Justiça.</li>\n<li>Se o cargo de síndico <strong>ficar vago</strong>, é o subsíndico quem <strong>convoca a assembleia</strong> para eleger o novo síndico.</li>\n<li>Precisa ser <strong>morador ou proprietário</strong> (condômino).</li>\n<li>Tem mandato de <strong>2 anos</strong>, com reeleição permitida.</li>\n<li><strong>Não recebe remuneração.</strong></li>\n</ul>\n<p>É eleito na mesma assembleia que escolhe o síndico (Convenção, art. 27).</p>",
+        "tags": [
+            "subsíndico",
+            "subsíndica",
+            "vice",
+            "substituto",
+            "função",
+            "o que faz",
+            "papel"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 66,
+        "published": 1,
+        "updated_at": "2026-11-13 23:28:27"
+    },
+    {
+        "id": "o-que-faz-conselho",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O que faz o Conselho Consultivo?",
+        "a": "<p>O Conselho Consultivo <strong>fiscaliza e assessora</strong> o síndico. Pela Convenção (arts. 28 e 29), cabe a ele:</p>\n<ul>\n<li><strong>examinar as contas do condomínio todo mês</strong>;</li>\n<li>dar <strong>parecer sobre a previsão orçamentária</strong>, pelo menos <strong>48 horas antes</strong> da assembleia que vai votá-la;</li>\n<li><strong>assessorar o síndico</strong> nos problemas do condomínio, inclusive na <strong>aplicação de multas</strong>, porque o síndico deve ouvir o Conselho antes de multar;</li>\n<li><strong>aprovar, junto com o síndico</strong>, os projetos de reforma nas unidades que mexam em alvenaria, pisos ou tubulações.</li>\n</ul>\n<p><strong>Composição:</strong> 3 membros efetivos e 3 suplentes, escolhidos entre os condôminos, de preferência moradores. O mandato é de <strong>2 anos</strong>, com reeleição permitida, e o cargo <strong>não é remunerado</strong>.</p>",
+        "tags": [
+            "conselho",
+            "conselho consultivo",
+            "conselheiro",
+            "fiscal",
+            "contas",
+            "fiscalizar",
+            "o que faz",
+            "papel",
+            "suplente"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 67,
+        "published": 1,
+        "updated_at": "2026-11-13 23:28:27"
+    },
+    {
+        "id": "sindico-x-administradora",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Qual a diferença entre síndico e administradora?",
+        "a": "<ul>\n<li><strong>Síndico:</strong> é eleito pelos moradores, <strong>decide e responde</strong> pelo condomínio, representa o condomínio legalmente e presta contas em assembleia.</li>\n<li><strong>Administradora:</strong> é a empresa contratada para o <strong>trabalho de escritório</strong>, como boletos, cobrança, contabilidade, folha de pagamento dos funcionários, balancetes, apoio às assembleias e portal ou aplicativo.</li>\n</ul>\n<p>O síndico pode repassar tarefas administrativas à administradora, mas <strong>continua responsável</strong> por elas (Convenção, art. 21).</p>\n<p><strong>No nosso caso:</strong></p>\n<ul>\n<li>A Convenção permite que a incorporadora contrate a administradora do <strong>primeiro biênio</strong>. A escolhida é a <strong>OMA</strong>, que também organiza a AGI.</li>\n<li>Segundo a Comissão, o condomínio pode <strong>trocar de administradora depois</strong>, com aviso prévio de 60 dias.</li>\n</ul>",
+        "tags": [
+            "administradora",
+            "OMA",
+            "síndico",
+            "diferença",
+            "boleto",
+            "contabilidade",
+            "trocar administradora"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o",
+            "1WxWk9aXyhp9Vhhvd17tN2hpwl9ZL7wsa"
+        ],
+        "sort": 68,
+        "published": 1,
+        "updated_at": "2026-11-13 23:28:27"
+    },
+    {
+        "id": "requisitos-sindico-profissional",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Quem pode ser síndico? Quais os requisitos para síndico profissional?",
+        "a": "<p><strong>Moradores e proprietários</strong> podem se candidatar, desde que <strong>não estejam em atraso</strong> com o condomínio e nunca tenham sido processados por atraso no pagamento (Convenção, art. 30). A mesma regra vale para subsíndico e Conselho.</p>\n<p>Para um <strong>síndico de fora</strong> (empresa de síndico profissional), a Cury exige na AGI, conforme o documento de requisitos:</p>\n<ul>\n<li><strong>Seguro de responsabilidade civil</strong>;</li>\n<li><strong>3 indicações</strong> de condomínios do Minha Casa Minha Vida já implantados;</li>\n<li><strong>5 atas</strong> de assembleia de implantação de condomínio;</li>\n<li>Lista dos condomínios administrados (<strong>mais de 5</strong>);</li>\n<li>Empresa com <strong>pelo menos 5 anos</strong> de existência e <strong>sem pendências no Serasa</strong>;</li>\n<li><strong>Certidões</strong> cíveis, fiscais, criminais, trabalhistas, de protestos e de recuperação judicial dos últimos <strong>10 anos</strong>, além de regularidade com Receita Federal, FGTS e ISS municipal;</li>\n<li>Contrato social, certidão da Junta Comercial e cartão CNPJ.</li>\n</ul>\n<p>O perfil dos candidatos fica disponível no portal da OMA, no material de apoio da AGI.</p>\n<p class=\"note\">O documento da Cury cita, num trecho, \"a critério do <strong>Banco do Brasil</strong>\". Parece ter vindo de um modelo de outra empresa, e não muda os requisitos.</p>",
+        "tags": [
+            "síndico",
+            "síndico profissional",
+            "requisitos",
+            "candidato",
+            "candidatura",
+            "candidatar",
+            "quem pode",
+            "empresa",
+            "RFP",
+            "eleição"
+        ],
+        "src": [
+            "1ZYYOpseZwmEOxhpDZUV-soIorH4WlPzQ",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1WxWk9aXyhp9Vhhvd17tN2hpwl9ZL7wsa"
+        ],
+        "sort": 69,
+        "published": 1,
+        "updated_at": "2026-11-13 23:28:27"
+    },
+    {
+        "id": "candidatura-cargos",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Como me candidatar a síndico, subsíndico ou Conselho?",
+        "a": "<p><strong>Proprietários</strong> que constam no contrato de compra e venda podem se candidatar a <strong>síndico, subsíndico ou Conselho</strong>:</p>\n<ul>\n<li><strong>Prazo:</strong> de <strong>25 a 26/11/2026, até as 17h</strong>;</li>\n<li><strong>Como:</strong> envie para <strong>agi@oma.com.br</strong> uma breve apresentação da sua proposta, com <strong>nome completo, CPF e torre/unidade</strong>;</li>\n<li>As candidaturas ficam disponíveis para análise no dia da votação, <strong>27/11</strong>.</li>\n</ul>\n<p><strong>Síndico profissional</strong> (empresa de fora):</p>\n<ul>\n<li><strong>Prazo:</strong> de <strong>13/11 (a partir das 10h) a 18/11/2026 (até as 17h)</strong>;</li>\n<li><strong>Como:</strong> envie a apresentação e a proposta de serviço da empresa para <strong>candidatura@cury.net</strong>, com o nome do empreendimento no assunto;</li>\n<li>Só valem empresas que cumprem os <a href=\"#faq-requisitos-sindico-profissional\">requisitos da RFP</a>. A Cury analisa as propostas e escolhe <strong>até dois candidatos</strong> para a votação.</li>\n</ul>\n<p class=\"note\">Quem estiver em atraso com o condomínio ou já tiver sido processado por atraso não pode ser eleito (Convenção, art. 30).</p>",
+        "tags": [
+            "candidatura",
+            "candidatar",
+            "candidato",
+            "eleição",
+            "síndico",
+            "subsíndico",
+            "conselho",
+            "prazo",
+            "inscrição",
+            "agi@oma.com.br",
+            "candidatura@cury.net",
+            "síndico profissional"
+        ],
+        "src": [
+            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
+            "1ZYYOpseZwmEOxhpDZUV-soIorH4WlPzQ",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 70,
+        "published": 1,
+        "updated_at": "2026-11-13 23:34:58"
+    },
+    {
+        "id": "vencimento-condominio",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Qual o vencimento do condomínio e o que acontece se atrasar?",
+        "a": "<ul>\n<li>Vencimento: até o <strong>5º dia de cada mês</strong>.</li>\n<li>Atraso: <strong>multa de 2%</strong>, <strong>juros de 1% ao mês</strong> e correção monetária, mais honorários de cobrança de 20%.</li>\n<li>Quem estiver em atraso pode ir à assembleia, mas <strong>o voto não conta</strong>.</li>\n<li>Rateio pela <strong>fração ideal</strong> de cada unidade, mais <strong>5% de fundo de reserva</strong>.</li>\n</ul>",
+        "tags": [
+            "vencimento",
+            "atraso",
+            "multa",
+            "juros",
+            "fundo de reserva",
+            "boleto",
+            "condomínio"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 71,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:07"
+    },
+    {
+        "id": "valor-condominio",
+        "cat": "condominio",
+        "status": "pendente",
+        "q": "Quanto vai custar o condomínio?",
+        "a": "<p>O valor <strong>ainda não foi definido</strong>. O orçamento é preparado pela administradora e aprovado em assembleia, a AGI. A divisão é proporcional à fração ideal de cada unidade, que fica entre 0,13% e 0,15% para os tipos de apartamento.</p>",
+        "tags": [
+            "valor",
+            "quanto",
+            "condomínio",
+            "taxa",
+            "custo",
+            "mensalidade"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 72,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:08"
+    },
+    {
+        "id": "vagas",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Tem vaga de garagem?",
+        "a": "<p>As unidades são <strong>sem direito a vaga</strong> de carro ou moto. O condomínio tem um estacionamento descoberto com <strong>14 vagas + 1 vaga PNE</strong>, de uso <strong>rotativo por aluguel</strong>:</p>\n<ul>\n<li>As vagas são distribuídas por <strong>lances</strong> entre os condôminos, em ciclos de <strong>até 12 meses</strong>.</li>\n<li>Cada condômino aluga <strong>1 vaga</strong> por ciclo. Em caso de empate, idosos e gestantes têm preferência.</li>\n<li>O valor arrecadado <strong>abate as despesas</strong> do condomínio.</li>\n<li>É proibido sublocar a vaga, lavar ou consertar carros e guardar objetos.</li>\n</ul>\n<p>Há também <strong>bicicletário</strong>.</p><p>Veja também: <a href=\"#faq-estacionamento-visitantes-moto\">vagas para visitantes, moto e carga e descarga</a>.</p>",
+        "tags": [
+            "vaga",
+            "garagem",
+            "estacionamento",
+            "carro",
+            "moto",
+            "aluguel",
+            "bicicleta",
+            "bicicletário"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 73,
+        "published": 1,
+        "updated_at": "2026-11-13 23:19:39"
+    },
+    {
+        "id": "animais",
+        "cat": "condominio",
+        "status": "pendente",
+        "q": "Posso ter animais de estimação?",
+        "a": "<p>O texto da Convenção registrada lista entre as proibições <em>\"manter, ainda que temporariamente, animais e aves nas instalações do edifício\"</em>. Ao mesmo tempo, o empreendimento tem <strong>Pet Care</strong> nas áreas comuns.</p>\n<p>A jurisprudência do STJ costuma não aceitar a proibição genérica de animais que não causam incômodo ou risco aos vizinhos. O ideal é esclarecer o tema no <strong>Regulamento Interno</strong>, que deve ser votado na primeira assembleia. Em caso de dúvida, consulte um advogado.</p>",
+        "tags": [
+            "animal",
+            "pet",
+            "cachorro",
+            "gato",
+            "estimação",
+            "bicho",
+            "pet care"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 74,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:08"
+    },
+    {
+        "id": "regras-convivencia",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Quais são as principais proibições da Convenção?",
+        "a": "<ul>\n<li>Estender roupas nas janelas ou colocar vasos nos peitoris.</li>\n<li>Alterar a fachada, as cores ou as esquadrias externas.</li>\n<li>Instalar antenas individuais em locais visíveis.</li>\n<li>Deixar objetos nos halls, nas escadas ou nas circulações.</li>\n<li>Som alto que perturbe os vizinhos.</li>\n<li>Fazer mudança sem agendar com a administração.</li>\n<li>Deixar entregadores subirem: <strong>as encomendas são recebidas na portaria</strong>.</li>\n<li>Guardar produtos inflamáveis ou perigosos.</li>\n</ul>\n<p>Multa por infração: até <strong>5× o valor do condomínio</strong>. Em casos de comportamento antissocial reiterado, até 10×.</p>",
+        "tags": [
+            "proibido",
+            "regras",
+            "roupa",
+            "janela",
+            "antena",
+            "som",
+            "barulho",
+            "entregador",
+            "encomenda",
+            "multa"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 75,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:08"
+    },
+    {
+        "id": "assembleias",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Como funcionam as assembleias? Posso votar online ou por procuração?",
+        "a": "<ul>\n<li>A convocação é feita com <strong>pelo menos 5 dias</strong> de antecedência.</li>\n<li>Assembleias <strong>eletrônicas ou híbridas</strong> são permitidas.</li>\n<li>É possível votar por <strong>procuração</strong> (o procurador pode ser condômino ou não, mas não pode ser o síndico nem membro do conselho).</li>\n<li>Os votos são proporcionais à fração ideal.</li>\n<li>Mudar a Convenção exige <strong>2/3</strong> dos votos. Mudar a fachada exige <strong>unanimidade</strong>. Mudar o Regulamento Interno exige maioria simples.</li>\n</ul>",
+        "tags": [
+            "assembleia",
+            "votação",
+            "procuração",
+            "online",
+            "quórum",
+            "AGI"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 76,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:08"
+    },
+    {
+        "id": "fases",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O empreendimento será entregue em fases?",
+        "a": "<p>A Convenção previa duas fases: <strong>Fase 1</strong> (Torres A e D) e <strong>Fase 2</strong> (Torres B e C). Porém, o <strong>Habite-se emitido é de Conclusão Total</strong> e cobre as 744 unidades de uma vez.</p>",
+        "tags": [
+            "fase",
+            "torre",
+            "etapa",
+            "entrega parcial"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
+        ],
+        "sort": 77,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:08"
+    },
+    {
+        "id": "arvores",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O condomínio pode podar ou retirar árvores?",
+        "a": "<p>Só com <strong>autorização do órgão ambiental</strong>. Pelo Termo de Compromisso Ambiental nº 344/2022, o condomínio deve preservar as árvores, as áreas permeáveis e a calçada verde. Mexer nelas sem autorização é <strong>crime ambiental</strong>. Também é proibido perfurar poços.</p>",
+        "tags": [
+            "árvore",
+            "poda",
+            "ambiental",
+            "TCA",
+            "poço"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
+        ],
+        "sort": 78,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:08"
+    },
+    {
+        "id": "manutencao-limpeza",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Há cuidados de limpeza e manutenção obrigatórios na unidade?",
+        "a": "<ul>\n<li>Limpe os <strong>ralos pelo menos a cada 6 meses</strong>.</li>\n<li><strong>Não use WAP nem Vaporetto</strong> em pisos e azulejos, porque danificam o rejunte.</li>\n<li>Lave as áreas frias com água e sabão neutro, usando pano úmido, nunca balde ou mangueira.</li>\n<li>Lubrifique as esquadrias de alumínio uma vez por ano.</li>\n<li>Troque os vedantes das torneiras quando necessário.</li>\n</ul>",
+        "tags": [
+            "limpeza",
+            "manutenção",
+            "ralo",
+            "WAP",
+            "vaporetto",
+            "rejunte"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 79,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:09"
+    },
+    {
+        "id": "vazamento-quem-paga",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Se houver vazamento ou infiltração, quem paga o conserto?",
+        "a": "<p>Depende de onde está o problema (Convenção, art. 14):</p>\n<ul>\n<li><strong>Dentro da sua unidade:</strong> as instalações internas de água, esgoto, gás, eletricidade e telefone são consertadas <strong>por conta do proprietário</strong>. O mesmo vale para piso, portas, janelas, louças e demais itens do apartamento.</li>\n<li><strong>Nas linhas tronco</strong> (tubulações gerais do prédio): se o estrago <strong>não</strong> foi causado por nenhum morador, o conserto é pago por <strong>todos os condôminos</strong>.</li>\n<li>Se ficar provado que um morador causou o estrago na linha tronco, ainda que indiretamente, <strong>ele paga</strong>.</li>\n</ul>\n<p>Pela Convenção (art. 7º), quem tiver defeito na própria unidade também deve <strong>reparar ou indenizar os danos causados aos vizinhos</strong>.</p>\n<p class=\"note\">Enquanto o imóvel estiver na <strong>garantia</strong>, defeitos de construção devem ser comunicados à <strong>assistência técnica da Cury</strong>. Os prazos estão no Manual do Proprietário.</p>",
+        "tags": [
+            "vazamento",
+            "infiltração",
+            "cano",
+            "tubulação",
+            "vizinho",
+            "prumada",
+            "linha tronco",
+            "conserto",
+            "quem paga",
+            "umidade"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
+        ],
+        "sort": 80,
+        "published": 1,
+        "updated_at": "2026-11-13 23:17:59"
+    },
+    {
+        "id": "repintura-fachada",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O condomínio terá que repintar o prédio? Quais manutenções são obrigatórias?",
+        "a": "<p>Sim. A Convenção prevê manutenções periódicas que vão entrar no orçamento do condomínio:</p>\n<ul>\n<li><strong>Fachada:</strong> manutenções regulares e <strong>repintura total a cada dois anos</strong>.</li>\n<li><strong>Equipamentos das áreas comuns:</strong> manutenção <strong>mensal</strong> por empresa especializada.</li>\n<li><strong>Rejuntes</strong> de pisos e paredes cerâmicas: revisão pelo menos <strong>a cada 6 meses</strong>.</li>\n<li><strong>Esquadrias</strong> de ferro e alumínio: lubrificação <strong>anual</strong>.</li>\n</ul>\n<p>Esses custos são definidos na previsão orçamentária, aprovada em assembleia. Obras não previstas podem usar o <strong>fundo de reserva</strong>, formado por 5% das contribuições.</p>",
+        "tags": [
+            "pintura",
+            "repintura",
+            "fachada",
+            "manutenção",
+            "custo",
+            "orçamento",
+            "fundo de reserva",
+            "rejunte"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 81,
+        "published": 1,
+        "updated_at": "2026-11-13 23:17:59"
+    },
+    {
+        "id": "furtos-responsabilidade",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O condomínio se responsabiliza por furtos ou danos?",
+        "a": "<p><strong>Não.</strong> A Convenção (art. 75) diz que o condomínio <strong>não é responsável</strong> por:</p>\n<ul>\n<li>prejuízos com <strong>furtos ou roubos</strong> em qualquer dependência;</li>\n<li>acidentes, extravios e danos sofridos pelos moradores, inclusive em <strong>máquinas, equipamentos e instalações dentro das unidades</strong>;</li>\n<li>extravio de <strong>bens entregues pelos moradores aos funcionários</strong> do condomínio.</li>\n</ul>\n<p>No estacionamento, o condomínio também não responde por <strong>objetos deixados dentro dos veículos</strong> nem por danos causados a eles.</p>\n<p class=\"note\">Para proteger os seus bens, vale contratar um <strong>seguro residencial</strong> próprio.</p>",
+        "tags": [
+            "furto",
+            "roubo",
+            "dano",
+            "responsabilidade",
+            "seguro",
+            "carro",
+            "objetos",
+            "bicicleta"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 82,
+        "published": 1,
+        "updated_at": "2026-11-13 23:18:00"
+    },
+    {
+        "id": "seguro-condominio",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O condomínio tem seguro? O que ele cobre?",
+        "a": "<p>Sim. O seguro do condomínio é <strong>obrigatório por lei</strong> (art. 1.346 do Código Civil). Pela Convenção, ele cobre:</p>\n<ul>\n<li><strong>incêndio</strong> e destruição total ou parcial, com previsão de <strong>reconstrução</strong>;</li>\n<li><strong>responsabilidade civil</strong> perante terceiros;</li>\n<li><strong>quebra de vidros</strong> das partes comuns;</li>\n<li>responsabilidade civil de <strong>manobristas</strong>, se forem contratados;</li>\n<li>seguro de <strong>acidentes de trabalho</strong> dos funcionários do condomínio.</li>\n</ul>\n<p>Cada morador pode <strong>ampliar o seguro da sua unidade</strong> por conta própria. Para móveis, eletrônicos e objetos pessoais, o recomendado é um <strong>seguro residencial</strong> individual.</p>",
+        "tags": [
+            "seguro",
+            "incêndio",
+            "cobertura",
+            "apólice",
+            "responsabilidade civil",
+            "vidros"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 83,
+        "published": 1,
+        "updated_at": "2026-11-13 23:18:00"
+    },
+    {
+        "id": "auxiliar-servicos-gerais",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O condomínio terá funcionário para pequenos reparos?",
+        "a": "<p>A Convenção prevê que o condomínio <strong>contratará um auxiliar de serviços gerais</strong> para fazer reparos nas instalações <strong>hidráulicas e elétricas</strong>, além de serviços de <strong>pedreiro, pintura, marcenaria</strong> e outros, \"para o bom funcionamento e conservação das edificações\".</p>\n<p class=\"note\">O texto fala da conservação das edificações, ou seja, das <strong>áreas comuns</strong>. Pela própria Convenção (art. 14), consertos <strong>dentro do apartamento</strong> são por conta do proprietário. A forma de contratação e o que esse funcionário pode fazer serão definidos pelo síndico e pela assembleia.</p>",
+        "tags": [
+            "funcionário",
+            "zelador",
+            "manutenção",
+            "reparo",
+            "eletricista",
+            "encanador",
+            "faz-tudo",
+            "serviços gerais"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 84,
+        "published": 1,
+        "updated_at": "2026-11-13 23:18:00"
+    },
+    {
+        "id": "destituicao-sindico",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O que fazer se o síndico não estiver fazendo um bom trabalho?",
+        "a": "<ul>\n<li><strong>Recurso contra um ato do síndico (art. 24):</strong> o morador que se sentir prejudicado pode recorrer. O caso é examinado na <strong>assembleia seguinte</strong>, e enquanto isso o ato continua valendo.</li>\n<li><strong>Destituição (art. 25):</strong> o síndico que cometer irregularidades, não prestar contas ou não administrar bem pode ser <strong>destituído pelo voto da maioria absoluta dos condôminos presentes</strong> em assembleia convocada especialmente para isso.</li>\n<li><strong>Quem convoca:</strong> uma assembleia pode ser convocada pelo síndico ou por <strong>1/4 dos condôminos</strong>.</li>\n<li><strong>Administradora:</strong> se o síndico tiver repassado funções a uma administradora, o acerto de contas com ela é feito em <strong>30 dias</strong> (art. 26).</li>\n</ul>\n<p>O <strong>Conselho Consultivo</strong> examina as contas todo mês e ajuda a acompanhar a gestão.</p>",
+        "tags": [
+            "síndico",
+            "destituição",
+            "destituir",
+            "trocar síndico",
+            "assembleia",
+            "recurso",
+            "prestação de contas",
+            "administradora"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 85,
+        "published": 1,
+        "updated_at": "2026-11-13 23:18:00"
+    },
+    {
+        "id": "estacionamento-visitantes-moto",
+        "cat": "condominio",
+        "status": "pendente",
+        "q": "Tem vaga para visitantes, moto ou carga e descarga?",
+        "a": "<p>O capítulo da Convenção sobre garagem prevê <strong>14 vagas para carro + 1 vaga PNE</strong>, descobertas, em frente ao empreendimento. Elas são de uso <strong>rotativo, por aluguel com lances</strong> (veja \"Tem vaga de garagem?\").</p>\n<ul>\n<li><strong>Visitantes:</strong> não há vagas específicas previstas.</li>\n<li><strong>Motos:</strong> as unidades são <strong>\"sem direito ao uso de vaga para carro/moto\"</strong>. Não há área de motos prevista nos documentos.</li>\n<li><strong>Bicicletas:</strong> há <strong>bicicletário</strong> com ganchos.</li>\n</ul>\n<p class=\"note\">Outro artigo da Convenção (art. 3º) cita <strong>\"88 vagas\" e espaço de carga e descarga, com acesso pela Av. Alexandre Mackenzie</strong>, endereço que não é o nosso. Esse trecho parece ter vindo do modelo de outro empreendimento. A Comissão deve pedir esclarecimento à Cury.</p>",
+        "tags": [
+            "estacionamento",
+            "vaga",
+            "visitante",
+            "visita",
+            "moto",
+            "motocicleta",
+            "carga e descarga",
+            "bicicleta",
+            "garagem",
+            "carro"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 86,
+        "published": 1,
+        "updated_at": "2026-11-13 23:19:30"
+    },
+    {
+        "id": "entregas-encomendas",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Entregador pode subir até o apartamento? Como recebo encomendas?",
+        "a": "<ul>\n<li><strong>Entregadores não sobem.</strong> A Convenção proíbe autorizar os porteiros a liberar entregadores de qualquer tipo até a unidade. <strong>Todas as encomendas são recebidas na portaria.</strong></li>\n<li>Os porteiros recebem as correspondências e encomendas e as entregam aos moradores assim que possível.</li>\n<li>O condomínio tem um espaço de <strong>Delivery</strong> com <strong>armário locker</strong>, <strong>geladeira expositora</strong> (para pedidos de comida e bebida), estante e carrinho.</li>\n</ul>\n<p class=\"note\">As regras de uso do locker e da geladeira do Delivery serão definidas pela administração ou no Regulamento Interno.</p>",
+        "tags": [
+            "entregador",
+            "delivery",
+            "encomenda",
+            "correio",
+            "pacote",
+            "iFood",
+            "portaria",
+            "locker",
+            "Mercado Livre",
+            "Amazon"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 87,
+        "published": 1,
+        "updated_at": "2026-11-13 23:19:30"
+    },
+    {
+        "id": "alugar-vender",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "Posso alugar ou vender meu apartamento?",
+        "a": "<p>A Convenção garante ao proprietário o direito de <strong>vender, alugar ou dar em garantia</strong> a sua unidade, sem precisar da autorização dos outros condôminos. Algumas regras:</p>\n<ul>\n<li><strong>Inquilinos</strong> e outros ocupantes também precisam cumprir a Convenção e o Regulamento Interno.</li>\n<li>O <strong>contrato de aluguel</strong> deve incluir as proibições e regras da Convenção.</li>\n<li>O <strong>proprietário responde</strong> pelas infrações, danos e dívidas do inquilino perante o condomínio.</li>\n<li>As unidades são <strong>residenciais</strong>.</li>\n</ul>\n<p class=\"note\">As unidades são <strong>HIS-2</strong> (Habitação de Interesse Social). Por isso, podem existir <strong>regras municipais</strong> sobre a renda de quem compra ou aluga, e a matrícula deve trazer essa informação. Confirme antes de anunciar. A Convenção não trata expressamente de <strong>aluguel por temporada</strong> (como Airbnb); o tema pode ser regulado em assembleia.</p>",
+        "tags": [
+            "alugar",
+            "aluguel",
+            "locação",
+            "inquilino",
+            "vender",
+            "venda",
+            "Airbnb",
+            "temporada",
+            "HIS"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
+        ],
+        "sort": 88,
+        "published": 1,
+        "updated_at": "2026-11-13 23:19:30"
+    },
+    {
+        "id": "taxa-obra",
+        "cat": "financeiro",
+        "status": "informado",
+        "q": "Já paguei todo o financiamento. Por que continuo pagando taxa de obra?",
+        "a": "<p>A Cury informou que o contrato de financiamento considera a possível carência de 180 dias. Durante esse período, os encargos continuam com o comprador. Só <strong>depois dos 180 dias</strong> eles poderiam passar para a construtora.</p>\n<p>Sobre a <strong>restituição</strong> dos valores pagos na carência, a Cury não confirmou e orientou consultar <strong>diretamente a Caixa</strong>.</p>",
+        "tags": [
+            "taxa de obra",
+            "juros de obra",
+            "Caixa",
+            "encargos",
+            "financiamento",
+            "restituição"
+        ],
+        "src": [
+            "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB"
+        ],
+        "sort": 89,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:09"
+    },
+    {
+        "id": "chega-mais",
+        "cat": "financeiro",
+        "status": "oficial",
+        "q": "O que é o Cury Chega Mais?",
+        "a": "<p>É um programa de benefícios para quem tem <strong>financiamento bancário assinado</strong> e paga tudo <strong>em dia</strong>, inclusive a taxa de obra. A adesão é feita em <a href=\"https://www.relacionamentocury.com.br\" target=\"_blank\" rel=\"noopener\">relacionamentocury.com.br</a>.</p>\n<ul>\n<li><strong>Parcela premiada:</strong> a cada 6 meses seguidos em dia, a última parcela do fluxo é abatida.</li>\n<li><strong>Antecipação:</strong> desconto de pelo menos 0,5% ao antecipar as últimas parcelas. Não acumula com a parcela premiada.</li>\n<li><strong>Prioridade na vistoria</strong> e <strong>na entrega das chaves</strong>.</li>\n</ul>\n<p>Um atraso faz perder os benefícios. Eles voltam depois de 6 meses seguidos em dia.</p>",
+        "tags": [
+            "Chega Mais",
+            "benefício",
+            "parcela premiada",
+            "desconto",
+            "antecipação",
+            "prioridade"
+        ],
+        "src": [
+            "1sDsPy0aB9Yod5IMm5rMc_CyWMS3fhR7G",
+            "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn",
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o"
+        ],
+        "sort": 90,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:09"
+    },
+    {
+        "id": "his",
+        "cat": "financeiro",
+        "status": "oficial",
+        "q": "O que significa o empreendimento ser HIS-2?",
+        "a": "<p>Todas as unidades são <strong>Habitação de Interesse Social (HIS-2)</strong>, destinadas a famílias com renda mensal entre <strong>R$ 2.994 e R$ 5.988</strong> (valores do decreto municipal de 2019 e suas atualizações). A <strong>averbação na matrícula</strong> das unidades HIS é obrigatória.</p>",
+        "tags": [
+            "HIS",
+            "interesse social",
+            "renda",
+            "matrícula",
+            "averbação"
+        ],
+        "src": [
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7",
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
+        ],
+        "sort": 91,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:09"
+    },
+    {
+        "id": "chega-mais-regras",
+        "cat": "financeiro",
+        "status": "oficial",
+        "q": "Quais as regras e prazos do Cury Chega Mais?",
+        "a": "<ul>\n<li><strong>Cadastro:</strong> a Cury tem até <strong>60 dias</strong> para validar a adesão. Os benefícios valem a partir do mês seguinte à validação e <strong>não são retroativos</strong>.</li>\n<li><strong>Concessão:</strong> depois que você pede um benefício, a Cury tem até <strong>2 meses</strong> para conferir as condições e concedê-lo.</li>\n<li><strong>Benefício pessoal e intransferível:</strong> não pode ser vendido nem passado a outra pessoa, sob pena de perdê-lo.</li>\n<li><strong>Não acumula</strong> com outras promoções ou descontos no preço. \"Parcela premiada\" e \"antecipação com desconto\" também não se somam: é preciso escolher uma.</li>\n<li><strong>Fluxo já quitado:</strong> se não houver mais parcelas, a parcela premiada não pode ser abatida, e a Cury não oferece outra compensação.</li>\n<li><strong>Atraso:</strong> qualquer atraso suspende os benefícios. Eles voltam depois de <strong>6 meses seguidos em dia</strong>.</li>\n</ul>",
+        "tags": [
+            "Chega Mais",
+            "benefício",
+            "prazo",
+            "intransferível",
+            "parcela premiada",
+            "validação",
+            "cadastro",
+            "desconto"
+        ],
+        "src": [
+            "1sDsPy0aB9Yod5IMm5rMc_CyWMS3fhR7G"
+        ],
+        "sort": 92,
+        "published": 1,
+        "updated_at": "2026-11-13 23:18:00"
+    },
+    {
+        "id": "lazer-lista",
+        "cat": "lazer",
+        "status": "oficial",
+        "q": "Quais são as áreas de lazer?",
+        "a": "<p><strong>Cobertas:</strong> salão de festas, fitness, 2 churrasqueiras, delivery, easy market, oficina, 4 coworkings, lavanderia, brinquedoteca, play baby, salão de games, sport bar, espaço multifuncional, pet care, espaço beleza, spa/massagem, sala de descanso e sauna.</p>\n<p><strong>Descobertas:</strong> piscina adulto e infantil (não aquecidas), solário, quadra de grama sintética, playground, fitness externo, praça da fogueira, horta, piquenique, redário e estares externos.</p>\n<p>Veja <a href=\"#lazer\">o que vem em cada espaço</a>.</p>",
+        "tags": [
+            "lazer",
+            "piscina",
+            "academia",
+            "salão",
+            "churrasqueira",
+            "quadra",
+            "playground"
+        ],
+        "src": [
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn"
+        ],
+        "sort": 93,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:09"
+    },
+    {
+        "id": "mobiliado",
+        "cat": "lazer",
+        "status": "oficial",
+        "q": "As áreas comuns vêm mobiliadas?",
+        "a": "<p><strong>Sim.</strong> As áreas comuns são entregues <strong>mobiliadas e equipadas</strong> conforme o Memorial. Ficam <strong>de fora</strong>: o CFTV e os aparelhos de ar-condicionado das áreas de lazer (há só a infraestrutura). A vegetação é entregue em <strong>mudas</strong>.</p>",
+        "tags": [
+            "mobília",
+            "móveis",
+            "mesa",
+            "cadeira",
+            "decoração",
+            "áreas comuns"
+        ],
+        "src": [
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn"
+        ],
+        "sort": 94,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:09"
+    },
+    {
+        "id": "pay-per-use",
+        "cat": "lazer",
+        "status": "oficial",
+        "q": "Como funcionam a lavanderia e o easy market?",
+        "a": "<p>Os dois são <strong>pay-per-use</strong>: cada morador paga pelo que usar, com autoatendimento via QR code. Eles são operados por uma empresa terceirizada, indicada inicialmente pela incorporadora, sem custo para o condomínio.</p>\n<ul><li><strong>Lavanderia:</strong> 2 lavadoras e 3 secadoras.</li><li><strong>Easy market:</strong> entregue decorado. Geladeiras, prateleiras e produtos ficam por conta do operador.</li></ul>",
+        "tags": [
+            "lavanderia",
+            "easy market",
+            "mercado",
+            "pay per use",
+            "lavadora",
+            "secadora"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73",
+            "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn"
+        ],
+        "sort": 95,
+        "published": 1,
+        "updated_at": "2026-11-13 22:13:09"
+    },
+    {
+        "id": "reserva-areas-comuns",
+        "cat": "lazer",
+        "status": "pendente",
+        "q": "Como reservar o salão de festas, a churrasqueira, o coworking ou o espaço beleza?",
+        "a": "<p>As regras de reserva <strong>ainda não existem</strong>. Pela Convenção, a forma e as condições de uso das áreas comuns serão definidas no <strong>Regulamento Interno</strong>, que pode ser aprovado ou alterado por <strong>maioria simples</strong> já na <strong>primeira assembleia</strong>.</p>\n<p>O Regulamento deve definir, por exemplo:</p>\n<ul>\n<li><strong>Como reservar:</strong> aplicativo, portaria ou administradora;</li>\n<li><strong>Antecedência</strong>, <strong>horários</strong> e <strong>limite de reservas</strong> por unidade;</li>\n<li>Se haverá <strong>taxa de uso ou de limpeza</strong>;</li>\n<li><strong>Número de convidados</strong> e as regras de barulho;</li>\n<li>Os <strong>espaços que exigem reserva</strong> (salão de festas, churrasqueiras) e os de <strong>uso livre</strong> (fitness, coworking, playground).</li>\n</ul>\n<p>A <strong>lavanderia</strong> e o <strong>easy market</strong> funcionam no sistema <strong>pay-per-use</strong>, com autoatendimento por QR code.</p>\n<p>Veja <a href=\"#lazer\">o que vem em cada espaço</a>: o salão de festas tem 9 mesas com 4 cadeiras e copa com fogão e geladeira, e cada churrasqueira tem forno de pizza e 5 mesas.</p>\n<p class=\"note\">Quer opinar sobre as regras? Participe da <strong>AGI</strong> e da primeira assembleia: é nelas que o Regulamento Interno é votado.</p>",
+        "tags": [
+            "reserva",
+            "reservar",
+            "agendamento",
+            "agendar",
+            "salão de festas",
+            "churrasqueira",
+            "coworking",
+            "espaço beleza",
+            "festa",
+            "aniversário",
+            "regulamento interno",
+            "taxa"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "1haD54wduRBM79dAGbeU9NN4ueh524H73"
+        ],
+        "sort": 96,
+        "published": 1,
+        "updated_at": "2026-11-13 23:20:23"
+    },
+    {
+        "id": "areas-comuns-convidados-trabalho",
+        "cat": "lazer",
+        "status": "pendente",
+        "q": "Posso levar convidados às áreas de lazer ou usar os espaços para trabalhar?",
+        "a": "<ul>\n<li><strong>Familiares:</strong> pela Convenção, todo morador pode usar as áreas comuns <strong>com seus familiares</strong>.</li>\n<li><strong>Convidados:</strong> a quantidade e as regras (por exemplo, na piscina e no salão de festas) serão definidas no <strong>Regulamento Interno</strong>. O morador <strong>responde pelo comportamento</strong> de quem levar ao condomínio.</li>\n<li><strong>Coworking:</strong> foi pensado para os moradores trabalharem ou estudarem. Regras de uso, como horário e tempo máximo, também ficam para o Regulamento.</li>\n<li><strong>Atender clientes</strong> nas áreas comuns (por exemplo, no espaço beleza): a Convenção diz que as partes comuns devem ser usadas conforme a <strong>sua finalidade</strong> e que os apartamentos são <strong>residenciais</strong>. O Habite-se não autoriza atividades não residenciais. Uso comercial dependeria de aprovação em assembleia.</li>\n</ul>",
+        "tags": [
+            "convidado",
+            "visita",
+            "amigos",
+            "piscina",
+            "trabalhar",
+            "home office",
+            "coworking",
+            "espaço beleza",
+            "cliente",
+            "comercial",
+            "atender"
+        ],
+        "src": [
+            "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
+            "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
+        ],
+        "sort": 97,
+        "published": 1,
+        "updated_at": "2026-11-13 23:20:23"
+    }
+]
