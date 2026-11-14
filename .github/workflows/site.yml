@@ -29,8 +29,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - name: Baixar o código
+      - name: Baixar o código (sempre a versão mais recente, mesmo se a execução ficou na fila)
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Instalar leitores de PDF e OCR (Tesseract em português)
         run: |
@@ -68,7 +70,8 @@ jobs:
             echo "Nada mudou no Drive nem na obra."
           else
             git commit -m "Atualização automática: $(TZ=America/Sao_Paulo date '+%d/%m/%Y %H:%M')"
-            git pull --rebase --autostash
+            # state/ só é escrito pelo robô: em caso de conflito, vale a versão desta execução (a mais nova)
+            git pull --rebase --autostash -X theirs
             git push
           fi
 
