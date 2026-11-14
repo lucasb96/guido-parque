@@ -1,0 +1,68 @@
+{
+    "obra_progress": {
+        "items": [
+            {
+                "label": "Mobiliz. Canteiro",
+                "pct": 100
+            },
+            {
+                "label": "Fundação",
+                "pct": 100
+            },
+            {
+                "label": "Estrutura",
+                "pct": 100
+            },
+            {
+                "label": "Alvenaria",
+                "pct": 100
+            },
+            {
+                "label": "Acabamento interno",
+                "pct": 96
+            },
+            {
+                "label": "Acabamento externo",
+                "pct": 99
+            },
+            {
+                "label": "Inst. Elétricas",
+                "pct": 100
+            },
+            {
+                "label": "Inst. Hidráulicas",
+                "pct": 99
+            },
+            {
+                "label": "Pintura",
+                "pct": 83
+            },
+            {
+                "label": "Serv. Complementares",
+                "pct": 94
+            }
+        ],
+        "average": 97.1,
+        "checked_at": "2026-11-13 23:53:54",
+        "changed_at": "2026-11-13 23:21:15",
+        "source": "https://cury.net/imovel/SP/zona-sul/guido-parque-nacoes-unidas"
+    },
+    "obra_progress_history": [
+        {
+            "date": "2026-11-13 23:21:15",
+            "items": {
+                "Mobiliz. Canteiro": 100,
+                "Fundação": 100,
+                "Estrutura": 100,
+                "Alvenaria": 100,
+                "Acabamento interno": 96,
+                "Acabamento externo": 99,
+                "Inst. Elétricas": 100,
+                "Inst. Hidráulicas": 99,
+                "Pintura": 83,
+                "Serv. Complementares": 94
+            },
+            "average": 97.1
+        }
+    ]
+}
