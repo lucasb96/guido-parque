@@ -7,7 +7,7 @@
  *
  * Ao publicar mudanças no CSS/JS/HTML, aumente a VERSION para os aparelhos baixarem a versão nova.
  */
-const VERSION = "v7-2026-11-13";
+const VERSION = "v8-2026-11-15";
 const SHELL_CACHE = `gp-shell-${VERSION}`;
 const DATA_CACHE = "gp-data";
 const IMG_CACHE = "gp-img";
