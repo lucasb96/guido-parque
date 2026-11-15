@@ -580,7 +580,7 @@
             "lon": -46.7251,
             "address": "Avenida Guido Caloi, 1987 - Jardim São Luís, São Paulo - SP, 05802-140"
         },
-        "updated_at": "2026-11-15 10:28:43",
+        "updated_at": "2026-11-15 10:31:42",
         "categories": [
             {
                 "id": "transporte",
@@ -1185,6 +1185,30 @@
                         "lon": -46.696044,
                         "dist": 2970,
                         "address": "Avenida Washington Luís, 945"
+                    },
+                    {
+                        "name": "Mangueiras Socorro",
+                        "kind": "Autopeças",
+                        "lat": -23.687808,
+                        "lon": -46.703246,
+                        "dist": 3864,
+                        "address": "Rua Doutor Luís Arrobas Martins, 129"
+                    },
+                    {
+                        "name": "B.A Motos",
+                        "kind": "Autopeças",
+                        "lat": -23.67031,
+                        "lon": -46.765487,
+                        "dist": 4288,
+                        "address": "Rua Comendador Antunes dos Santos, 840"
+                    },
+                    {
+                        "name": "Superlub",
+                        "kind": "Autopeças",
+                        "lat": -23.681045,
+                        "lon": -46.688688,
+                        "dist": 4421,
+                        "address": "Avenida Interlagos, 3668"
                     }
                 ]
             },

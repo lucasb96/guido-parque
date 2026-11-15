@@ -58,13 +58,17 @@ final class Places
     {
         $o = self::origin();
         [$lat, $lon] = [(float) $o['lat'], (float) $o['lon']];
-        $q = "[out:json][timeout:90];(
-            nwr[\"railway\"~\"^(station|halt)$\"][\"name\"](around:3500,$lat,$lon);
-            nwr[\"amenity\"=\"bus_station\"][\"name\"](around:3500,$lat,$lon);
+        // Raio por tipo: categorias densas (escolas, farmácias...) já têm muitos lugares a menos de 3 km;
+        // as escassas (shoppings, autopeças, hospitais...) buscam mais longe. A lista sempre mostra os mais próximos.
+        $q = "[out:json][timeout:120];(
+            nwr[\"railway\"~\"^(station|halt)$\"][\"name\"](around:5000,$lat,$lon);
+            nwr[\"amenity\"=\"bus_station\"][\"name\"](around:5000,$lat,$lon);
             node[\"highway\"=\"bus_stop\"](around:450,$lat,$lon);
-            nwr[\"shop\"~\"^(supermarket|wholesale|bakery|pet|car_parts|car_repair|tyres)$\"][\"name\"](around:3000,$lat,$lon);
-            nwr[\"shop\"=\"mall\"][\"name\"](around:7000,$lat,$lon);
-            nwr[\"amenity\"~\"^(pharmacy|hospital|clinic|school|kindergarten|university|college|fuel|bank|police|fire_station|post_office|veterinary)$\"][\"name\"](around:3000,$lat,$lon);
+            nwr[\"shop\"~\"^(supermarket|wholesale|bakery|pet)$\"][\"name\"](around:3000,$lat,$lon);
+            nwr[\"shop\"~\"^(car_parts|car_repair|tyres)$\"][\"name\"](around:6000,$lat,$lon);
+            nwr[\"shop\"=\"mall\"][\"name\"](around:10000,$lat,$lon);
+            nwr[\"amenity\"~\"^(pharmacy|clinic|school|kindergarten|fuel|bank|police|fire_station|post_office|veterinary)$\"][\"name\"](around:3000,$lat,$lon);
+            nwr[\"amenity\"~\"^(hospital|university|college)$\"][\"name\"](around:6000,$lat,$lon);
             nwr[\"leisure\"~\"^(park|fitness_centre)$\"][\"name\"](around:2500,$lat,$lon);
         );out center tags;";
 
