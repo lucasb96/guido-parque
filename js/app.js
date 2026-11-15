@@ -600,6 +600,145 @@
     }, 250);
   }
 
+  /* ---------------- O que tem perto (OpenStreetMap + Leaflet) ---------------- */
+  const PL = { cat: null, map: null, layer: null, markers: [], loading: null };
+
+  function placeTime(dist) {
+    // distância em linha reta × 1,3 (ruas não são retas); 80 m/min a pé, ~21 km/h de carro na cidade
+    const walk = Math.round((dist * 1.3) / 80);
+    if (walk <= 25) return { mode: "walking", icon: "footprints", text: `~${Math.max(1, walk)} min a pé` };
+    return { mode: "driving", icon: "car", text: `~${Math.max(3, Math.round((dist * 1.4) / 350))} min de carro` };
+  }
+  const fmtDist = (m) => (m < 1000 ? `${Math.round(m / 10) * 10} m` : `${(m / 1000).toFixed(1).replace(".", ",")} km`);
+
+  function renderPlaces() {
+    const P = D.places;
+    if (!P || !P.categories || !P.categories.length) return;
+    $("#arredores").hidden = false;
+    PL.cat = PL.cat || P.categories[0].id;
+    $("#place-tabs").innerHTML = P.categories
+      .map(
+        (c) => `<button type="button" class="filter ${c.id === PL.cat ? "active" : ""}" aria-pressed="${c.id === PL.cat}" data-place="${c.id}">
+          ${icon(c.icon)} ${escapeHtml(c.label)} <span class="count">${c.items.length}</span></button>`
+      )
+      .join("");
+    $("#place-select").innerHTML = P.categories
+      .map((c) => `<option value="${c.id}" ${c.id === PL.cat ? "selected" : ""}>${escapeHtml(c.label)} (${c.items.length})</option>`)
+      .join("");
+
+    const cat = P.categories.find((c) => c.id === PL.cat);
+    const origin = encodeURIComponent(P.origin.address);
+    $("#place-list").innerHTML = cat.items
+      .map((p, i) => {
+        const t = placeTime(p.dist);
+        const gmaps = `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${p.lat},${p.lon}&travelmode=${t.mode}`;
+        return `<li class="place" data-i="${i}">
+          <span class="place-n" aria-hidden="true">${i + 1}</span>
+          <div class="place-body">
+            <strong class="place-name">${escapeHtml(p.name)}</strong>
+            <span class="place-kind">${escapeHtml(p.kind)}${p.address ? ` · ${escapeHtml(p.address)}` : ""}</span>
+            <span class="place-dist">${icon("map-pin")} ${fmtDist(p.dist)} <span aria-hidden="true">·</span> ${icon(t.icon)} ${t.text}</span>
+          </div>
+          <a class="btn btn-sm btn-ghost place-go" href="${gmaps}" target="_blank" rel="noopener" aria-label="Como chegar a ${escapeHtml(p.name)}">
+            ${icon("navigation")} <span>Como chegar</span></a>
+        </li>`;
+      })
+      .join("");
+    $("#places-sub").textContent = `${cat.label}: os ${cat.items.length} mais próximos do condomínio, do mais perto ao mais longe.`;
+    updateMapMarkers();
+  }
+
+  function bindPlaces() {
+    if (!D.places) return;
+    const pick = (id) => {
+      PL.cat = id;
+      renderPlaces();
+    };
+    $("#place-tabs").addEventListener("click", (e) => {
+      const b = e.target.closest("[data-place]");
+      if (b) pick(b.dataset.place);
+    });
+    $("#place-select").addEventListener("change", (e) => pick(e.target.value));
+    // Clicar no lugar (fora do botão) centraliza no mapa
+    $("#place-list").addEventListener("click", (e) => {
+      if (e.target.closest("a")) return;
+      const li = e.target.closest(".place");
+      if (!li || !PL.map) return;
+      const m = PL.markers[+li.dataset.i];
+      if (m) {
+        PL.map.setView(m.getLatLng(), 16, { animate: SMOOTH === "smooth" });
+        m.openPopup();
+      }
+    });
+    // O mapa (Leaflet) só é carregado quando a seção aparece na tela, para não pesar a página
+    new IntersectionObserver(
+      (entries, obs) => {
+        if (entries.some((e) => e.isIntersecting)) {
+          obs.disconnect();
+          loadMap();
+        }
+      },
+      { rootMargin: "300px" }
+    ).observe($("#arredores"));
+  }
+
+  function loadMap() {
+    if (PL.loading) return PL.loading;
+    const css = document.createElement("link");
+    css.rel = "stylesheet";
+    css.href = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
+    css.integrity = "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=";
+    css.crossOrigin = "";
+    document.head.appendChild(css);
+    PL.loading = new Promise((resolve, reject) => {
+      const s = document.createElement("script");
+      s.src = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
+      s.integrity = "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=";
+      s.crossOrigin = "";
+      s.onload = resolve;
+      s.onerror = reject;
+      document.head.appendChild(s);
+    })
+      .then(() => {
+        const o = D.places.origin;
+        PL.map = L.map("place-map", { scrollWheelZoom: false, zoomControl: true }).setView([o.lat, o.lon], 14);
+        L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          maxZoom: 19,
+          attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        }).addTo(PL.map);
+        L.marker([o.lat, o.lon], {
+          icon: L.divIcon({ className: "pin-home", html: `<span>${icon("house")}</span>`, iconSize: [40, 40], iconAnchor: [20, 40] }),
+          zIndexOffset: 1000,
+          title: "Guido Parque Nações Unidas",
+        })
+          .addTo(PL.map)
+          .bindPopup("<strong>Guido Parque Nações Unidas</strong><br>Av. Guido Caloi, 1987 (localização aproximada)");
+        PL.layer = L.layerGroup().addTo(PL.map);
+        updateMapMarkers();
+      })
+      .catch(() => {
+        $("#place-map").innerHTML = `<p class="muted place-map-off">Não foi possível carregar o mapa agora. A lista ao lado continua funcionando.</p>`;
+      });
+    return PL.loading;
+  }
+
+  function updateMapMarkers() {
+    if (!PL.map || !window.L) return;
+    PL.layer.clearLayers();
+    const cat = D.places.categories.find((c) => c.id === PL.cat);
+    PL.markers = cat.items.map((p, i) =>
+      L.marker([p.lat, p.lon], {
+        icon: L.divIcon({ className: "pin-place", html: `<span>${i + 1}</span>`, iconSize: [28, 28], iconAnchor: [14, 14] }),
+        title: p.name,
+      })
+        .bindPopup(`<strong>${escapeHtml(p.name)}</strong><br>${escapeHtml(p.kind)}<br>${fmtDist(p.dist)} · ${placeTime(p.dist).text}`)
+        .addTo(PL.layer)
+    );
+    const o = D.places.origin;
+    const bounds = L.latLngBounds([[o.lat, o.lon], ...cat.items.map((p) => [p.lat, p.lon])]);
+    PL.map.fitBounds(bounds, { padding: [30, 30], maxZoom: 16 });
+  }
+
   /* ---------------- Acompanhamento da obra (site da Cury) ---------------- */
   function renderObra() {
     const o = D.obra;
@@ -1196,6 +1335,8 @@
   /* ---------------- Init ---------------- */
   renderStatus();
   renderObra();
+  renderPlaces();
+  bindPlaces();
   if (D.vendorSheet) $("#vendor-sheet-link").href = `https://docs.google.com/spreadsheets/d/${D.vendorSheet}/edit`;
   renderChips();
   const initialQ = new URLSearchParams(location.search).get("q");

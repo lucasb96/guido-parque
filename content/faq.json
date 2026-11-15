@@ -641,7 +641,7 @@
         "cat": "obra",
         "status": "oficial",
         "q": "Onde fica o empreendimento e o que tem por perto?",
-        "a": "<p><strong>Endereço:</strong> Avenida Guido Caloi, s/n, Santo Amaro, São Paulo/SP, CEP 05802-140.</p>\n<p><strong>Próximo a</strong> (segundo o material de lançamento):</p>\n<ul>\n<li><strong>Estação de metrô Santo Amaro</strong> (Linha 5-Lilás);</li>\n<li><strong>Terminal de ônibus Guido Caloi</strong> e <strong>Terminal Santo Amaro</strong>;</li>\n<li><strong>Shopping Fiesta</strong>, <strong>Assaí Atacadista</strong> e <strong>Poupatempo</strong>;</li>\n<li><strong>Universidade Cruzeiro do Sul</strong>.</li>\n</ul>\n<p><strong>Acesso fácil</strong> à Marginal Pinheiros, às avenidas Washington Luís, Guarapiranga, Santo Amaro e João Dias e ao Complexo Viário Nelson Paulino.</p>",
+        "a": "<p><strong>Endereço:</strong> Avenida Guido Caloi, 1987 – Jardim São Luís, São Paulo/SP, CEP 05802-140.</p>\n<p><strong>Próximo a</strong> (segundo o material de lançamento):</p>\n<ul>\n<li><strong>Estação de metrô Santo Amaro</strong> (Linha 5-Lilás);</li>\n<li><strong>Terminal de ônibus Guido Caloi</strong> e <strong>Terminal Santo Amaro</strong>;</li>\n<li><strong>Shopping Fiesta</strong>, <strong>Assaí Atacadista</strong> e <strong>Poupatempo</strong>;</li>\n<li><strong>Universidade Cruzeiro do Sul</strong>.</li>\n</ul>\n<p><strong>Acesso fácil</strong> à Marginal Pinheiros, às avenidas Washington Luís, Guarapiranga, Santo Amaro e João Dias e ao Complexo Viário Nelson Paulino.</p><p>Veja no <a href=\"#arredores\">mapa do que tem perto</a> as distâncias até metrô, ônibus, mercados, escolas, saúde e outros, com botão de rota.</p>",
         "tags": [
             "endereço",
             "localização",
@@ -660,7 +660,7 @@
         ],
         "sort": 29,
         "published": 1,
-        "updated_at": "2026-11-13 23:18:00"
+        "updated_at": "2026-11-15 09:57:56"
     },
     {
         "id": "tamanhos",

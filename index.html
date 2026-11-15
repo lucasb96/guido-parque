@@ -59,6 +59,7 @@
         <a href="#checklist">Checklist</a>
         <a href="#fornecedores">Fornecedores</a>
         <a href="#obra" class="nav-extra">Andamento da obra</a>
+        <a href="#arredores" class="nav-extra">O que tem perto</a>
         <a href="#galeria" class="nav-extra">Fotos e vídeos</a>
         <a href="#glossario" class="nav-extra">Glossário</a>
         <a href="#documentos">Documentos</a>
@@ -175,6 +176,32 @@
         </div>
       </div>
       <div class="amenity-grid" id="amenities"></div>
+    </section>
+
+    <!-- ARREDORES (OpenStreetMap) -->
+    <section id="arredores" class="section" hidden>
+      <div class="section-head">
+        <div>
+          <h2>O que tem perto</h2>
+          <p class="section-sub" id="places-sub">Transporte, mercados, escolas, saúde e serviços ao redor do condomínio.</p>
+        </div>
+      </div>
+      <div class="place-tabs" id="place-tabs" role="group" aria-label="Tipo de lugar"></div>
+      <div class="cat-select-wrap place-select-wrap">
+        <label for="place-select">Tipo de lugar</label>
+        <div class="cat-select">
+          <select id="place-select"></select>
+          <svg class="ico" aria-hidden="true"><use href="img/icons.svg#i-map-pin"/></svg>
+        </div>
+      </div>
+      <div class="places-layout">
+        <ol class="place-list" id="place-list"></ol>
+        <div class="place-map-wrap">
+          <div class="place-map" id="place-map" role="region" aria-label="Mapa dos lugares próximos"></div>
+          <p class="place-note">Distâncias em linha reta a partir do condomínio; os tempos são estimativas.
+            Dados © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">colaboradores do OpenStreetMap</a>.</p>
+        </div>
+      </div>
     </section>
 
     <!-- CHECKLIST -->

@@ -573,5 +573,880 @@
         }
     },
     "updated_at": "13/11/2026",
-    "vendor_sheet_id": "1hx0xeP9tdHQtO3RSPLBWLGMSjntcshE3xMD48vyZR_I"
+    "vendor_sheet_id": "1hx0xeP9tdHQtO3RSPLBWLGMSjntcshE3xMD48vyZR_I",
+    "places": {
+        "origin": {
+            "lat": -23.6594,
+            "lon": -46.7251,
+            "address": "Avenida Guido Caloi, 1987 - Jardim São Luís, São Paulo - SP, 05802-140"
+        },
+        "updated_at": "2026-11-15 09:58:56",
+        "categories": [
+            {
+                "id": "transporte",
+                "label": "Metrô e trem",
+                "icon": "train-front",
+                "items": [
+                    {
+                        "name": "Santo Amaro",
+                        "kind": "Metrô · ViaMobilidade Linhas 5 e 17",
+                        "lat": -23.655655,
+                        "lon": -46.720973,
+                        "dist": 592
+                    },
+                    {
+                        "name": "Santo Amaro",
+                        "kind": "Trem · ViaMobilidade Linhas 8 e 9",
+                        "lat": -23.65623,
+                        "lon": -46.719116,
+                        "dist": 704
+                    },
+                    {
+                        "name": "Socorro",
+                        "kind": "Trem · ViaMobilidade Linhas 8 e 9",
+                        "lat": -23.663262,
+                        "lon": -46.710956,
+                        "dist": 1503
+                    },
+                    {
+                        "name": "Largo Treze",
+                        "kind": "Metrô · ViaMobilidade Linhas 5 e 17",
+                        "lat": -23.654458,
+                        "lon": -46.710166,
+                        "dist": 1617
+                    },
+                    {
+                        "name": "Giovanni Gronchi",
+                        "kind": "Metrô · ViaMobilidade Linhas 5 e 17",
+                        "lat": -23.64393,
+                        "lon": -46.733983,
+                        "dist": 1944
+                    },
+                    {
+                        "name": "João Dias",
+                        "kind": "Trem · ViaMobilidade Linhas 8 e 9",
+                        "lat": -23.639923,
+                        "lon": -46.723509,
+                        "dist": 2172
+                    }
+                ]
+            },
+            {
+                "id": "onibus",
+                "label": "Ônibus",
+                "icon": "bus",
+                "items": [
+                    {
+                        "name": "Avenida Guido Caloi, 1864",
+                        "kind": "Ponto de ônibus",
+                        "lat": -23.660084,
+                        "lon": -46.725441,
+                        "dist": 84
+                    },
+                    {
+                        "name": "Avenida Guido Caloi, 1901",
+                        "kind": "Ponto de ônibus",
+                        "lat": -23.660814,
+                        "lon": -46.725477,
+                        "dist": 162
+                    },
+                    {
+                        "name": "Avenida Guido Caloi, 2231",
+                        "kind": "Ponto de ônibus",
+                        "lat": -23.655552,
+                        "lon": -46.724179,
+                        "dist": 438
+                    },
+                    {
+                        "name": "Terminal Guido Caloi",
+                        "kind": "Terminal de ônibus",
+                        "lat": -23.655547,
+                        "lon": -46.722523,
+                        "dist": 502
+                    },
+                    {
+                        "name": "Terminal Santo Amaro",
+                        "kind": "Terminal de ônibus",
+                        "lat": -23.654434,
+                        "lon": -46.713077,
+                        "dist": 1343
+                    },
+                    {
+                        "name": "Terminal Guarapiranga",
+                        "kind": "Terminal de ônibus",
+                        "lat": -23.66823,
+                        "lon": -46.735336,
+                        "dist": 1432
+                    },
+                    {
+                        "name": "Estação de Transferência Vitor Manzini",
+                        "kind": "Terminal de ônibus",
+                        "lat": -23.662548,
+                        "lon": -46.706819,
+                        "dist": 1895
+                    },
+                    {
+                        "name": "Terminal João Dias",
+                        "kind": "Terminal de ônibus",
+                        "lat": -23.643723,
+                        "lon": -46.733934,
+                        "dist": 1962
+                    }
+                ]
+            },
+            {
+                "id": "mercado",
+                "label": "Mercados",
+                "icon": "shopping-cart",
+                "items": [
+                    {
+                        "name": "Tenda Atacadista",
+                        "kind": "Atacadista",
+                        "lat": -23.665708,
+                        "lon": -46.722667,
+                        "dist": 744,
+                        "address": "Avenida Guarapiranga, 900"
+                    },
+                    {
+                        "name": "Supermercado Mais Brasil",
+                        "kind": "Supermercado",
+                        "lat": -23.658556,
+                        "lon": -46.736264,
+                        "dist": 1141,
+                        "address": "Rua Nova do Tuparoquera, 1653"
+                    },
+                    {
+                        "name": "Loja Multiprat-k",
+                        "kind": "Supermercado",
+                        "lat": -23.658405,
+                        "lon": -46.736946,
+                        "dist": 1212,
+                        "address": "Rua Nova do Tuparoquera, 32"
+                    },
+                    {
+                        "name": "Assaí Atacadista",
+                        "kind": "Supermercado",
+                        "lat": -23.646559,
+                        "lon": -46.728834,
+                        "dist": 1478,
+                        "address": "Avenida Guido Calói"
+                    },
+                    {
+                        "name": "Atacadão",
+                        "kind": "Supermercado",
+                        "lat": -23.668436,
+                        "lon": -46.736344,
+                        "dist": 1523,
+                        "address": "Estrada M'Boi Mirim, 380"
+                    },
+                    {
+                        "name": "Sam's Club",
+                        "kind": "Atacadista",
+                        "lat": -23.661088,
+                        "lon": -46.709391,
+                        "dist": 1611,
+                        "address": "Rua Benedito Fernandes, 270"
+                    },
+                    {
+                        "name": "Mark Bom",
+                        "kind": "Supermercado",
+                        "lat": -23.670161,
+                        "lon": -46.739805,
+                        "dist": 1917
+                    },
+                    {
+                        "name": "Carrefour",
+                        "kind": "Supermercado",
+                        "lat": -23.642007,
+                        "lon": -46.734519,
+                        "dist": 2159,
+                        "address": "Avenida Alberto Augusto Alves, 50"
+                    }
+                ]
+            },
+            {
+                "id": "farmacia",
+                "label": "Farmácias",
+                "icon": "pill",
+                "items": [
+                    {
+                        "name": "Drogaria Nova São Luiz",
+                        "kind": "Farmácia",
+                        "lat": -23.657681,
+                        "lon": -46.736241,
+                        "dist": 1151
+                    },
+                    {
+                        "name": "Drogaria São Paulo",
+                        "kind": "Farmácia",
+                        "lat": -23.652469,
+                        "lon": -46.734146,
+                        "dist": 1201,
+                        "address": "Avenida Maria Coelho Aguiar, 920"
+                    },
+                    {
+                        "name": "Drogaria Salvador",
+                        "kind": "Farmácia",
+                        "lat": -23.667587,
+                        "lon": -46.738071,
+                        "dist": 1604
+                    },
+                    {
+                        "name": "Drogaria Campeã",
+                        "kind": "Farmácia",
+                        "lat": -23.654228,
+                        "lon": -46.707642,
+                        "dist": 1869,
+                        "address": "Avenida Padre José Maria, 39"
+                    },
+                    {
+                        "name": "Pense Farma",
+                        "kind": "Farmácia",
+                        "lat": -23.671778,
+                        "lon": -46.742047,
+                        "dist": 2208
+                    },
+                    {
+                        "name": "Muyu Farma",
+                        "kind": "Farmácia",
+                        "lat": -23.672133,
+                        "lon": -46.742825,
+                        "dist": 2294
+                    }
+                ]
+            },
+            {
+                "id": "saude",
+                "label": "Saúde",
+                "icon": "hospital",
+                "items": [
+                    {
+                        "name": "UBS Novo Caminho",
+                        "kind": "UBS (posto de saúde)",
+                        "lat": -23.656169,
+                        "lon": -46.735608,
+                        "dist": 1129,
+                        "address": "Rua Antônio da Mata Junior, 943"
+                    },
+                    {
+                        "name": "UBS Novo Jardim I",
+                        "kind": "UBS (posto de saúde)",
+                        "lat": -23.665415,
+                        "lon": -46.735754,
+                        "dist": 1275,
+                        "address": "Rua Philippe de Vitry, 282"
+                    },
+                    {
+                        "name": "Unidade Básica de Saúde Jardim Ibirapuera",
+                        "kind": "UBS (posto de saúde)",
+                        "lat": -23.666661,
+                        "lon": -46.736559,
+                        "dist": 1419
+                    },
+                    {
+                        "name": "UBS Jardim Celeste",
+                        "kind": "UBS (posto de saúde)",
+                        "lat": -23.656671,
+                        "lon": -46.741438,
+                        "dist": 1691,
+                        "address": "Rua João Fernandez Camisa Nova Júnior, 865"
+                    },
+                    {
+                        "name": "Clínica Fares",
+                        "kind": "Clínica / ambulatório",
+                        "lat": -23.652735,
+                        "lon": -46.709223,
+                        "dist": 1779
+                    },
+                    {
+                        "name": "Hospital Alvorada",
+                        "kind": "Hospital",
+                        "lat": -23.65043,
+                        "lon": -46.709634,
+                        "dist": 1864
+                    },
+                    {
+                        "name": "AMA Jardim São Luís",
+                        "kind": "Clínica / ambulatório",
+                        "lat": -23.660823,
+                        "lon": -46.743825,
+                        "dist": 1914
+                    },
+                    {
+                        "name": "Medsul",
+                        "kind": "Clínica / ambulatório",
+                        "lat": -23.651111,
+                        "lon": -46.708612,
+                        "dist": 1916
+                    },
+                    {
+                        "name": "Hospital Regional Sul",
+                        "kind": "Hospital",
+                        "lat": -23.655421,
+                        "lon": -46.705881,
+                        "dist": 2007,
+                        "address": "Rua General Roberto Alves de Carvalho Filho, 270"
+                    },
+                    {
+                        "name": "Dr. Rubens Yoshida",
+                        "kind": "Clínica / ambulatório",
+                        "lat": -23.671928,
+                        "lon": -46.740773,
+                        "dist": 2119
+                    }
+                ]
+            },
+            {
+                "id": "escola",
+                "label": "Escolas",
+                "icon": "school",
+                "items": [
+                    {
+                        "name": "E.E. Comendador Alfredo Vianello Gregório",
+                        "kind": "Escola estadual",
+                        "lat": -23.664964,
+                        "lon": -46.730766,
+                        "dist": 846,
+                        "address": "Rua Felipe de Veras, S/N"
+                    },
+                    {
+                        "name": "E. E. Inspetor Raimundo Serafim de Lima",
+                        "kind": "Escola estadual",
+                        "lat": -23.660906,
+                        "lon": -46.736033,
+                        "dist": 1126
+                    },
+                    {
+                        "name": "Colégio Elias Zarzur",
+                        "kind": "Escola",
+                        "lat": -23.668759,
+                        "lon": -46.729761,
+                        "dist": 1144
+                    },
+                    {
+                        "name": "Instituto de Ensino São Francisco de Assis",
+                        "kind": "Escola",
+                        "lat": -23.65788,
+                        "lon": -46.736749,
+                        "dist": 1198,
+                        "address": "Rua Nova do Tuparoquera, 70"
+                    },
+                    {
+                        "name": "EMEI Julita",
+                        "kind": "Educação infantil",
+                        "lat": -23.660127,
+                        "lon": -46.739061,
+                        "dist": 1424
+                    },
+                    {
+                        "name": "Nossa Sra. Aparecida",
+                        "kind": "Escola",
+                        "lat": -23.667618,
+                        "lon": -46.738169,
+                        "dist": 1614
+                    },
+                    {
+                        "name": "Escola Estadual Paulo Eiró",
+                        "kind": "Escola estadual",
+                        "lat": -23.653651,
+                        "lon": -46.709719,
+                        "dist": 1692,
+                        "address": "Avenida Padre José Maria, 210"
+                    },
+                    {
+                        "name": "Escola Estadual Reverendo Jaques Orlando Caminha D'Ávila",
+                        "kind": "Escola estadual",
+                        "lat": -23.658386,
+                        "lon": -46.742329,
+                        "dist": 1758,
+                        "address": "Rua Antônio Ramos Rosa, 100"
+                    },
+                    {
+                        "name": "Escola Uniart",
+                        "kind": "Escola",
+                        "lat": -23.655695,
+                        "lon": -46.708245,
+                        "dist": 1765,
+                        "address": "Rua da Matriz, 207"
+                    },
+                    {
+                        "name": "Colégio Savioli",
+                        "kind": "Escola",
+                        "lat": -23.669217,
+                        "lon": -46.73947,
+                        "dist": 1826,
+                        "address": "Rua Bartolomeu Bejarano, 103"
+                    },
+                    {
+                        "name": "E.M.E.F. Profª Anna Silveira Pedreira",
+                        "kind": "Escola municipal",
+                        "lat": -23.666462,
+                        "lon": -46.741862,
+                        "dist": 1879
+                    },
+                    {
+                        "name": "CEI Indir Monte Azul",
+                        "kind": "Escola municipal",
+                        "lat": -23.645867,
+                        "lon": -46.736788,
+                        "dist": 1919,
+                        "address": "Avenida Tomás de Sousa, 874"
+                    }
+                ]
+            },
+            {
+                "id": "faculdade",
+                "label": "Faculdades",
+                "icon": "graduation-cap",
+                "items": [
+                    {
+                        "name": "FATEC Zona Sul",
+                        "kind": "Ensino superior / técnico",
+                        "lat": -23.662449,
+                        "lon": -46.72924,
+                        "dist": 541,
+                        "address": "Rua Frederico Grotte, 322"
+                    },
+                    {
+                        "name": "Universidade Cruzeiro do Sul",
+                        "kind": "Ensino superior / técnico",
+                        "lat": -23.656026,
+                        "lon": -46.717952,
+                        "dist": 819
+                    },
+                    {
+                        "name": "Escola SENAI Suíço-Brasileira",
+                        "kind": "Ensino superior / técnico",
+                        "lat": -23.648017,
+                        "lon": -46.721683,
+                        "dist": 1313,
+                        "address": "Rua Bento Branco de Andrade Filho, 379"
+                    },
+                    {
+                        "name": "Universidade Federal de São Paulo - Campus Avançado de Extensão Universitária Santo Amaro",
+                        "kind": "Ensino superior / técnico",
+                        "lat": -23.655102,
+                        "lon": -46.712635,
+                        "dist": 1357,
+                        "address": "Avenida Padre José Maria, 545"
+                    },
+                    {
+                        "name": "Escola Senai Ary Torres",
+                        "kind": "Ensino superior / técnico",
+                        "lat": -23.652191,
+                        "lon": -46.712724,
+                        "dist": 1494,
+                        "address": "Rua Amador Bueno, 504"
+                    },
+                    {
+                        "name": "Centro Universitário Nove de Julho - Uninove",
+                        "kind": "Ensino superior / técnico",
+                        "lat": -23.653247,
+                        "lon": -46.711572,
+                        "dist": 1538,
+                        "address": "Rua Amador Bueno, 389"
+                    }
+                ]
+            },
+            {
+                "id": "padaria",
+                "label": "Padarias",
+                "icon": "croissant",
+                "items": [
+                    {
+                        "name": "Padaria Cruzeiro",
+                        "kind": "Padaria",
+                        "lat": -23.661456,
+                        "lon": -46.736053,
+                        "dist": 1139
+                    },
+                    {
+                        "name": "Villa Real",
+                        "kind": "Padaria",
+                        "lat": -23.667872,
+                        "lon": -46.738044,
+                        "dist": 1620
+                    },
+                    {
+                        "name": "Norma",
+                        "kind": "Padaria",
+                        "lat": -23.672189,
+                        "lon": -46.744302,
+                        "dist": 2418
+                    },
+                    {
+                        "name": "Boa Sorte Padaria",
+                        "kind": "Padaria",
+                        "lat": -23.661205,
+                        "lon": -46.748985,
+                        "dist": 2441,
+                        "address": "Rua Antônio Ramos Rosa, 5000"
+                    },
+                    {
+                        "name": "Gêmel",
+                        "kind": "Padaria",
+                        "lat": -23.650997,
+                        "lon": -46.699796,
+                        "dist": 2741
+                    }
+                ]
+            },
+            {
+                "id": "posto",
+                "label": "Postos",
+                "icon": "fuel",
+                "items": [
+                    {
+                        "name": "Shell",
+                        "kind": "Posto de combustível",
+                        "lat": -23.655396,
+                        "lon": -46.724513,
+                        "dist": 449
+                    },
+                    {
+                        "name": "POSTO SHELL - AUTO POSTO CARLU LTDA",
+                        "kind": "Posto de combustível",
+                        "lat": -23.657037,
+                        "lon": -46.717135,
+                        "dist": 853,
+                        "address": "Avenida Nações Unidas, 19467"
+                    },
+                    {
+                        "name": "Ipiranga",
+                        "kind": "Posto de combustível",
+                        "lat": -23.667695,
+                        "lon": -46.72927,
+                        "dist": 1015,
+                        "address": "Avenida Guarapiranga"
+                    },
+                    {
+                        "name": "Shell",
+                        "kind": "Posto de combustível",
+                        "lat": -23.650086,
+                        "lon": -46.726352,
+                        "dist": 1044
+                    },
+                    {
+                        "name": "Ipiranga",
+                        "kind": "Posto de combustível",
+                        "lat": -23.666076,
+                        "lon": -46.71759,
+                        "dist": 1066,
+                        "address": "Avenida Guarapiranga, 500"
+                    },
+                    {
+                        "name": "Posto Sirvase",
+                        "kind": "Posto de combustível",
+                        "lat": -23.665782,
+                        "lon": -46.714781,
+                        "dist": 1268,
+                        "address": "Avenida Guarapiranga, 280"
+                    }
+                ]
+            },
+            {
+                "id": "banco",
+                "label": "Bancos",
+                "icon": "landmark",
+                "items": [
+                    {
+                        "name": "Caixa Econômica Federal",
+                        "kind": "Banco",
+                        "lat": -23.66751,
+                        "lon": -46.731622,
+                        "dist": 1120
+                    },
+                    {
+                        "name": "Caixa Econômica Federal",
+                        "kind": "Banco",
+                        "lat": -23.653153,
+                        "lon": -46.73587,
+                        "dist": 1298,
+                        "address": "Rua Arlindo Fraga de Oliveira, 5"
+                    },
+                    {
+                        "name": "Bradesco",
+                        "kind": "Banco",
+                        "lat": -23.67054,
+                        "lon": -46.738412,
+                        "dist": 1836
+                    },
+                    {
+                        "name": "Itaú",
+                        "kind": "Banco",
+                        "lat": -23.651773,
+                        "lon": -46.70864,
+                        "dist": 1879
+                    },
+                    {
+                        "name": "Banco Santander",
+                        "kind": "Banco",
+                        "lat": -23.651672,
+                        "lon": -46.708635,
+                        "dist": 1884
+                    },
+                    {
+                        "name": "Bradesco",
+                        "kind": "Banco",
+                        "lat": -23.651974,
+                        "lon": -46.708206,
+                        "dist": 1909
+                    }
+                ]
+            },
+            {
+                "id": "shopping",
+                "label": "Shoppings",
+                "icon": "shopping-bag",
+                "items": [
+                    {
+                        "name": "Shopping Fiesta",
+                        "kind": "Shopping",
+                        "lat": -23.664803,
+                        "lon": -46.72168,
+                        "dist": 694,
+                        "address": "Avenida Guarapiranga, 752"
+                    },
+                    {
+                        "name": "Mais Shopping",
+                        "kind": "Shopping",
+                        "lat": -23.653164,
+                        "lon": -46.710232,
+                        "dist": 1666,
+                        "address": "Rua Amador Bueno, 229"
+                    },
+                    {
+                        "name": "Shopping Center Santo Amaro",
+                        "kind": "Shopping",
+                        "lat": -23.653075,
+                        "lon": -46.705416,
+                        "dist": 2125,
+                        "address": "Avenida Adolfo Pinheiro"
+                    },
+                    {
+                        "name": "BuscaBusca Santo Amaro",
+                        "kind": "Shopping",
+                        "lat": -23.651827,
+                        "lon": -46.704974,
+                        "dist": 2216,
+                        "address": "Avenida Adolfo Pinheiro, 104"
+                    },
+                    {
+                        "name": "Galeria 13 - Centro de Compras",
+                        "kind": "Shopping",
+                        "lat": -23.655052,
+                        "lon": -46.702818,
+                        "dist": 2320,
+                        "address": "Rua Barão de Duprat, 250"
+                    }
+                ]
+            },
+            {
+                "id": "parque",
+                "label": "Parques e praças",
+                "icon": "trees",
+                "items": [
+                    {
+                        "name": "Parque Novamérica",
+                        "kind": "Parque / praça",
+                        "lat": -23.652511,
+                        "lon": -46.720927,
+                        "dist": 876
+                    },
+                    {
+                        "name": "Praça da Gêmeas",
+                        "kind": "Parque / praça",
+                        "lat": -23.664149,
+                        "lon": -46.733767,
+                        "dist": 1029
+                    },
+                    {
+                        "name": "Praça Fuad Elias Nauphal",
+                        "kind": "Parque / praça",
+                        "lat": -23.651106,
+                        "lon": -46.720199,
+                        "dist": 1049
+                    },
+                    {
+                        "name": "Praça Aurélio Bracciali",
+                        "kind": "Parque / praça",
+                        "lat": -23.668111,
+                        "lon": -46.719896,
+                        "dist": 1104
+                    },
+                    {
+                        "name": "Praça Cesar Moreira",
+                        "kind": "Parque / praça",
+                        "lat": -23.654401,
+                        "lon": -46.715267,
+                        "dist": 1145
+                    },
+                    {
+                        "name": "Praça Orestes Quercia",
+                        "kind": "Parque / praça",
+                        "lat": -23.649534,
+                        "lon": -46.728412,
+                        "dist": 1148,
+                        "address": "Avenida Maria Coelho Aguiar, 215"
+                    },
+                    {
+                        "name": "Praça Manoel Ferreira Simões",
+                        "kind": "Parque / praça",
+                        "lat": -23.653079,
+                        "lon": -46.734194,
+                        "dist": 1163
+                    },
+                    {
+                        "name": "Praça Jorge Veiga",
+                        "kind": "Parque / praça",
+                        "lat": -23.670253,
+                        "lon": -46.719227,
+                        "dist": 1347
+                    }
+                ]
+            },
+            {
+                "id": "academia",
+                "label": "Academias",
+                "icon": "dumbbell",
+                "items": [
+                    {
+                        "name": "B12 Academia",
+                        "kind": "Academia",
+                        "lat": -23.66835,
+                        "lon": -46.732383,
+                        "dist": 1241
+                    },
+                    {
+                        "name": "Ferreros Gym",
+                        "kind": "Academia",
+                        "lat": -23.669995,
+                        "lon": -46.740279,
+                        "dist": 1944
+                    },
+                    {
+                        "name": "Smart Fit",
+                        "kind": "Academia",
+                        "lat": -23.642943,
+                        "lon": -46.734353,
+                        "dist": 2058
+                    },
+                    {
+                        "name": "B12 Academia",
+                        "kind": "Academia",
+                        "lat": -23.671798,
+                        "lon": -46.742147,
+                        "dist": 2217
+                    },
+                    {
+                        "name": "Califórnia",
+                        "kind": "Academia",
+                        "lat": -23.678505,
+                        "lon": -46.734648,
+                        "dist": 2336
+                    }
+                ]
+            },
+            {
+                "id": "pet",
+                "label": "Pet e veterinário",
+                "icon": "paw-print",
+                "items": [
+                    {
+                        "name": "Cobasi",
+                        "kind": "Pet shop",
+                        "lat": -23.657536,
+                        "lon": -46.71599,
+                        "dist": 951
+                    },
+                    {
+                        "name": "Pet Shop Imaginação",
+                        "kind": "Pet shop",
+                        "lat": -23.667934,
+                        "lon": -46.731203,
+                        "dist": 1134
+                    },
+                    {
+                        "name": "Casa de Rações M'Boi Mirim",
+                        "kind": "Pet shop",
+                        "lat": -23.669782,
+                        "lon": -46.736051,
+                        "dist": 1605,
+                        "address": "Estrada do M'Boi Mirim"
+                    },
+                    {
+                        "name": "Morada dos Pássaros",
+                        "kind": "Pet shop",
+                        "lat": -23.667696,
+                        "lon": -46.738049,
+                        "dist": 1609
+                    },
+                    {
+                        "name": "Pata Vet",
+                        "kind": "Veterinário",
+                        "lat": -23.669712,
+                        "lon": -46.739988,
+                        "dist": 1901,
+                        "address": "Rua Teodósio de Matos"
+                    },
+                    {
+                        "name": "Pata Pet",
+                        "kind": "Pet shop",
+                        "lat": -23.670515,
+                        "lon": -46.740111,
+                        "dist": 1966
+                    }
+                ]
+            },
+            {
+                "id": "servicos",
+                "label": "Segurança e serviços",
+                "icon": "shield",
+                "items": [
+                    {
+                        "name": "Polícia Militar",
+                        "kind": "Polícia",
+                        "lat": -23.651583,
+                        "lon": -46.716205,
+                        "dist": 1256
+                    },
+                    {
+                        "name": "Polícia Militar",
+                        "kind": "Polícia",
+                        "lat": -23.652954,
+                        "lon": -46.737002,
+                        "dist": 1408
+                    },
+                    {
+                        "name": "Polícia Militar",
+                        "kind": "Polícia",
+                        "lat": -23.669372,
+                        "lon": -46.733991,
+                        "dist": 1432
+                    },
+                    {
+                        "name": "CEE Santo Amaro",
+                        "kind": "Correios",
+                        "lat": -23.650249,
+                        "lon": -46.713308,
+                        "dist": 1574
+                    },
+                    {
+                        "name": "Polícia Militar",
+                        "kind": "Polícia",
+                        "lat": -23.658742,
+                        "lon": -46.7075,
+                        "dist": 1794
+                    },
+                    {
+                        "name": "PM",
+                        "kind": "Polícia",
+                        "lat": -23.642958,
+                        "lon": -46.71952,
+                        "dist": 1915
+                    }
+                ]
+            }
+        ]
+    }
 }

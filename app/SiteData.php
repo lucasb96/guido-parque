@@ -84,6 +84,7 @@ final class SiteData
             'obra' => setting('obra_progress'),
             'obraHistory' => array_slice(setting('obra_progress_history', []), -2),
             'gallery' => ['albums' => $albums],
+            'places' => setting('places'),
         ];
     }
 

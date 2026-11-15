@@ -265,6 +265,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             set_setting('vendor_sheet_id', trim((string) $_POST['vendor_sheet_id']) ?: null);
             flash('Configurações salvas.');
             redirect('p=settings');
+
+        case 'places_update':
+            $lat = (float) str_replace(',', '.', (string) ($_POST['lat'] ?? ''));
+            $lon = (float) str_replace(',', '.', (string) ($_POST['lon'] ?? ''));
+            if ($lat < -34 || $lat > 6 || $lon < -74 || $lon > -34) { flash('Coordenadas inválidas (devem estar no Brasil).', 'err'); redirect('p=settings'); }
+            set_setting('places_origin', ['lat' => $lat, 'lon' => $lon, 'address' => trim((string) $_POST['address']) ?: Places::DEFAULT_ORIGIN['address']]);
+            @set_time_limit(300);
+            try {
+                $p = Places::update();
+                $n = array_sum(array_map(fn ($c) => count($c['items']), $p['categories']));
+                flash("Arredores atualizados: $n lugares em " . count($p['categories']) . ' categorias. Clique em "Publicar alterações" para enviar ao site.');
+            } catch (Throwable $e) {
+                flash($e->getMessage(), 'err');
+            }
+            redirect('p=settings');
     }
 }
 
@@ -663,6 +678,24 @@ case 'settings':
         <h3>Pastas monitoradas</h3>
         <ul class="small"><?php foreach ((array) config('drive_folders', []) as $id): ?><li><a href="https://drive.google.com/drive/folders/<?= h($id) ?>" target="_blank" rel="noopener"><?= h($id) ?></a></li><?php endforeach; ?></ul>
         <p class="small muted">Para incluir outras pastas, edite <code>drive_folders</code> em <code>app/config.php</code>. As pastas precisam estar compartilhadas como "Qualquer pessoa com o link".</p>
+    </section>
+
+    <?php $origin = Places::origin(); $places = setting('places'); ?>
+    <section class="box">
+        <h2>Arredores (o que tem perto)</h2>
+        <p class="small muted">Lugares próximos vindos do OpenStreetMap: metrô, ônibus, mercados, escolas, saúde etc.
+            Como os servidores públicos pedem uso ocasional, a atualização é manual. Uma vez por mês já basta.
+            <?php if ($places): ?>Última atualização: <strong><?= h(fmt_date($places['updated_at'])) ?></strong>.<?php endif; ?></p>
+        <form method="post" class="form">
+            <?= csrf_field() ?><input type="hidden" name="action" value="places_update">
+            <label>Endereço (usado no "Como chegar" do Google Maps)<input name="address" value="<?= h($origin['address']) ?>"></label>
+            <div class="grid2">
+                <label>Latitude do ponto de origem<input name="lat" value="<?= h((string) $origin['lat']) ?>" inputmode="decimal"></label>
+                <label>Longitude do ponto de origem<input name="lon" value="<?= h((string) $origin['lon']) ?>" inputmode="decimal"></label>
+            </div>
+            <p class="small muted">Dica: no Google Maps, clique com o botão direito no portão do condomínio e copie as coordenadas (ex.: <code>-23.6594, -46.7251</code>).</p>
+            <div class="actions"><button class="btn" onclick="this.disabled=true;this.textContent='Consultando o OpenStreetMap… (até 2 min)';this.form.submit()">Atualizar arredores</button></div>
+        </form>
     </section>
     <?php
     break;

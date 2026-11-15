@@ -22,6 +22,7 @@ require __DIR__ . '/Search.php';
 require __DIR__ . '/CuryProgress.php';
 require __DIR__ . '/Store.php';
 require __DIR__ . '/SiteData.php';
+require __DIR__ . '/Places.php';
 
 function config(string $key, $default = null)
 {
