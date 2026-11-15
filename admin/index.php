@@ -252,7 +252,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         case 'advanced_save':
             $key = (string) $_POST['key'];
-            $allowed = ['stats', 'amenities', 'checklist', 'glossary', 'quick_searches', 'categories'];
+            $allowed = ['stats', 'amenities', 'checklist', 'glossary', 'quick_searches', 'categories', 'places_pinned'];
             $val = json_decode((string) $_POST['json'], true);
             if (!in_array($key, $allowed, true)) { flash('Item inválido.', 'err'); redirect('p=advanced'); }
             if (!is_array($val)) { flash('JSON inválido: ' . json_last_error_msg(), 'err'); redirect('p=advanced&k=' . $key); }
@@ -639,9 +639,10 @@ case 'content':
 /* ------------------------------------------------------------------ */
 case 'advanced':
     $labels = ['stats' => 'Números', 'amenities' => 'Lazer', 'checklist' => 'Checklist da vistoria', 'glossary' => 'Glossário',
-        'quick_searches' => 'Buscas rápidas', 'categories' => 'Categorias'];
+        'quick_searches' => 'Buscas rápidas', 'categories' => 'Categorias', 'places_pinned' => 'Locais fixos'];
     $k = $_GET['k'] ?? 'amenities';
     if (!isset($labels[$k])) $k = 'amenities';
+    if ($k === 'places_pinned' && setting('places_pinned') === null) set_setting('places_pinned', Places::pinned());
     ?>
     <section class="box">
         <h2>Conteúdo avançado</h2>

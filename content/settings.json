@@ -580,7 +580,7 @@
             "lon": -46.7251,
             "address": "Avenida Guido Caloi, 1987 - Jardim São Luís, São Paulo - SP, 05802-140"
         },
-        "updated_at": "2026-11-15 09:58:56",
+        "updated_at": "2026-11-15 10:28:43",
         "categories": [
             {
                 "id": "transporte",
@@ -1145,6 +1145,114 @@
                 ]
             },
             {
+                "id": "autopecas",
+                "label": "Autopeças",
+                "icon": "cog",
+                "items": [
+                    {
+                        "name": "AutoZone",
+                        "kind": "Autopeças",
+                        "lat": -23.66702,
+                        "lon": -46.721094,
+                        "dist": 940,
+                        "address": "Avenida Guarapiranga"
+                    },
+                    {
+                        "name": "Lino Peças",
+                        "kind": "Autopeças",
+                        "lat": -23.668049,
+                        "lon": -46.730933,
+                        "dist": 1130
+                    },
+                    {
+                        "name": "Real Baterias",
+                        "kind": "Autopeças",
+                        "lat": -23.667962,
+                        "lon": -46.731128,
+                        "dist": 1133
+                    },
+                    {
+                        "name": "Piraporinha Auto Peças",
+                        "kind": "Autopeças",
+                        "lat": -23.673349,
+                        "lon": -46.745847,
+                        "dist": 2621
+                    },
+                    {
+                        "name": "Castelo do Óleo",
+                        "kind": "Autopeças",
+                        "lat": -23.657156,
+                        "lon": -46.696044,
+                        "dist": 2970,
+                        "address": "Avenida Washington Luís, 945"
+                    }
+                ]
+            },
+            {
+                "id": "mecanica",
+                "label": "Mecânicas e borracharias",
+                "icon": "wrench",
+                "items": [
+                    {
+                        "name": "Real Visão Vistoria Veícular",
+                        "kind": "Oficina mecânica",
+                        "lat": -23.66807,
+                        "lon": -46.731034,
+                        "dist": 1138
+                    },
+                    {
+                        "name": "Martelinho de Ouro",
+                        "kind": "Oficina mecânica",
+                        "lat": -23.668048,
+                        "lon": -46.731851,
+                        "dist": 1182
+                    },
+                    {
+                        "name": "WCP Oficina",
+                        "kind": "Oficina mecânica",
+                        "lat": -23.668398,
+                        "lon": -46.732568,
+                        "dist": 1257
+                    },
+                    {
+                        "name": "Mercado Car",
+                        "kind": "Oficina mecânica",
+                        "lat": -23.663805,
+                        "lon": -46.709216,
+                        "dist": 1690
+                    },
+                    {
+                        "name": "Auto Elétrico",
+                        "kind": "Oficina mecânica",
+                        "lat": -23.669994,
+                        "lon": -46.737,
+                        "dist": 1690
+                    },
+                    {
+                        "name": "GPS Serviços Automotivos",
+                        "kind": "Oficina mecânica",
+                        "lat": -23.670893,
+                        "lon": -46.739527,
+                        "dist": 1947
+                    },
+                    {
+                        "name": "MC Serviços Automotivos",
+                        "kind": "Oficina mecânica",
+                        "lat": -23.671464,
+                        "lon": -46.740381,
+                        "dist": 2055
+                    },
+                    {
+                        "name": "Oficina 400",
+                        "kind": "Oficina mecânica",
+                        "lat": -23.673394,
+                        "lon": -46.710592,
+                        "dist": 2146,
+                        "address": "Rua dos Inocentes, 537"
+                    }
+                ]
+            },
+            {
                 "id": "banco",
                 "label": "Bancos",
                 "icon": "landmark",
@@ -1238,6 +1346,38 @@
                         "lon": -46.702818,
                         "dist": 2320,
                         "address": "Rua Barão de Duprat, 250"
+                    },
+                    {
+                        "name": "Galeria Borba Gato",
+                        "kind": "Shopping",
+                        "lat": -23.650072,
+                        "lon": -46.703678,
+                        "dist": 2416,
+                        "address": "Avenida Adolfo Pinheiro"
+                    },
+                    {
+                        "name": "Boa Vista Shopping",
+                        "kind": "Shopping",
+                        "lat": -23.654726,
+                        "lon": -46.700995,
+                        "dist": 2510,
+                        "address": "Rua Borba Gato, 59"
+                    },
+                    {
+                        "name": "Shopping Jardim Sul",
+                        "kind": "Shopping",
+                        "lat": -23.631069,
+                        "lon": -46.735851,
+                        "dist": 3335,
+                        "address": "Avenida Giovanni Gronchi"
+                    },
+                    {
+                        "name": "Shopping SP Market",
+                        "kind": "Shopping",
+                        "lat": -23.678652,
+                        "lon": -46.698822,
+                        "dist": 3427,
+                        "pinned": true
                     }
                 ]
             },

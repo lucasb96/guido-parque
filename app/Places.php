@@ -32,13 +32,21 @@ final class Places
         'faculdade' => ['Faculdades', 'graduation-cap', 6],
         'padaria' => ['Padarias', 'croissant', 5],
         'posto' => ['Postos', 'fuel', 6],
+        'autopecas' => ['Autopeças', 'cog', 8],
+        'mecanica' => ['Mecânicas e borracharias', 'wrench', 8],
         'banco' => ['Bancos', 'landmark', 6],
-        'shopping' => ['Shoppings', 'shopping-bag', 5],
+        'shopping' => ['Shoppings', 'shopping-bag', 8],
         'parque' => ['Parques e praças', 'trees', 8],
         'academia' => ['Academias', 'dumbbell', 5],
         'pet' => ['Pet e veterinário', 'paw-print', 6],
         'servicos' => ['Segurança e serviços', 'shield', 6],
     ];
+
+    /** Nomes que sempre aparecem na categoria (editável no painel → Avançado → "places_pinned"). */
+    public static function pinned(): array
+    {
+        return (array) (setting('places_pinned') ?: ['shopping' => ['SP Market']]);
+    }
 
     public static function origin(): array
     {
@@ -54,7 +62,8 @@ final class Places
             nwr[\"railway\"~\"^(station|halt)$\"][\"name\"](around:3500,$lat,$lon);
             nwr[\"amenity\"=\"bus_station\"][\"name\"](around:3500,$lat,$lon);
             node[\"highway\"=\"bus_stop\"](around:450,$lat,$lon);
-            nwr[\"shop\"~\"^(supermarket|wholesale|bakery|mall|pet)$\"][\"name\"](around:3000,$lat,$lon);
+            nwr[\"shop\"~\"^(supermarket|wholesale|bakery|pet|car_parts|car_repair|tyres)$\"][\"name\"](around:3000,$lat,$lon);
+            nwr[\"shop\"=\"mall\"][\"name\"](around:7000,$lat,$lon);
             nwr[\"amenity\"~\"^(pharmacy|hospital|clinic|school|kindergarten|university|college|fuel|bank|police|fire_station|post_office|veterinary)$\"][\"name\"](around:3000,$lat,$lon);
             nwr[\"leisure\"~\"^(park|fitness_centre)$\"][\"name\"](around:2500,$lat,$lon);
         );out center tags;";
@@ -96,7 +105,16 @@ final class Places
                 }
                 $kept[] = $it;
             }
-            $c['items'] = array_slice($kept, 0, self::CATEGORIES[$id][2]);
+            $top = array_slice($kept, 0, self::CATEGORIES[$id][2]);
+            // Lugares fixos: entram mesmo se estiverem além do limite (ex.: Shopping SP Market)
+            foreach ((self::pinned()[$id] ?? []) as $want) {
+                $w = Text::normalize($want);
+                foreach ($top as $t) if (str_contains(Text::normalize($t['name']), $w)) continue 2;
+                foreach ($kept as $k) {
+                    if (str_contains(Text::normalize($k['name']), $w)) { $top[] = $k + ['pinned' => true]; break; }
+                }
+            }
+            $c['items'] = $top;
         }
         unset($c);
 
@@ -126,6 +144,9 @@ final class Places
         if ($shop === 'bakery') return ['padaria', 'Padaria'];
         if ($shop === 'mall') return ['shopping', 'Shopping'];
         if ($shop === 'pet') return ['pet', 'Pet shop'];
+        if ($shop === 'car_parts') return ['autopecas', 'Autopeças'];
+        if ($shop === 'car_repair') return ['mecanica', 'Oficina mecânica'];
+        if ($shop === 'tyres') return ['mecanica', 'Borracharia / pneus'];
         if ($am === 'veterinary') return ['pet', 'Veterinário'];
         if ($am === 'pharmacy') return ['farmacia', 'Farmácia'];
         if ($am === 'hospital') return ['saude', 'Hospital'];
