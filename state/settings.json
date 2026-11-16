@@ -171,7 +171,7 @@
             }
         ],
         "average": 97.1,
-        "checked_at": "2026-11-15 12:59:22",
+        "checked_at": "2026-11-16 16:05:06",
         "changed_at": "2026-11-13 23:21:15",
         "source": "https://cury.net/imovel/SP/zona-sul/guido-parque-nacoes-unidas"
     },
@@ -195,5 +195,5 @@
     ],
     "initialized": true,
     "initialized_at": "2026-11-13 22:13:55",
-    "last_sync": "2026-11-15 12:59:22"
+    "last_sync": "2026-11-16 16:05:06"
 }
