@@ -182,10 +182,10 @@
             "state": "current"
         },
         {
-            "date": "16/11/2026",
-            "title": "Acesso à plataforma da AGI",
-            "text": "A OMA envia por e-mail (agi@oma.com.br) o acesso único de cada unidade.",
-            "state": "next"
+            "date": "17/11/2026",
+            "title": "Portal da OMA liberado",
+            "text": "Usuário e senha enviados por e-mail. Acesso pelo portal ou pelo app Winker.",
+            "state": "done"
         },
         {
             "date": "25–26/11/2026",
@@ -472,6 +472,14 @@
         {
             "term": "Regulamento Interno",
             "def": "Regras do dia a dia do condomínio (reservas, mudanças, horários, convidados, animais). Complementa a Convenção e é aprovado ou alterado por maioria simples em assembleia."
+        },
+        {
+            "term": "Winker",
+            "def": "Plataforma do portal e do app do condomínio, usada pela administradora OMA: AGI online, reservas, boletos, avisos de correspondência e mensagens."
+        },
+        {
+            "term": "Sigma Civil",
+            "def": "Plataforma de manutenção preventiva do condomínio (Proconsult). O síndico registra manutenções, laudos e notas, o que preserva as garantias da construtora."
         }
     ],
     "doc_meta": {
@@ -570,9 +578,21 @@
             "description": "Cronograma da AGI, candidaturas a síndico e conselho, e os próximos passos até a entrega das chaves.",
             "doc_type": "Oficial",
             "doc_date": "12/11/2026"
+        },
+        "1wjD1oXGHV4ywWnR5PL49Q2YkA120VsZh": {
+            "title": "Portal OMA (Winker): boas-vindas e acesso",
+            "description": "E-mail da OMA com o acesso ao portal e ao app do condomínio.",
+            "doc_type": "Oficial",
+            "doc_date": "17/11/2026"
+        },
+        "1ToNBCvFHf8frvckpExlRQU7XsZ0k37-B": {
+            "title": "Comunicado Cury: Sigma Civil",
+            "description": "Plataforma de manutenção preventiva do condomínio (Proconsult).",
+            "doc_type": "Oficial",
+            "doc_date": "11/2026"
         }
     },
-    "updated_at": "13/11/2026",
+    "updated_at": "17/11/2026",
     "vendor_sheet_id": "1hx0xeP9tdHQtO3RSPLBWLGMSjntcshE3xMD48vyZR_I",
     "places": {
         "origin": {

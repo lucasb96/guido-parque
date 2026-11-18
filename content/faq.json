@@ -96,7 +96,7 @@
         "cat": "entrega",
         "status": "oficial",
         "q": "Como participar e votar na AGI?",
-        "a": "<ol>\n<li><strong>Acesso (16/11):</strong> você recebe por e-mail, do remetente <strong>agi@oma.com.br</strong>, o convite de acesso ao portal da OMA. Cadastre uma senha e faça o login. É <strong>um acesso por unidade</strong>.</li>\n<li><strong>Assista ao vídeo (a partir de 25/11, 9h30):</strong> ele apresenta a pauta e os pontos que serão votados.</li>\n<li><strong>Leia o material de apoio</strong> (ícone \"Documentos\"): edital de convocação, apresentação da administradora, <strong>previsão orçamentária de implantação</strong>, <strong>propostas das empresas concorrentes</strong> e perfil dos candidatos.</li>\n<li><strong>Registre presença:</strong> no ícone \"Assembleia\", clique em \"Acessar\".</li>\n<li><strong>Vote em 27/11, das 10h às 20h:</strong> em cada item, escolha a opção e clique em \"Registrar Voto\".</li>\n</ol>\n<p><strong>Suporte da OMA:</strong> (11) 3191-5000, de segunda a sexta, das 8h30 às 18h.</p>\n<p class=\"note\">Não recebeu o e-mail? Confira o spam e se o seu cadastro na Cury está atualizado. Pela Convenção, quem estiver em atraso com o condomínio pode participar, mas o voto não conta. Também é possível votar por procuração, desde que o procurador não seja o síndico nem membro do conselho.</p>",
+        "a": "<p><strong>O acesso já foi liberado (17/11/2026).</strong> A OMA enviou por e-mail o <strong>usuário e a senha</strong> do portal do condomínio, que funciona na plataforma <strong>Winker</strong>.</p>\n<ol>\n<li><strong>Entre no portal:</strong> <a href=\"https://app.winker.com.br/intra/default/login?wl=oma\" target=\"_blank\" rel=\"noopener\">app.winker.com.br (portal OMA)</a>, ou baixe o app <strong>Winker</strong> na App Store ou no Google Play. Esqueceu a senha? Use a opção \"Esqueci minha senha\" na tela de login. É <strong>um acesso por unidade</strong>.</li>\n<li><strong>Assista ao vídeo (a partir de 25/11, 9h30):</strong> ele apresenta a pauta e os pontos que serão votados.</li>\n<li><strong>Leia o material de apoio</strong> (ícone \"Documentos\"): edital de convocação, apresentação da administradora, <strong>previsão orçamentária de implantação</strong>, <strong>propostas das empresas concorrentes</strong> e perfil dos candidatos.</li>\n<li><strong>Registre presença:</strong> no ícone \"Assembleia\", clique em \"Acessar\".</li>\n<li><strong>Vote em 27/11, das 10h às 20h:</strong> em cada item, escolha a opção e clique em \"Registrar Voto\".</li>\n</ol>\n<p><strong>Suporte da OMA:</strong> (11) 3191-5000, de segunda a sexta, das 8h30 às 18h.</p>\n<p class=\"note\">Não recebeu o e-mail? Confira o spam (remetente: OMA by Winker) e se o seu cadastro na Cury está atualizado. Pela Convenção, quem estiver em atraso com o condomínio pode participar, mas o voto não conta. Também é possível votar por procuração, desde que o procurador não seja o síndico nem membro do conselho.</p>",
         "tags": [
             "AGI",
             "assembleia",
@@ -113,13 +113,14 @@
             "procuração"
         ],
         "src": [
+            "1wjD1oXGHV4ywWnR5PL49Q2YkA120VsZh",
             "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
             "1WxWk9aXyhp9Vhhvd17tN2hpwl9ZL7wsa",
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
         "sort": 4,
         "published": 1,
-        "updated_at": "2026-11-13 23:34:57"
+        "updated_at": "2026-11-17 22:11:10"
     },
     {
         "id": "canais-atendimento-cury",
@@ -1541,6 +1542,35 @@
         "updated_at": "2026-11-13 23:28:27"
     },
     {
+        "id": "portal-oma-winker",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O que é o portal/app da OMA (Winker) e para que serve?",
+        "a": "<p>É o <strong>portal do condomínio</strong>, mantido pela administradora <strong>OMA</strong> na plataforma <strong>Winker</strong>. O acesso foi liberado em <strong>17/11/2026</strong>, com usuário e senha enviados por e-mail.</p>\n<ul>\n<li><strong>Acesso:</strong> <a href=\"https://app.winker.com.br/intra/default/login?wl=oma\" target=\"_blank\" rel=\"noopener\">portal OMA (app.winker.com.br)</a> ou app <strong>Winker</strong> (App Store e Google Play).</li>\n<li><strong>Agora:</strong> é por ele que acontece a <a href=\"#faq-como-participar-agi\">AGI</a> (vídeo, documentos e votação em 27/11).</li>\n<li><strong>Depois da instalação do condomínio</strong>, a plataforma oferece funções como <strong>reservas online</strong> das áreas comuns, <strong>2ª via de boletos</strong>, <strong>aviso de chegada de correspondências</strong>, <strong>troca de mensagens</strong> com a administração e <strong>acesso às câmeras de segurança</strong>.</li>\n</ul>\n<p class=\"note\">Quais funções serão ativadas, e as regras de uso (como as de reserva), dependem da administração e do Regulamento Interno. Ative as notificações do app para receber os avisos em tempo real.</p>",
+        "tags": [
+            "OMA",
+            "Winker",
+            "portal",
+            "app",
+            "aplicativo",
+            "login",
+            "senha",
+            "boleto",
+            "2ª via",
+            "reserva",
+            "correspondência",
+            "câmeras",
+            "acesso"
+        ],
+        "src": [
+            "1wjD1oXGHV4ywWnR5PL49Q2YkA120VsZh",
+            "1WxWk9aXyhp9Vhhvd17tN2hpwl9ZL7wsa"
+        ],
+        "sort": 69,
+        "published": 1,
+        "updated_at": "2026-11-17 22:11:10"
+    },
+    {
         "id": "requisitos-sindico-profissional",
         "cat": "condominio",
         "status": "oficial",
@@ -1563,7 +1593,7 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "1WxWk9aXyhp9Vhhvd17tN2hpwl9ZL7wsa"
         ],
-        "sort": 69,
+        "sort": 70,
         "published": 1,
         "updated_at": "2026-11-13 23:28:27"
     },
@@ -1592,7 +1622,7 @@
             "1ZYYOpseZwmEOxhpDZUV-soIorH4WlPzQ",
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 70,
+        "sort": 71,
         "published": 1,
         "updated_at": "2026-11-13 23:34:58"
     },
@@ -1614,7 +1644,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 71,
+        "sort": 72,
         "published": 1,
         "updated_at": "2026-11-13 22:13:07"
     },
@@ -1635,7 +1665,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 72,
+        "sort": 73,
         "published": 1,
         "updated_at": "2026-11-13 22:13:08"
     },
@@ -1659,7 +1689,7 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "1haD54wduRBM79dAGbeU9NN4ueh524H73"
         ],
-        "sort": 73,
+        "sort": 74,
         "published": 1,
         "updated_at": "2026-11-13 23:19:39"
     },
@@ -1681,7 +1711,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 74,
+        "sort": 75,
         "published": 1,
         "updated_at": "2026-11-13 22:13:08"
     },
@@ -1706,7 +1736,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 75,
+        "sort": 76,
         "published": 1,
         "updated_at": "2026-11-13 22:13:08"
     },
@@ -1727,7 +1757,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 76,
+        "sort": 77,
         "published": 1,
         "updated_at": "2026-11-13 22:13:08"
     },
@@ -1747,7 +1777,7 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
         ],
-        "sort": 77,
+        "sort": 78,
         "published": 1,
         "updated_at": "2026-11-13 22:13:08"
     },
@@ -1768,7 +1798,7 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
         ],
-        "sort": 78,
+        "sort": 79,
         "published": 1,
         "updated_at": "2026-11-13 22:13:08"
     },
@@ -1789,7 +1819,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 79,
+        "sort": 80,
         "published": 1,
         "updated_at": "2026-11-13 22:13:09"
     },
@@ -1815,7 +1845,7 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa"
         ],
-        "sort": 80,
+        "sort": 81,
         "published": 1,
         "updated_at": "2026-11-13 23:17:59"
     },
@@ -1838,9 +1868,33 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 81,
+        "sort": 82,
         "published": 1,
         "updated_at": "2026-11-13 23:17:59"
+    },
+    {
+        "id": "sigma-civil",
+        "cat": "condominio",
+        "status": "oficial",
+        "q": "O que é o Sigma Civil?",
+        "a": "<p>É uma <strong>plataforma digital de manutenção preventiva</strong> que o condomínio vai usar, segundo comunicado da Cury. Uma equipe técnica da <strong>Proconsult</strong> monta um <strong>plano de manutenção exclusivo</strong> para o empreendimento, com três objetivos:</p>\n<ul>\n<li>garantir a <strong>segurança</strong> e a <strong>durabilidade</strong> dos sistemas do prédio;</li>\n<li><strong>reduzir custos</strong> futuros;</li>\n<li><strong>preservar as garantias</strong> da construtora.</li>\n</ul>\n<p><strong>O papel do síndico:</strong> manter o sistema atualizado, registrando no app as manutenções feitas, os laudos e as notas fiscais. É isso que comprova que o condomínio segue a norma técnica de manutenção (<strong>NBR 5674</strong>) e evita a perda de garantias.</p>\n<p><strong>Para os moradores:</strong> haverá <strong>QR Codes</strong> nas áreas comuns (portaria, elevadores, lazer). Basta apontar a câmera do celular para ver o gráfico e o histórico do que está sendo revisado.</p>\n<p class=\"note\">Depois da implantação, vale cobrar do síndico que o painel do Sigma Civil fique sempre em dia. Ele protege o valor do patrimônio de todos.</p>",
+        "tags": [
+            "Sigma Civil",
+            "manutenção",
+            "manutenção preventiva",
+            "Proconsult",
+            "NBR 5674",
+            "garantia",
+            "QR Code",
+            "síndico",
+            "laudo"
+        ],
+        "src": [
+            "1ToNBCvFHf8frvckpExlRQU7XsZ0k37-B"
+        ],
+        "sort": 83,
+        "published": 1,
+        "updated_at": "2026-11-17 22:11:10"
     },
     {
         "id": "furtos-responsabilidade",
@@ -1861,7 +1915,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 82,
+        "sort": 84,
         "published": 1,
         "updated_at": "2026-11-13 23:18:00"
     },
@@ -1882,7 +1936,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 83,
+        "sort": 85,
         "published": 1,
         "updated_at": "2026-11-13 23:18:00"
     },
@@ -1905,7 +1959,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 84,
+        "sort": 86,
         "published": 1,
         "updated_at": "2026-11-13 23:18:00"
     },
@@ -1928,7 +1982,7 @@
         "src": [
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 85,
+        "sort": 87,
         "published": 1,
         "updated_at": "2026-11-13 23:18:00"
     },
@@ -1954,7 +2008,7 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "1haD54wduRBM79dAGbeU9NN4ueh524H73"
         ],
-        "sort": 86,
+        "sort": 88,
         "published": 1,
         "updated_at": "2026-11-13 23:19:30"
     },
@@ -1980,7 +2034,7 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "1haD54wduRBM79dAGbeU9NN4ueh524H73"
         ],
-        "sort": 87,
+        "sort": 89,
         "published": 1,
         "updated_at": "2026-11-13 23:19:30"
     },
@@ -2005,7 +2059,7 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
         ],
-        "sort": 88,
+        "sort": 90,
         "published": 1,
         "updated_at": "2026-11-13 23:19:30"
     },
@@ -2026,7 +2080,7 @@
         "src": [
             "1C9H_RhJY7jxeb4tlBZw5bEdotzJwi8LB"
         ],
-        "sort": 89,
+        "sort": 91,
         "published": 1,
         "updated_at": "2026-11-13 22:13:09"
     },
@@ -2049,7 +2103,7 @@
             "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn",
             "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o"
         ],
-        "sort": 90,
+        "sort": 92,
         "published": 1,
         "updated_at": "2026-11-13 22:13:09"
     },
@@ -2070,7 +2124,7 @@
             "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7",
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
-        "sort": 91,
+        "sort": 93,
         "published": 1,
         "updated_at": "2026-11-13 22:13:09"
     },
@@ -2093,7 +2147,7 @@
         "src": [
             "1sDsPy0aB9Yod5IMm5rMc_CyWMS3fhR7G"
         ],
-        "sort": 92,
+        "sort": 94,
         "published": 1,
         "updated_at": "2026-11-13 23:18:00"
     },
@@ -2116,7 +2170,7 @@
             "1haD54wduRBM79dAGbeU9NN4ueh524H73",
             "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn"
         ],
-        "sort": 93,
+        "sort": 95,
         "published": 1,
         "updated_at": "2026-11-13 22:13:09"
     },
@@ -2139,7 +2193,7 @@
             "1haD54wduRBM79dAGbeU9NN4ueh524H73",
             "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn"
         ],
-        "sort": 94,
+        "sort": 96,
         "published": 1,
         "updated_at": "2026-11-13 22:13:09"
     },
@@ -2162,7 +2216,7 @@
             "1haD54wduRBM79dAGbeU9NN4ueh524H73",
             "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn"
         ],
-        "sort": 95,
+        "sort": 97,
         "published": 1,
         "updated_at": "2026-11-13 22:13:09"
     },
@@ -2171,7 +2225,7 @@
         "cat": "lazer",
         "status": "pendente",
         "q": "Como reservar o salão de festas, a churrasqueira, o coworking ou o espaço beleza?",
-        "a": "<p>As regras de reserva <strong>ainda não existem</strong>. Pela Convenção, a forma e as condições de uso das áreas comuns serão definidas no <strong>Regulamento Interno</strong>, que pode ser aprovado ou alterado por <strong>maioria simples</strong> já na <strong>primeira assembleia</strong>.</p>\n<p>O Regulamento deve definir, por exemplo:</p>\n<ul>\n<li><strong>Como reservar:</strong> aplicativo, portaria ou administradora;</li>\n<li><strong>Antecedência</strong>, <strong>horários</strong> e <strong>limite de reservas</strong> por unidade;</li>\n<li>Se haverá <strong>taxa de uso ou de limpeza</strong>;</li>\n<li><strong>Número de convidados</strong> e as regras de barulho;</li>\n<li>Os <strong>espaços que exigem reserva</strong> (salão de festas, churrasqueiras) e os de <strong>uso livre</strong> (fitness, coworking, playground).</li>\n</ul>\n<p>A <strong>lavanderia</strong> e o <strong>easy market</strong> funcionam no sistema <strong>pay-per-use</strong>, com autoatendimento por QR code.</p>\n<p>Veja <a href=\"#lazer\">o que vem em cada espaço</a>: o salão de festas tem 9 mesas com 4 cadeiras e copa com fogão e geladeira, e cada churrasqueira tem forno de pizza e 5 mesas.</p>\n<p class=\"note\">Quer opinar sobre as regras? Participe da <strong>AGI</strong> e da primeira assembleia: é nelas que o Regulamento Interno é votado.</p>",
+        "a": "<p>As regras de reserva <strong>ainda não existem</strong>. Pela Convenção, a forma e as condições de uso das áreas comuns serão definidas no <strong>Regulamento Interno</strong>, que pode ser aprovado ou alterado por <strong>maioria simples</strong> já na <strong>primeira assembleia</strong>.</p>\n<p>O Regulamento deve definir, por exemplo:</p>\n<ul>\n<li><strong>Como reservar:</strong> aplicativo, portaria ou administradora;</li>\n<li><strong>Antecedência</strong>, <strong>horários</strong> e <strong>limite de reservas</strong> por unidade;</li>\n<li>Se haverá <strong>taxa de uso ou de limpeza</strong>;</li>\n<li><strong>Número de convidados</strong> e as regras de barulho;</li>\n<li>Os <strong>espaços que exigem reserva</strong> (salão de festas, churrasqueiras) e os de <strong>uso livre</strong> (fitness, coworking, playground).</li>\n</ul>\n<p>A <strong>lavanderia</strong> e o <strong>easy market</strong> funcionam no sistema <strong>pay-per-use</strong>, com autoatendimento por QR code.</p>\n<p>Veja <a href=\"#lazer\">o que vem em cada espaço</a>: o salão de festas tem 9 mesas com 4 cadeiras e copa com fogão e geladeira, e cada churrasqueira tem forno de pizza e 5 mesas.</p>\n<p class=\"note\">Quer opinar sobre as regras? Participe da <strong>AGI</strong> e da primeira assembleia: é nelas que o Regulamento Interno é votado.</p><p>A plataforma da administradora (<a href=\"#faq-portal-oma-winker\">portal/app OMA Winker</a>) já tem a função de <strong>reservas online</strong>, que deve ser a forma usada assim que as regras forem aprovadas.</p>",
         "tags": [
             "reserva",
             "reservar",
@@ -2190,9 +2244,9 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "1haD54wduRBM79dAGbeU9NN4ueh524H73"
         ],
-        "sort": 96,
+        "sort": 98,
         "published": 1,
-        "updated_at": "2026-11-13 23:20:23"
+        "updated_at": "2026-11-17 22:11:10"
     },
     {
         "id": "areas-comuns-convidados-trabalho",
@@ -2217,7 +2271,7 @@
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ",
             "14P75xpA0L9d5wH0KHEHUbh3saWbV9-q7"
         ],
-        "sort": 97,
+        "sort": 99,
         "published": 1,
         "updated_at": "2026-11-13 23:20:23"
     }
