@@ -989,8 +989,8 @@
     "1ToNBCvFHf8frvckpExlRQU7XsZ0k37-B": {
         "id": "1ToNBCvFHf8frvckpExlRQU7XsZ0k37-B",
         "name": "SIGMA CIVIL.pdf",
-        "title": null,
-        "description": null,
+        "title": "Comunicado Cury: Sigma Civil",
+        "description": "Plataforma de manutenção preventiva do condomínio (Proconsult).",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -1000,12 +1000,12 @@
         "first_seen": "2026-11-17 22:02:11",
         "text_status": "ok",
         "char_count": 2293,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Oficial",
+        "doc_date": "11/2026"
     },
     "1VbWkEUluAHemm7fcXcChMqNFITvjKYWa": {
         "id": "1VbWkEUluAHemm7fcXcChMqNFITvjKYWa",
@@ -1997,8 +1997,8 @@
     "1wjD1oXGHV4ywWnR5PL49Q2YkA120VsZh": {
         "id": "1wjD1oXGHV4ywWnR5PL49Q2YkA120VsZh",
         "name": "OMA ADMINISTRADORA.pdf",
-        "title": null,
-        "description": null,
+        "title": "Portal OMA (Winker): boas-vindas e acesso",
+        "description": "E-mail da OMA com o acesso ao portal e ao app do condomínio.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -2008,12 +2008,12 @@
         "first_seen": "2026-11-17 22:07:35",
         "text_status": "ok",
         "char_count": 977,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Oficial",
+        "doc_date": "17/11/2026"
     },
     "1x80nNOwLfLX4dMkgwsA5dJzqseyjQzve": {
         "id": "1x80nNOwLfLX4dMkgwsA5dJzqseyjQzve",
