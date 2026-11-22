@@ -851,3 +851,7 @@ html.scroll-locked body { padding-right: var(--scrollbar-w, 0px); }
   .topbar.is-compact .top-search { max-width: none; }
   .topbar.is-compact .theme-btn { margin-left: 0; }
 }
+
+/* Linha do tempo: próximo evento em destaque quando nada está em andamento */
+.tl-upcoming .tl-dot { border-style: solid; border-color: var(--accent); }
+.tl-upcoming time::after { content: " · próximo"; color: var(--warn); }

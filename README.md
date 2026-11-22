@@ -7,7 +7,7 @@ e atualizado sozinho todo dia por um robô (**GitHub Actions**).
 
 ```text
 Google Drive  ─┐
-Site da Cury  ─┼─►  Robô diário (06h, GitHub Actions)  ─►  site no GitHub Pages
+Site da Cury  ─┼─►  Robô diário (05h17, GitHub Actions)  ─►  site no GitHub Pages
 content/ (Git)─┘     sincroniza, lê PDFs (com OCR),          (data.json + search.json)
                      gera o site e publica
 ```
@@ -18,7 +18,7 @@ content/ (Git)─┘     sincroniza, lê PDFs (com OCR),          (data.json + s
   andamento da obra, fornecedores). **Não edite à mão.**
 - O banco SQLite (`storage/`) é só um cache, recriado a partir desses arquivos.
 
-## O que é automático (todo dia às 06h)
+## O que é automático (todo dia, de manhã cedo)
 - Detecta arquivos **novos, alterados ou removidos** nas pastas do Drive (inclui subpastas).
 - **Extrai o texto** de PDFs, Word, Google Docs e Planilhas e o coloca na busca do site.
   PDFs **escaneados** são lidos com **OCR** (Tesseract, em português).

@@ -957,10 +957,29 @@
   }
 
   /* ---------------- Linha do tempo ---------------- */
+  /* Estado automático pela data de hoje: "21/10/2026" ou "25–26/11/2026" / "13-18/11/2026".
+     Datas vagas ("Após a AGI", "Dez/26 – Abr/27", "08/2026") mantêm o estado definido no painel. */
+  function timelineState(t, today = new Date()) {
+    const m = String(t.date).match(/^(\d{1,2})(?:\s*[–-]\s*(\d{1,2}))?\/(\d{1,2})\/(\d{4})$/);
+    if (!m) return t.state;
+    const [, d1, d2, mo, y] = m.map(Number);
+    const start = new Date(y, mo - 1, d1);
+    const end = new Date(y, mo - 1, d2 || d1, 23, 59, 59);
+    if (today > end) return "done";
+    if (today >= start) return "current";
+    return "next";
+  }
+
   function renderTimeline() {
-    $("#timeline").innerHTML = TIMELINE.map(
+    const items = TIMELINE.map((t) => ({ ...t, state: timelineState(t) }));
+    // Se nenhum item com data exata está "em andamento", destaca o próximo como o atual
+    if (!items.some((t) => t.state === "current")) {
+      const nxt = items.find((t) => t.state === "next");
+      if (nxt) nxt.upcoming = true;
+    }
+    $("#timeline").innerHTML = items.map(
       (t) => `
-      <li class="tl-item tl-${t.state}">
+      <li class="tl-item tl-${t.state}${t.upcoming ? " tl-upcoming" : ""}">
         <span class="tl-dot" aria-hidden="true"></span>
         <div class="tl-body">
           <time>${t.date}</time>

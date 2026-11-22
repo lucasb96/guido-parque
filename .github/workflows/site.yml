@@ -1,11 +1,11 @@
 # Atualiza e publica o site no GitHub Pages.
-# - Todo dia às 06h (Brasília): verifica o Drive e o site da Cury, extrai textos (com OCR para escaneados)
+# - Todo dia às 05h17 (Brasília; minuto "quebrado" para fugir da fila do GitHub): verifica o Drive e o site da Cury, extrai textos (com OCR para escaneados)
 # - A cada publicação feita pelo painel (push) e também manualmente (aba Actions → Run workflow)
 name: Atualizar e publicar o site
 
 on:
   schedule:
-    - cron: "0 9 * * *" # 09:00 UTC = 06:00 em Brasília
+    - cron: "17 8 * * *" # 08:17 UTC = 05:17 em Brasília (horários redondos atrasam horas na fila)
   workflow_dispatch:
   push:
     branches: [main]
@@ -30,7 +30,7 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - name: Baixar o código (sempre a versão mais recente, mesmo se a execução ficou na fila)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: main
 
@@ -76,13 +76,13 @@ jobs:
           fi
 
       - name: Configurar GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Enviar o site
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: dist
 
       - name: Publicar
         id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
