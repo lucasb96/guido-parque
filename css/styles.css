@@ -810,6 +810,11 @@ html.scroll-locked body { padding-right: var(--scrollbar-w, 0px); }
 .place-dist { font-size: 0.84rem; color: var(--ink-2); display: inline-flex; align-items: center; gap: 4px; flex-wrap: wrap; }
 .place-dist .ico { width: 15px; height: 15px; color: var(--brand-2); }
 .place-go { white-space: nowrap; }
+.place-lines { margin-top: 4px; font-size: 0.84rem; }
+.place-lines summary { cursor: pointer; color: var(--brand-2); font-weight: 600; display: inline-flex; align-items: center; gap: 4px; }
+.place-lines summary .ico { width: 15px; height: 15px; }
+.place-lines ul { margin: 6px 0 0; padding-left: 18px; display: flex; flex-direction: column; gap: 3px; color: var(--ink-2); }
+.place-lines strong { color: var(--ink); margin-right: 4px; }
 .place-map-wrap { position: sticky; top: 80px; }
 .place-map { height: 480px; border-radius: var(--radius); border: 1px solid var(--line); overflow: hidden; background: var(--line); z-index: 0; }
 .place-map-off { padding: 24px; text-align: center; }

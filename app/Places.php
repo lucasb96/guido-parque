@@ -48,6 +48,40 @@ final class Places
         return (array) (setting('places_pinned') ?: ['shopping' => ['SP Market']]);
     }
 
+    /** Linhas de ônibus por lugar (nome => [código => descrição]). Editável no painel → Avançado → "places_lines". */
+    public const DEFAULT_LINES = [
+        'Terminal Guido Caloi' => [
+            '7004-10' => 'Term. Jd. Jacira / Est. Sto. Amaro – Guido Caloi',
+            '709P-10' => 'Est. Sto. Amaro – Guido Caloi / Term. Pinheiros',
+            '6008-10' => 'Jd. Planalto / Est. Sto. Amaro – Guido Caloi',
+            '6028-10' => 'Atende a ligação na região da Estação Santo Amaro / Av. Guido Caloi',
+        ],
+    ];
+
+    public static function lines(): array
+    {
+        return (array) (setting('places_lines') ?? self::DEFAULT_LINES);
+    }
+
+    /** Junta as linhas cadastradas aos lugares (feito ao gerar o site, então sobrevive a "Atualizar arredores"). */
+    public static function withLines(?array $places): ?array
+    {
+        if (!$places || empty($places['categories'])) return $places;
+        $lines = [];
+        foreach (self::lines() as $name => $l) $lines[Text::normalize((string) $name)] = $l;
+        foreach ($places['categories'] as &$c) {
+            foreach ($c['items'] as &$it) {
+                $l = $lines[Text::normalize($it['name'])] ?? null;
+                if (!$l) continue;
+                $it['lines'] = [];
+                foreach ($l as $code => $desc) $it['lines'][] = ['code' => (string) $code, 'name' => (string) $desc];
+            }
+            unset($it);
+        }
+        unset($c);
+        return $places;
+    }
+
     public static function origin(): array
     {
         return array_merge(self::DEFAULT_ORIGIN, (array) (setting('places_origin') ?: []));
