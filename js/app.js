@@ -638,6 +638,12 @@
             <strong class="place-name">${escapeHtml(p.name)}</strong>
             <span class="place-kind">${escapeHtml(p.kind)}${p.address ? ` · ${escapeHtml(p.address)}` : ""}</span>
             <span class="place-dist">${icon("map-pin")} ${fmtDist(p.dist)} <span aria-hidden="true">·</span> ${icon(t.icon)} ${t.text}</span>
+            ${
+              p.lines && p.lines.length
+                ? `<details class="place-lines"><summary>${icon("bus")} ${p.lines.length} linha${p.lines.length > 1 ? "s" : ""} atendem este terminal</summary>
+                <ul>${p.lines.map((l) => `<li><strong>${escapeHtml(l.code)}</strong> ${escapeHtml(l.name)}</li>`).join("")}</ul></details>`
+                : ""
+            }
           </div>
           <a class="btn btn-sm btn-ghost place-go" href="${gmaps}" target="_blank" rel="noopener" aria-label="Como chegar a ${escapeHtml(p.name)}">
             ${icon("navigation")} <span>Como chegar</span></a>
