@@ -256,6 +256,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $val = json_decode((string) $_POST['json'], true);
             if (!in_array($key, $allowed, true)) { flash('Item inválido.', 'err'); redirect('p=advanced'); }
             if (!is_array($val)) { flash('JSON inválido: ' . json_last_error_msg(), 'err'); redirect('p=advanced&k=' . $key); }
+            if ($key === 'places_lines') {
+                foreach ($val as $place => $l) {
+                    $ok = is_string($place) && is_array($l) && $l && !array_is_list($l);
+                    foreach ((array) $l as $d) $ok = $ok && is_string($d);
+                    if (!$ok) { flash("Linhas de ônibus: \"$place\" deve ser { \"código\": \"descrição\" }.", 'err'); redirect('p=advanced&k=' . $key); }
+                }
+            }
             set_setting($key, $val);
             flash('Salvo.');
             redirect('p=advanced&k=' . $key);

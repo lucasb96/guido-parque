@@ -640,7 +640,7 @@
             <span class="place-dist">${icon("map-pin")} ${fmtDist(p.dist)} <span aria-hidden="true">·</span> ${icon(t.icon)} ${t.text}</span>
             ${
               p.lines && p.lines.length
-                ? `<details class="place-lines"><summary>${icon("bus")} ${p.lines.length} linha${p.lines.length > 1 ? "s" : ""} atendem este terminal</summary>
+                ? `<details class="place-lines"><summary>${icon("bus")} ${p.lines.length} linha${p.lines.length > 1 ? "s" : ""} de ônibus passa${p.lines.length > 1 ? "m" : ""} aqui</summary>
                 <ul>${p.lines.map((l) => `<li><strong>${escapeHtml(l.code)}</strong> ${escapeHtml(l.name)}</li>`).join("")}</ul></details>`
                 : ""
             }
@@ -667,7 +667,7 @@
     $("#place-select").addEventListener("change", (e) => pick(e.target.value));
     // Clicar no lugar (fora do botão) centraliza no mapa
     $("#place-list").addEventListener("click", (e) => {
-      if (e.target.closest("a")) return;
+      if (e.target.closest("a, .place-lines")) return;
       const li = e.target.closest(".place");
       if (!li || !PL.map) return;
       const m = PL.markers[+li.dataset.i];

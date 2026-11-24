@@ -68,7 +68,11 @@ final class Places
     {
         if (!$places || empty($places['categories'])) return $places;
         $lines = [];
-        foreach (self::lines() as $name => $l) $lines[Text::normalize((string) $name)] = $l;
+        foreach (self::lines() as $name => $l) {
+            if (!is_array($l)) continue; // formato errado no painel: ignora em vez de quebrar
+            $l = array_filter($l, fn ($d) => is_string($d) && trim($d) !== '');
+            if ($l) $lines[Text::normalize((string) $name)] = $l;
+        }
         foreach ($places['categories'] as &$c) {
             foreach ($c['items'] as &$it) {
                 $l = $lines[Text::normalize($it['name'])] ?? null;
