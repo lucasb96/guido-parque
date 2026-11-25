@@ -151,6 +151,14 @@
         "is_public": 1,
         "review_status": "reviewed"
     },
+    "19rzQ7OIBZNEWXQFXNT26-ZAF4lDAJ34W": {
+        "title": "Comunicado: início da AGI e candidaturas",
+        "description": "Como se candidatar a subsíndico ou Conselho até 26/11, às 17h.",
+        "doc_type": "Administradora",
+        "doc_date": "25/11/2026",
+        "is_public": 1,
+        "review_status": "reviewed"
+    },
     "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o": {
         "title": "Informações da visita à obra",
         "description": "Ligações de água, luz e gás, pendências finais e previsão de vistorias.",
@@ -188,6 +196,14 @@
         "description": "Prazos contratuais, carência de 180 dias, taxa de obra e evolução.",
         "doc_type": "Comissão",
         "doc_date": "2026",
+        "is_public": 1,
+        "review_status": "reviewed"
+    },
+    "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW": {
+        "title": "Apresentação da AGI",
+        "description": "Pauta, previsão orçamentária (segurança básica ou completa), valor por unidade, reformas, Sigma Civil e FAQ da OMA.",
+        "doc_type": "Administradora",
+        "doc_date": "25/11/2026",
         "is_public": 1,
         "review_status": "reviewed"
     },
@@ -351,6 +367,14 @@
         "is_public": 1,
         "review_status": "reviewed"
     },
+    "1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU": {
+        "title": "Proposta do minimercado (Market4u)",
+        "description": "Mercado autônomo 24h: repasse de 5% do faturamento bruto, bônus de R$ 10 mil e contrato de 24 meses. Item 5 da pauta.",
+        "doc_type": "Comercial",
+        "doc_date": "",
+        "is_public": 1,
+        "review_status": "reviewed"
+    },
     "1R0NkqoKWufu4TrXxa5-4-egJWSiqapVi": {
         "title": null,
         "description": null,
@@ -500,6 +524,14 @@
         "description": "Cronograma da AGI, candidaturas a síndico e conselho, e os próximos passos até a entrega das chaves.",
         "doc_type": "Oficial",
         "doc_date": "12/11/2026",
+        "is_public": 1,
+        "review_status": "reviewed"
+    },
+    "1b4TKew-T9EMZaF7qxbAkkBgkWNrgPPD5": {
+        "title": "Edital de convocação da AGI",
+        "description": "Convocação de 10/11/2026: pauta com 7 itens, vídeo a partir de 25/11 e votação em 27/11, das 10h às 20h.",
+        "doc_type": "Oficial",
+        "doc_date": "10/11/2026",
         "is_public": 1,
         "review_status": "reviewed"
     },
@@ -695,6 +727,14 @@
         "is_public": 1,
         "review_status": "reviewed"
     },
+    "1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth": {
+        "title": "Proposta e projeto de segurança",
+        "description": "Projeto com 85 câmeras, acesso facial e proteção perimetral, base da opção de segurança completa.",
+        "doc_type": "Comercial",
+        "doc_date": "",
+        "is_public": 1,
+        "review_status": "reviewed"
+    },
     "1ri_B6WJu08P8imDKVoRdpN6gQjOJLs_t": {
         "title": null,
         "description": null,
@@ -763,6 +803,14 @@
         "title": null,
         "description": null,
         "doc_type": "",
+        "doc_date": "",
+        "is_public": 1,
+        "review_status": "reviewed"
+    },
+    "1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw": {
+        "title": "Proposta da lavanderia (Market4u)",
+        "description": "Lavanderia coletiva pay per use, sem custo fixo, com reserva pelo app. Item 5 da pauta.",
+        "doc_type": "Comercial",
         "doc_date": "",
         "is_public": 1,
         "review_status": "reviewed"
