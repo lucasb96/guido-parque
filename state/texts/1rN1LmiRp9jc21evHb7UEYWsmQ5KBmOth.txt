@@ -1,0 +1,365 @@
+SI STE M A S EGURAN ÇA
+
+Cury Nações Unidas
+JANEIRO - 2026
+
+Integrando Soluções e
+Interação com condôminos
+
+Fábio Souza
+Consultor em Segurança
+
+Especialista em Segurança Eletrônica com mais de 15 anos de experiência
+Com visão e conhecimento abrangentes de ameaças e riscos, tendo ampla
+experiencia em projetos e gestão de segurança, analise de risco, auditoria,
+gerenciamento de crises. Elevando o nível de maturidade da segurança e tornando
+as áreas de seguranças mais estratégicas.
+
+NÚMEROS RELEVANTES:
+
++180 projetos
+
++800 horas
+
++5 certificados
+
+Para condomínios
+horizontas e verticais
+
+Treinamento e planejamento
+normas de segurança
+
+Certificação com os maiores
+distribuidores
+
+Sistema CFTV
+
+Principais
+
+SOBRE NÓS
+
+Topologias CFTV
+
+02
+Power Balun
+
+05
+3
+Gravador
+03
+
+06
+
+Switch
+04
+
+Câmera
+01
+Nobreak
+
+DESCRIÇÃO SISTEMA CFTV
+
+SOBRE NÓS
+
+➢ O sistema de comunicação das câmeras FULLHD, será realizada através de cabo UTP com a transmissão
+através do Power Balun.
+➢ O condomínio possui infraestrutura parcial, nesse caso se faz necessário realizar infraestrutura adicional
+para todo o sistema.
+➢ O armazenamento dos DVRs, será utilizado Rack de piso ou parede equipado com nobreak, pode ser
+utilizado mais de um Rack caso seja necessário.
+➢ As câmeras dos elevadores será feita a transmissão através de radio, nesse caso utilizando câmeras IP para
+dentro de cada elevador.
+➢ Todas as despesas com a obtenção, elaboração e apresentação dos documentos, infraestrutura adicional e
+cabeamento necessário, estão incluso.
+
+SISTEMA CFTV
+RADIO PARA ELEVADORES
+
+Custos reduzidos com manutenção no desgaste de cabos
+Economia em estrutura e manutenção dos serviços IP com a
+transmissão sem fio de dados, em locais com alto desgaste de
+cabos, como em elevadores.
+
+SISTEMA CFTV
+CÂMERA IP ELEVADORES
+
+Mais qualidade de imagem usando menos tráfego de rede
+Prepara compressão de vídeo (H.265) para que as imagens
+sejam visualizadas e transmitidas em alta resolução, sem
+oscilação na rede.
+
+Descrição
+
+Sistema CFTV
+
+SOBRE NÓS
+LOCAL
+
+QT.
+
+LOCAL
+
+QT.
+
+Portaria
+
+01
+
+Coworking
+
+02
+
+Frente Clausura
+
+10
+
+Sala de Jogos
+
+02
+
+Piscina
+
+01
+
+Playground
+
+01
+
+Churrasqueiras
+
+02
+
+Academia
+
+05
+
+Pet Care
+
+01
+
+Fitness
+
+03
+
+Salão de Festas
+
+03
+
+Pet Care
+
+01
+
+Espaço Beleza
+
+02
+
+Games
+
+01
+
+Brinquedoteca
+
+02
+
+Elevadores
+
+13
+
+Play Baby
+
+02
+
+Area de Circulação
+
+14
+
+Delivery
+
+01
+
+Hall térreo
+
+16
+
+Oficina
+
+02
+
+TOTAL
+
+85 CÂMERAS
+
+Controle de Acesso
+
+Principais Topologias Acesso
+
+SOBRE NÓS
+
+Descrição
+
+SOBRE NÓS
+
+DESCRIÇÃO
+
+Controle de Acesso
+LOCAL
+
+QT.
+
+Terminal Facial
+
+Entrada Social
+
+01
+
+Terminal Facial
+
+Entrada Secundaria Social
+
+01
+
+Protetor de Facial
+
+Acesso Pedestre
+
+02
+
+Mola Aérea
+
+Acesso Pedestre
+
+02
+
+Roteador VPN
+
+Acesso Pedestre
+
+01
+
+Portaria
+
+01
+
+Botoeira
+
+Saída Social
+
+02
+
+Sistema de Intertravamento
+
+Acesso Serviço
+
+01
+
+Monitor Controle de Acesso
+
+Portaria
+
+01
+
+Quadro de Comando
+
+Proteção
+Perimetral
+
+SOBRE NÓS
+ÁREA
+INVASÃO
+Perímetro do
+Imóvel
+Protegendo
+com tecnologia
+especifica para
+cada cenário.
+
+3
+
+Perimetral → PROTEÇÃO
+
+PRINCIPAIS TOPOLOGIA PROTEÇÃO PERIMETRAL
+
+SOBRE NÓS
+
+SOBRE NÓS
+
+DESCRIÇÃO PROTEÇÃO PERIMETRAL
+
+Para a Proteção Perimetral, será considerada duas opções, sendo Cerca Elétrica Industrial em todas extensão
+do perímetro:
+
+Requisitos:
+➢ Cerca Elétrica: Será necessário dividir em duas Centrais de Choque, equipadas com haste de aterramento
+próprio e Haste Industrial com 06 isoladores com 1 Mt de altura.
+
+RESUMO SISTEMA DE SEGURANÇA
+Descrição Completa
+
+FASE
+
+DESCRIÇÃO
+
+DESCRIÇÃO
+
+01
+
+SISTEMA CFTV PRINCIPAL
+
+85 CÂMERAS
+
+01
+
+PROTEÇÃO PERIMETRAL
+
+CERCA ELETRICA
+
+01
+
+CONTROLE DE ACESSO SOCIAL
+
+02 TERMINAIS FACIAL
+
+RESUMO SISTEMA DE SEGURANÇA
+Descrição Enxoval Básico
+
+FASE
+
+DESCRIÇÃO
+
+DESCRIÇÃO
+
+01
+
+SISTEMA CFTV PRINCIPAL
+
+16 CÂMERAS
+
+01
+
+CONTROLE DE PEDESTRE
+
+02 TERMINAIS FACIAL
+
+01
+
+CONTROLE DE PEDESTRE
+
+02 ANTENA RFID
+
+INVESTIMENTO – SOLUÇÃO COMPLETA
+
+SOBRE NÓS
+
+Descrição
+
+Venda
+
+INVESTIMENTO SISTEMA COMPLETO
+
+12 Vezes R$ 27.000,00
+
+INVESTIMENTO ENXOVAL BASICO
+
+10 Vezes R$ 4.200,00
+
+Obs.: Quando aprovado o Investimento completo, não será necessário o investimento básico.
