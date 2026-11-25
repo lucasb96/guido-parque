@@ -401,8 +401,8 @@
     "19rzQ7OIBZNEWXQFXNT26-ZAF4lDAJ34W": {
         "id": "19rzQ7OIBZNEWXQFXNT26-ZAF4lDAJ34W",
         "name": "COMUNICADO - GUIDO PARQUE NAÇÕES UNIDAS.pdf",
-        "title": null,
-        "description": null,
+        "title": "Comunicado: início da AGI e candidaturas",
+        "description": "Como se candidatar a subsíndico ou Conselho até 26/11, às 17h.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -412,12 +412,12 @@
         "first_seen": "2026-11-25 12:56:30",
         "text_status": "ok",
         "char_count": 1391,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Administradora",
+        "doc_date": "25/11/2026"
     },
     "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o": {
         "id": "1A7OVlY9phIIREcowlMLHcVJb_DPHkCFbxJhNXiY4H7o",
@@ -527,8 +527,8 @@
     "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW": {
         "id": "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
         "name": "APRESENTAÇÃO AGI - GUIDO PARQUE NAÇÕES UNIDAS.pdf",
-        "title": null,
-        "description": null,
+        "title": "Apresentação da AGI",
+        "description": "Pauta, previsão orçamentária (segurança básica ou completa), valor por unidade, reformas, Sigma Civil e FAQ da OMA.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -538,12 +538,12 @@
         "first_seen": "2026-11-25 12:56:30",
         "text_status": "ok",
         "char_count": 23490,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Administradora",
+        "doc_date": "25/11/2026"
     },
     "1DchJv5BNCYjqpnvTZRQj3JuIYSBDTYZk": {
         "id": "1DchJv5BNCYjqpnvTZRQj3JuIYSBDTYZk",
@@ -968,8 +968,8 @@
     "1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU": {
         "id": "1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU",
         "name": "PROPOSTA MINIMERCADO - GUIDO PARQUE NAÇÕES UNIDAS.pdf",
-        "title": null,
-        "description": null,
+        "title": "Proposta do minimercado (Market4u)",
+        "description": "Mercado autônomo 24h: repasse de 5% do faturamento bruto, bônus de R$ 10 mil e contrato de 24 meses. Item 5 da pauta.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -979,11 +979,11 @@
         "first_seen": "2026-11-25 12:56:30",
         "text_status": "ok",
         "char_count": 3490,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
+        "doc_type": "Comercial",
         "doc_date": ""
     },
     "1R0NkqoKWufu4TrXxa5-4-egJWSiqapVi": {
@@ -1388,8 +1388,8 @@
     "1b4TKew-T9EMZaF7qxbAkkBgkWNrgPPD5": {
         "id": "1b4TKew-T9EMZaF7qxbAkkBgkWNrgPPD5",
         "name": "EDITAL DE CONVOCAÇÃO AGI - GUIDO PARQUE NAÇÕES UNIDAS.pdf",
-        "title": null,
-        "description": null,
+        "title": "Edital de convocação da AGI",
+        "description": "Convocação de 10/11/2026: pauta com 7 itens, vídeo a partir de 25/11 e votação em 27/11, das 10h às 20h.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -1399,12 +1399,12 @@
         "first_seen": "2026-11-25 12:56:30",
         "text_status": "ok",
         "char_count": 2935,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Oficial",
+        "doc_date": "10/11/2026"
     },
     "1bA6iphY3_WegVpyAGgjJhuy1nunxcEmh": {
         "id": "1bA6iphY3_WegVpyAGgjJhuy1nunxcEmh",
@@ -1913,8 +1913,8 @@
     "1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth": {
         "id": "1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth",
         "name": "PROPOSTA & PROJETO DE SEGURANÇA - GUIDO PARQUE NAÇÕES UNIDAS.pdf",
-        "title": null,
-        "description": null,
+        "title": "Proposta e projeto de segurança",
+        "description": "Projeto com 85 câmeras, acesso facial e proteção perimetral, base da opção de segurança completa.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -1924,11 +1924,11 @@
         "first_seen": "2026-11-25 12:56:30",
         "text_status": "ok",
         "char_count": 4087,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
+        "doc_type": "Comercial",
         "doc_date": ""
     },
     "1ri_B6WJu08P8imDKVoRdpN6gQjOJLs_t": {
@@ -2123,8 +2123,8 @@
     "1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw": {
         "id": "1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw",
         "name": "PROPOSTA LAVANDERIA - GUIDO PARQUE DAS NAÇÕES UNIDAS.pdf",
-        "title": null,
-        "description": null,
+        "title": "Proposta da lavanderia (Market4u)",
+        "description": "Lavanderia coletiva pay per use, sem custo fixo, com reserva pelo app. Item 5 da pauta.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -2134,11 +2134,11 @@
         "first_seen": "2026-11-25 12:56:30",
         "text_status": "ok",
         "char_count": 4570,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
+        "doc_type": "Comercial",
         "doc_date": ""
     },
     "1wjD1oXGHV4ywWnR5PL49Q2YkA120VsZh": {
