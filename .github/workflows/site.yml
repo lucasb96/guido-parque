@@ -1,6 +1,7 @@
 # Atualiza e publica o site no GitHub Pages.
 # - Todo dia às 05h17 (Brasília; minuto "quebrado" para fugir da fila do GitHub): verifica o Drive e o site da Cury, extrai textos (com OCR para escaneados)
 # - A cada publicação feita pelo painel (push) e também manualmente (aba Actions → Run workflow)
+# - Dois jobs: "build" gera o site; "deploy" publica (com uma 2ª tentativa automática se o GitHub demorar)
 name: Atualizar e publicar o site
 
 on:
@@ -23,11 +24,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - name: Baixar o código (sempre a versão mais recente, mesmo se a execução ficou na fila)
         uses: actions/checkout@v7
@@ -83,6 +81,25 @@ jobs:
         with:
           path: dist
 
+  # Publicação em um job separado (formato recomendado pelo GitHub): o pacote enviado acima às vezes
+  # demora alguns segundos para "aparecer" e, no mesmo job, o deploy procurava cedo demais ("No artifacts").
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy2.outputs.page_url }}
+    steps:
       - name: Publicar
         id: deploy
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+
+      - name: Aguardar e tentar de novo (se a primeira tentativa falhou)
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 30
+
+      - name: Publicar (2ª tentativa)
+        id: deploy2
+        if: steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v5
