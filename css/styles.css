@@ -699,6 +699,8 @@ button, a, input, label { touch-action: manipulation; }
 .theme-btn:hover { border-color: var(--brand-2); color: var(--brand); }
 .topbar-inner { gap: 12px; }
 .nav { order: 2; }
+.news-btn { order: 3; position: relative; }
+.news-btn[hidden] { display: none; }
 .theme-btn { order: 3; }
 .menu-btn { order: 4; }
 
@@ -860,3 +862,39 @@ html.scroll-locked body { padding-right: var(--scrollbar-w, 0px); }
 /* Linha do tempo: próximo evento em destaque quando nada está em andamento */
 .tl-upcoming .tl-dot { border-style: solid; border-color: var(--accent); }
 .tl-upcoming time::after { content: " · próximo"; color: var(--warn); }
+
+/* ---------- Novidades (sino no topo + janela ao entrar) ---------- */
+.news-badge {
+  position: absolute; top: -6px; right: -6px; min-width: 20px; height: 20px; padding: 0 5px; border-radius: 10px;
+  background: #d9480f; color: #fff; font-size: 0.72rem; font-weight: 700; line-height: 20px; text-align: center;
+  border: 2px solid var(--surface);
+}
+.news-badge[hidden] { display: none; }
+.whatsnew {
+  width: min(560px, calc(100vw - 24px)); max-height: min(640px, calc(100dvh - 24px)); padding: 0; border: 0;
+  border-radius: var(--radius); background: var(--surface); color: var(--ink); box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+.whatsnew[open] { display: flex; flex-direction: column; }
+.whatsnew::backdrop { background: rgba(10, 20, 30, 0.55); backdrop-filter: blur(2px); }
+.whatsnew-head { display: flex; align-items: center; gap: 12px; padding: 16px 14px 12px 18px; border-bottom: 1px solid var(--line); }
+.whatsnew-head > div { flex: 1; min-width: 0; }
+.whatsnew-head h2 { margin: 0; font-size: 1.15rem; outline: none; }
+.whatsnew-head p { margin: 2px 0 0; font-size: 0.85rem; color: var(--muted); }
+.whatsnew-icon { display: grid; place-items: center; width: 40px; height: 40px; border-radius: 12px; background: var(--brand-soft); color: var(--brand); flex: none; }
+.whatsnew-icon .ico { width: 22px; height: 22px; }
+.whatsnew-list { list-style: none; margin: 0; padding: 8px 18px; overflow-y: auto; flex: 1; }
+.whatsnew-item { display: flex; gap: 12px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.whatsnew-item:last-child { border-bottom: 0; }
+.whatsnew-dot { width: 9px; height: 9px; margin-top: 7px; border-radius: 50%; background: var(--line); flex: none; }
+.whatsnew-item.unseen .whatsnew-dot { background: #d9480f; }
+.whatsnew-body { flex: 1; min-width: 0; }
+.whatsnew-body strong { display: block; font-size: 0.98rem; }
+.whatsnew-body p { margin: 3px 0 0; font-size: 0.9rem; color: var(--ink-2); }
+.whatsnew-body time { font-size: 0.78rem; color: var(--muted); }
+.whatsnew-new { margin-left: 6px; padding: 1px 7px; border-radius: 8px; background: #d9480f; color: #fff; font-size: 0.7rem; font-weight: 700; vertical-align: 2px; }
+.whatsnew-go { margin-top: 8px; }
+.whatsnew-docs { margin: 6px 0 0; padding-left: 18px; font-size: 0.88rem; }
+.whatsnew-docs a { color: var(--brand); }
+.whatsnew-foot { padding: 12px 18px 16px; border-top: 1px solid var(--line); display: flex; justify-content: flex-end; }
+.flash-target { animation: flash-target 2.4s ease-out; border-radius: var(--radius); }
+@keyframes flash-target { 0%, 30% { box-shadow: 0 0 0 4px rgba(242, 165, 65, 0.9); } 100% { box-shadow: 0 0 0 4px rgba(242, 165, 65, 0); } }

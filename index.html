@@ -46,6 +46,9 @@
         <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 0 1 5.96 12.06l4.24 4.24-1.42 1.42-4.24-4.24A7.5 7.5 0 1 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11Z"/></svg>
         <input id="search-mini" class="search-input" type="search" autocomplete="off" placeholder="Buscar…" aria-label="Buscar dúvidas" tabindex="-1" />
       </div>
+      <button type="button" class="theme-btn news-btn" id="news-btn" aria-label="Novidades" title="Novidades" hidden>
+        <svg class="ico" aria-hidden="true"><use href="img/icons.svg#i-bell"/></svg><span class="news-badge" id="news-badge" hidden></span>
+      </button>
       <button type="button" class="theme-btn" id="theme-btn" aria-label="Tema: automático (segue o aparelho)" title="Tema: automático">
         <svg class="ico" aria-hidden="true"><use href="img/icons.svg#i-monitor"/></svg>
       </button>
@@ -295,6 +298,16 @@
     </div>
     <button class="lb-nav lb-prev" type="button" id="lb-prev" aria-label="Anterior">&#8249;</button>
     <button class="lb-nav lb-next" type="button" id="lb-next" aria-label="Próxima">&#8250;</button>
+  </dialog>
+
+  <dialog id="whatsnew" class="whatsnew" aria-labelledby="whatsnew-title">
+    <div class="whatsnew-head">
+      <span class="whatsnew-icon" aria-hidden="true"><svg class="ico"><use href="img/icons.svg#i-bell"/></svg></span>
+      <div><h2 id="whatsnew-title" tabindex="-1" autofocus>O que há de novo</h2><p id="whatsnew-sub">Atualizações recentes do site</p></div>
+      <button type="button" class="viewer-close" id="whatsnew-close" aria-label="Fechar">&times;</button>
+    </div>
+    <ul class="whatsnew-list" id="whatsnew-list"></ul>
+    <div class="whatsnew-foot"><button type="button" class="btn" id="whatsnew-ok">Entendi</button></div>
   </dialog>
 
   <dialog id="viewer" class="viewer" aria-labelledby="viewer-title">
