@@ -958,8 +958,21 @@
     const card = document.getElementById(`faq-${m[1]}`);
     if (!card) return;
     toggleCard(card, true);
+    card.classList.remove("flash");
+    void card.offsetWidth; // reinicia o destaque se a mesma pergunta for aberta de novo
     card.classList.add("flash");
-    setTimeout(() => card.scrollIntoView({ behavior: SMOOTH, block: "center" }), 50);
+    scrollToTop(card);
+  }
+
+  // Rola até o INÍCIO do elemento (título da pergunta logo abaixo do topo fixo), mesmo em respostas longas.
+  // Confere de novo depois da rolagem: mapa/fotos que carregam no caminho podem empurrar a página.
+  function scrollToTop(el) {
+    setTimeout(() => el.scrollIntoView({ behavior: SMOOTH, block: "start" }), 50);
+    setTimeout(() => {
+      const top = el.getBoundingClientRect().top;
+      const header = $(".topbar").offsetHeight;
+      if (top < header - 4 || top > header + 60) el.scrollIntoView({ behavior: "auto", block: "start" });
+    }, 900);
   }
 
   /* ---------------- Linha do tempo ---------------- */
@@ -1325,7 +1338,7 @@
     if (!el) return;
     if (el.hidden) return;
     history.replaceState(null, "", link);
-    el.scrollIntoView({ behavior: SMOOTH, block: "start" });
+    scrollToTop(el);
     el.classList.remove("flash-target");
     void el.offsetWidth;
     el.classList.add("flash-target");

@@ -25,6 +25,7 @@
 /* Elementos marcados como ocultos somem sempre, mesmo que uma classe defina display */
 [hidden] { display: none !important; }
 html { scroll-behavior: smooth; scroll-padding-top: 80px; }
+.faq-card, .section { scroll-margin-top: 12px; }
 body {
   margin: 0;
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
