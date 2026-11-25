@@ -527,8 +527,8 @@
     "1DgSqDhV7d9nnn_xlPaCwTU2ZssmKYnq6": {
         "id": "1DgSqDhV7d9nnn_xlPaCwTU2ZssmKYnq6",
         "name": "APRESENTAÇÃO OMA - GUIDO PQ NAÇÕES UNIDAS.pdf",
-        "title": null,
-        "description": null,
+        "title": "Apresentação da OMA (administradora)",
+        "description": "Quem é a OMA, Portal e app, etapas da implantação do condomínio, equipe e o que vem depois das chaves.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -538,12 +538,12 @@
         "first_seen": "2026-11-25 09:59:52",
         "text_status": "ok",
         "char_count": 3953,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Administradora",
+        "doc_date": "25/11/2026"
     },
     "1ES_Jy5B3VgaWZqOv3dgCuMCVQXxeYiax": {
         "id": "1ES_Jy5B3VgaWZqOv3dgCuMCVQXxeYiax",
