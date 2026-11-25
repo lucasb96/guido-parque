@@ -250,6 +250,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             flash('Situação e linha do tempo salvas.');
             redirect('p=content');
 
+        case 'avisos_save':
+            $avisos = [];
+            foreach ((array) ($_POST['av_title'] ?? []) as $i => $title) {
+                $title = trim((string) $title);
+                if ($title === '') continue;
+                $ext = trim((string) ($_POST['av_url'][$i] ?? ''));
+                $link = preg_match('~^https?://~', $ext) ? $ext : trim((string) ($_POST['av_link'][$i] ?? ''));
+                $avisos[] = ['date' => trim((string) ($_POST['av_date'][$i] ?? '')) ?: date('d/m/Y'), 'title' => $title,
+                    'text' => trim((string) ($_POST['av_text'][$i] ?? '')), 'link' => $link];
+            }
+            set_setting('announcements', $avisos);
+            flash('Avisos salvos. Clique em "Publicar alterações" para aparecerem no site.');
+            redirect('p=avisos');
+
         case 'advanced_save':
             $key = (string) $_POST['key'];
             $allowed = ['stats', 'amenities', 'checklist', 'glossary', 'quick_searches', 'categories', 'places_pinned', 'places_lines'];
@@ -644,6 +658,49 @@ case 'content':
     break;
 
 /* ------------------------------------------------------------------ */
+case 'avisos':
+    $avisos = setting('announcements', []);
+    for ($i = 0; $i < 3; $i++) $avisos[] = ['date' => '', 'title' => '', 'text' => '', 'link' => ''];
+    $sections = ['#duvidas' => 'Dúvidas', '#linha-do-tempo' => 'Linha do tempo', '#lazer' => 'Lazer', '#arredores' => 'Locais próximos',
+        '#checklist' => 'Checklist da vistoria', '#fornecedores' => 'Fornecedores', '#galeria' => 'Galeria', '#glossario' => 'Glossário', '#documentos' => 'Documentos'];
+    $faqs = $pdo->query('SELECT id, q FROM faq WHERE published = 1 ORDER BY q')->fetchAll();
+    $docList = $pdo->query("SELECT id, name, title FROM docs WHERE removed = 0 AND is_public = 1 AND duplicate_of IS NULL
+                            AND mime NOT LIKE 'image/%' AND mime NOT LIKE 'video/%' AND mime <> 'application/vnd.google-apps.folder'
+                            ORDER BY first_seen DESC")->fetchAll();
+    $linkSelect = function (string $cur) use ($sections, $faqs, $docList): string {
+        $o = '<option value="">(sem link)</option><optgroup label="Seções do site">';
+        foreach ($sections as $k => $l) $o .= '<option value="' . h($k) . '"' . ($cur === $k ? ' selected' : '') . '>' . h($l) . '</option>';
+        $o .= '</optgroup><optgroup label="Perguntas">';
+        foreach ($faqs as $f) $o .= '<option value="#faq-' . h($f['id']) . '"' . ($cur === '#faq-' . $f['id'] ? ' selected' : '') . '>' . h($f['q']) . '</option>';
+        $o .= '</optgroup><optgroup label="Documentos (mais novos primeiro)">';
+        foreach ($docList as $d) $o .= '<option value="#doc-' . h($d['id']) . '"' . ($cur === '#doc-' . $d['id'] ? ' selected' : '') . '>' . h($d['title'] ?: $d['name']) . '</option>';
+        return $o . '</optgroup>';
+    };
+    ?>
+    <form method="post" class="form">
+        <?= csrf_field() ?><input type="hidden" name="action" value="avisos_save">
+        <section class="box">
+            <h2>Avisos de novidades</h2>
+            <p class="small muted">Aparecem numa janela quando o morador entra no site (só o que ele ainda não viu) e no sino 🔔 do topo.
+                Em <strong>"Onde está"</strong>, escolha a pergunta, o documento ou a seção: o botão "Ver onde está" leva direto até lá.
+                Documentos novos do Drive entram sozinhos, não precisa avisar. Para apagar um aviso, apague o título.
+                Os 8 mais recentes aparecem; avisos com mais de 30 dias não abrem mais a janela sozinhos.</p>
+            <table class="edit"><thead><tr><th style="width:120px">Data</th><th>Título</th><th>Texto curto</th><th style="width:260px">Onde está</th></tr></thead><tbody>
+            <?php foreach ($avisos as $a): $isUrl = preg_match('~^https?://~', (string) $a['link']); ?>
+                <tr><td><input name="av_date[]" value="<?= h($a['date']) ?>" placeholder="<?= date('d/m/Y') ?>"></td>
+                    <td><input name="av_title[]" value="<?= h($a['title']) ?>" placeholder="Ex.: Vídeo da AGI disponível"></td>
+                    <td><input name="av_text[]" value="<?= h($a['text']) ?>"></td>
+                    <td><select name="av_link[]"><?= $linkSelect($isUrl ? '' : (string) $a['link']) ?></select>
+                        <input name="av_url[]" value="<?= $isUrl ? h($a['link']) : '' ?>" placeholder="ou cole um link (https://...)" style="margin-top:4px"></td></tr>
+            <?php endforeach; ?>
+            </tbody></table>
+        </section>
+        <div class="actions"><button class="btn">Salvar avisos</button></div>
+    </form>
+    <?php
+    break;
+
+/* ------------------------------------------------------------------ */
 case 'advanced':
     $labels = ['stats' => 'Números', 'amenities' => 'Lazer', 'checklist' => 'Checklist da vistoria', 'glossary' => 'Glossário',
         'quick_searches' => 'Buscas rápidas', 'categories' => 'Categorias', 'places_pinned' => 'Locais fixos', 'places_lines' => 'Linhas de ônibus'];
@@ -732,6 +789,7 @@ function layout_start(string $title, bool $nav = true): void
         <a href="?p=faq" class="<?= in_array($page, ['faq', 'faq_edit'], true) ? 'on' : '' ?>">Perguntas</a>
         <a href="?p=docs" class="<?= in_array($page, ['docs', 'doc'], true) ? 'on' : '' ?>">Documentos</a>
         <a href="?p=content" class="<?= $page === 'content' ? 'on' : '' ?>">Situação e linha do tempo</a>
+        <a href="?p=avisos" class="<?= $page === 'avisos' ? 'on' : '' ?>">Avisos</a>
         <a href="?p=advanced" class="<?= $page === 'advanced' ? 'on' : '' ?>">Avançado</a>
         <a href="?p=settings" class="<?= $page === 'settings' ? 'on' : '' ?>">Configurações</a>
     </nav>

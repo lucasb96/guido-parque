@@ -28,6 +28,7 @@ final class SiteData
                 'preview' => preview_url($d),
                 'download' => download_url($d),
                 'searchable' => in_array($d['text_status'], ['ok', 'manual'], true),
+                'added' => substr((string) $d['first_seen'], 0, 10), // quando o robô viu o arquivo pela 1ª vez (avisos de "novos documentos")
             ];
         }
 
@@ -85,6 +86,7 @@ final class SiteData
             'obraHistory' => array_slice(setting('obra_progress_history', []), -2),
             'gallery' => ['albums' => $albums],
             'places' => Places::withLines(setting('places')),
+            'announcements' => array_values(array_filter((array) setting('announcements', []), fn ($a) => !empty($a['title']))),
         ];
     }
 

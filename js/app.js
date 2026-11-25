@@ -1305,6 +1305,114 @@
     if (d.preview) openViewer({ ...d, docId: m[1] });
   }
 
+  /* ---------------- Novidades: janela ao entrar + sino no topo ----------------
+     Avisos escritos pela Comissão no painel (Avisos) + documentos que chegaram desde a última visita.
+     Cada aviso tem um botão "Ver onde está" que leva direto à pergunta, documento ou seção. */
+  const WN = { seenKey: "novidades-vistas", visitKey: "ultima-visita" };
+  const lsGet = (k) => { try { return localStorage.getItem(k); } catch { return null; } };
+  const lsSet = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
+  const brDate = (s) => { const m = String(s || "").match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/); return m ? new Date(+m[3], m[2] - 1, +m[1]) : null; };
+
+  function goTo(link) {
+    if (!link) return;
+    if (/^https?:\/\//.test(link)) { window.open(link, "_blank", "noopener"); return; }
+    if (link.startsWith("#faq-") && !document.getElementById(link.slice(1))) setQuery(""); // pergunta escondida por uma busca
+    if (link.startsWith("#faq-") || link.startsWith("#doc-")) {
+      if (location.hash === link) { openFromHash(); openDocFromHash(); } else location.hash = link;
+      return;
+    }
+    const el = document.querySelector(link);
+    if (!el) return;
+    if (el.hidden) return;
+    history.replaceState(null, "", link);
+    el.scrollIntoView({ behavior: SMOOTH, block: "start" });
+    el.classList.remove("flash-target");
+    void el.offsetWidth;
+    el.classList.add("flash-target");
+  }
+
+  function initWhatsNew() {
+    const dlg = $("#whatsnew");
+    if (!dlg) return;
+    const seen = new Set(JSON.parse(lsGet(WN.seenKey) || "[]"));
+    const lastVisit = lsGet(WN.visitKey); // "AAAA-MM-DD" da visita anterior (null na 1ª visita)
+    const today = new Date().toISOString().slice(0, 10);
+    const recent = new Date(Date.now() - 30 * 864e5);
+
+    const items = (D.announcements || [])
+      .map((a) => ({ ...a, id: `${a.date}|${a.title}`, when: brDate(a.date) }))
+      .sort((a, b) => (b.when || 0) - (a.when || 0))
+      .slice(0, 8);
+    // Documentos que chegaram depois da última visita (não aparece na 1ª visita: tudo seria "novo")
+    const newDocs = lastVisit
+      ? Object.entries(DOCS).filter(([, d]) => d.added && d.added > lastVisit).map(([id, d]) => ({ id, ...d }))
+      : [];
+    const unseen = items.filter((a) => !seen.has(a.id) && (!a.when || a.when >= recent));
+    const count = unseen.length + (newDocs.length ? 1 : 0);
+
+    if (!items.length && !newDocs.length) return;
+    const btn = $("#news-btn");
+    btn.hidden = false;
+    const badge = $("#news-badge");
+    badge.hidden = !count;
+    badge.textContent = count > 9 ? "9+" : String(count);
+    btn.setAttribute("aria-label", count ? `Novidades: ${count} não vistas` : "Novidades");
+
+    const docsItem = newDocs.length
+      ? `<li class="whatsnew-item unseen"><span class="whatsnew-dot"></span><div class="whatsnew-body">
+          <strong>${newDocs.length} documento${newDocs.length > 1 ? "s" : ""} novo${newDocs.length > 1 ? "s" : ""} desde a sua última visita<span class="whatsnew-new">novo</span></strong>
+          <ul class="whatsnew-docs">${newDocs.slice(0, 5).map((d) => `<li><a href="${escapeHtml(d.url)}" target="_blank" rel="noopener" ${viewerAttrs(d)}>${escapeHtml(d.title)}</a></li>`).join("")}</ul>
+          ${newDocs.length > 5 ? `<button type="button" class="btn btn-sm btn-ghost whatsnew-go" data-go="#documentos">Ver todos os documentos →</button>` : ""}
+        </div></li>`
+      : "";
+    $("#whatsnew-list").innerHTML =
+      docsItem +
+      items
+        .map((a) => {
+          const isNew = unseen.includes(a);
+          return `<li class="whatsnew-item${isNew ? " unseen" : ""}"><span class="whatsnew-dot"></span><div class="whatsnew-body">
+            <time>${escapeHtml(a.date || "")}</time>
+            <strong>${escapeHtml(a.title)}${isNew ? '<span class="whatsnew-new">novo</span>' : ""}</strong>
+            ${a.text ? `<p>${escapeHtml(a.text)}</p>` : ""}
+            ${a.link ? `<button type="button" class="btn btn-sm whatsnew-go" data-go="${escapeHtml(a.link)}">Ver onde está →</button>` : ""}
+          </div></li>`;
+        })
+        .join("");
+    $("#whatsnew-sub").textContent = !count
+      ? "Atualizações recentes do site"
+      : `${count} novidade${count > 1 ? "s" : ""} ${lastVisit ? "desde a sua última visita" : "recentes"}`;
+
+    const markSeen = () => {
+      items.forEach((a) => seen.add(a.id));
+      lsSet(WN.seenKey, JSON.stringify([...seen].slice(-50)));
+      lsSet(WN.visitKey, today);
+      badge.hidden = true;
+      btn.setAttribute("aria-label", "Novidades");
+    };
+    const open = () => {
+      if (dlg.open) return;
+      dlg.showModal();
+      lockPageScroll(true);
+      $("#whatsnew-title").focus(); // foco no título (não no botão Fechar) e lista rolada para o topo
+      $("#whatsnew-list").scrollTop = 0;
+    };
+    const close = () => { if (dlg.open) dlg.close(); };
+    dlg.addEventListener("close", () => { lockPageScroll(false); markSeen(); });
+    dlg.addEventListener("click", (e) => {
+      if (e.target === dlg) return close();
+      const go = e.target.closest("[data-go]");
+      if (go) { close(); setTimeout(() => goTo(go.dataset.go), 50); }
+      if (e.target.closest("a[data-preview]")) close();
+    });
+    $("#whatsnew-close").addEventListener("click", close);
+    $("#whatsnew-ok").addEventListener("click", close);
+    btn.addEventListener("click", open);
+
+    // Abre sozinho só se houver novidade e a pessoa não chegou por um link direto (pergunta/documento compartilhado)
+    if (count && !location.hash) setTimeout(open, 600);
+    else if (!count) lsSet(WN.visitKey, today);
+  }
+
   /* ---------------- Voltar ao topo ---------------- */
   const toTop = $("#to-top");
   const updateToTop = () => toTop.classList.toggle("show", window.scrollY > 600);
@@ -1383,6 +1491,7 @@
   renderDocs();
   openFromHash();
   openDocFromHash();
+  initWhatsNew();
   window.addEventListener("hashchange", () => {
     openFromHash();
     openDocFromHash();

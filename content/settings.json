@@ -1644,5 +1644,43 @@
                 ]
             }
         ]
-    }
+    },
+    "announcements": [
+        {
+            "date": "25/11/2026",
+            "title": "Vídeo de abertura da AGI disponível",
+            "text": "Assista antes da votação de 27/11 e veja os 7 itens da pauta, com os anexos de cada um.",
+            "link": "#faq-pauta-agi"
+        },
+        {
+            "date": "25/11/2026",
+            "title": "Previsão do valor do condomínio",
+            "text": "De R$ 278 a R$ 360 por mês, conforme a unidade e a opção de segurança votada na AGI. 1º boleto em dezembro.",
+            "link": "#faq-valor-condominio"
+        },
+        {
+            "date": "25/11/2026",
+            "title": "Atenção às reformas",
+            "text": "O prédio é de alvenaria estrutural: é proibido abrir vãos ou rasgos nas paredes. Veja como pedir a aprovação.",
+            "link": "#faq-o-que-pode-mudar"
+        },
+        {
+            "date": "25/11/2026",
+            "title": "Candidaturas a subsíndico e Conselho até 26/11",
+            "text": "Envie para agi@oma.com.br até as 17h. Para síndico, concorrem 3 empresas.",
+            "link": "#faq-candidatura-cargos"
+        },
+        {
+            "date": "25/11/2026",
+            "title": "Linha do tempo atualizada",
+            "text": "AGI, implantação do condomínio pela OMA e boas-vindas.",
+            "link": "#linha-do-tempo"
+        },
+        {
+            "date": "24/11/2026",
+            "title": "Linhas de ônibus do Terminal Guido Caloi",
+            "text": "Em Locais próximos → Ônibus, no card do terminal.",
+            "link": "#arredores"
+        }
+    ]
 }
