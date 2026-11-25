@@ -69,7 +69,7 @@
         "cat": "entrega",
         "status": "oficial",
         "q": "Quando será a AGI (Assembleia Geral de Instalação)?",
-        "a": "<p>A AGI é a <strong>entrega oficial do empreendimento</strong> e será <strong>100% online</strong>, pela administradora <strong>OMA</strong>:</p>\n<ul>\n<li><strong>16/11/2026:</strong> a OMA envia por e-mail (remetente <strong>agi@oma.com.br</strong>) o <strong>acesso único</strong> à plataforma;</li>\n<li><strong>25/11/2026, a partir das 9h30:</strong> fica disponível o <strong>vídeo</strong> com o conteúdo completo da assembleia, em que um mestre de cerimônias apresenta a pauta. Separe um tempo para assistir do início ao fim;</li>\n<li><strong>25 e 26/11:</strong> material de apoio para consulta;</li>\n<li><strong>27/11/2026, das 10h às 20h:</strong> <strong>votação</strong> (síndico, subsíndico, conselho e demais pautas);</li>\n<li><strong>Resultado:</strong> divulgado no <strong>próximo dia útil</strong> após o encerramento.</li>\n</ul>\n<p>Veja <a href=\"#faq-como-participar-agi\">como participar</a> e <a href=\"#faq-candidatura-cargos\">como se candidatar</a>.</p>\n<p class=\"note\">A data de 30 de dezembro que aparecia no aplicativo da Cury era só uma previsão do sistema.</p>",
+        "a": "<p>A AGI é a <strong>entrega oficial do empreendimento</strong> e será <strong>100% online</strong>, pela administradora <strong>OMA</strong>:</p>\n<ul>\n<li><strong>16/11/2026:</strong> a OMA envia por e-mail (remetente <strong>agi@oma.com.br</strong>) o <strong>acesso único</strong> à plataforma;</li>\n<li><strong>25/11/2026, a partir das 9h30:</strong> fica disponível o <strong>vídeo</strong> com o conteúdo completo da assembleia, em que um mestre de cerimônias apresenta a pauta. Separe um tempo para assistir do início ao fim. <strong>Já disponível:</strong> <a href=\"https://youtu.be/uA5MoUyJPeM\" target=\"_blank\" rel=\"noopener\">vídeo de abertura da AGI</a>;</li>\n<li><strong>25 e 26/11:</strong> material de apoio para consulta;</li>\n<li><strong>27/11/2026, das 10h às 20h:</strong> <strong>votação</strong> (síndico, subsíndico, conselho e demais pautas);</li>\n<li><strong>Resultado:</strong> divulgado no <strong>próximo dia útil</strong> após o encerramento.</li>\n</ul>\n<p>Veja <a href=\"#faq-como-participar-agi\">como participar</a> e <a href=\"#faq-candidatura-cargos\">como se candidatar</a>.</p>\n<p class=\"note\">A data de 30 de dezembro que aparecia no aplicativo da Cury era só uma previsão do sistema.</p>",
         "tags": [
             "AGI",
             "assembleia",
@@ -80,16 +80,48 @@
             "votação",
             "OMA",
             "30 de dezembro",
-            "aplicativo"
+            "aplicativo",
+            "vídeo",
+            "youtube"
         ],
         "src": [
             "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
             "1WxWk9aXyhp9Vhhvd17tN2hpwl9ZL7wsa",
-            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o"
+            "1pVytJJTAJPQvAyLSw5KOB1kB4phxLp7o",
+            "1b4TKew-T9EMZaF7qxbAkkBgkWNrgPPD5"
         ],
         "sort": 3,
         "published": 1,
-        "updated_at": "2026-11-13 23:34:57"
+        "updated_at": "2026-11-25 13:30:00"
+    },
+    {
+        "id": "pauta-agi",
+        "cat": "entrega",
+        "status": "oficial",
+        "q": "O que será votado na AGI?",
+        "a": "<p>A AGI foi gravada: comece pelo <a href=\"https://youtu.be/uA5MoUyJPeM\" target=\"_blank\" rel=\"noopener\">vídeo de abertura da AGI</a>. Os anexos de cada item ficam no portal da OMA (Winker). A pauta do edital tem 7 itens:</p>\n<ol>\n<li><strong>Instalação do condomínio</strong> (Lei 4.591/64 e Código Civil).</li>\n<li><strong>Apresentação da administradora</strong> (OMA).</li>\n<li><strong>Eleição</strong> do síndico, de 1 subsíndico e do Conselho Consultivo (3 efetivos e 3 suplentes), com mandato de 2 anos.</li>\n<li><strong>Previsão orçamentária</strong>, com segurança básica ou completa. Veja <a href=\"#faq-valor-condominio\">quanto vai custar</a>.</li>\n<li><strong>Market4u</strong>: <a href=\"#doc-1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw\">lavanderia coletiva</a> e <a href=\"#doc-1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU\">minimercado 24h</a>, pagos só por quem usar (pay per use). O mercado repassa 5% do faturamento bruto ao condomínio e paga um bônus de R$ 10 mil na assinatura.</li>\n<li><strong>Ratificação</strong> da manutenção dos elevadores e equipamentos e da troca de titularidade de água, luz, gás e telefone.</li>\n<li><strong>Reformas</strong> nas unidades. Veja <a href=\"#faq-o-que-pode-mudar\">o que pode mudar</a>.</li>\n</ol>\n<p>Votação em <strong>27/11/2026, das 10h às 20h</strong>. Veja <a href=\"#faq-como-participar-agi\">como participar</a>.</p>",
+        "tags": [
+            "AGI",
+            "pauta",
+            "ordem do dia",
+            "votação",
+            "vídeo",
+            "youtube",
+            "Market4u",
+            "lavanderia",
+            "minimercado",
+            "orçamento",
+            "segurança"
+        ],
+        "src": [
+            "1b4TKew-T9EMZaF7qxbAkkBgkWNrgPPD5",
+            "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
+            "1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU",
+            "1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw"
+        ],
+        "sort": 3,
+        "published": 1,
+        "updated_at": "2026-11-25 13:30:00"
     },
     {
         "id": "como-participar-agi",
@@ -1219,9 +1251,9 @@
     {
         "id": "o-que-pode-mudar",
         "cat": "reforma",
-        "status": "informado",
+        "status": "oficial",
         "q": "O que posso mudar no apartamento?",
-        "a": "<p><strong>Em geral é possível</strong> (seguindo as regras do condomínio):</p>\n<ul><li>Retirar portas internas e algumas vedações que <strong>não sejam estruturais</strong>.</li><li>Trocar pisos e revestimentos, rebaixar o teto com gesso e remover a textura do teto.</li></ul>\n<p><strong>Precisa de aprovação do síndico ou da assembleia</strong> (às vezes com ART):</p>\n<ul><li>Mudar o revestimento da varanda ou retirar a porta da varanda.</li><li>Qualquer mudança que altere a fachada.</li><li>Fechadura digital, que deve seguir um padrão definido pelo condomínio.</li></ul>\n<p>Pela Convenção, reformas com mudança de alvenaria, pisos ou ramais hidráulicos precisam de <strong>aprovação prévia do Síndico e do Conselho Consultivo</strong>, com projeto e cronograma, e de assinatura de um <strong>termo de responsabilidade</strong>.</p>",
+        "a": "<p class=\"note\"><strong>Atenção:</strong> o prédio é de <strong>alvenaria estrutural</strong>. Por isso é <strong>proibido</strong> remover paredes ou abrir vãos e rasgos nelas, <strong>inclusive para pontos elétricos e hidráulicos</strong> (apresentação da AGI). Toda reforma deve seguir a <strong>NBR 16.280</strong>, com plano de reforma e <strong>ART ou RRT</strong>, conforme as regras que o síndico e a administradora vão definir.</p>\n<p><strong>Em geral é possível</strong> (seguindo as regras do condomínio):</p>\n<ul><li>Retirar portas internas.</li><li>Trocar pisos e revestimentos, rebaixar o teto com gesso e remover a textura do teto.</li></ul>\n<p><strong>Precisa de aprovação do síndico ou da assembleia</strong> (às vezes com ART):</p>\n<ul><li>Mudar o revestimento da varanda ou retirar a porta da varanda.</li><li>Qualquer mudança que altere a fachada.</li><li>Fechadura digital, que deve seguir um padrão definido pelo condomínio.</li></ul>\n<p>Pela Convenção, reformas com mudança de alvenaria, pisos ou ramais hidráulicos precisam de <strong>aprovação prévia do Síndico e do Conselho Consultivo</strong>, com projeto e cronograma, e de assinatura de um <strong>termo de responsabilidade</strong>.</p>",
         "tags": [
             "reforma",
             "modificar",
@@ -1230,16 +1262,21 @@
             "porta",
             "personalizar",
             "ART",
-            "aprovação"
+            "aprovação",
+            "alvenaria estrutural",
+            "parede",
+            "NBR 16280",
+            "RRT"
         ],
         "src": [
+            "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
             "1qmvLGNMZXLBz4XUNgMTxWkJs3RUlrnfa",
             "1B9U8its5hlKiCQlRrlo_yhVlIlZyBf2u",
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
         "sort": 55,
         "published": 1,
-        "updated_at": "2026-11-13 22:13:06"
+        "updated_at": "2026-11-25 13:30:00"
     },
     {
         "id": "fechar-varanda",
@@ -1602,7 +1639,7 @@
         "cat": "condominio",
         "status": "oficial",
         "q": "Como me candidatar a síndico, subsíndico ou Conselho?",
-        "a": "<p><strong>Proprietários</strong> que constam no contrato de compra e venda podem se candidatar a <strong>síndico, subsíndico ou Conselho</strong>:</p>\n<ul>\n<li><strong>Prazo:</strong> de <strong>25 a 26/11/2026, até as 17h</strong>;</li>\n<li><strong>Como:</strong> envie para <strong>agi@oma.com.br</strong> uma breve apresentação da sua proposta, com <strong>nome completo, CPF e torre/unidade</strong>;</li>\n<li>As candidaturas ficam disponíveis para análise no dia da votação, <strong>27/11</strong>.</li>\n</ul>\n<p><strong>Síndico profissional</strong> (empresa de fora):</p>\n<ul>\n<li><strong>Prazo:</strong> de <strong>13/11 (a partir das 10h) a 18/11/2026 (até as 17h)</strong>;</li>\n<li><strong>Como:</strong> envie a apresentação e a proposta de serviço da empresa para <strong>candidatura@cury.net</strong>, com o nome do empreendimento no assunto;</li>\n<li>Só valem empresas que cumprem os <a href=\"#faq-requisitos-sindico-profissional\">requisitos da RFP</a>. A Cury analisa as propostas e escolhe <strong>até dois candidatos</strong> para a votação.</li>\n</ul>\n<p class=\"note\">Quem estiver em atraso com o condomínio ou já tiver sido processado por atraso não pode ser eleito (Convenção, art. 30).</p>",
+        "a": "<p><strong>Proprietários</strong> que constam no contrato de compra e venda podem se candidatar a <strong>subsíndico ou Conselho</strong> (comunicado de 25/11/2026):</p>\n<ul>\n<li><strong>Prazo:</strong> até <strong>26/11/2026, às 17h</strong>;</li>\n<li><strong>Como:</strong> envie para <strong>agi@oma.com.br</strong>: cargo de interesse, nome completo, unidade e torre, profissão e uma breve descrição do seu perfil;</li>\n<li>As candidaturas ficam disponíveis para análise no dia da votação, <strong>27/11</strong>.</li>\n</ul>\n<p><strong>Síndico profissional:</strong> as inscrições terminaram em 18/11. Concorrem <strong>3 empresas</strong>, todas com proposta de <strong>R$ 14 por unidade</strong> (R$ 10.416/mês): Menelim, Siggia &amp; Procaci e RR Síndicos.</p>\n<p class=\"note\">Quem estiver em atraso com o condomínio ou já tiver sido processado por atraso não pode ser eleito (Convenção, art. 30).</p>",
         "tags": [
             "candidatura",
             "candidatar",
@@ -1618,20 +1655,21 @@
             "síndico profissional"
         ],
         "src": [
-            "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
-            "1ZYYOpseZwmEOxhpDZUV-soIorH4WlPzQ",
+            "19rzQ7OIBZNEWXQFXNT26-ZAF4lDAJ34W",
+            "1b4TKew-T9EMZaF7qxbAkkBgkWNrgPPD5",
+            "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
         "sort": 71,
         "published": 1,
-        "updated_at": "2026-11-13 23:34:58"
+        "updated_at": "2026-11-25 13:30:00"
     },
     {
         "id": "vencimento-condominio",
         "cat": "condominio",
         "status": "oficial",
         "q": "Qual o vencimento do condomínio e o que acontece se atrasar?",
-        "a": "<ul>\n<li>Vencimento: até o <strong>5º dia de cada mês</strong>.</li>\n<li>Atraso: <strong>multa de 2%</strong>, <strong>juros de 1% ao mês</strong> e correção monetária, mais honorários de cobrança de 20%.</li>\n<li>Quem estiver em atraso pode ir à assembleia, mas <strong>o voto não conta</strong>.</li>\n<li>Rateio pela <strong>fração ideal</strong> de cada unidade, mais <strong>5% de fundo de reserva</strong>.</li>\n</ul>",
+        "a": "<ul>\n<li><strong>1º vencimento:</strong> em <strong>dezembro/2026</strong>; depois, <strong>todo dia 10</strong> (apresentação da AGI).</li>\n<li class=\"note\">A Convenção fala em vencimento até o 5º dia do mês. Vale a data que vier no boleto da administradora.</li>\n<li>Atraso: <strong>multa de 2%</strong>, <strong>juros de 1% ao mês</strong> e correção monetária, mais honorários de cobrança de 20%.</li>\n<li>Quem estiver em atraso pode ir à assembleia, mas <strong>o voto não conta</strong>.</li>\n<li>Rateio pela <strong>fração ideal</strong> de cada unidade, mais <strong>5% de fundo de reserva</strong>.</li>\n</ul>",
         "tags": [
             "vencimento",
             "atraso",
@@ -1639,35 +1677,43 @@
             "juros",
             "fundo de reserva",
             "boleto",
-            "condomínio"
+            "condomínio",
+            "primeiro boleto",
+            "dezembro",
+            "dia 10"
         ],
         "src": [
+            "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
         "sort": 72,
         "published": 1,
-        "updated_at": "2026-11-13 22:13:07"
+        "updated_at": "2026-11-25 13:30:00"
     },
     {
         "id": "valor-condominio",
         "cat": "condominio",
         "status": "pendente",
         "q": "Quanto vai custar o condomínio?",
-        "a": "<p>O valor <strong>ainda não foi definido</strong>. O orçamento é preparado pela administradora e aprovado em assembleia, a AGI. A divisão é proporcional à fração ideal de cada unidade, que fica entre 0,13% e 0,15% para os tipos de apartamento.</p>",
+        "a": "<p>A <strong>previsão apresentada na AGI</strong> (ainda depende da votação em 27/11) tem duas opções. Os valores já incluem o <strong>fundo de reserva de 5%</strong> e a segurança:</p>\n<ul>\n<li><strong>Segurança básica:</strong> de <strong>R$ 277,75 a R$ 324,72</strong> por mês, conforme a unidade (cerca de <strong>R$ 278</strong> num apartamento de 34 m²). Total do condomínio: R$ 212.511,65/mês.</li>\n<li><strong>Segurança completa</strong> (sem câmeras nos andares): de <strong>R$ 307,55 a R$ 359,56</strong> por mês (cerca de <strong>R$ 308</strong> em 34 m²). Total: R$ 235.311,65/mês.</li>\n</ul>\n<p>O valor de cada unidade segue a <strong>fração ideal</strong>. A previsão <strong>não inclui honorários</strong>: as 3 propostas de síndico profissional são de <strong>R$ 14 por unidade</strong>. Água e luz das áreas comuns serão rateadas conforme o consumo do mês.</p>\n<p>Veja a tabela completa na <a href=\"#doc-1CydSUxYdIqK9def-poi5WRj4R1YRPXuW\">apresentação da AGI</a>.</p>",
         "tags": [
             "valor",
             "quanto",
             "condomínio",
             "taxa",
             "custo",
-            "mensalidade"
+            "mensalidade",
+            "previsão orçamentária",
+            "segurança",
+            "fundo de reserva"
         ],
         "src": [
+            "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
         "sort": 73,
         "published": 1,
-        "updated_at": "2026-11-13 22:13:08"
+        "updated_at": "2026-11-25 13:30:00"
     },
     {
         "id": "vagas",
