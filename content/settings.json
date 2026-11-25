@@ -179,7 +179,7 @@
             "date": "13–18/11/2026",
             "title": "Indicação de síndico profissional",
             "text": "Propostas de empresas para candidatura@cury.net (até 18/11, 17h).",
-            "state": "current"
+            "state": "done"
         },
         {
             "date": "17/11/2026",
@@ -203,6 +203,18 @@
             "date": "30/11/2026",
             "title": "Resultado da AGI",
             "text": "Divulgado no próximo dia útil após o encerramento.",
+            "state": "next"
+        },
+        {
+            "date": "Após a AGI",
+            "title": "Implantação do condomínio pela OMA",
+            "text": "Registro da ata da AGI, CNPJ, certificado digital, CCM, seguro obrigatório, elevadores, troca de titularidade de água, luz e gás e desdobro do IPTU. A OMA envia relatórios do andamento.",
+            "state": "next"
+        },
+        {
+            "date": "Em breve",
+            "title": "Boas-vindas da OMA",
+            "text": "Folder digital com orientações sobre mudanças, reformas e o Portal OMA, e um plantão de dúvidas online. Data, horário e link virão no folder.",
             "state": "next"
         },
         {
@@ -592,7 +604,7 @@
             "doc_date": "11/2026"
         }
     },
-    "updated_at": "17/11/2026",
+    "updated_at": "25/11/2026",
     "vendor_sheet_id": "1hx0xeP9tdHQtO3RSPLBWLGMSjntcshE3xMD48vyZR_I",
     "places": {
         "origin": {
