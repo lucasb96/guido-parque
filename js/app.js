@@ -213,6 +213,28 @@
   const STATUS_LABEL = { oficial: "Oficial", informado: "Informado em visita", pendente: "Pendente" };
   const catById = Object.fromEntries(CATEGORIES.map((c) => [c.id, c]));
 
+  /* ---------------- Vídeos do YouTube na página ----------------
+     No conteúdo (perguntas, linha do tempo) basta escrever: <div class="yt" data-yt="ID_DO_VIDEO" data-title="Título"></div>
+     Aparece a capa com o botão ▶; o player do YouTube só carrega no clique (site continua leve). */
+  const withVideos = (html) =>
+    String(html || "").replace(/<div class="yt" data-yt="([\w-]{11})"(?: data-title="([^"]*)")?\s*><\/div>/g, (_, id, title = "Vídeo") =>
+      `<div class="yt-wrap"><button type="button" class="yt" data-yt="${id}" aria-label="Assistir: ${title}">
+        <img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="" loading="lazy" decoding="async" onerror="this.remove()" />
+        <span class="yt-play" aria-hidden="true">${icon("play")}</span><span class="yt-title">${title}</span>
+      </button><a class="yt-ext" href="https://youtu.be/${id}" target="_blank" rel="noopener">Abrir no YouTube ↗</a></div>`
+    );
+  document.addEventListener("click", (e) => {
+    const b = e.target.closest("button.yt");
+    if (!b) return;
+    const f = document.createElement("iframe");
+    f.className = "yt-frame";
+    f.src = `https://www.youtube-nocookie.com/embed/${b.dataset.yt}?autoplay=1&rel=0&playsinline=1`;
+    f.title = b.getAttribute("aria-label");
+    f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+    f.allowFullscreen = true;
+    b.replaceWith(f);
+  });
+
   function cardHtml(item) {
     const cat = catById[item.cat];
     const sources = item.src
@@ -230,7 +252,7 @@
         <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
       </button>
       <div class="faq-a" id="ans-${item.id}" hidden>
-        <div class="faq-a-body">${item.a}</div>
+        <div class="faq-a-body">${withVideos(item.a)}</div>
         <footer class="faq-foot">
           <div class="sources"><span class="src-title">Fonte:</span>${sources}</div>
           <div class="share">
@@ -1003,7 +1025,7 @@
         <div class="tl-body">
           <time>${t.date}</time>
           <h3>${t.title}</h3>
-          <p>${t.text}</p>
+          <div class="tl-text">${withVideos(t.text)}</div>
         </div>
       </li>`
     ).join("");
