@@ -1729,6 +1729,40 @@
         "updated_at": "2026-11-25 18:30:00"
     },
     {
+        "id": "propostas-x-mercado",
+        "cat": "condominio",
+        "status": "analise",
+        "q": "Os valores das propostas da AGI estão de acordo com o mercado?",
+        "a": "<p>Comparamos os principais itens da previsão da AGI com referências de mercado. A maioria está perto do mercado. <strong>Três itens aparecem acima: elevadores, portaria e limpeza</strong>, que juntos são 62% das despesas.</p>\n<table class=\"mini-table\">\n<thead><tr><th>Item</th><th>Na proposta</th><th>Referência de mercado</th></tr></thead>\n<tbody>\n<tr><td>Manutenção dos elevadores</td><td>R$ 2.037 por elevador</td><td><a href=\"https://base.ohub.com.br/facilities/manutencao-e-sistemas-prediais/elevadores/artigos/quanto-custa-manutencao-mensal-de-elevador-no-brasil\" target=\"_blank\" rel=\"noopener\">R$ 800 a R$ 1.800</a>, com peças</td></tr>\n<tr><td>Portaria 24h (por posto)</td><td>R$ 26.590,63</td><td><a href=\"https://primebid.com.br/blog/custos-portaria-24h-sp\" target=\"_blank\" rel=\"noopener\">R$ 23.500 a R$ 25.000</a></td></tr>\n<tr><td>Auxiliar de limpeza (por pessoa)</td><td>R$ 6.357,95</td><td><a href=\"https://www.ohub.com.br/precos/limpeza-terceirizada\" target=\"_blank\" rel=\"noopener\">R$ 5.200 a R$ 6.200</a></td></tr>\n<tr><td>Taxa da administradora</td><td>R$ 17,20 por unidade</td><td><a href=\"https://condominizando.com.br/blog/noticias-3/quanto-custa-uma-administradora-de-condominio-em-2026-27\" target=\"_blank\" rel=\"noopener\">R$ 15 a R$ 40</a> por unidade</td></tr>\n<tr><td>Segurança completa (compra)</td><td>R$ 324.000</td><td>R$ 95 a 260 mil (estimativa nossa, por componente)</td></tr>\n<tr><td>Minimercado (repasse ao condomínio)</td><td>5% do faturamento bruto + R$ 10 mil de bônus</td><td><a href=\"https://beabadalojaautonoma.com.br/qual-o-lucro-de-um-mini-mercado-em-um-condominio/\" target=\"_blank\" rel=\"noopener\">3% a 6%</a> do faturamento</td></tr>\n</tbody>\n</table>\n<p><strong>Segurança:</strong> as duas opções são compra parcelada (veja <a href=\"#faq-valor-condominio\">quanto vai custar</a>). A completa inclui 85 câmeras, 2 terminais faciais e cerca elétrica em todo o perímetro. A estimativa depende do tamanho do perímetro, que não está na <a href=\"#doc-1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth\">proposta</a>.</p>\n<p><strong>Lavanderia e minimercado:</strong> não custam nada ao condomínio; quem usa paga. Na <a href=\"#doc-1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw\">proposta da lavanderia</a> não dá para ler o preço por ciclo nem o percentual de repasse, e o texto fala em 3 torres, mas o condomínio tem 4. O contrato da lavanderia é de 48 meses; o do <a href=\"#doc-1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU\">minimercado</a>, de 24.</p>\n<p><strong>Onde dá para economizar sem cortar serviço:</strong> cotar portaria, limpeza e elevadores com outras empresas, com o mesmo escopo, pode reduzir algo como <strong>R$ 12 a R$ 27 por apartamento por mês</strong>. Nos elevadores, convém esperar o fim da garantia do fabricante. Mudanças maiores, como a portaria híbrida (remota em parte do dia), exigem assembleia e avaliação de segurança.</p>\n<p class=\"note\">As referências vêm de sites de empresas do setor, consultados em 25/11/2026. Elas indicam onde vale pedir orçamento, não são preço fechado. Esta comparação é informativa e não é uma recomendação de voto.</p>",
+        "tags": [
+            "mercado",
+            "comparativo",
+            "orçamento",
+            "caro",
+            "preço",
+            "elevador",
+            "portaria",
+            "limpeza",
+            "segurança",
+            "câmeras",
+            "lavanderia",
+            "minimercado",
+            "Market4u",
+            "economizar",
+            "cotação",
+            "administradora"
+        ],
+        "src": [
+            "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
+            "1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth",
+            "1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU",
+            "1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw"
+        ],
+        "sort": 73,
+        "published": 1,
+        "updated_at": "2026-11-25 19:30:00"
+    },
+    {
         "id": "vagas",
         "cat": "condominio",
         "status": "oficial",
