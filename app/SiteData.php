@@ -86,6 +86,7 @@ final class SiteData
             'obraHistory' => array_slice(setting('obra_progress_history', []), -2),
             'gallery' => ['albums' => $albums],
             'places' => Places::withLines(setting('places')),
+            'rateio' => setting('condo_rateio'),
             'announcements' => array_values(array_filter((array) setting('announcements', []), fn ($a) => !empty($a['title']))),
         ];
     }

@@ -1701,25 +1701,32 @@
         "cat": "condominio",
         "status": "pendente",
         "q": "Quanto vai custar o condomínio?",
-        "a": "<p>A <strong>previsão apresentada na AGI</strong> (ainda depende da votação em 27/11) tem duas opções. Os valores já incluem o <strong>fundo de reserva de 5%</strong> e a segurança:</p>\n<ul>\n<li><strong>Segurança básica:</strong> de <strong>R$ 277,75 a R$ 324,72</strong> por mês, conforme a unidade (cerca de <strong>R$ 278</strong> num apartamento de 34 m²). Total do condomínio: R$ 212.511,65/mês.</li>\n<li><strong>Segurança completa</strong> (sem câmeras nos andares): de <strong>R$ 307,55 a R$ 359,56</strong> por mês (cerca de <strong>R$ 308</strong> em 34 m²). Total: R$ 235.311,65/mês.</li>\n</ul>\n<p>O valor de cada unidade segue a <strong>fração ideal</strong>. A previsão <strong>não inclui honorários</strong>: as 3 propostas de síndico profissional são de <strong>R$ 14 por unidade</strong>. Água e luz das áreas comuns serão rateadas conforme o consumo do mês.</p>\n<p>Veja a tabela completa na <a href=\"#doc-1CydSUxYdIqK9def-poi5WRj4R1YRPXuW\">apresentação da AGI</a>.</p>",
+        "a": "<p>A <strong>previsão apresentada na AGI</strong> ainda depende da votação de 27/11. Escolha o seu apartamento para ver o valor:</p>\n<div class=\"calc-condo\"></div>\n<p><strong>Como a conta é feita:</strong> as despesas do condomínio (R$ 198.392,05 por mês) mais o fundo de reserva de 5% são divididos pela <strong>fração ideal</strong> de cada unidade. Para três em cada quatro apartamentos, isso dá entre <strong>R$ 272 e R$ 276</strong> por mês, antes da segurança.</p>\n<p><strong>Segurança: a diferença é temporária.</strong> As duas opções são a <strong>compra parcelada</strong> de equipamentos, não uma mensalidade para sempre (<a href=\"#doc-1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth\">proposta de segurança</a>):</p>\n<ul>\n<li><strong>Básica:</strong> 16 câmeras e 2 terminais faciais, por R$ 42.000 (10 × R$ 4.200). Cerca de <strong>R$ 5,50 a mais</strong> por mês, durante 10 meses.</li>\n<li><strong>Completa:</strong> 85 câmeras (inclusive nos elevadores), 2 terminais faciais e cerca elétrica em todo o perímetro, por R$ 324.000 (12 × R$ 27.000). Cerca de <strong>R$ 35 a R$ 41 a mais</strong> por mês, durante 12 meses.</li>\n</ul>\n<p class=\"note\"><strong>Não estão na previsão:</strong> os honorários do síndico (as 3 propostas de síndico profissional são de R$ 14 por unidade) e a água e a luz das áreas comuns, que serão rateadas conforme o consumo de cada mês. O valor real do boleto deve ficar acima da previsão.</p>\n<p>Veja a tabela completa na <a href=\"#doc-1CydSUxYdIqK9def-poi5WRj4R1YRPXuW\">apresentação da AGI</a>.</p>",
         "tags": [
-            "valor",
-            "quanto",
+            "calculadora",
             "condomínio",
-            "taxa",
             "custo",
+            "câmeras",
+            "fundo de reserva",
             "mensalidade",
+            "meu apartamento",
+            "parcelas",
             "previsão orçamentária",
+            "quanto",
             "segurança",
-            "fundo de reserva"
+            "simular",
+            "taxa",
+            "unidade",
+            "valor"
         ],
         "src": [
             "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
+            "1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth",
             "1BSJO7v0oS9gpKsf29vctkh968YUxXnVZ"
         ],
         "sort": 73,
         "published": 1,
-        "updated_at": "2026-11-25 13:30:00"
+        "updated_at": "2026-11-25 18:30:00"
     },
     {
         "id": "vagas",
