@@ -235,6 +235,75 @@
     b.replaceWith(f);
   });
 
+
+  /* ---------------- Calculadora do condomínio por unidade ----------------
+     No texto de uma pergunta: <div class="calc-condo"></div>. Usa D.rateio (quadro de rateio da AGI, em content/settings.json → condo_rateio).
+     Valor de cada parte = fração ideal × total do condomínio (mesma conta da administradora). */
+  const brl = (n) => n.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+  const withCalc = (html) =>
+    D.rateio
+      ? String(html || "").replace(/<div class="calc-condo"\s*><\/div>/g, () => {
+          const torres = Object.keys(D.rateio.torres).sort();
+          return `<div class="calc" data-calc>
+            <p class="calc-title">${icon("wallet")} Calcule o valor do seu apartamento</p>
+            <div class="calc-fields">
+              <label>Torre<select data-k="torre">${torres.map((t) => `<option>${t}</option>`).join("")}</select></label>
+              <label>Andar<select data-k="andar"><option value="0">Térreo</option>${[1, 2, 3, 4, 5, 6, 7, 8, 9].map((a) => `<option value="${a}">${a}º</option>`).join("")}</select></label>
+              <label>Apartamento<select data-k="final"></select></label>
+            </div>
+            <div class="calc-out" aria-live="polite"></div>
+          </div>`;
+        })
+      : html;
+
+  function updateCalc(box) {
+    const R = D.rateio;
+    const get = (k) => $(`[data-k="${k}"]`, box);
+    const torre = get("torre").value;
+    const andar = +get("andar").value;
+    const grupo = R.torres[torre][andar ? "andares" : "terreo"];
+    const sel = get("final");
+    const prev = sel.value;
+    sel.innerHTML = Object.keys(grupo).map((f) => `<option value="${f}">${andar ? andar + f : "final " + f}</option>`).join("");
+    if (grupo[prev]) sel.value = prev;
+    const [frStr, area] = grupo[sel.value].split("|");
+    const fr = +frStr;
+    const r2 = (n) => Math.round(n * 100) / 100;
+    const cota = r2(fr * R.despesas);
+    const fundo = r2(fr * R.fundo_reserva);
+    // Totais como no quadro oficial: fração × total geral, arredondado uma vez só
+    const total = (seg) => r2(fr * (R.despesas + R.fundo_reserva + seg));
+    const base = total(0);
+    const sb = R.seguranca.basica;
+    const sc = R.seguranca.completa;
+    const tb = total(sb.mensal);
+    const tc = total(sc.mensal);
+    const ano = (t, n) => r2(t * Math.min(n, 12) + base * (12 - Math.min(n, 12)));
+    const ap = andar ? `ap. ${andar}${sel.value}` : `térreo, final ${sel.value}`;
+    $(".calc-out", box).innerHTML = `
+      <p class="calc-unit">Torre ${torre} · ${ap} · ${area.replace(".", ",")} m² · fração ideal ${frStr.replace(".", ",")}</p>
+      <table class="calc-table">
+        <thead><tr><th></th><th>Segurança básica</th><th>Segurança completa</th></tr></thead>
+        <tbody>
+          <tr><th>Primeiros meses</th><td><strong>${brl(tb)}</strong><small>por ${sb.parcelas} meses</small></td><td><strong>${brl(tc)}</strong><small>por ${sc.parcelas} meses</small></td></tr>
+          <tr><th>Depois das parcelas</th><td>${brl(base)}</td><td>${brl(base)}</td></tr>
+          <tr><th>Total no 1º ano</th><td>${brl(ano(tb, sb.parcelas))}</td><td>${brl(ano(tc, sc.parcelas))}</td></tr>
+        </tbody>
+      </table>
+      <p class="calc-note">Inclui a cota (${brl(cota)}) e o fundo de reserva (${brl(fundo)}). <strong>Não inclui:</strong> mais ${brl(R.sindico_profissional)} se for eleito síndico profissional, e o rateio da água e da luz das áreas comuns, cobrado conforme o consumo de cada mês.</p>`;
+  }
+  document.addEventListener("change", (e) => {
+    const box = e.target.closest("[data-calc]");
+    if (box) updateCalc(box);
+  });
+  function initCalcs(root) {
+    $$("[data-calc]", root).forEach((b) => {
+      if (b.dataset.ready) return;
+      b.dataset.ready = "1";
+      updateCalc(b);
+    });
+  }
+
   function cardHtml(item) {
     const cat = catById[item.cat];
     const sources = item.src
@@ -252,7 +321,7 @@
         <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
       </button>
       <div class="faq-a" id="ans-${item.id}" hidden>
-        <div class="faq-a-body">${withVideos(item.a)}</div>
+        <div class="faq-a-body">${withCalc(withVideos(item.a))}</div>
         <footer class="faq-foot">
           <div class="sources"><span class="src-title">Fonte:</span>${sources}</div>
           <div class="share">
@@ -331,6 +400,7 @@
     grid.innerHTML = list.map(({ e }) => cardHtml(e.item)).join("");
     grid.removeAttribute("aria-busy");
     annotateGlossary(grid);
+    initCalcs(grid);
     renderGlossaryCallout(state.query);
 
     const n = list.length;
@@ -398,7 +468,7 @@
     $$(".faq-a-body", root).forEach((body) => {
       const used = new Set();
       const walker = document.createTreeWalker(body, NodeFilter.SHOW_TEXT, {
-        acceptNode: (n) => (n.parentElement.closest("a, abbr, th") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT),
+        acceptNode: (n) => (n.parentElement.closest("a, abbr, th, select, [data-calc]") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT),
       });
       const nodes = [];
       while (walker.nextNode()) nodes.push(walker.currentNode);
