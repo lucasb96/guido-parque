@@ -129,6 +129,7 @@ a { color: var(--brand-2); }
 .badge-oficial { background: var(--ok-soft); color: var(--ok); }
 .badge-informado { background: var(--warn-soft); color: var(--warn); }
 .badge-pendente { background: var(--info-soft); color: var(--info); }
+.badge-analise { background: var(--brand-soft); color: var(--brand); }
 
 /* ---------- Filters ---------- */
 .filters { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 18px; scrollbar-width: thin; }

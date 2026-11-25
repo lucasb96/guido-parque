@@ -527,7 +527,7 @@ case 'faq':
             <tr class="<?= $r['published'] ? '' : 'dim' ?>">
                 <td><a href="?p=faq_edit&id=<?= urlencode($r['id']) ?>"><?= h($r['q']) ?></a></td>
                 <td class="small"><?= h($CAT_LABEL[$r['cat']] ?? $r['cat']) ?></td>
-                <td><?= h(['oficial' => 'Oficial', 'informado' => 'Informado', 'pendente' => 'Pendente'][$r['status']] ?? $r['status']) ?></td>
+                <td><?= h(['oficial' => 'Oficial', 'informado' => 'Informado', 'pendente' => 'Pendente', 'analise' => 'Análise'][$r['status']] ?? $r['status']) ?></td>
                 <td><?= $r['published'] ? 'Sim' : 'Não' ?></td>
                 <td class="small"><?= h(fmt_date($r['updated_at'])) ?></td>
             </tr>
@@ -564,7 +564,7 @@ case 'faq_edit':
                     <?php foreach ($CATS as $c) if ($c['id'] !== 'todas'): ?><option value="<?= h($c['id']) ?>" <?= $f['cat'] === $c['id'] ? 'selected' : '' ?>><?= h($c['icon'] . ' ' . $c['label']) ?></option><?php endif; ?>
                 </select></label>
                 <label>Selo<select name="status">
-                    <?php foreach (['oficial' => 'Oficial (documento ou resposta formal da Cury)', 'informado' => 'Informado em visita (não oficial)', 'pendente' => 'Pendente (sem resposta definitiva)'] as $k => $l): ?>
+                    <?php foreach (['oficial' => 'Oficial (documento ou resposta formal da Cury)', 'informado' => 'Informado em visita (não oficial)', 'pendente' => 'Pendente (sem resposta definitiva)', 'analise' => 'Análise (comparação ou cálculo feito a partir dos documentos)'] as $k => $l): ?>
                         <option value="<?= $k ?>" <?= $f['status'] === $k ? 'selected' : '' ?>><?= $l ?></option>
                     <?php endforeach; ?>
                 </select></label>

@@ -210,7 +210,7 @@
   }
 
   /* ---------------- Render: FAQ ---------------- */
-  const STATUS_LABEL = { oficial: "Oficial", informado: "Informado em visita", pendente: "Pendente" };
+  const STATUS_LABEL = { oficial: "Oficial", informado: "Informado em visita", pendente: "Pendente", analise: "Análise" };
   const catById = Object.fromEntries(CATEGORIES.map((c) => [c.id, c]));
 
   /* ---------------- Vídeos do YouTube na página ----------------
