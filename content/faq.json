@@ -99,7 +99,7 @@
         "cat": "entrega",
         "status": "oficial",
         "q": "O que será votado na AGI?",
-        "a": "<p>A AGI foi gravada: comece pelo <a href=\"https://youtu.be/uA5MoUyJPeM\" target=\"_blank\" rel=\"noopener\">vídeo de abertura da AGI</a>. Os anexos de cada item ficam no portal da OMA (Winker). A pauta do edital tem 7 itens:</p>\n<ol>\n<li><strong>Instalação do condomínio</strong> (Lei 4.591/64 e Código Civil).</li>\n<li><strong>Apresentação da administradora</strong> (OMA).</li>\n<li><strong>Eleição</strong> do síndico, de 1 subsíndico e do Conselho Consultivo (3 efetivos e 3 suplentes), com mandato de 2 anos.</li>\n<li><strong>Previsão orçamentária</strong>, com segurança básica ou completa. Veja <a href=\"#faq-valor-condominio\">quanto vai custar</a>.</li>\n<li><strong>Market4u</strong>: <a href=\"#doc-1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw\">lavanderia coletiva</a> e <a href=\"#doc-1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU\">minimercado 24h</a>, pagos só por quem usar (pay per use). O mercado repassa 5% do faturamento bruto ao condomínio e paga um bônus de R$ 10 mil na assinatura.</li>\n<li><strong>Ratificação</strong> da manutenção dos elevadores e equipamentos e da troca de titularidade de água, luz, gás e telefone.</li>\n<li><strong>Reformas</strong> nas unidades. Veja <a href=\"#faq-o-que-pode-mudar\">o que pode mudar</a>.</li>\n</ol>\n<p>Votação em <strong>27/11/2026, das 10h às 20h</strong>. Veja <a href=\"#faq-como-participar-agi\">como participar</a>.</p>",
+        "a": "<p>A AGI foi gravada: comece pelo <a href=\"https://youtu.be/uA5MoUyJPeM\" target=\"_blank\" rel=\"noopener\">vídeo de abertura da AGI</a>. No portal da OMA (Winker), cada item da pauta tem os seus anexos, que também estão aqui no site:</p>\n<ol>\n<li><strong>Instalação do condomínio</strong> (Lei 4.591/64 e Código Civil). Sem votação. Anexos: <a href=\"#doc-1b4TKew-T9EMZaF7qxbAkkBgkWNrgPPD5\">edital</a>, <a href=\"#doc-1CydSUxYdIqK9def-poi5WRj4R1YRPXuW\">apresentação da AGI</a> e <a href=\"#doc-1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth\">proposta de segurança</a>.</li>\n<li><strong>Apresentação da administradora</strong>. Sem votação. Anexo: <a href=\"#doc-1DgSqDhV7d9nnn_xlPaCwTU2ZssmKYnq6\">apresentação da OMA</a>.</li>\n<li><strong>Eleição</strong> do síndico, de 1 subsíndico e do Conselho Consultivo (3 efetivos e 3 suplentes), com mandato de 2 anos. Os materiais de campanha dos candidatos ficam disponíveis no dia 27/11. Anexo: <a href=\"#doc-19rzQ7OIBZNEWXQFXNT26-ZAF4lDAJ34W\">comunicado das candidaturas</a>.</li>\n<li><strong>Previsão orçamentária</strong>: você vota no modelo, com <strong>segurança básica ou completa</strong>. Veja <a href=\"#faq-valor-condominio\">quanto vai custar</a>. Anexos: <a href=\"#doc-1CydSUxYdIqK9def-poi5WRj4R1YRPXuW\">apresentação da AGI</a> e <a href=\"#doc-1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth\">proposta de segurança</a>.</li>\n<li><strong>Market4u</strong>: <a href=\"#doc-1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw\">lavanderia coletiva</a> e <a href=\"#doc-1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU\">minimercado 24h</a>, pagos só por quem usar (pay per use). O mercado repassa 5% do faturamento bruto ao condomínio e paga um bônus de R$ 10 mil na assinatura. Você decide se o condomínio adota esses serviços.</li>\n<li><strong>Ratificação</strong> da manutenção dos elevadores e equipamentos pelo condomínio e da troca de titularidade de água, luz, gás e telefone, que é feita depois que o condomínio tiver CNPJ.</li>\n<li><strong>Reformas</strong> nas unidades. Veja <a href=\"#faq-o-que-pode-mudar\">o que pode mudar</a> e como pedir a aprovação.</li>\n</ol>\n<p>Votação em <strong>27/11/2026, das 10h às 20h</strong>. Veja <a href=\"#faq-como-participar-agi\">como participar</a>.</p>",
         "tags": [
             "AGI",
             "pauta",
@@ -116,12 +116,14 @@
         "src": [
             "1b4TKew-T9EMZaF7qxbAkkBgkWNrgPPD5",
             "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
+            "19rzQ7OIBZNEWXQFXNT26-ZAF4lDAJ34W",
             "1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU",
-            "1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw"
+            "1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw",
+            "1rN1LmiRp9jc21evHb7UEYWsmQ5KBmOth"
         ],
         "sort": 3,
         "published": 1,
-        "updated_at": "2026-11-25 13:30:00"
+        "updated_at": "2026-11-25 14:30:00"
     },
     {
         "id": "como-participar-agi",
@@ -1253,7 +1255,7 @@
         "cat": "reforma",
         "status": "oficial",
         "q": "O que posso mudar no apartamento?",
-        "a": "<p class=\"note\"><strong>Atenção:</strong> o prédio é de <strong>alvenaria estrutural</strong>. Por isso é <strong>proibido</strong> remover paredes ou abrir vãos e rasgos nelas, <strong>inclusive para pontos elétricos e hidráulicos</strong> (apresentação da AGI). Toda reforma deve seguir a <strong>NBR 16.280</strong>, com plano de reforma e <strong>ART ou RRT</strong>, conforme as regras que o síndico e a administradora vão definir.</p>\n<p><strong>Em geral é possível</strong> (seguindo as regras do condomínio):</p>\n<ul><li>Retirar portas internas.</li><li>Trocar pisos e revestimentos, rebaixar o teto com gesso e remover a textura do teto.</li></ul>\n<p><strong>Precisa de aprovação do síndico ou da assembleia</strong> (às vezes com ART):</p>\n<ul><li>Mudar o revestimento da varanda ou retirar a porta da varanda.</li><li>Qualquer mudança que altere a fachada.</li><li>Fechadura digital, que deve seguir um padrão definido pelo condomínio.</li></ul>\n<p>Pela Convenção, reformas com mudança de alvenaria, pisos ou ramais hidráulicos precisam de <strong>aprovação prévia do Síndico e do Conselho Consultivo</strong>, com projeto e cronograma, e de assinatura de um <strong>termo de responsabilidade</strong>.</p>",
+        "a": "<p class=\"note\"><strong>Atenção:</strong> o prédio é de <strong>alvenaria estrutural</strong>. Por isso é <strong>proibido</strong> remover paredes ou abrir vãos e rasgos nelas, <strong>inclusive para pontos elétricos e hidráulicos</strong> (apresentação da AGI). Toda reforma deve seguir a <strong>NBR 16.280</strong>, com plano de reforma e <strong>ART ou RRT</strong>, conforme as regras que o síndico e a administradora vão definir.</p>\n<p><strong>Em geral é possível</strong> (seguindo as regras do condomínio):</p>\n<ul><li>Retirar portas internas.</li><li>Trocar pisos e revestimentos, rebaixar o teto com gesso e remover a textura do teto.</li></ul>\n<p><strong>Precisa de aprovação do síndico ou da assembleia</strong> (às vezes com ART):</p>\n<ul><li>Mudar o revestimento da varanda ou retirar a porta da varanda.</li><li>Qualquer mudança que altere a fachada.</li><li>Fechadura digital, que deve seguir um padrão definido pelo condomínio.</li></ul>\n<p>Pela Convenção, reformas com mudança de alvenaria, pisos ou ramais hidráulicos precisam de <strong>aprovação prévia do Síndico e do Conselho Consultivo</strong>, com projeto e cronograma, e de assinatura de um <strong>termo de responsabilidade</strong>.</p>\n<p><strong>Como pedir a aprovação</strong> (portal da OMA, item 7 da AGI):</p>\n<ol>\n<li>Depois da AGI, a OMA envia o <strong>material de boas-vindas</strong>, com o link do formulário do <strong>Manual de Obras e Reformas</strong>;</li>\n<li>Preencha o formulário com os serviços que pretende fazer e anexe os documentos pedidos (como a ART ou RRT);</li>\n<li>A empresa responsável analisa. Se estiver tudo certo, a <strong>liberação sai em até 3 dias úteis</strong>.</li>\n</ol>\n<p class=\"note\"><strong>Não comece nenhum serviço antes da aprovação.</strong></p>",
         "tags": [
             "reforma",
             "modificar",
@@ -1266,7 +1268,11 @@
             "alvenaria estrutural",
             "parede",
             "NBR 16280",
-            "RRT"
+            "RRT",
+            "formulário",
+            "Manual de Obras",
+            "liberação",
+            "3 dias úteis"
         ],
         "src": [
             "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW",
@@ -1276,7 +1282,7 @@
         ],
         "sort": 55,
         "published": 1,
-        "updated_at": "2026-11-25 13:30:00"
+        "updated_at": "2026-11-25 14:30:00"
     },
     {
         "id": "fechar-varanda",
