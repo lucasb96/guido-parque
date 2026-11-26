@@ -356,7 +356,7 @@ mark { background: #ffe39a; color: inherit; padding: 0 2px; border-radius: 3px; 
 @media (max-width: 1240px) {
   .topbar.is-compact .brand-sep, .topbar.is-compact .brand-text { display: none; }
 }
-@media (max-width: 1100px) {
+@media (max-width: 1180px) {
   .topbar.is-compact .top-search { max-width: none; }
 }
 @media (max-width: 560px) {
@@ -535,7 +535,7 @@ main:focus { outline: none; }
 .nav a.active { background: var(--brand-soft); color: var(--brand); font-weight: 600; }
 .nav-extra { display: none; }
 
-/* Botão de menu (aparece abaixo de 960px) */
+/* Botão de menu (aparece abaixo de 1180px) */
 .menu-btn {
   display: none; align-items: center; gap: 6px; height: 44px; padding: 0 14px; margin-left: auto;
   border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink);
@@ -544,7 +544,7 @@ main:focus { outline: none; }
 .menu-btn .ico { width: 20px; height: 20px; }
 .menu-btn:hover { border-color: var(--brand-2); color: var(--brand); }
 
-@media (max-width: 1100px) {
+@media (max-width: 1180px) {
   .menu-btn { display: inline-flex; }
   .topbar.is-compact .menu-btn { margin-left: 0; }
   .nav, .topbar.is-compact .nav {
@@ -726,7 +726,7 @@ button, a, input, label { touch-action: manipulation; }
 .offline-bar[hidden] { display: none; }
 .offline-bar .ico { color: var(--warn); width: 20px; height: 20px; margin-top: 1px; }
 
-@media (max-width: 1100px) { .theme-btn { margin-left: auto; } .menu-btn { margin-left: 0; } }
+@media (max-width: 1180px) { .theme-btn { margin-left: auto; } .menu-btn { margin-left: 0; } }
 :root[data-theme="dark"] .album-tab.active .count, :root[data-theme="dark"] .filter.active .count { background: rgba(6, 42, 39, 0.16); color: #062a27; }
 :root[data-theme="dark"] .album-tab:not(.active) .count, :root[data-theme="dark"] .filter:not(.active) .count { color: var(--ink-2); }
 @media (prefers-color-scheme: dark) {
@@ -853,10 +853,10 @@ html.scroll-locked body { padding-right: var(--scrollbar-w, 0px); }
 @media (max-width: 1440px) {
   .topbar.is-compact .brand-sep, .topbar.is-compact .brand-text { display: none; }
 }
-@media (min-width: 1101px) and (max-width: 1280px) {
+@media (min-width: 1181px) and (max-width: 1280px) {
   .topbar.is-compact .nav a { padding: 8px 7px; font-size: 0.9rem; }
 }
-@media (max-width: 1100px) {
+@media (max-width: 1180px) {
   .topbar.is-compact .top-search { max-width: none; }
   .topbar.is-compact .theme-btn { margin-left: 0; }
 }
@@ -939,4 +939,10 @@ html.scroll-locked body { padding-right: var(--scrollbar-w, 0px); }
   .calc-fields { grid-template-columns: 1fr 1fr; }
   .calc-fields label:last-child { grid-column: 1 / -1; }
   .calc-table tbody th { white-space: normal; }
+}
+
+/* Menu do topo nunca é cortado: quem cede espaço é a busca compacta (que encolhe até 140px) */
+@media (min-width: 1181px) {
+  .nav { flex-shrink: 0; overflow: visible; }
+  .topbar.is-compact .top-search { flex: 1 1 200px; min-width: 140px; }
 }
