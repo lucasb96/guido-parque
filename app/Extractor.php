@@ -75,7 +75,7 @@ final class Extractor
     }
 
     /** Sobe quando a leitura de PDF melhora: o robô relê uma vez os PDFs já extraídos. */
-    public const VERSION = 3; // 3 = Docling (tabelas + OCR de página inteira em PDFs com texto sobreposto)
+    public const VERSION = 4; // 3 = Docling; 4 = trava de qualidade (Docling só fica se não for pior)
 
     private function pdf(string $path): array
     {
@@ -110,27 +110,42 @@ final class Extractor
         // Pouco texto por página = PDF escaneado (imagem)
         $letters = preg_match_all('/\p{L}/u', $text);
 
-        // Docling (só no robô): monta as tabelas. Em PDF escaneado ou com texto duplicado/sobreposto,
-        // lê a página como imagem (OCR), o que elimina a duplicação.
+        // 1) Leitura comum: texto do PDF, ou OCR com Tesseract se for escaneado
+        $ocrNote = "[Texto obtido por OCR automático – pode conter pequenos erros de leitura]\n\n";
         $scanned = $letters < 150 * $pages && $letters < 2000;
-        $ocrAll = $scanned || self::duplicatedText($text) >= 0.015;
-        $md = self::docling($path, $ocrAll);
-        // Num PDF de texto normal, o Docling só fica se ler pelo menos 80% do texto da leitura comum
-        // (em PDFs cheios de imagens ele às vezes perde trechos)
-        if ($md !== null && !$ocrAll && preg_match_all('/\p{L}/u', $md) < 0.8 * $letters) $md = null;
-        if ($md !== null) {
-            return ['status' => 'ok', 'text' => ($ocrAll ? "[Texto obtido por OCR automático – pode conter pequenos erros de leitura]\n\n" : '') . $md, 'error' => null];
+        $base = ['status' => 'ok', 'text' => $text, 'error' => null];
+        if ($scanned) {
+            $ocr = self::ocr($path);
+            $base = ($ocr !== null && preg_match_all('/\p{L}/u', $ocr) > 200)
+                ? ['status' => 'ok', 'text' => $ocrNote . Text::clean($ocr), 'error' => null]
+                : ['status' => 'scanned', 'text' => $text, 'error' => 'PDF escaneado: sem texto selecionável'];
         }
 
-        if ($letters < 150 * $pages && $letters < 2000) {
-            // PDF escaneado: tenta OCR (Tesseract em português), se disponível no servidor
-            $ocr = self::ocr($path);
-            if ($ocr !== null && preg_match_all('/\p{L}/u', $ocr) > 200) {
-                return ['status' => 'ok', 'text' => "[Texto obtido por OCR automático – pode conter pequenos erros de leitura]\n\n" . Text::clean($ocr), 'error' => null];
-            }
-            return ['status' => 'scanned', 'text' => $text, 'error' => 'PDF escaneado: sem texto selecionável'];
-        }
-        return ['status' => 'ok', 'text' => $text, 'error' => null];
+        // 2) Docling (só no robô): monta as tabelas. Em PDF escaneado ou com texto duplicado/sobreposto,
+        //    lê a página como imagem (OCR), o que elimina a duplicação.
+        $ocrAll = $scanned || self::duplicatedText($text) >= 0.015;
+        $md = self::docling($path, $ocrAll);
+        if ($md === null) return $base;
+        // Em PDF de texto normal, o Docling precisa ler pelo menos 80% do texto da leitura comum
+        // (em PDFs cheios de imagens ele às vezes perde trechos)
+        if (!$ocrAll && preg_match_all('/\p{L}/u', $md) < 0.8 * $letters) return $base;
+        // Trava de qualidade: texto do Docling bem menos "português" que a leitura comum = leitura ruim
+        // (ex.: página escaneada que ele leu de cabeça para baixo)
+        if ($base['status'] === 'ok' && self::portugueseScore($md) < 0.7 * self::portugueseScore($base['text'])) return $base;
+        return ['status' => 'ok', 'text' => ($ocrAll ? $ocrNote : '') . $md, 'error' => null];
+    }
+
+    /** Fração de palavras muito comuns do português ("de", "que", "para"…): ~25–35% em texto bem lido, < 12% em lixo de OCR. */
+    public static function portugueseScore(string $text): float
+    {
+        static $sw = null;
+        $sw ??= array_fill_keys(explode(' ', 'de da do das dos que a o e para com em no na nos nas os as um uma por ao se é ou não mais como pela pelo'), true);
+        preg_match_all('/[\p{L}]+/u', mb_strtolower($text), $m);
+        $words = $m[0];
+        if (!$words) return 0.0;
+        $hits = 0;
+        foreach ($words as $w) if (isset($sw[$w])) $hits++;
+        return $hits / count($words);
     }
 
     /**
