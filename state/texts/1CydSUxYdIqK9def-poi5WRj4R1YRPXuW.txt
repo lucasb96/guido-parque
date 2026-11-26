@@ -1,4 +1,4 @@
-2026-11-26 11:40:58,566 MatchingPostProcessor WARNING 2 of 512 pdf cells matched neither a row nor a column band of the 47x2 grid and were dropped from the table
+2026-11-26 11:55:52,966 MatchingPostProcessor WARNING 2 of 512 pdf cells matched neither a row nor a column band of the 47x2 grid and were dropped from the table
 
 Siva
 
