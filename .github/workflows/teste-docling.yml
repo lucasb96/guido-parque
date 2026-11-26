@@ -1,0 +1,71 @@
+# TEMPORÁRIO: testa o Docling em PDFs reais antes de ligar no robô. Roda só em branches claude/**; sai antes do merge.
+name: Teste do Docling (temporário)
+
+on:
+  push:
+    branches: ["claude/**"]
+    paths:
+      - tools/docling_pdf.py
+      - tools/requirements-docling.txt
+      - .github/workflows/teste-docling.yml
+
+permissions:
+  contents: read
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Tesseract em português
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-por > /dev/null
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: tools/requirements-docling.txt
+
+      - uses: actions/cache@v5
+        with:
+          path: ~/.cache/huggingface
+          key: docling-modelos-${{ hashFiles('tools/requirements-docling.txt') }}
+
+      - name: Instalar o Docling
+        run: |
+          time pip install -q -r tools/requirements-docling.txt --extra-index-url https://download.pytorch.org/whl/cpu
+          python -c "import docling; print('docling ok')"
+
+      - name: Baixar os PDFs de teste do Drive
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          mkdir -p t
+          for id in 1CydSUxYdIqK9def-poi5WRj4R1YRPXuW 1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw 1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU; do
+            curl -sfL "https://www.googleapis.com/drive/v3/files/$id?alt=media&supportsAllDrives=true&key=$GOOGLE_API_KEY" -o "t/$id.pdf" \
+              || curl -sfL "https://drive.usercontent.google.com/download?id=$id&export=download&confirm=t" -o "t/$id.pdf"
+            echo "$id: $(stat -c %s "t/$id.pdf") bytes, $(file -b "t/$id.pdf" | cut -c1-30)"
+          done
+
+      - name: "1) Apresentação da AGI (OCR de página inteira)"
+        run: |
+          /usr/bin/time -f "tempo: %e s" python tools/docling_pdf.py t/1CydSUxYdIqK9def-poi5WRj4R1YRPXuW.pdf --ocr-pagina-inteira > agi.md
+          echo "== linhas: $(wc -l < agi.md)"
+          echo "== trecho Manutenções"; grep -n -i -A24 "manuten" agi.md | head -60
+          echo "== trecho Pessoal"; grep -n -i -A14 "zelador" agi.md | head -30
+          echo "== trecho Rateio"; grep -n -i -A10 "rateio" agi.md | head -30
+
+      - name: "2) Lavanderia (escaneada: OCR de página inteira)"
+        run: |
+          /usr/bin/time -f "tempo: %e s" python tools/docling_pdf.py t/1wSYdhMIt-KVbAUDilX5c0i2ngilAvWTw.pdf --ocr-pagina-inteira > lav.md
+          echo "== linhas: $(wc -l < lav.md)"
+          grep -n -i -B3 -A10 "ciclo\|repasse\|R\\$\|%" lav.md | head -90
+
+      - name: "3) Minimercado (texto normal + tabelas)"
+        run: |
+          /usr/bin/time -f "tempo: %e s" python tools/docling_pdf.py t/1Qa1tSkrd51Ed0jC3HjAV6QSzlH6LfyqU.pdf > mk.md
+          head -80 mk.md
