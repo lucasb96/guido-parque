@@ -115,6 +115,9 @@ final class Extractor
         $scanned = $letters < 150 * $pages && $letters < 2000;
         $ocrAll = $scanned || self::duplicatedText($text) >= 0.015;
         $md = self::docling($path, $ocrAll);
+        // Num PDF de texto normal, o Docling só fica se ler pelo menos 80% do texto da leitura comum
+        // (em PDFs cheios de imagens ele às vezes perde trechos)
+        if ($md !== null && !$ocrAll && preg_match_all('/\p{L}/u', $md) < 0.8 * $letters) $md = null;
         if ($md !== null) {
             return ['status' => 'ok', 'text' => ($ocrAll ? "[Texto obtido por OCR automático – pode conter pequenos erros de leitura]\n\n" : '') . $md, 'error' => null];
         }

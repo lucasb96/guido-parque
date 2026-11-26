@@ -37,6 +37,8 @@ def main() -> int:
     doc = conv.convert(args[0]).document
     md = doc.export_to_markdown()
     md = re.sub(r"<!--\s*image\s*-->", "", md)  # marcadores de imagem não interessam à busca
+    # pedaços de logo/imagem lidos pelo OCR ("4u", "a", "Su"): linhas de 1 ou 2 letras sem números
+    md = "\n".join(l for l in md.split("\n") if not re.fullmatch(r"\s*(?:#+\s*)?[^\W\d_]{1,2}\s*", l))
     sys.stdout.write(md)
     return 0
 
