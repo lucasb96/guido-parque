@@ -1,138 +1,301 @@
-Apresentação
-Condomínio residencial
-Guido Parque Nações Unidas
+## Por que
 
-COMPARATIVO DE REPASSE
+Somos a maior rede de mercados autônomos da América Latina que leva comodidade, praticidade e agilidade a milhares de condominios, empresas, hotéis, entre outros ambientes pelo pais inteiro.
 
-Faturamento bruto × faturamento líquido
+4u
+
+4u
+
+4u
+
+4u
+
+4u
+
+du Su
+
+? TRANSAÇÕES
+
+## Toda a estrutura para você contar com a
+
+## melhor opção de mercados em condomínio:
+
+## Seguro do PDX
+
+O seguro cobre danos aos equipamentos, incêndio, falta de energia e perda de produtos decorrente de sinistros — além de incluir responsabilidade civil, protegendo o franqueado em casos de danos a terceiros.
+
+## Seu mercadinho
+
+## sempre abastecido.
+
+## i Monitoramento 24h
+
+Acompanhamos o consumo de cada loja em tempo real.
+
+## Reposição inteligente
+
+Planejamento de estoque com base nos dados de vendas.
+
+## Abastecimento contínuo
+
+Nossa equipe realiza a reposição antes que o produto acabe.
+
+Monitoramos automaticamente o consumo de cada loja, ou seja, não esperamos que o produto acabe para abastecer.
+
+## Faturamento bruto × faturamento líquido
+
 Simulação com faturamento de R$ 100.000/mês e repasse de 5% para o condomínio
-BASE BRUTA | BASE LÍQUIDA
 
-Market4u
-MESMO FATURAMENTO
-CONCORRENTES
+BASE BRUTA
+
+BASE LÍQUIDA
+
+## Market4u
+
 5% do faturamento bruto
-R$ 100 mil | 8% do faturamento líquido
 
-Faturamento mensal | R$ 100.000 | Faturamento mensal | R$ 100.000
+Faturamento mensal R$ 100.000
 
-Base do repasse | R$ 100.000
-Impostos e taxas (30%) | – R$ 30.000
-–30% | Base do repasse | R$ 70.000
-Repasse mensal (5%) | R$ 5.000 | impostos e taxas
-Repasse mensal (5%) | R$ 3.500
+Base do repasse R$ 100.000
 
-REPASSE ANUAL | REPASSE ANUAL
+Repasse mensal (5%)
+
+R$ 5.000
+
+REPASSE ANUAL
+
+R$ 60.000
+
+## CONCORRENTES
+
+8% do faturamento líquido
+
+Faturamento mensal R$ 100.000
+
+Impostos e taxas (30%)
+
+- R$ 30.000
+
+Base do repasse R$ 70.000
+
+Repasse mensal (5%)
+
+R$ 3.500
+
+REPASSE ANUAL
+
+R$ 42.000
+
+MESMO FATURAMENTO
+
+R$ 100 mil
+
+-30%
+
+impostos e taxas
+
 Na simulação do líquido
-R$ 60.000 | R$ 42.000
 
-+ | R$ 18.000 A MAIS POR ANO | 43% de repasse adicional
+## Ga ra nti , E : Jé à Fº DF 210 OQ 10 IS E f » a b » = 1 pt Ta"
 
-Market4u
-PREÇOS DE REFERÊNCIA
+: : Nosso sistema de pricing monitora num raio de até 10km todos os comércios de mercado da região para parametrizar os preços dos produtos, garantindo que você sempre tenha preços competitivos e justos.
 
-Preço visível: exemplos reais da cesta apresentada
+## Monitoramento inteligente
+
+Até 10km de raio.
+
+## Análise e atualização em tempo real
+
+Com base no mercado local.
+
+## Preço justo, todos os dias
+
+Mais valor para você e seus clientes.
+
+## . E tem mais:
+
+O pricing da Market4U é atualizado constantemente para refletir o mercado em tempo real, assegurando transparência e confiança em cada compra.
+
+## Tecnologia cisicada
+
+.
+
+Algoritmos inteligentes analisam milhares de preços em segundos.
+
+## Comparação abrangente
+
+Monitoramos diversos mercados, grandes, médios e pequenos.
+
+## Benefício direto para voce
+
+Preço justo que aumenta a competitividade e a satisfação dos clientes.
+
+Market4U: tecnologia que garante preços justos e a melhor experiência.
+
+## Preço visível: exemplos reais da cesta apresentada
+
 Lista de referência disponibilizada para o condomínio
 
-AGUA CRYSTAL 1,5L | R$ 5,12 | COCA COLA 220ML LATA | R$ 3,46
+| AGUA CRYSTAL 1,5L | R$ 5,12 | COCA COLA 220ML LATA | R$ 3,46 |
+|---------------------------------|-----------|-----------------------------------|-----------|
+| AGUA CRYSTAL 500ML | R$ 2,80 | COCA COLA 600ML | R$ 8,48 |
+| AGUA CRYSTAL C/ GAS 500ML | R$ 3,31 | COCA COLA ZERO 1,5L | R$ 11,62 |
+| LEITE ITALAC INTEGRAL 1 L | R$ 9,44 | COCA COLA ZERO 220ML LATA | R$ 3,47 |
+| AMENDOIM OVINHO ELMA CHIPS 145G | R$ 4,99 | COCA COLA ZERO 600ML | R$ 8,48 |
+| AMSTEL SLEEK LATA 350ML CERVEJA | R$ 4,84 | DORITOS 84G | R$ 13,22 |
+| BARRA AO LEITE LACTA 80G | R$ 10,69 | OVOS BRANCOS, 10 un. | R$ 11,43 |
+| PAO FORMA PULLMAN 480G | R$ 13,02 | GUARANA 1,5L ANTARCTICA | R$ 7,29 |
+| BIS 100G | R$ 9,48 | H20 LIMONETO C/ GAS 500ML | R$ 4,76 |
+| COCA COLA 1,5L | R$ 11,71 | HEINEKEN SLEEK LATA 350ML CERVEJA | R$ 7,53 |
 
-AGUA CRYSTAL 500ML | R$ 2,80 | COCA COLA 600ML | R$ 8,48
+## Seu condomínio com os melhores produtos e promoções exclusivas!
 
-AGUA CRYSTAL C/ GAS 500ML | R$ 3,31 | COCA COLA ZERO 1,5L | R$ 11,62
+Um mix completo, com marcas conhecidas e tudo o que os moradores mais precisam, no seu tempo, do seu jeito.
 
-LEITE ITALAC INTEGRAL 1 L | R$ 9,44 | COCA COLA ZERO 220ML LATA | R$ 3,47
+e um programa semanal de promoções exclusivas para os moradores.
 
-AMENDOIM OVINHO ELMA CHIPS 145G | R$ 4,99 | COCA COLA ZERO 600ML | R$ 8,48
+Marcas parceiras que você já conhece:
 
-AMSTEL SLEEK LATA 350ML CERVEJA | R$ 4,84 | DORITOS 84G | R$ 13,22
+2
 
-BARRA AO LEITE LACTA 80G | R$ 10,69 | OVOS BRANCOS, 10 un. | R$ 11,43
+mz O Receita com Amor leva itens de produtores locais, que fabricam produtos artesanais direto para as gôndolas dos nossos mercados autônomos.
 
-PAO FORMA PULLMAN 480G | R$ 13,02 | GUARANA 1,5L ANTARCTICA | R$ 7,29
+=.
 
-BIS 100G | R$ 9,48 | H20 LIMONETO C/ GAS 500ML | R$ 4,76
+Empadas e salgados
 
-COCA COLA 1,5L | R$ 11,71 | HEINEKEN SLEEK LATA 350ML CERVEJA | R$ 7,53
+Pequeno produtor local
 
-Preços sujeitos a atualizações comerciais. Não representam compromisso de congelamento de valores ou estoque permanente de cada SKU.
-17
+Centro de distribuição market4u
 
-Proposta Market4u
+Loja market4u do seu local
 
-O que o Market4u
-se compromete:
+## market Cm h pesto | E q I mae Em: 8 e inauguração exclusiva
 
-Market4u
-no seu tempo, do seu jeito
+Seu condomínio não paga nada pela instalação do mercado e a gente garante uma inauguração incrível.
 
-REPASSE AO CONDOMÍNIO
+-
+
+=
+
+Degustações exclusivas
+
+T——
+
+Sorteios com brindes e prêmios
+
+;
+
+Descontos especiais na inauguração
+
+Especialistas no local para ensinar a usar o sistema
+
+=
+
+E"
+
+e. semp AQUI
+
+El]
+
+## NOSSA
+
+MARKETA4U
+
+A solução completa de minimercado e conveniência para o seu condomínio.
+
++ Conveniência no dia a dia
+
+Mais praticidade para os moradores Qualidade, variedade e produtos frescos Uma estrutura moderna, funcional e sem custos para o condomínio
+
+## O que o Market4u se compromete:
+
+## REPASSE AO CONDOMÍNIO
 
 5% De repasse sobre o faturamento bruto, direto no caixa do condomínio
+
 Valores 100% auditáveis, via portal da transparência.
 
-ENERGIA
+## ENERGIA
+
 Custeio integral da energia consumida, com medidor de energia individualizado.
 
-PRAZO DE CONTRATO
+## PRAZO DE CONTRATO
+
 24 meses.
 
-Uma operação
-completa, segura
-e sem despesas
-para o condomínio.
+## BÔNUS POR ASSINATURA DE CONTRATO
 
-BÔNUS POR ASSINATURA DE CONTRATO
 R$ 10.000 investidos diretamente no caixa do condomínio, como bônus
 
-OPERAÇÃO DE PÃES E FRIOS
+## OPERAÇÃO DE PÃES E FRIOS
+
 Operação de pães franceses e frios, com reposição diária.
 
-Limpeza e manutenção
+## ] Diferencia is &amp; Exclusividades Market4u:
+
+## Limpeza e manutenção
+
 Limpeza, reposição, higienização e controle de estoque realizados pelo time Market4u.
 
-Diversas formas de pagamento
+## Diversas formas de pagamento
+
 Cartão de crédito, débito de todas as bandeiras + VR, VA, Ticket, PicPay e Pix.
 
-Contrato
+## Contrato
+
 Contrato de 24 meses
 
-Implantação rápida
+## Implantação rápida
+
 Implantação em até 06 semanas, após a assinatura do contrato.
 
-Sem risco de estoque
+## Sem risco de estoque
+
 Furo de estoque / inadimplência por conta do Market4u.
 
-Adequação de infraestrutura
+## Adequação de infraestrutura
+
 Adequação de infraestrutura por conta do Market4u.
 
-Transparência
+## Transparência
+
 Portal da transparência, com acompanhamento das vendas e estoque em tempo real.
 
-Segurança
+## Segurança
+
 Travas de segurança de bebidas alcoólicas e seguro dos equipamentos.
 
-Market4u
+## market4: market 4e
 
-PERGUNTAS FREQUENTES
+## As dúvidas mais importantes dos moradores
 
-As dúvidas mais importantes dos moradores
 Respostas diretas sobre as principais perguntas.
 
-O condomínio paga a energia?
+## O condomínio paga a energia?
 
-Quem arca com perdas de estoque?
+Não. O Market4u paga integralmente o consumo, com medidor individualizado.
 
-Não. O Market4u paga integralmente o consumo, com medidor
-individualizado.
+## Como acompanhar os resultados?
+
+Pelo portal do síndico, com acesso às informações de vendas e estoque.
+
+## Quem arca com perdas de estoque?
 
 O Market4u assume perdas e inadimplência na operação.
 
-Como acompanhar os resultados?
+## Os preços são sempre os menores do mercado?
 
-Os preços são sempre os menores do mercado?
+Não se promete isso. A proposta prioriza conveniência, com tabela transparente e política de monitoramento de preços.
 
-Pelo portal do síndico, com acesso às informações de vendas e
-estoque.
+## Próximos passos...
 
-Não se promete isso. A proposta prioriza conveniência, com
-tabela transparente e política de monitoramento de preços.
+Envio da minuta contratual
+
+|
+
+!
+
+Envio do contrato para assinatura o digital conforme a proposta comercial.
+
+VAN Validação da minuta Implantação em até 6 semanas. é ç

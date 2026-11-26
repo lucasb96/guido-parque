@@ -1,667 +1,353 @@
-Assembleia Geral de Instalação
+2026-11-26 11:40:58,566 MatchingPostProcessor WARNING 2 of 512 pdf cells matched neither a row nor a column band of the 47x2 grid and were dropped from the table
 
-Agenda
-1. – Instalação do Condomínio nos moldes da Lei nº 4.591/64 e Lei nº 10.406/2002 do Código Civil;
-2. – Apresentação da Administradora;
-3. – Eleição de Síndico, de 01 (um) Subsíndico e do Conselho Consultivo, sendo 03 (três) membros efetivos e 03 (três)
-membros suplentes.
-4. – Apresentação da previsão orçamentária;
-5. – Deliberação sobre a implantação da empresa Market4u, para operação da Lavanderia Coletiva e do Easy Market, na
-modalidade pay per use, conforme proposta apresentada à assembleia;
-6. – Ratificação sobre a obrigação de manutenção: (i) dos Elevadores, de (ii) demais equipamentos do Condomínio, bem
-como sobre a transferência da titularidade das contas de consumo de água, esgoto, energia elétrica, gás e telefonia;
+Siva
 
-7. – Informações referentes às reformas e alterações nos imóveis (área privativa).
+## Assembleia Geral de Instalação
 
-2026
+## Agenda
 
-Hierarquia do Condomínio
+1. - Instalação do Condomínio nos moldes da Lei nº 4.591/64 e Lei nº 10.406/2002 do Código Civil;
+2. - Apresentação da Administradora;
+3. membros suplentes. - Eleição de Síndico, de 01 (um) Subsíndico e do Conselho Consultivo, sendo 03 (três) membros efetivos e 03 (três)
+4. - Apresentação da previsão orçamentária;
+5. - Deliberação sobre a implantação da empresa Market4u, para operação da Lavanderia Coletiva e do Easy Market, na modalidade pay per use, conforme proposta apresentada à assembleia;
+6. - Ratificação sobre a obrigação de manutenção: (i) dos Elevadores, de (ii) demais equipamentos do Condomínio, bem como sobre a transferência da titularidade das contas de consumo de água, esgoto, energia elétrica, gás e telefonia;
+7. - Informações referentes às reformas e alterações nos imóveis (área privativa).
 
 2026
 
-Prestação de Contas
-Premissas:
-• Água e energia da área comum serão rateados conforme o consumo do mês;
-• Se eleito Síndico Morador, a contratação de assessoria jurídica e de assessoria de engenharia deve ser realizada pelo
-condomínio após a implantação;
-• Valores abaixo apresentados não contemplam honorários;
-• Importante: A previsão completa aprovada nesta assembleia poderá ser antecipada a qualquer momento, bastando um
-comunicado prévio, conforme a necessidade operacional do condomínio ou a critério do síndico, visando agilidade na
-tomada de decisões e melhor planejamento financeiro;
+## Líder em Gestão de Condomínios
 
-• O mandato do Síndico, Subsíndico e membros do Conselho Consultivo do Condomínio será de dois (02) anos;
-• Previsão contempla 2 (duas) modalidades de sistema de segurança (básica e completa).
+Nossa especialidade é garantir estabilidade financeira e tranquilidade administrativa, combatendo a inadimplência e assegurando um fluxo de caixa previsível.
 
-2026
+|
 
-Pessoal Terceirizado c/ enc. e benefícios | Previsão
-Pessoal
-1 Zelador 40h. | Terceirizado c/ enc. e benefícios
-Semanais | Previsão
-10.600,97
-Zelador de
-1 Auxiliar 40h. Semanais
-Zelador | 40h. Semanais | 10.600,97
-8.536,58
-1 Posto dede
-Auxiliar | Portaria
-Zelador24h.
-40h. Semanais | 26.590,63
-8.536,58
-1 Posto de Portaria
-Controlador | 24h. 24h.
-de Acesso | 26.590,63
-Controlador
-1 Líder | de Acesso
-de Limpeza | 40h. 24h.
-Semanais | 26.590,63
-7.623,78
-1 Líder de de
-Auxiliar Limpeza
-Limpeza40h. | Semanais
-40h. Semanais (com acúmulo) | 7.623,78
-7.186,50
-1 Auxiliares
-5 | dedeLimpeza
-Limpeza 40h.
-40h.Semanais
-Semanais(com acúmulo) | 7.186,50
-31.789,75
-Estimativa
-5 | Dissídio
-Auxiliares de | Jan/27
-Limpeza | - 8%
-40h. | Semanais | 9.513,51
-31.789,75
-Estimativa Dissídio Jan/27 - 8% | Subtotal | 9.513,51 | 128.432,35
-Manutenções | Subtotal | Previsão | 128.432,35
-Manutenções
-12 Elevadores - (conforme contrato) | Previsão
-24.441,70
-12Plataforma
-Elevadores -Elevatória
-(conforme- contrato)
-(estimativa) | 1.000,00
-24.441,70
-1 Plataforma Elevatória - (estimativa)
-Paisagismo | 1.000,00
-3.000,00
-Paisagismo
-Interfones/Portões/Portas | 3.000,00
-900,00
-Interfones/Portões/Portas
-Pressurização/Alarme | de Incêndio | 900,00
-1.000,00
-Dedetização/Limpeza
-Pressurização/Alarme de Caixa | D'água/Tubulação
-Incêndio | 1.800,00
-1.000,00
-Dedetização/Limpeza
-Manutenção | Piscina Caixa D'água/Tubulação | 1.800,00
-2.500,00
+## Hierarquia do Condomínio do Condomínio
 
-Modalidade
-Modalidade Básica
-Modalidade Básica
-Básica
-Manutenção | Piscina
-Engenharia/Obras
-Engenharia/Obras
-Bombas/Água
-Monitoramentode
-Bombas/Água
-de Reuso
-Externo
-Reuso
-2.500,00
-4.340,00
-4.340,00
-1.000,00
-690,00
-1.000,00
-Monitoramento Externo
-Perimetral | 690,00
-350,00
-Monitoramento
-Portaria/AlarmePerimetral | 350,00
-150,00
-Portaria/Alarme
-Integração | de Sistema | 150,00
-700,00
-Despesas | Imprevistas
-Integração de | Sistema | 1.000,00
-700,00
-Auditoria
-Despesas
-Manutenção Executiva
-Imprevistas
-Equipamentos Academia | 1.000,00
-500,00
-Manutenção Equipamentos Academia | Subtotal | 500,00 | 44.371,70
-Telefone | Internet | Subtotal | Previsão | 44.371,70
-Telefonia Portaria / Internet
-Telefone | Internet | 300,00
-Previsão
-Telefonia Portaria / Internet | Subtotal | 300,00 | 300,00
-Material de Consumo | Subtotal | Previsão | 300,00
-Material de Limpeza Material de Consumo | Previsão
-3.000,00
-Material de Piscina
-Limpeza | 2.800,00
-3.000,00
-Material de Piscina | Subtotal | 2.800,00 | 5.800,00
-Diversos | Subtotal | Previsão | 5.800,00
-Seguro Predial - Áreas Comuns | Diversos | Previsão
-3.188,00
-Seguro
-DespesasPredial - Áreas | Comuns
-Eventuais/Diversas/NR's | 3.188,00
-3.500,00
-Taxa de Administração
-Despesas | Eventuais/Diversas/NR's | 12.800,00
-3.500,00
-Taxa de Administração | Subtotal | 12.800,00 | 19.488,00
-Subtotal
-Total | 19.488,00
-198.392,05
-Fundo de Reserva | Total | Previsão | 198.392,05
+Ordem de alçada para tomada de decisão: cada nível deve respeitar a hierarquia superior.
+
+/
+
+## Prestação de Contas
+
+## Premissas:
+
+- Água e energia da área comum serão rateados conforme o consumo do mês;
+- Se eleito Síndico Morador, a contratação de assessoria jurídica e de assessoria de engenharia deve ser realizada pelo condomínio após a implantação;
+- Valores abaixo apresentados não contemplam honorários;
+- Importante: A previsão completa aprovada nesta assembleia poderá ser antecipada a qualquer momento, bastando um comunicado prévio, conforme a necessidade operacional do condomínio ou a critério do síndico, visando agilidade na tomada de decisões e melhor planejamento financeiro;
+- O mandato do Síndico, Subsíndico e membros do Conselho Consultivo do Condomínio será de dois (02) anos;
+- Previsão contempla 2 (duas) modalidades de sistema de segurança (básica e completa).
 
 2026
-Fundo de Reserva 5% Fundo de Reserva | 9.919,60
-Previsão
 
-2026
-Fundo de Reserva 5% | Subtotal | 9.919,60 | 9.919,60
-Sistema de Segurança | Subtotal | Previsão | 9.919,60
-Sistema
-Sistema de Segurança – Pacotede Segurança
-Mensal Inicial Básico | Previsão
-4.200,00
-Sistema de Segurança – Pacote Mensal Inicial Básico | Subtotal | 4.200,00 | 4.200,00
-Subtotal
-Total Geral | 4.200,00
-212.511,65
-Total Geral | 212.511,65
+## Modalidade Básica Modalidade Básica Modalidade Básica Modalidade Básica
 
-Pessoal Terceirizado c/ enc. e benefícios | Previsão
-1 Zelador 40h. Semanais
-Pessoal Terceirizado c/ enc. e benefícios | 10.600,97
-Previsão
-Zelador de
-1 Auxiliar 40h. Semanais
-Zelador | 40h. Semanais | 10.600,97
-8.536,58
-Auxiliar
-1 Posto dede Zelador24h.
-Portaria | 40h. Semanais | 8.536,58
-26.590,63
-1 Posto de Portaria
-Controlador | 24h. 24h.
-de Acesso | 26.590,63
-1 Líder de Limpeza
-Controlador | 40h. 24h.
-de Acesso | Semanais | 7.623,78
-26.590,63
-1 Líder de de
-Auxiliar Limpeza
-Limpeza40h. | Semanais
-40h. Semanais (com acúmulo) | 7.623,78
-7.186,50
-1 Auxiliares
-5 | dedeLimpeza
-Limpeza 40h.
-40h.Semanais
-Semanais(com acúmulo) | 7.186,50
-31.789,75
-5 Auxiliares de
-Estimativa | Limpeza
-Dissídio Jan/2740h.
-- 8%Semanais | 31.789,75
-9.513,51
-Estimativa Dissídio Jan/27 - 8% | Subtotal | 9.513,51 | 128.432,35
-Manutenções | Subtotal | Previsão | 128.432,35
-12 Elevadores - (conforme contrato) Manutenções | Previsão
-24.441,70
-12Plataforma
-Elevadores -Elevatória
-(conforme- contrato)
-(estimativa) | 24.441,70
-1.000,00
-1
-Paisagismo
-Plataforma Elevatória - (estimativa) | 1.000,00
-3.000,00
-Interfones/Portões/Portas
-Paisagismo | 900,00
-3.000,00
-Interfones/Portões/Portas
-Pressurização/Alarme | de Incêndio | 900,00
-1.000,00
-Pressurização/Alarme de
-Dedetização/Limpeza | Incêndio
-Caixa | D'água/Tubulação | 1.000,00
-1.800,00
+| Pessoal Terceirizado c/ enc. e benefícios | Previsão |
+|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| 1 Zelador 40h. Semanais Pessoal Terceirizado c/ enc. e benefícios Pessoal Terceirizado c/ enc. e benefícios | 10.600,97 Previsão Previsão |
+| 1 Auxiliar de Zelador 40h. Semanais 1 Zelador 40h. Semanais | 8.536,58 10.600,97 10.600,97 |
+| 1 Posto de Portaria 24h. 1 Auxiliar de Zelador 40h. Semanais | 26.590,63 8.536,58 8.536,58 |
+| 1 Controlador de Acesso 24h. 1 Posto de Portaria 24h. | 26.590,63 26.590,63 26.590,63 |
+| 1 Líder de Limpeza 40h. Semanais 1 Controlador de Acesso 24h. | 7.623,78 26.590,63 26.590,63 |
+| 1 Auxiliar de Limpeza 40h. Semanais (com acúmulo) 1 Líder de Limpeza 40h. Semanais | 7.186,50 7.623,78 7.623,78 |
+| 5 Auxiliares de Limpeza 40h. Semanais 1 Auxiliar de Limpeza 40h. Semanais (com acúmulo) (com acúmulo) | 31.789,75 7.186,50 7.186,50 |
+| Estimativa Dissídio Jan/27 - 8% 5 Auxiliares de Limpeza 40h. Semanais | 9.513,51 31.789,75 31.789,75 |
+| Subtotal Estimativa Dissídio Jan/27 - 8% - 8% | 128.432,35 9.513,51 9.513,51 |
+| Manutenções Subtotal | Previsão 128.432,35 |
+| 12 Elevadores - (conforme contrato) Manutenções Manutenções | 24.441,70 Previsão Previsão |
+| 1 Plataforma Elevatória - (estimativa) 12 Elevadores - (conforme contrato) - (conforme contrato) | 1.000,00 24.441,70 24.441,70 |
+| Paisagismo 1 Plataforma Elevatória - (estimativa) - (estimativa) | 3.000,00 1.000,00 1.000,00 |
+| Interfones/Portões/Portas Paisagismo | 900,00 3.000,00 3.000,00 |
+| Pressurização/Alarme de Incêndio Interfones/Portões/Portas | 1.000,00 900,00 900,00 |
+| Dedetização/Limpeza Caixa D'água/Tubulação Pressurização/Alarme de Incêndio | 1.800,00 1.000,00 1.000,00 |
+| Manutenção Piscina Dedetização/Limpeza Caixa D'água/Tubulação | 2.500,00 1.800,00 1.800,00 |
+| Engenharia/Obras Manutenção Piscina | 4.340,00 2.500,00 2.500,00 |
+| Bombas/Água de Reuso Engenharia/Obras | 1.000,00 4.340,00 4.340,00 |
+| Monitoramento Externo Bombas/Água de Reuso | 690,00 1.000,00 1.000,00 |
+| Monitoramento Perimetral Monitoramento Externo | 350,00 690,00 690,00 |
+| Portaria/Alarme Monitoramento Perimetral Monitoramento Perimetral | 150,00 350,00 350,00 |
+| Integração de Sistema Portaria/Alarme Portaria/Alarme | 700,00 150,00 150,00 |
+| Despesas Imprevistas Integração de Sistema Integração de Sistema | 1.000,00 700,00 700,00 |
+| Manutenção Equipamentos Academia Despesas Imprevistas Auditoria Executiva | 500,00 1.000,00 1.000,00 |
+| Subtotal Manutenção Equipamentos Academia Manutenção Equipamentos Academia | 44.371,70 500,00 500,00 |
+| Telefone &#124; Internet Subtotal Subtotal | Previsão 44.371,70 44.371,70 |
+| Telefonia Portaria / Internet Telefone &#124; Internet Telefone &#124; Internet | 300,00 Previsão Previsão |
+| Subtotal Material de Consumo Telefonia Portaria / Internet Subtotal Telefonia Portaria / Internet Subtotal | 300,00 300,00 300,00 |
+| Material de Piscina Material de Material de | Previsão |
+| Material de Limpeza Material de Consumo Material de Consumo | 3.000,00 Previsão Previsão |
+| Limpeza Limpeza | 2.800,00 3.000,00 3.000,00 |
+| Subtotal Material de Piscina Material de Piscina | 5.800,00 2.800,00 2.800,00 |
+| Diversos Subtotal Subtotal | Previsão 5.800,00 5.800,00 |
+| Seguro Predial - Áreas Comuns Diversos Diversos | 3.188,00 Previsão Previsão |
+| Despesas Eventuais/Diversas/NR's Seguro Predial - Áreas Comuns Seguro Predial - Áreas Comuns | 3.500,00 3.188,00 3.188,00 |
+| Taxa de Administração Despesas Eventuais/Diversas/NR's Despesas Eventuais/Diversas/NR's | 12.800,00 3.500,00 3.500,00 |
+| Subtotal Taxa de Administração Taxa de Administração | 19.488,00 12.800,00 12.800,00 |
+| Total Subtotal Subtotal | 198.392,05 19.488,00 19.488,00 |
+| Fundo de Reserva Total Total | Previsão 198.392,05 198.392,05 |
+| Fundo de Reserva 5% Subtotal Fundo de Reserva Fundo de Reserva 5% Fundo de Reserva Fundo de Reserva 5% | 9.919,60 9.919,60 Previsão 9.919,60 Previsão 9.919,60 |
+| Sistema de Segurança Subtotal Subtotal | 2026 Previsão 2026 9.919,60 2026 9.919,60 |
+| Sistema de Segurança - Pacote Mensal Inicial Básico Sistema de Segurança Sistema de Segurança | 4.200,00 Previsão Previsão |
+| Subtotal Sistema de Segurança - Pacote Mensal Inicial Básico Sistema de Segurança - Pacote Mensal Inicial Básico | 4.200,00 4.200,00 4.200,00 |
+| Total Geral Subtotal Subtotal | 212.511,65 4.200,00 4.200,00 |
+| Total Geral Total Geral | 212.511,65 212.511,65 |
 
-Modalidade
-Modalidade | Completa
-Modalidade Completa
-Completa
-Manutenção | Piscina Caixa D'água/Tubulação
-Dedetização/Limpeza
-Engenharia/Obras
-Manutenção | Piscina
-Engenharia/Obras
-Bombas/Água | de Reuso
-2.500,00
-1.800,00
-4.340,00
-2.500,00
-4.340,00
-1.000,00
-Monitoramentode
-Bombas/Água | Reuso
-Externo | 1.000,00
-690,00
-Monitoramento Externo
-Perimetral | 690,00
-350,00
-Monitoramento
-Portaria/AlarmePerimetral | 350,00
-150,00
-Integração | de Sistema
-Portaria/Alarme | 700,00
-150,00
-Integração de
-Despesas | Sistema
-Imprevistas | 700,00
-1.000,00
-Auditoria
-Despesas
-Manutenção Executiva
-Imprevistas
-Equipamentos Academia | 1.000,00
-500,00
-Manutenção Equipamentos Academia | Subtotal | 500,00 | 44.371,70
-Telefone | Internet | Subtotal | Previsão | 44.371,70
-Telefonia Portaria / Internet Telefone | Internet | Previsão
-300,00
-Telefonia Portaria / Internet | Subtotal | 300,00 | 300,00
-Material de Consumo | Subtotal | Previsão | 300,00
-Material de Limpeza | Material de Consumo | Previsão
-3.000,00
-Material de Piscina
-Limpeza | 2.800,00
-3.000,00
-Material de Piscina | Subtotal | 2.800,00 | 5.800,00
-Diversos | Subtotal | Previsão | 5.800,00
-Seguro Predial - Áreas Comuns | Diversos | Previsão
-3.188,00
-Despesas
-Seguro | Eventuais/Diversas/NR's
-Predial - Áreas | Comuns | 3.500,00
-3.188,00
-Despesas
-Taxa | Eventuais/Diversas/NR's
-de Administração | 3.500,00
-12.800,00
-Taxa de Administração | Subtotal | 12.800,00 | 19.488,00
-Subtotal
-Total | 19.488,00
-198.392,05
-Fundo de Reserva | Total | Previsão | 198.392,05
-Fundo de Reserva 5% | Fundo de Reserva | Previsão
-9.919,60
-Fundo de Reserva 5% | Subtotal | 9.919,60 | 9.919,60
-Sistema de Segurança | Subtotal | Previsão | 9.919,60
-Sistema
-Sistema de Segurança – Pacote | de Completo
-Mensal Segurança(sem câmeras no andar) | Previsão
-27.000,00
-Sistema de Segurança – Pacote Mensal Completo (sem câmeras no andar) Subtotal | 27.000,00 | 27.000,00
-Total Geral
-Subtotal | 235.311,65
-27.000,00
-Total Geral | 235.311,65
+## Modalidade Completa Modalidade Completa Modalidade Completa Modalidade Completa
 
-Sistema de Segurança -
-Unidades | Qtde. | Área | Valor por m² | Fração Ideal | Cota Mensal | Fundo de Reserva | Total
-Básico
-Térreo
-Torres A (Subcond. 1) e D (Subcond. 4)
-02, 03, 08, 09 e 13 | 10 | 34,36 | 8,16 | 0,001320 | 261,88 | 13,09 | 5,54 | 280,52
-04, 07, 16 e 19 | 8 | 34,30 | 8,17 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30
-Quadro de Rateio – Opção 1 | 05, 06, 17 e 18
-11
-8
-2
-38,62
-40,98
-7,91
-7,92
-0,001438
-0,001528
-285,29
-303,14
-14,26
-15,16
-6,04
-6,42
-305,59
-324,72
-14, 15, 20 e 21 | 8 | 34,67 | 8,18 | 0,001334 | 264,65 | 13,23 | 5,60 | 283,49
-Torres B (Subcond. 2) e C (Subcond. 3)
-02, 07, 10 e 15 | 8 | 34,36 | 8,16 | 0,001320 | 261,88 | 13,09 | 5,54 | 280,52
-03 e 06 | 4 | 34,30 | 8,17 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30
-04, 05, 12 e 13 | 8 | 38,62 | 7,91 | 0,001438 | 285,29 | 14,26 | 6,04 | 305,59
-11 e 14 | 4 | 34,52 | 8,18 | 0,001329 | 263,66 | 13,18 | 5,58 | 282,43
-1º ao 9º Pavimento
-Torres A (Subcond. 1) e D (Subcond. 4)
-101, 110, 201, 210, 301, 310, 401, 410, 501, 510, 601, 610, 701,
-36 | 34,26 | 8,18 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30
-710, 801, 810, 901, 910
-102, 103, 108, 109, 113, 122, 202, 203, 208, 209, 213, 222, 302,
-303, 308, 309, 313, 322, 402, 403, 408, 409, 413, 422, 502, 503,
-508, 509, 513, 522, 602, 603, 608, 609, 613, 622, 702, 703, 708, | 108 | 34,01 | 8,18 | 0,001309 | 259,70 | 12,98 | 5,50 | 278,18
-709, 713, 722, 802, 803, 808, 809, 813, 822, 902, 903, 908, 909,
-913, 922
-104, 107, 112, 116, 119, 204, 207, 212, 216, 219, 304, 307, 312,
-316, 319, 404, 407, 412, 416, 419, 504, 507, 512, 516, 519, 604,
-90 | 33,95 | 8,18 | 0,001307 | 259,30 | 12,96 | 5,49 | 277,75
-607, 612, 616, 619, 704, 707, 712, 716, 719, 804, 807, 812, 816,
-819, 904, 907, 912, 916, 919
-105, 106, 117, 118, 205, 206, 217, 218, 305, 306, 317, 318, 405,
-406, 417, 418, 505, 506, 517, 518, 605, 606, 617, 618, 705, 706, | 72 | 38,37 | 7,91 | 0,001429 | 283,50 | 14,18 | 6,00 | 303,68
-717, 718, 805, 806, 817, 818, 905, 906, 917, 918
-111, 211, 311, 411, 511, 611, 711, 811, 911 | 18 | 40,76 | 7,93 | 0,001521 | 301,75 | 15,09 | 6,39 | 323,23
-114, 115, 120, 121, 214, 215, 220, 221, 314, 315, 320, 321, 414,
-415, 420, 421, 514, 515, 520, 521, 614, 615, 620, 621, 714, 715, | 72 | 34,36 | 8,18 | 0,001322 | 262,27 | 13,11 | 5,55 | 280,94
-720, 721, 814, 815, 820, 821, 914, 915, 920, 921
-Torre B (Subcond. 2)
-1º e 2º Pavimento
-101, 116, 201, 216 | 4 | 34,22 | 8,18 | 0,001317 | 261,28 | 13,06 | 5,53 | 279,88
-102, 107, 110, 115, 202, 207, 210, 215 | 8 | 34,01 | 8,18 | 0,001309 | 259,70 | 12,98 | 5,50 | 278,18
-103, 106, 203, 206 | 4 | 33,95 | 8,18 | 0,001307 | 259,30 | 12,96 | 5,49 | 277,75
-104, 105, 112, 113, 204, 205, 212, 213 | 8 | 38,37 | 7,91 | 0,001429 | 283,50 | 14,18 | 6,00 | 303,68
-108, 109, 208, 209 | 4 | 34,26 | 8,18 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30
-111, 114, 211, 214 | 4 | 34,16 | 8,18 | 0,001315 | 260,89 | 13,04 | 5,52 | 279,45
-3º ao 9º Pavimento
-301, 316, 401, 416, 501, 516, 601, 616, 701, 716, 801, 816, 901, 916 | 14 | 34,22 | 8,18 | 0,001317 | 261,28 | 13,06 | 5,53 | 279,88
-302, 307, 310, 315, 402, 407, 410, 415, 502, 507, 510, 515, 602,
-607, 610, 615, 702, 707, 710, 715, 802, 807, 810, 815, 902, 907, | 28 | 34,01 | 8,18 | 0,001309 | 259,70 | 12,98 | 5,50 | 278,18
-910, 915
-303, 306, 403, 406, 503, 506, 603, 606, 703, 706, 803, 806, 903, 906 | 14 | 33,95 | 8,18 | 0,001307 | 259,30 | 12,96 | 5,49 | 277,75
-304, 305, 312, 313, 404, 405, 412, 413, 504, 505, 512, 513, 604,
-605, 612, 613, 704, 705, 712, 713, 804, 805, 812, 813, 904, 905, | 28 | 38,37 | 7,91 | 0,001429 | 283,50 | 14,18 | 6,00 | 303,68
-912, 913
-308, 309, 408, 409, 508, 509, 608, 609, 708, 709, 808, 809, 908, 909 | 14 | 34,26 | 8,18 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30
-311, 411, 511, 611, 711, 811, 911 | 7 | 34,16 | 8,18 | 0,001315 | 260,89 | 13,04 | 5,52 | 279,45
-314, 414, 514, 614, 714, 814, 914 | 7 | 34,17 | 8,18 | 0,001315 | 260,89 | 13,04 | 5,52 | 279,45
-Torre C (Subcond. 3)
-1º ao 9º Pavimento
-101, 116, 201, 216, 301, 316, 401, 416, 501, 516, 601, 616, 701,
-18 | 34,22 | 8,18 | 0,001317 | 261,28 | 13,06 | 5,53 | 279,88
-716, 801, 816, 901, 916
-102, 107, 110, 115, 202, 207, 210, 215, 302, 307, 310, 315, 402,
-407, 410, 415, 502, 507, 510, 515, 602, 607, 610, 615, 702, 707, | 36 | 34,01 | 8,18 | 0,001309 | 259,70 | 12,98 | 5,50 | 278,18
-710, 715, 802, 807, 810, 815, 902, 907, 910, 915
-103, 106, 203, 206, 303, 306, 403, 406, 503, 506, 603, 606, 703,
-18 | 33,95 | 8,18 | 0,001307 | 259,30 | 12,96 | 5,49 | 277,75
-706, 803, 806, 903, 906
+| Pessoal Terceirizado c/ enc. e benefícios | Previsão |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| 1 Zelador 40h. Semanais Pessoal Terceirizado c/ enc. e benefícios Pessoal Terceirizado c/ enc. e benefícios | 10.600,97 Previsão Previsão |
+| 1 Auxiliar de Zelador 40h. Semanais 1 Zelador 40h. Semanais | 8.536,58 10.600,97 10.600,97 |
+| 1 Posto de Portaria 24h. 1 Auxiliar de Zelador 40h. Semanais | 26.590,63 8.536,58 8.536,58 |
+| 1 Controlador de Acesso 24h. 1 Posto de Portaria 24h. | 26.590,63 26.590,63 26.590,63 |
+| 1 Líder de Limpeza 40h. Semanais 1 Controlador de Acesso 24h. | 7.623,78 26.590,63 26.590,63 |
+| 1 Auxiliar de Limpeza 40h. Semanais (com acúmulo) 1 Líder de Limpeza 40h. Semanais | 7.186,50 7.623,78 7.623,78 |
+| 5 Auxiliares de Limpeza 40h. Semanais 1 Auxiliar de Limpeza 40h. Semanais (com acúmulo) (com acúmulo) | 31.789,75 7.186,50 7.186,50 |
+| Estimativa Dissídio Jan/27 - 8% 5 Auxiliares de Limpeza 40h. Semanais | 9.513,51 31.789,75 31.789,75 |
+| Subtotal Estimativa Dissídio Jan/27 - 8% - 8% | 128.432,35 9.513,51 9.513,51 |
+| Manutenções Subtotal | Previsão 128.432,35 |
+| 12 Elevadores - (conforme contrato) Manutenções Manutenções | 24.441,70 Previsão Previsão |
+| 1 Plataforma Elevatória - (estimativa) 12 Elevadores - (conforme contrato) - (conforme contrato) | 1.000,00 24.441,70 24.441,70 |
+| Paisagismo 1 Plataforma Elevatória - (estimativa) - (estimativa) | 3.000,00 1.000,00 1.000,00 |
+| Interfones/Portões/Portas Paisagismo | 900,00 3.000,00 3.000,00 |
+| Pressurização/Alarme de Incêndio Interfones/Portões/Portas | 1.000,00 900,00 900,00 |
+| Dedetização/Limpeza Caixa D'água/Tubulação Pressurização/Alarme de Incêndio | 1.800,00 1.000,00 1.000,00 |
+| Manutenção Piscina Dedetização/Limpeza Caixa D'água/Tubulação | 2.500,00 1.800,00 1.800,00 |
+| Engenharia/Obras Manutenção Piscina | 4.340,00 2.500,00 2.500,00 |
+| Bombas/Água de Reuso Engenharia/Obras | 1.000,00 4.340,00 4.340,00 |
+| Monitoramento Externo Bombas/Água de Reuso | 690,00 1.000,00 1.000,00 |
+| Monitoramento Perimetral Monitoramento Externo | 350,00 690,00 690,00 |
+| Portaria/Alarme Monitoramento Perimetral Monitoramento Perimetral | 150,00 350,00 350,00 |
+| Integração de Sistema Portaria/Alarme Portaria/Alarme | 700,00 150,00 150,00 |
+| Despesas Imprevistas Integração de Sistema Integração de Sistema | 1.000,00 700,00 700,00 |
+| Manutenção Equipamentos Academia Despesas Imprevistas Auditoria Executiva | 500,00 1.000,00 1.000,00 |
+| Subtotal Manutenção Equipamentos Academia Manutenção Equipamentos Academia | 44.371,70 500,00 500,00 |
+| Telefone &#124; Internet Subtotal Subtotal | Previsão 44.371,70 44.371,70 |
+| Telefonia Portaria / Internet Telefone &#124; Internet Telefone &#124; Internet | 300,00 Previsão Previsão |
+| Subtotal Telefonia Portaria / Internet Telefonia Portaria / Internet | 300,00 300,00 300,00 |
+| Material de Consumo Subtotal Subtotal | Previsão 300,00 300,00 |
+| Material de Limpeza Material de Consumo Material de Consumo | 3.000,00 Previsão Previsão |
+| Material de Piscina Material de Limpeza Material de Limpeza | 2.800,00 3.000,00 3.000,00 |
+| Subtotal Material de Piscina Material de Piscina | 5.800,00 2.800,00 2.800,00 |
+| Diversos Subtotal Subtotal | Previsão 5.800,00 5.800,00 |
+| Seguro Predial - Áreas Comuns Diversos Diversos | 3.188,00 Previsão Previsão |
+| Despesas Eventuais/Diversas/NR's Seguro Predial - Áreas Comuns Seguro Predial - Áreas Comuns | 3.500,00 3.188,00 3.188,00 |
+| Taxa de Administração Despesas Eventuais/Diversas/NR's Despesas Eventuais/Diversas/NR's | 12.800,00 3.500,00 3.500,00 |
+| Subtotal Taxa de Administração Taxa de Administração | 19.488,00 12.800,00 12.800,00 |
+| Total Subtotal Subtotal | 198.392,05 19.488,00 19.488,00 |
+| Fundo de Reserva Total Total | Previsão 198.392,05 198.392,05 |
+| Fundo de Reserva 5% Subtotal Fundo de Reserva Fundo de Reserva 5% Fundo de Reserva Fundo de Reserva 5% | 9.919,60 Previsão 9.919,60 Previsão 9.919,60 |
+| Sistema de Segurança Subtotal Subtotal | 9.919,60 Previsão 9.919,60 9.919,60 |
+| Sistema de Segurança - Pacote Mensal Completo (sem câmeras no andar) Sistema de Segurança Sistema de Segurança | 27.000,00 Previsão Previsão |
+| Subtotal Sistema de Segurança - Pacote Mensal Completo (sem câmeras no andar) Sistema de Segurança - Pacote Mensal Completo (sem câmeras no andar) | 27.000,00 27.000,00 27.000,00 |
+| Total Geral Subtotal Subtotal | 235.311,65 27.000,00 27.000,00 |
+| | 235.311,65 235.311,65 |
+| Total Geral Total Geral | |
 
-2026
-104, 105, 112, 113, 204, 205, 212, 213, 304, 305, 312, 313, 404,
-405, 412, 413, 504, 505, 512, 513, 604, 605, 612, 613, 704, 705, | 36 | 38,37 | 7,91 | 0,001429 | 283,50 | 14,18 | 6,00 | 303,68
-712, 713, 804, 805, 812, 813, 904, 905, 912, 913
-108, 109, 208, 209, 308, 309, 408, 409, 508, 509, 608, 609, 708,
-18 | 34,26 | 8,18 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30
-709, 808, 809, 908, 909
-111, 211, 311, 411, 511, 611, 711, 811, 911 | 9 | 34,16 | 8,18 | 0,001315 | 260,89 | 13,04 | 5,52 | 279,45
-114, 214, 314, 414, 514, 614, 714, 814, 914 | 9 | 34,17 | 8,18 | 0,001315 | 260,89 | 13,04 | 5,52 | 279,45
-Total | 744 | 26.206,34 | - | 100% | R$ 198.392,05 | R$ 9.919,60 | R$ 4.200,00 | R$ 212.511,65
+| Unidades | Qtde. &#124; | Área | Valor por m² | Fração Ideal | Cota Mensal | Fundo de Reserva | Sistema de Segurança Básico | - Total |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| Térreo | Térreo | Térreo | Térreo | Térreo | Térreo | Térreo | Térreo | Térreo |
+| 02, 03, 08, 09 e 13 | 10 | Torres A 34,36 | (Subcond. 1) 8,16 | e D (Subcond. 4) 0,001320 | 261,88 | 13,09 | 5,54 | 280,52 |
+| 04, 07, 16 e 19 anâuvanaina | 8 | 34,30 | 8,17 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30 |
+| 05, 06, 17 e 18 | 8 | 38,62 | 7,91 | 0,001438 | 285,29 | 14,26 | 6,04 | 305,59 |
+| 11 | 2 | 40,98 | 7,92 | 0,001528 | 303,14 | 15,16 | 6,42 | 324,72 |
+| 14, 15, 20 e 21 | 8 | 34,67 | 8,18 | 0,001334 | 264,65 | 13,23 | 5,60 | 283,49 |
+| | | Torres B 34,36 | (Subcond. 2) 8,16 | e C (Subcond. 3) 0,001320 | 261,88 | 13,09 | 5,54 | 280,52 |
+| 02, 07, 10 e 15 03 e 06 | 8 4 | 34,30 | 8,17 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30 |
+| 04, 05, 12 e 13 | 8 | 38,62 | 7,91 | 0,001438 | 285,29 | 14,26 | 6,04 | 305,59 |
+| 11 e 14 | 4 | 34,52 | 8,18 | 0,001329 | 263,66 | 13,18 | 5,58 | 282,43 |
+| 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) |
+| 101, 110, 201, 210, 301, 310, 401, 410, 501, 510, 601, 610, 701, | 36 | 34,26 | 8,18 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30 |
+| 710, 801, 810, 901, 910 102, 103, 108, 109, 113, 122, 202, 203, 208, 209, 213, 222, 302, 303, 308, 309, 313, 322, 402, 403, 408, 409, 413, 422, 502, 503, 508, 509, 513, 522, 602, 603, 608, 609, 613, 622, 702, 703, 708, 709, 713, 722, 802, 803, 808, 809, 813, 822, 902, 903, 908, 909, | 108 &#124; | 34,01 | 8,18 | 0,001309 | 259,70 | 12,98 | 5,50 | 278,18 |
+| 913, 922 104, 107, 112, 116, 119, 204, 207, 212, 216, 219, 304, 307, 312, 316, 319, 404, 407, 412, 416, 419, 504, 507, 512, 516, 519, 604, 607, 612, 616, 619, 704, 707, 712, 716, 719, 804, 807, 812, 816, | 90 | 33,95 | 8,18 | 0,001307 | 259,30 | 12,96 | 5,49 | 277,75 |
+| 819, 904, 907, 912, 916, 919 105, 106, 117, 118, 205, 206, 217, 218, 305, 306, 317, 318, 405, 406, 417, 418, 505, 506, 517, 518, 605, 606, 617, 618, 705, 706, 717, 718, 805, 806, 817, 818, 905, 906, 917, 918 | 72 | 38,37 | 7,91 | 0,001429 | 283,50 | 14,18 | 6,00 | 303,68 |
+| 111, 211, 311, 411, 511, 611, 711, 811, 911 | 18 | 40,76 | 7,93 | 0,001521 | 301,75 | 15,09 | 6,39 | 323,23 |
+| 114, 115, 120, 121, 214, 215, 220, 221, 314, 315, 320, 321, 414, 415, 420, 421, 514, 515, 520, 521, 614, 615, 620, 621, 714, 715, 720, 721, 814, 815, 820, 821, 914, 915, 920, 921 | 72 | 34,36 | 8,18 | 0,001322 | 262,27 | 13,11 | 5,55 | 280,94 |
+| Torre B (Subcond. 2) 1º e 2º Pavimento | Torre B (Subcond. 2) 1º e 2º Pavimento | Torre B (Subcond. 2) 1º e 2º Pavimento | Torre B (Subcond. 2) 1º e 2º Pavimento | Torre B (Subcond. 2) 1º e 2º Pavimento | Torre B (Subcond. 2) 1º e 2º Pavimento | Torre B (Subcond. 2) 1º e 2º Pavimento | Torre B (Subcond. 2) 1º e 2º Pavimento | Torre B (Subcond. 2) 1º e 2º Pavimento |
+| 101, 116, 201, 216 | 4 | 34,22 | 8,18 | 0,001317 | 261,28 | 13,06 | 5,53 | 279,88 |
+| 102, 107, 110, 115, 202, 207, 210, 215 | 8 | 34,01 | 8,18 | 0,001309 | 259,70 | 12,98 | 5,50 | 278,18 |
+| 103, 106, 203, 206 | 4 | 33,95 | 8,18 | 0,001307 | 259,30 | 12,96 | 5,49 | 277,75 |
+| 104, 105, 112, 113, 204, 205, 212, 213 | 8 | 38,37 | 7,91 | 0,001429 | 283,50 | 14,18 | 6,00 | 303,68 |
+| 108, 109, 208, 209 | 4 | | | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30 |
+| | | 34,26 | 8,18 | | | | | |
+| 111, 114, 211, 214 | 4 | 34,16 | 8,18 3º ao 9º | 0,001315 Pavimento | 260,89 | 13,04 | 5,52 | 279,45 |
+| 301, 316, 401, 416, 501, 516, 601, 616, 701, 716, 801, 816, 901, 916 | 14 | 34,22 | 8,18 | 0,001317 | 261,28 | 13,06 | 5,53 | 279,88 |
+| 302, 307, 310, 315, 402, 407, 410, 415, 502, 507, 510, 515, 602, 607, 610, 615, 702, 707, 710, 715, 802, 807, 810, 815, 902, 907, 910, 915 | 28 | 34,01 | 8,18 8,18 | 0,001309 0,001307 | 259,70 | 12,98 12,96 | 5,50 5,49 | 278,18 277,75 |
+| 303, 306, 403, 406, 503, 506, 603, 606, 703, 706, 803, 806, 903, 906 304, 305, 312, 313, 404, 405, 412, 413, 504, 505, 512, 513, 604, 605, 612, 613, 704, 705, 712, 713, 804, 805, 812, 813, 904, 905, | 14 28 | 33,95 38,37 | 7,91 | 0,001429 | 259,30 283,50 | 14,18 | 6,00 | 303,68 |
+| 912, 913 308, 309, 408, 409, 508, 509, 608, 609, 708, 709, 808, 809, 908, 909 | 14 | | | | 261,68 | 13,08 | 5,54 | 280,30 |
+| 311, 411, 511, 611, 711, 811, 911 | 7 | 34,26 | 8,18 | 0,001319 | 260,89 | 13,04 | 5,52 | 279,45 |
+| 314, 414, 514, 614, 714, 814, 914 | 7 | 34,16 34,17 | 8,18 8,18 | 0,001315 0,001315 | 260,89 | 13,04 | 5,52 | 279,45 |
+| Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento |
+| 101, 116, 201, 216, 301, 316, 401, 416, 501, 516, 601, 616, 701, 716, 801, 816, 901, 916 | 18 | 34,22 | 8,18 | 0,001317 | 261,28 | 13,06 | 5,53 | 279,88 |
+| 102, 107, 110, 115, 202, 207, 210, 215, 302, 307, 310, 315, 402, 407, 410, 415, 502, 507, 510, 515, 602, 607, 610, 615, 702, 707, 710, 715, 802, 807, 810, 815, 902, 907, 910, 915 | 36 | 34,01 | 8,18 | 0,001309 | 259,70 | 12,98 | 5,50 | 278,18 |
+| 103, 106, 203, 206, 303, 306, 403, 406, 503, 506, 603, 606, 703, 706, 803, 806, 903, 906 | 18 | 33,95 | 8,18 | 0,001307 | 259,30 | 12,96 | 5,49 | 277,75 |
+| 104, 105, 112, 113, 204, 205, 212, 213, 304, 305, 312, 313, 404, 405, 412, 413, 504, 505, 512, 513, 604, 605, 612, 613, 704, 705, 712, 713, 804, 805, 812, 813, 904, 905, 912, 913 | 36 | 38,37 | 7,91 | 0,001429 | 283,50 | 14,18 | 6,00 | 303,68 |
+| 108, 109, 208, 209, 308, 309, 408, 409, 508, 509, 608, 609, 708, 709, 808, 809, 908, 909 | 18 | 34,26 | 8,18 | 0,001319 | 261,68 | 13,08 | 5,54 | 280,30 |
+| 111, 211, 311, 411, 511, 611, 711, 811, 911 | 9 | 34,16 | 8,18 | 0,001315 | 260,89 | 13,04 | 5,52 | 279,45 |
+| 114, 214, 314, 414, 514, 614, 714, 814, 914 Total | 9 744 | 34,17 26.206,34 | 8,18 - | 0,001315 100% | 260,89 R$ 198.392,05 | 13,04 R$ 9.919,60 | 2026 5,52 R$ 4.200,00 | 279,45 R$ 212.511,65 |
 
-Sistema de Segurança -
-Unidades | Qtde. | Área | Valor por m² | Fração Ideal | Cota Mensal | Fundo de Reserva | Total
-Completo
-Térreo
-Torres A (Subcond. 1) e D (Subcond. 4)
-02, 03, 08, 09 e 13 | 10 | 34,36 | 9,04 | 0,001320 | 261,88 | 13,09 | 35,64 | 310,61
-04, 07, 16 e 19 | 8 | 34,30 | 9,05 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38
-Quadro de Rateio – Opção 2 | 05, 06, 17 e 18 | 8 | 38,62 | 8,76 | 0,001438 | 285,29 | 14,26 | 38,83 | 338,38
-11 | 2 | 40,98 | 8,77 | 0,001528 | 303,14 | 15,16 | 41,26 | 359,56
-14, 15, 20 e 21 | 8 | 34,67 | 9,05 | 0,001334 | 264,65 | 13,23 | 36,02 | 313,91
-Torres B (Subcond. 2) e C (Subcond. 3)
-02, 07, 10 e 15 | 8 | 34,36 | 9,04 | 0,001320 | 261,88 | 13,09 | 35,64 | 310,61
-03 e 06 | 4 | 34,30 | 9,05 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38
-04, 05, 12 e 13 | 8 | 38,62 | 8,76 | 0,001438 | 285,29 | 14,26 | 38,83 | 338,38
-11 e 14 | 4 | 34,52 | 9,06 | 0,001329 | 263,66 | 13,18 | 35,88 | 312,73
-1º ao 9º Pavimento
-Torres A (Subcond. 1) e D (Subcond. 4)
-101, 110, 201, 210, 301, 310, 401, 410, 501, 510, 601, 610, 701, 710,
-36 | 34,26 | 9,06 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38
-801, 810, 901, 910
-102, 103, 108, 109, 113, 122, 202, 203, 208, 209, 213, 222, 302, 303,
-308, 309, 313, 322, 402, 403, 408, 409, 413, 422, 502, 503, 508, 509,
-108 | 34,01 | 9,06 | 0,001309 | 259,70 | 12,98 | 35,34 | 308,02
-513, 522, 602, 603, 608, 609, 613, 622, 702, 703, 708, 709, 713, 722,
-802, 803, 808, 809, 813, 822, 902, 903, 908, 909, 913, 922
-104, 107, 112, 116, 119, 204, 207, 212, 216, 219, 304, 307, 312, 316,
-319, 404, 407, 412, 416, 419, 504, 507, 512, 516, 519, 604, 607, 612,
-90 | 33,95 | 9,06 | 0,001307 | 259,30 | 12,96 | 35,29 | 307,55
-616, 619, 704, 707, 712, 716, 719, 804, 807, 812, 816, 819, 904, 907,
-912, 916, 919
-105, 106, 117, 118, 205, 206, 217, 218, 305, 306, 317, 318, 405, 406,
-417, 418, 505, 506, 517, 518, 605, 606, 617, 618, 705, 706, 717, 718, | 72 | 38,37 | 8,76 | 0,001429 | 283,50 | 14,18 | 38,58 | 336,26
-805, 806, 817, 818, 905, 906, 917, 918
-111, 211, 311, 411, 511, 611, 711, 811, 911 | 18 | 40,76 | 8,78 | 0,001521 | 301,75 | 15,09 | 41,07 | 357,91
-114, 115, 120, 121, 214, 215, 220, 221, 314, 315, 320, 321, 414, 415,
-420, 421, 514, 515, 520, 521, 614, 615, 620, 621, 714, 715, 720, 721, | 72 | 34,36 | 9,05 | 0,001322 | 262,27 | 13,11 | 35,69 | 311,08
-814, 815, 820, 821, 914, 915, 920, 921
-Torre B (Subcond. 2)
-1º e 2º Pavimento
-101, 116, 201, 216 | 4 | 34,22 | 9,06 | 0,001317 | 261,28 | 13,06 | 35,56 | 309,91
-102, 107, 110, 115, 202, 207, 210, 215 | 8 | 34,01 | 9,06 | 0,001309 | 259,70 | 12,98 | 35,34 | 308,02
-103, 106, 203, 206 | 4 | 33,95 | 9,06 | 0,001307 | 259,30 | 12,96 | 35,29 | 307,55
-104, 105, 112, 113, 204, 205, 212, 213 | 8 | 38,37 | 8,76 | 0,001429 | 283,50 | 14,18 | 38,58 | 336,26
-108, 109, 208, 209 | 4 | 34,26 | 9,06 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38
-111, 114, 211, 214 | 4 | 34,16 | 9,06 | 0,001315 | 260,89 | 13,04 | 35,51 | 309,43
-3º ao 9º Pavimento
-301, 316, 401, 416, 501, 516, 601, 616, 701, 716, 801, 816, 901, 916 | 14 | 34,22 | 9,06 | 0,001317 | 261,28 | 13,06 | 35,56 | 309,91
-302, 307, 310, 315, 402, 407, 410, 415, 502, 507, 510, 515, 602, 607,
-28 | 34,01 | 9,06 | 0,001309 | 259,70 | 12,98 | 35,34 | 308,02
-610, 615, 702, 707, 710, 715, 802, 807, 810, 815, 902, 907, 910, 915
-303, 306, 403, 406, 503, 506, 603, 606, 703, 706, 803, 806, 903, 906 | 14 | 33,95 | 9,06 | 0,001307 | 259,30 | 12,96 | 35,29 | 307,55
-304, 305, 312, 313, 404, 405, 412, 413, 504, 505, 512, 513, 604, 605,
-28 | 38,37 | 8,76 | 0,001429 | 283,50 | 14,18 | 38,58 | 336,26
-612, 613, 704, 705, 712, 713, 804, 805, 812, 813, 904, 905, 912, 913
-308, 309, 408, 409, 508, 509, 608, 609, 708, 709, 808, 809, 908, 909 | 14 | 34,26 | 9,06 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38
-311, 411, 511, 611, 711, 811, 911 | 7 | 34,16 | 9,06 | 0,001315 | 260,89 | 13,04 | 35,51 | 309,43
-314, 414, 514, 614, 714, 814, 914 | 7 | 34,17 | 9,06 | 0,001315 | 260,89 | 13,04 | 35,51 | 309,43
-Torre C (Subcond. 3)
-1º ao 9º Pavimento
-101, 116, 201, 216, 301, 316, 401, 416, 501, 516, 601, 616, 701, 716,
-18 | 34,22 | 9,06 | 0,001317 | 261,28 | 13,06 | 35,56 | 309,91
-801, 816, 901, 916
-102, 107, 110, 115, 202, 207, 210, 215, 302, 307, 310, 315, 402, 407,
-410, 415, 502, 507, 510, 515, 602, 607, 610, 615, 702, 707, 710, 715, | 36 | 34,01 | 9,06 | 0,001309 | 259,70 | 12,98 | 35,34 | 308,02
-802, 807, 810, 815, 902, 907, 910, 915
-103, 106, 203, 206, 303, 306, 403, 406, 503, 506, 603, 606, 703, 706,
-18 | 33,95 | 9,06 | 0,001307 | 259,30 | 12,96 | 35,29 | 307,55
-803, 806, 903, 906
+## Quadro de Rateio - Opção 2
 
-2026
-104, 105, 112, 113, 204, 205, 212, 213, 304, 305, 312, 313, 404, 405,
-412, 413, 504, 505, 512, 513, 604, 605, 612, 613, 704, 705, 712, 713, | 36 | 38,37 | 8,76 | 0,001429 | 283,50 | 14,18 | 38,58 | 336,26
-804, 805, 812, 813, 904, 905, 912, 913
-108, 109, 208, 209, 308, 309, 408, 409, 508, 509, 608, 609, 708, 709,
-18 | 34,26 | 9,06 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38
-808, 809, 908, 909
-111, 211, 311, 411, 511, 611, 711, 811, 911 | 9 | 34,16 | 9,06 | 0,001315 | 260,89 | 13,04 | 35,51 | 309,43
-114, 214, 314, 414, 514, 614, 714, 814, 914 | 9 | 34,17 | 9,06 | 0,001315 | 260,89 | 13,04 | 35,51 | 309,43
-Total | 744 | 26.206,34 | - | 100% | R$ 198.392,05 | R$ 9.919,60 | R$ 27.000,00 | R$ 235.311,65
+| Unidades &#124; | Qtde. | Área | Valor por m² | Fração Ideal | Cota Mensal | Fundo de Reserva | Sistema de Segurança - Completo | Total |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| Térreo | Térreo | Térreo | Térreo | Térreo | Térreo | Térreo | Térreo | Térreo |
+| 02, 03, 08, 09 e 13 = | 10 | Torres A 34,36 | (Subcond. 1) 9,04 | e D (Subcond. 4) 0,001320 | 261,88 | 13,09 | 35,64 | 310,61 |
+| 04, 07, 16 e 19 | 8 | 34,30 | 9,05 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38 |
+| 05, 06, 17 e 18 IJ00ONvA | 8 | 38,62 | 8,76 | 0,001438 | 285,29 | 14,26 | 38,83 | 338,38 |
+| 11 | 2 | 40,98 | 8,77 | 0,001528 | 303,14 | 15,16 | 41,26 | |
+| | | | | | 264,65 | | | 359,56 |
+| 14, 15, 20 e 21 | 8 | 34,67 Torres B | 9,05 (Subcond. 2) | 0,001334 e C (Subcond. 3) | | 13,23 | 36,02 | 313,91 |
+| 02, 07, 10 e 15 | 8 | 34,36 | 9,04 | 0,001320 | 261,88 | 13,09 13,08 | 35,64 35,61 | 310,61 310,38 |
+| 03 e 06 04, 05, 12 e 13 | 4 8 | 34,30 38,62 | 9,05 8,76 | 0,001319 0,001438 | 261,68 285,29 | 14,26 | 38,83 | 338,38 |
+| 11 e 14 | 4 | 34,52 | 9,06 | 0,001329 | 263,66 | 13,18 | 35,88 | 312,73 |
+| 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) | 1º ao 9º Pavimento Torres A (Subcond. 1) e D (Subcond. 4) |
+| 101, 110, 201, 210, 301, 310, 401, 410, 501, 510, 601, 610, 701, 710, 801, 810, 901, 910 | 36 | 34,26 | 9,06 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38 |
+| 102, 103, 108, 109, 113, 122, 202, 203, 208, 209, 213, 222, 302, 303, 308, 309, 313, 322, 402, 403, 408, 409, 413, 422, 502, 503, 508, 509, 513, 522, 602, 603, 608, 609, 613, 622, 702, 703, 708, 709, 713, 722, 802, 803, 808, 809, 813, 822, 902, 903, 908, 909, 913, 922 | 108 &#124; | 34,01 | 9,06 | 0,001309 | 259,70 | 12,98 | 35,34 | 308,02 |
+| 104, 107, 112, 116, 119, 204, 207, 212, 216, 219, 304, 307, 312, 316, 319, 404, 407, 412, 416, 419, 504, 507, 512, 516, 519, 604, 607, 612, 616, 619, 704, 707, 712, 716, 719, 804, 807, 812, 816, 819, 904, 907, 912, 916, 919 | 90 | 33,95 | 9,06 | 0,001307 | 259,30 | 12,96 | 35,29 | 307,55 |
+| 105, 106, 117, 118, 205, 206, 217, 218, 305, 306, 317, 318, 405, 406, 417, 418, 505, 506, 517, 518, 605, 606, 617, 618, 705, 706, 717, 718, 805, 806, 817, 818, 905, 906, 917, 918 | 72 | 38,37 | 8,76 | 0,001429 | 283,50 | 14,18 | 38,58 | 336,26 |
+| 111, 211, 311, 411, 511, 611, 711, 811, 911 115, 120, 121, 214, 215, 220, 221, 314, 315, 320, 321, 414, | 18 | 40,76 | 8,78 | 0,001521 | 301,75 | 15,09 | 41,07 | 357,91 |
+| 114, 415, 420, 421, 514, 515, 520, 521, 614, 615, 620, 621, 714, 715, 720, 721, 814, 815, 820, 821, 914, 915, 920, 921 | 72 | 34,36 | 9,05 | 0,001322 | 262,27 | 13,11 | 35,69 | 311,08 |
+| Torre B (Subcond. 2) Pavimento | Torre B (Subcond. 2) Pavimento | Torre B (Subcond. 2) Pavimento | Torre B (Subcond. 2) Pavimento | Torre B (Subcond. 2) Pavimento | Torre B (Subcond. 2) Pavimento | Torre B (Subcond. 2) Pavimento | Torre B (Subcond. 2) Pavimento | Torre B (Subcond. 2) Pavimento |
+| 101, 116, 201, 216 | 4 | 34,22 | 1º e 2º 9,06 | 0,001317 | 261,28 | 13,06 | 35,56 | 309,91 |
+| 102, 107, 110, 115, 202, 207, 210, 215 | 8 | 34,01 | 9,06 | 0,001309 | 259,70 | 12,98 | 35,34 | 308,02 |
+| 103, 106, 203, 206 | 4 | 33,95 | 9,06 | 0,001307 | 259,30 | 12,96 | 35,29 | 307,55 |
+| 104, 105, 112, 113, 204, 205, 212, 213 | 8 | 38,37 | 8,76 | 0,001429 | 283,50 | 14,18 | 38,58 | 336,26 |
+| 108, 109, 208, 209 | 4 | 34,26 | 9,06 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38 |
+| 111, 114, 211, 214 | 4 | 34,16 | 9,06 | 0,001315 | 260,89 | 13,04 | 35,51 | 309,43 |
+| 3º ao 9º Pavimento | 3º ao 9º Pavimento | 3º ao 9º Pavimento | 3º ao 9º Pavimento | 3º ao 9º Pavimento | 3º ao 9º Pavimento | 3º ao 9º Pavimento | 3º ao 9º Pavimento | 3º ao 9º Pavimento |
+| 301, 316, 401, 416, 501, 516, 601, 616, 701, 716, 801, 816, 901, 916 | 14 | 34,22 | 9,06 | 0,001317 | 261,28 | 13,06 | 35,56 | 309,91 |
+| 302, 307, 310, 315, 402, 407, 410, 415, 502, 507, 510, 515, 602, 607, 610, 615, 702, 707, 710, 715, 802, 807, 810, 815, 902, 907, 910, 915 | 28 | 34,01 | 9,06 | 0,001309 | 259,70 | 12,98 | 35,34 | 308,02 |
+| 303, 306, 403, 406, 503, 506, 603, 606, 703, 706, 803, 806, 903, 906 | 14 | 33,95 | 9,06 | 0,001307 | 259,30 | 12,96 | 35,29 | 307,55 |
+| 304, 305, 312, 313, 404, 405, 412, 413, 504, 505, 512, 513, 604, 605, 612, 613, 704, 705, 712, 713, 804, 805, 812, 813, 904, 905, 912, 913 | 28 | 38,37 | 8,76 | 0,001429 | 283,50 | 14,18 | 38,58 | 336,26 |
+| 308, 309, 408, 409, 508, 509, 608, 609, 708, 709, 808, 809, 908, 909 | 14 | 34,26 | 9,06 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38 |
+| 311, 411, 511, 611, 711, 811, 911 | 7 | 34,16 | 9,06 | 0,001315 | 260,89 | 13,04 | 35,51 | 309,43 |
+| 314, 414, 514, 614, 714, 814, 914 | 7 | 34,17 | 9,06 | 0,001315 | 260,89 | 13,04 | 35,51 | 309,43 |
+| Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento | Torre C (Subcond. 3) 1º ao 9º Pavimento |
+| 101, 116, 201, 216, 301, 316, 401, 416, 501, 516, 601, 616, 701, 716, 801, 816, 901, 916 | 18 | 34,22 | 9,06 | 0,001317 | 261,28 | 13,06 | 35,56 | 309,91 |
+| 102, 107, 110, 115, 202, 207, 210, 215, 302, 307, 310, 315, 402, 407, 410, 415, 502, 507, 510, 515, 602, 607, 610, 615, 702, 707, 710, 715, 802, 807, 810, 815, 902, 907, 910, 915 | 36 | 34,01 | 9,06 | 0,001309 | 259,70 | 12,98 | 35,34 | 308,02 |
+| 103, 106, 203, 206, 303, 306, 403, 406, 503, 506, 603, 606, 703, 706, 803, 806, 903, 906 | 18 | 33,95 | 9,06 | 0,001307 | 259,30 | 12,96 | 35,29 | 307,55 |
+| 104, 105, 112, 113, 204, 205, 212, 213, 304, 305, 312, 313, 404, 405, 412, 413, 504, 505, 512, 513, 604, 605, 612, 613, 704, 705, 712, 713, 804, 805, 812, 813, 904, 905, 912, 913 | 36 | 38,37 | 8,76 | 0,001429 | 283,50 | 14,18 | 38,58 | 336,26 |
+| 108, 109, 208, 209, 308, 309, 408, 409, 508, 509, 608, 609, 708, 709, 808, 809, 908, 909 | 18 &#124; | 34,26 | 9,06 | 0,001319 | 261,68 | 13,08 | 35,61 | 310,38 |
+| 111, 211, 311, 411, 511, 611, 711, 811, 911 | 9 | 34,16 | 9,06 | 0,001315 | 260,89 | 13,04 | 2026 35,51 | 309,43 |
+| 114, 214, 314, 414, 514, 614, 714, 814, 914 Total | 9 744 | 34,17 26.206,34 | 9,06 - | 0,001315 100% | 260,89 R$ 198.392,05 | 13,04 R$ 9.919,60 | 35,51 R$ 27.000,00 | 309,43 R$ 235.311,65 |
 
-O MERCADO AUTÔNOMO
+## O MERCADO AUTÔNOMO
 
-Conveniência
-que já nasce pronta.
-Um
-mercado
-integrado
-ao
-condomínio, acessível 24 horas,
-com tecnologia de pagamento e
-gestão especializada.
+## Conveniência que já nasce pronta.
 
-IMAGEM DE INSTALAÇÃO ILUSTRATIVA
+Um mercado integrado ao condomínio, acessível 24 horas, com tecnologia de pagamento e gestão especializada.
 
-PROPOSTA DE LAVANDERIA
+## Uma rotina mais leve. Um condomínio mais completo.
 
-Uma rotina mais leve.
-Um condomínio
-
-mais completo.
-Lavanderia inteligente integrada ao condomínio,
-com reserva digital e manutenção semanal.
+Lavanderia inteligente integrada ao condomínio, com reserva digital e manutenção semanal.
 
 UM SERVIÇO COMPLEMENTAR · MAIS CONVENIÊNCIA
-IMAGEM DE INSTALAÇÃO ILUSTRATIVA
 
 LAVANDERIA INTELIGENTE
-TECNOLOGIA · PRATICIDADE · USO RECORRENTE
+
+## GRUPO FORTSERV
+
+## Segurança, Limpeza e Zeladoria para Condomínios
+
+Soluções Integradas para Condomínios Residenciais Portaria e Segurança 24h Zeladoria Predial
+
+Limpeza e Conservação
 
 2026
 
-Reformas e alterações nos imóveis
-Por exigência do sistema construtivo e de acordo com as
-características estruturais do empreendimento executado
-em alvenaria estrutural, são proibidas as reformas que
-envolvam quaisquer modificações, remoções ou aberturas
-de vãos e rasgos nas paredes, inclusive para pontos
-elétricos e hidráulicos. Tais modificações irão comprometer
-a estabilidade da estrutura da edificação e poderão causar
-patologias. Após a instalação do condomínio, síndico e
-administradora irão definir as diretrizes relativas às reformas
-e/ou intervenções nas unidades, de acordo com a NBR
-16.280 da Associação Brasileira de Normas Técnicas
-(ABNT), que determina que o proprietário do imóvel deve
-apresentar um plano de reforma detalhado contendo a ART
-ou RRT.
+## Reformas e alterações nos imóveis
+
+Por exigência do sistema construtivo e de acordo com as características estruturais do empreendimento executado em alvenaria estrutural, são proibidas as reformas que envolvam quaisquer modificações, remoções ou aberturas de vãos e rasgos nas paredes, inclusive para pontos elétricos e hidráulicos. Tais modificações irão comprometer a estabilidade da estrutura da edificação e poderão causar patologias. Após a instalação do condomínio, síndico e e/ou intervenções nas unidades, de acordo com a NBR 16.280 da Associação Brasileira de Normas Técnicas (ABNT), que determina que o proprietário do imóvel deve apresentar um plano de reforma detalhado contendo a ART ou RRT. administradora irão definir as diretrizes relativas às reformas
 
 2026
 
-Sigma Civil
-• O SigmaCivil é uma plataforma digital de apoio e acompanhamento das manutenções preventivas.
-Com ela, uma equipe técnica dedicada da Proconsult montará um plano exclusivo para o seu
-condomínio.
-A ferramenta será disponibilizada pela CURY, sem custo para o condomínio, durante um período
-determinado. Após esse prazo, o próprio condomínio poderá optar pela renovação do serviço.
+## Sigma Civil
 
-Para garantir a efetividade desse acompanhamento, o síndico eleito deverá manter a plataforma
-atualizada, registrando as manutenções realizadas e anexando os respectivos laudos e notas fiscais
-diretamente no aplicativo.
+- O SigmaCivil é uma plataforma digital de apoio e acompanhamento das manutenções preventivas.
+
+Com ela, uma equipe técnica dedicada da Proconsult montará um plano exclusivo para o seu condomínio.
+
+A ferramenta será disponibilizada pela CURY, sem custo para o condomínio, durante um período determinado. Após esse prazo, o próprio condomínio poderá optar pela renovação do serviço.
+
+Para garantir a efetividade desse acompanhamento, o síndico eleito deverá manter a plataforma atualizada, registrando as manutenções realizadas e anexando os respectivos laudos e notas fiscais diretamente no aplicativo.
 
 É a gestão do seu condomínio na palma da sua mão!
 
-2026
+## FAQ
 
-FAQ
 Abaixo você encontrará as respostas das principais dúvidas relacionadas à assembleia geral de instalação do condomínio.
-1)
 
-Os membros do conselho são remunerados?
-• Não havendo dispositivo na Convenção, presume-se gratuito o mandato dos membros do conselho.
+## 1) Os membros do conselho são remunerados?
 
-2)
+- Não havendo dispositivo na Convenção, presume-se gratuito o mandato dos membros do conselho.
 
-Caso seja eleito síndico profissional, quem será? Como foi a escolha?
-• Síndico eleito por maioria de votos. Síndicos profissionais concorrentes:
-• Pedro Menezes ‐ Menelim
+## 2) Caso seja eleito síndico profissional, quem será? Como foi a escolha?
+
+- Síndico eleito por maioria de votos. Síndicos profissionais concorrentes:
+- ·
+- Pedro Menezes - Menelim |
+
+Proposta R$14,00 por unidade - R$10.416,00
+
+- Rafael Procaci - Siggia &amp; Procaci |
+
+Proposta R$14,00 por unidade - R$10.416,00
+
+- Rafael Araujo - RR Síndicos
+
 |
-Proposta R$14,00 por unidade – R$10.416,00
-• Rafael Procaci - Siggia & Procaci |
-Proposta R$14,00 por unidade – R$10.416,00
-• Rafael Araujo – RR Síndicos
-|
-Proposta R$14,00 por unidade – R$10.416,00
 
-3)
+Proposta R$14,00 por unidade - R$10.416,00
 
-Quando começo a pagar a taxa de condomínio?
+## 3) Quando começo a pagar a taxa de condomínio?
 
-• A partir da expedição do habite-se e da instalação do respectivo condomínio, todas as despesas decorrentes
-de impostos, taxas e contribuições fiscais, assim como taxas condominiais, passam a ser de sua
-responsabilidade.
-4)
+- A partir da expedição do habite-se e da instalação do respectivo condomínio, todas as despesas decorrentes de impostos, taxas e contribuições fiscais, assim como taxas condominiais, passam a ser de sua responsabilidade.
 
-Qual o vencimento da primeira taxa de condomínio?
-• O primeiro vencimento ocorrerá em dezembro/26, com vencimento fixo todo dia 10 dos meses
-subsequentes.
+## 4) Qual o vencimento da primeira taxa de condomínio?
 
-5)
+- O primeiro vencimento ocorrerá em dezembro/26, com vencimento fixo todo dia 10 dos meses subsequentes.
 
-Como são calculadas as taxas condominiais?
-• A taxa condominial serve para arcar com as despesas condominiais, que se referem a serviços, manutenções,
-melhorias das áreas comuns do condomínio, materiais e despesas com funcionários. Elas são calculadas por
-meio da fração ideal de cada unidade. Quanto maior a unidade, maior será o valor da taxa a pagar. O
-mesmo cálculo é feito para o fundo de reserva.
+## 5) Como são calculadas as taxas condominiais?
 
-FAQ
+- A taxa condominial serve para arcar com as despesas condominiais, que se referem a serviços, manutenções, melhorias das áreas comuns do condomínio, materiais e despesas com funcionários. Elas são calculadas por mesmo cálculo é feito para o fundo de reserva. meio da fração ideal de cada unidade. Quanto maior a unidade, maior será o valor da taxa a pagar. O
+
+## FAQ
+
 Abaixo você encontrará as respostas das principais dúvidas relacionadas à assembleia geral de instalação do condomínio.
-6)
 
-O que é fração ideal?
-• Fração ideal é a parte que cabe a cada unidade no terreno e nas áreas comuns do condomínio,
-expressa em número decimal ou percentual e definida na instituição e na convenção do condomínio.
-É ela que determina a participação de cada unidade no rateio das despesas condominiais.
+## 6) O que é fração ideal?
 
-7)
+- Fração ideal é a parte que cabe a cada unidade no terreno e nas áreas comuns do condomínio, expressa em número decimal ou percentual e definida na instituição e na convenção do condomínio. É ela que determina a participação de cada unidade no rateio das despesas condominiais.
 
-Para que serve o fundo de reserva?
+## 7) Para que serve o fundo de reserva?
 
-• O fundo de reserva tem como finalidade o pagamento de despesas emergenciais, ou seja, para atender casos
-imprevisíveis e necessidades iminentes do condomínio não previstas no orçamento anual.
+- O fundo de reserva tem como finalidade o pagamento de despesas emergenciais, ou seja, para atender casos imprevisíveis e necessidades iminentes do condomínio não previstas no orçamento anual.
 
-8)
+## 8) O consumo de água, energia elétrica e gás será individualizado?
 
-O consumo de água, energia elétrica e gás será individualizado?
-• O condomínio é entregue com a previsão da individualização, ou seja, toda a infraestrutura e a instalação
-hidráulica estão prontas, faltando apenas à instalação dos medidores.
+- O condomínio é entregue com a previsão da individualização, ou seja, toda a infraestrutura e a instalação hidráulica estão prontas, faltando apenas à instalação dos medidores.
 
-9)
+## 9) Como devo proceder para fazer as reformas em minha unidade?
 
-Como devo proceder para fazer as reformas em minha unidade?
+- Preencha o formulário de requisição de mudança disponibilizado pela administradora que dará o parecer e as orientações para conduzir a reforma.
 
-• Preencha o formulário de requisição de mudança disponibilizado pela administradora que dará o parecer e as
-orientações para conduzir a reforma.
+## FAQ
 
-FAQ
 Abaixo você encontrará as respostas das principais dúvidas relacionadas à assembleia geral de instalação do condomínio.
-10)
 
-O que é ART e RRT?
+## 10) O que é ART e RRT?
 
-• ART – Anotação de responsabilidade técnica de obras e serviços emitida por um engenheiro ou técnico em
-edificações.
-• RRT – Registro de responsabilidade técnica emitida por um arquiteto. Esses documentos asseguram que a
-reforma está em conformidade com as normas técnicas.
-11)
+- ART - Anotação de responsabilidade técnica de obras e serviços emitida por um engenheiro ou técnico em edificações.
+- RRT - Registro de responsabilidade técnica emitida por um arquiteto. Esses documentos asseguram que a reforma está em conformidade com as normas técnicas.
 
-A vistoria da minha unidade ainda não foi agendada. Com quem devo falar?
+## 11) A vistoria da minha unidade ainda não foi agendada. Com quem devo falar?
 
-• Aguarde o contato da nossa Central de Relacionamento. Se sua unidade já estiver liberada em sistema, você
-receberá um link para realizar o autoagendamento. Caso ainda não esteja liberada, será necessário aguardar
-o envio do link. Mantenha seus dados cadastrais atualizados e, se houver alguma pendência financeira, entre
-em contato para negociar.
-12)
+- Aguarde o contato da nossa Central de Relacionamento. Se sua unidade já estiver liberada em sistema, você receberá um link para realizar o autoagendamento. Caso ainda não esteja liberada, será necessário aguardar o envio do link. Mantenha seus dados cadastrais atualizados e, se houver alguma pendência financeira, entre em contato para negociar.
 
-O que é convenção de Condomínio?
+## 12) O que é convenção de Condomínio?
 
-• A convenção condominial é o documento que reúne as principais regras de convivência e de administração do
-condomínio; determina como o condomínio deverá ser gerenciado, organizando a vida e o trabalho do
-síndico.
+- A convenção condominial é o documento que reúne as principais regras de convivência e de administração do condomínio; determina como o condomínio deverá ser gerenciado, organizando a vida e o trabalho do síndico.
 
-13)
+## 13) Como posso ter acesso à Convenção do Condomínio?
 
-Como posso ter acesso à Convenção do Condomínio?
-
-• Ela faz parte do seu kit contrato assinado no momento da venda. Também é possível verificá‐la através do
-Portal de Relacionamento, no menu “Meu imóvel” e, na sequência, “Meus Documentos”.
+- Portal de Relacionamento, no menu "Meu imóvel" e, na sequência, "Meus Documentos". · Ela faz parte do seu kit contrato assinado no momento da venda. Também é possível verificá-la através do

@@ -1,1390 +1,634 @@
-Empreendimento: Guido Parque Nações Unidas
-Endereço: Avenida Guido Caloi, s/n, São Paulo –SP
-MEMORIAL DESCRITIVO DE CLIENTES
-Serão construídas 04 (quatro) torres de apartamentos residenciais com 10 pavimentos (térreo + 09
-pavimentos tipo) cada. Serão ao todo 774 (setecentos e setenta e quatro) unidades habitacionais,
-sendo que 721 (setecentos e vinte e uma) unidades representarão a planta tipo com 02 (dois)
-dormitórios e 23 (vinte e três) representarão a planta tipo com 01 (um) dormitório e serão adaptadas
-a pessoas com deficiência (PCD).
-A área comum coberta do condomínio será composta por: Salão de festas, fitness, churrasqueiras,
-delivery, easy market – sistema “pay per use”, oficina, coworking, lavanderia coletiva de apoio –
-sistema “pay per use”, brinquedoteca, play baby, salão de jogos, sport bar, espaço multifuncional, pet
-care, espaço beleza, sala de descanso e sauna.
-A área comum descoberta será composta por: Estar externo, playground, fitness externo, praça
-fogueira, horta, pic nic, redário, quadra grama sintética, piscina adulto e infantil, apoio da
-churrasqueira, solário e espaços de uso comum integrados ao projeto de paisagismo.
-1. ESPAÇOS DE USO COMUM
+## Empreendimento: Guido Parque Nações Unidas
+
+## Endereço: Avenida Guido Caloi, s/n, São Paulo -SP
+
+## MEMORIAL DESCRITIVO DE CLIENTES
+
+Serão construídas 04 (quatro) torres de apartamentos residenciais com 10 pavimentos (térreo + 09 pavimentos tipo) cada. Serão ao todo 774 (setecentos e setenta e quatro) unidades habitacionais, sendo que 721 (setecentos e vinte e uma) unidades representarão a planta tipo com 02 (dois) dormitórios e 23 (vinte e três) representarão a planta tipo com 01 (um) dormitório e serão adaptadas a pessoas com deficiência (PCD). A área comum coberta do condomínio será composta por: Salão de festas, fitness, churrasqueiras, delivery, easy market - sistema "pay per use", oficina, coworking, lavanderia coletiva de apoio - sistema "pay per use", brinquedoteca, play baby, salão de jogos, sport bar, espaço multifuncional, pet care, espaço beleza, sala de descanso e sauna. A área comum descoberta será composta por: Estar externo, playground, fitness externo, praça fogueira, horta, pic nic, redário, quadra grama sintética, piscina adulto e infantil, apoio da churrasqueira, solário e espaços de uso comum integrados ao projeto de paisagismo.
+
+## 1. ESPAÇOS DE USO COMUM
+
 As áreas comuns serão entregues equipadas e/ou decoradas conforme descrição a seguir:
-1.1 ÁREAS EXTERNAS – DESCOBERTAS
-CIRCULAÇÃO DE PEDESTRES:
-Piso:
-Intertravado
-ESTACIONAMENTO DE VEICULOS DESCOBERTO:
-Piso:
-Intertravado
-Vagas:
-Demarcação das vagas em pintura
-ÁREA DOS RESERVATÓRIOS INFERIORES:
-Piso:
-Cimentado
-Fechamento:
-Alambrado sobre base de alvenaria
-BICICLETÁRIO:
-Piso:
-Equipamentos:
 
-Intertravado, pedrisco ou gramado
-Ganchos para bicicleta
+## 1.1 ÁREAS EXTERNAS - DESCOBERTAS
 
-APOIO CHURRASQUEIRA 01:
-Piso:
-Cerâmica ou porcelanato e/ou intertravado
-Decoração:
-02 Mesas com 02 cadeiras cada
+## CIRCULAÇÃO DE PEDESTRES:
 
-1
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+Piso: Intertravado
 
-Rubrica 1
+## ESTACIONAMENTO DE VEICULOS DESCOBERTO:
+
+Piso: Intertravado Vagas: Demarcação das vagas em pintura
+
+## ÁREA DOS RESERVATÓRIOS INFERIORES:
+
+Piso: Cimentado Fechamento: Alambrado sobre base de alvenaria
+
+## BICICLETÁRIO:
+
+Piso: Intertravado, pedrisco ou gramado Equipamentos: Ganchos para bicicleta
+
+## APOIO CHURRASQUEIRA 01:
+
+Piso: Cerâmica ou porcelanato e/ou intertravado Decoração: 02 Mesas com 02 cadeiras cada
+
+## APOIO CHURASQUEIRA 02:
+
+Piso: Cerâmica ou porcelanato e/ou intertravado Decoração: 02 Bancos em madeira 01 Mesa lateral
+
+## PLAYGROUND:
+
+Piso: Emborrachado e grama Equipamentos: Serão entregues 04 equipamentos de playground certificados pela norma vigente Mobiliário: Banco em alvenaria
+
+## ESTAR 01:
+
+Piso: Intertravado Decoração: 02 Mesas lateral 01 Banco em madeira
+
+## ESTAR 02:
+
+Piso: Intertravado Decoração: 01 Mesa de centro 04 Poltronas
+
+## FITNESS EXTERNO:
+
+Piso: Intertravado e/ou grama sintética Equipamentos: 03 Caixas para salto 02 Barras fixa 02 Cordas náuticas 02 Gaiolas
+
+## PRAÇA FOGUEIRA:
+
+Piso: Intertravado Decoração: 02 Mesas lateral 03 Bancos 03 Poltronas Banco em alvenaria Equipamento: 01 Lareira
+
+## HORTA:
+
+Piso: Intertravado
+
+## PIC NIC:
+
+Piso: Pedrisco Decoração: 02 Mesas em madeira com 02 bancos cada
+
+## REDÁRIO:
+
+Piso: Pedrisco Decoração: 02 Redes
+
+5256-GD02-VDA-AP-001-DOC-MEM\_R01
+
+Rubrica 3
 
 Rubrica 2
+
+Rubrica 4
+
+## QUADRA GRAMADA:
+
+Piso: Grama sintética sobre piso de concreto Fechamento: Alambrado Equipamentos: 02 Traves de gol
+
+## PISCINA RECREATIVA:
+
+Piso: Pastilha cerâmica ou vinil Equipamentos: 01 Equipamento de transferência 01 Escada
+
+## DECK MOLHADO:
+
+Piso: Pastilha cerâmica ou vinil Decoração: 04 Espreguiçadeiras
+
+## SOLÁRIO:
+
+Piso: Cerâmica ou porcelanato antiderrapante Decoração: 06 Espreguiçadeiras 03 Mesas com 04 cadeiras cada 01 Ombrelone 04 Poltronas 01 Mesa de centro
+
+## PISCINA BABY/ INFANTIL:
+
+Piso: Pastilha cerâmica ou vinil
+
+## SOLÁRIO:
+
+Piso: Cerâmica ou porcelanato antiderrapante Decoração: 02 Mesas com 04 cadeiras cada 03 Espreguiçadeiras
+
+## 1.2. ÁREAS EXTERNAS - COBERTAS
+
+## PORTARIA:
+
+Piso: Cerâmica com rodapé Paredes: Pintura sobre gesso Teto: Textura sobre laje Equipamentos: Bancada
+
+## W.C. PORTARIA:
+
+Piso: Cerâmica Paredes: Cerâmica em todas as paredes Teto: Textura sobre laje Equipamentos: Bacia de louça com caixa acoplada Lavatório de louça Metais: Torneira
+
+## PULMÃO DE SEGURANÇA:
+
+Piso: Intertravado ou cimentado Teto: Textura sobre laje Rubrica 3
+
+Rubrica 4
+
+Fechamento: Gradil em ferro com pintura
+
+## ABRIGOS DE LIXO:
+
+Piso: Cerâmica Paredes: Cerâmica em todas as paredes Teto: Textura sobre laje
+
+## DG:
+
+Piso: Cimentado Paredes: Pintura e/ou textura sobre bloco Teto: Concreto aparente in natura
+
+## MEDIDORES:
+
+Piso: Cimentado Paredes: Pintura e/ou textura sobre bloco Teto: Concreto aparente in natura
+
+## CASA DE BOMBAS (RESERVATÓRIOS):
+
+Piso: Cimentado Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura
+
+## CHURRASQUEIRA 01:
+
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso e faixa cerâmica Teto: Textura sobre laje ou pintura sobre forro Equipamentos: 01 Bancada em pedra natural com cuba de aço inox 01 Forno de pizza 01 Churrasqueira Decoração: 02 Mesas com 04 cadeiras cada 03 Mesas com 02 cadeiras cada
+
+## CHURRASQUEIRA 02:
+
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso e faixa cerâmica Teto: Textura sobre laje ou pintura sobre forro Equipamentos: 01 Bancada em pedra natural com cuba de aço inox 01 Forno de pizza 01 Churrasqueira Decoração: 02 Mesas com 04 cadeiras cada 03 Mesas com 02 cadeiras cada
+
+## W.C. CHURRASQUEIRAS:
+
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso e/ou revestimento cerâmico Teto: Textura sobre laje ou pintura sobre forro de gesso Equipamentos: Tampo em pedra natural Cuba em louça Bacia de louça com caixa acoplada Metais: Torneira
+
+5256-GD02-VDA-AP-001-DOC-MEM\_R01
 
 Rubrica 3
 
 Rubrica 4
 
-APOIO CHURASQUEIRA 02:
-Piso:
-Cerâmica ou porcelanato e/ou intertravado
-Decoração:
-02 Bancos em madeira
-01 Mesa lateral
-PLAYGROUND:
-Piso:
-Equipamentos:
-vigente
-Mobiliário:
-ESTAR 01:
-Piso:
-Decoração:
+## SALÃO DE FESTAS:
 
-ESTAR 02:
-Piso:
-Decoração:
+Piso: Cerâmica, porcelanato ou vinílico com rodapé Paredes: Pintura sobre gesso e revestimento cerâmico Teto: Pintura sobre forro de gesso Equipamentos: Bancada em pedra natural com cuba de aço inox Decoração: 01 Sofá em L 01 Conjunto de mesa de centro 09 Mesas com 04 cadeiras cada 01 Mesa 02 Vasos com planta Almofadas Tapete
 
-Emborrachado e grama
-Serão entregues 04 equipamentos de playground certificados pela norma
-Banco em alvenaria
+## COPA DO SALÃO DE FESTAS:
 
-Intertravado
-02 Mesas lateral
-01 Banco em madeira
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Metais: Torneira Decoração: 01 Fogão 4 bocas 01 Refrigerador
 
-Intertravado
-01 Mesa de centro
-04 Poltronas
+## W.C. PCD DO SALÃO DE FESTAS:
 
-FITNESS EXTERNO:
-Piso:
-Intertravado e/ou grama sintética
-Equipamentos:
-03 Caixas para salto
-02 Barras fixa
-02 Cordas náuticas
-02 Gaiolas
-PRAÇA FOGUEIRA:
-Piso:
-Intertravado
-Decoração:
-02 Mesas lateral
-03 Bancos
-03 Poltronas
-Banco em alvenaria
-Equipamento:
-01 Lareira
-HORTA:
-Piso:
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Textura sobre laje ou pintura sobre forro de gesso Equipamentos: Tampo em pedra natural Cuba em louça Bacia de louça com caixa acoplada Metais: Torneira Barras de apoio (somente no W.C. PCD)
 
-Intertravado
+## FITNESS:
 
-PIC NIC:
-Piso:
-Decoração:
+Piso: Vinílico e/ou emborrachado com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Equipamentos: 01 Bancos supino 02 Esteiras 02 Bicicletas ergométricas 02 Mini cama elástica (jump) 02 Bancos reto 01 Aparelho multiestação 02 Bolas de pilates com suporte 01 Espaldar 01 kit de anilhas e suporte 01 Kit de halteres e suporte Rubrica 3
 
-Pedrisco
-02 Mesas em madeira com 02 bancos cada
+Rubrica 4
 
-REDÁRIO:
-Piso:
-Decoração:
+## DEPOSITO DE MATERIAL DE LIMPEZA:
 
-Pedrisco
-02 Redes
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Textura sobre laje Equipamentos: Tanque Metais: Torneira
 
-2
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+## 1.3. ÁREAS COMUNS INTERNAS TORRES - PAVIMENTO TÉRREO TORRE 01
 
-Rubrica 1
+## HALL DO TÉRREO E CIRCULAÇÃO:
 
-Rubrica 2
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso.
+
+## ESCADA DA TORRE:
+
+Piso: Laje acabada com pintura Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura Equipamentos: Corrimão em ferro com pintura
+
+## SALA DE PRESSURIZAÇÃO:
+
+Piso: Cimentado Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura
+
+## SALA DE QUADROS:
+
+Piso: Cimentado Paredes: Pintura e/ou textura sobre bloco Teto: Concreto aparente in natura
+
+## CENTRO DE MEDIÇÃO:
+
+Piso: Laje acabada Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura
+
+## VESTIARIOS FUNCIONARIOS PCD
+
+Piso: Cerâmica Paredes: Cerâmica em todas as paredes Teto: Textura sobre laje ou pintura sobre forro de gesso Equipamentos: Bacia de louça com caixa acoplada Lavatório de louça Metais: Torneira e Chuveiro Barras de apoio e Assento para chuveiro
+
+5256-GD02-VDA-AP-001-DOC-MEM\_R01
 
 Rubrica 3
 
 Rubrica 4
 
-QUADRA GRAMADA:
-Piso:
-Grama sintética sobre piso de concreto
-Fechamento:
-Alambrado
-Equipamentos:
-02 Traves de gol
-PISCINA RECREATIVA:
-Piso:
-Pastilha cerâmica ou vinil
-Equipamentos:
-01 Equipamento de transferência
-01 Escada
-DECK MOLHADO:
-Piso:
-Decoração:
-SOLÁRIO:
-Piso:
-Decoração:
+## COPA FUNCIONÁRIOS:
 
-Pastilha cerâmica ou vinil
-04 Espreguiçadeiras
+Piso: Cerâmica com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Equipamentos: Bancada e cuba em mármore sintético 01 Fogão 04 bocas 01 Geladeira Metais: Torneira
 
-Cerâmica ou porcelanato antiderrapante
-06 Espreguiçadeiras
-03 Mesas com 04 cadeiras cada
-01 Ombrelone
-04 Poltronas
-01 Mesa de centro
+## DELIVERY:
 
-PISCINA BABY/ INFANTIL:
-Piso:
-Pastilha cerâmica ou vinil
-SOLÁRIO:
-Piso:
-Decoração:
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso e/ou textura sobre laje Equipamentos: 01 Carrinho para condomínio 140 litros 01 Geladeira Expositora de bebidas vertical 01 Armário Locker Decoração: 01 Estante Prateleiras
 
-Cerâmica ou porcelanato antiderrapante
-02 Mesas com 04 cadeiras cada
-03 Espreguiçadeiras
+## DEPÓSITO/ADMINISTRAÇÃO:
 
-1.2. ÁREAS EXTERNAS – COBERTAS
-PORTARIA:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-W.C. PORTARIA:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-Metais:
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso e/ou textura sobre laje
 
-Cerâmica com rodapé
-Pintura sobre gesso
-Textura sobre laje
-Bancada
+## COWORKING 01:
 
-Cerâmica
-Cerâmica em todas as paredes
-Textura sobre laje
-Bacia de louça com caixa acoplada
-Lavatório de louça
-Torneira
+Piso: Vinílico com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Decoração: 01 Quadro "working" 01 Bancada de apoio 02 Mesas de apoio com 02 cadeiras 03 Cadeiras Prateleiras
 
-PULMÃO DE SEGURANÇA:
-Piso:
-Intertravado ou cimentado
-Teto:
-Textura sobre laje
-3
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+## COWORKING 02:
 
-Rubrica 1
+Piso: Vinílico com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Decoração: 01 Bancada de apoio 03 Cadeiras 01 Poltrona
 
-Rubrica 2
+## 1.4. ÁREAS COMUNS INTERNAS TORRES - PAVIMENTO TÉRREO TORRE 02
 
-Rubrica 3
+## HALL DO TÉRREO E CIRCULAÇÃO:
 
-Rubrica 4
-
-Fechamento:
-
-Gradil em ferro com pintura
-
-ABRIGOS DE LIXO:
-Piso:
-Cerâmica
-Paredes:
-Cerâmica em todas as paredes
-Teto:
-Textura sobre laje
-DG:
-Piso:
-Paredes:
-Teto:
-
-Cimentado
-Pintura e/ou textura sobre bloco
-Concreto aparente in natura
-
-MEDIDORES:
-Piso:
-Paredes:
-Teto:
-
-Cimentado
-Pintura e/ou textura sobre bloco
-Concreto aparente in natura
-
-CASA DE BOMBAS (RESERVATÓRIOS):
-Piso:
-Cimentado
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-CHURRASQUEIRA 01:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso e faixa cerâmica
-Teto:
-Textura sobre laje ou pintura sobre forro
-Equipamentos:
-01 Bancada em pedra natural com cuba de aço inox
-01 Forno de pizza
-01 Churrasqueira
-Decoração:
-02 Mesas com 04 cadeiras cada
-03 Mesas com 02 cadeiras cada
-CHURRASQUEIRA 02:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso e faixa cerâmica
-Teto:
-Textura sobre laje ou pintura sobre forro
-Equipamentos:
-01 Bancada em pedra natural com cuba de aço inox
-01 Forno de pizza
-01 Churrasqueira
-Decoração:
-02 Mesas com 04 cadeiras cada
-03 Mesas com 02 cadeiras cada
-W.C. CHURRASQUEIRAS:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso e/ou revestimento cerâmico
-Teto:
-Textura sobre laje ou pintura sobre forro de gesso
-Equipamentos:
-Tampo em pedra natural
-Cuba em louça
-Bacia de louça com caixa acoplada
-Metais:
-Torneira
-4
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
-
-Rubrica 1
-
-Rubrica 2
-
-Rubrica 3
-
-Rubrica 4
-
-SALÃO DE FESTAS:
-Piso:
-Cerâmica, porcelanato ou vinílico com rodapé
-Paredes:
-Pintura sobre gesso e revestimento cerâmico
-Teto:
-Pintura sobre forro de gesso
-Equipamentos:
-Bancada em pedra natural com cuba de aço inox
-Decoração:
-01 Sofá em L
-01 Conjunto de mesa de centro
-09 Mesas com 04 cadeiras cada
-01 Mesa
-02 Vasos com planta
-Almofadas
-Tapete
-COPA DO SALÃO DE FESTAS:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso
-Metais:
-Torneira
-Decoração:
-01 Fogão 4 bocas
-01 Refrigerador
-W.C. PCD DO SALÃO DE FESTAS:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Textura sobre laje ou pintura sobre forro de gesso
-Equipamentos:
-Tampo em pedra natural
-Cuba em louça
-Bacia de louça com caixa acoplada
-Metais:
-Torneira
-Barras de apoio (somente no W.C. PCD)
-FITNESS:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-
-Vinílico e/ou emborrachado com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso
-01 Bancos supino
-02 Esteiras
-02 Bicicletas ergométricas
-02 Mini cama elástica (jump)
-02 Bancos reto
-01 Aparelho multiestação
-02 Bolas de pilates com suporte
-01 Espaldar
-01 kit de anilhas e suporte
-01 Kit de halteres e suporte
-
-5
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
-
-Rubrica 1
-
-Rubrica 2
-
-Rubrica 3
-
-Rubrica 4
-
-DEPOSITO DE MATERIAL DE LIMPEZA:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Textura sobre laje
-Equipamentos:
-Tanque
-Metais:
-Torneira
-1.3. ÁREAS COMUNS INTERNAS TORRES – PAVIMENTO TÉRREO TORRE 01
-HALL DO TÉRREO E CIRCULAÇÃO:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso.
-ESCADA DA TORRE:
-Piso:
-Laje acabada com pintura
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-Equipamentos:
-Corrimão em ferro com pintura
-SALA DE PRESSURIZAÇÃO:
-Piso:
-Cimentado
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-SALA DE QUADROS:
-Piso:
-Cimentado
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Concreto aparente in natura
-CENTRO DE MEDIÇÃO:
-Piso:
-Laje acabada
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-VESTIARIOS FUNCIONARIOS PCD
-Piso:
-Cerâmica
-Paredes:
-Cerâmica em todas as paredes
-Teto:
-Textura sobre laje ou pintura sobre forro de gesso
-Equipamentos:
-Bacia de louça com caixa acoplada
-Lavatório de louça
-Metais:
-Torneira e Chuveiro
-Barras de apoio e Assento para chuveiro
-
-6
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
-
-Rubrica 1
-
-Rubrica 2
-
-Rubrica 3
-
-Rubrica 4
-
-COPA FUNCIONÁRIOS:
-Piso:
-Cerâmica com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso
-Equipamentos:
-Bancada e cuba em mármore sintético
-01 Fogão 04 bocas
-01 Geladeira
-Metais:
-Torneira
-DELIVERY:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-
-Decoração:
-
-Cerâmica ou porcelanato com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso e/ou textura sobre laje
-01 Carrinho para condomínio 140 litros
-01 Geladeira Expositora de bebidas vertical
-01 Armário Locker
-01 Estante
-Prateleiras
-
-DEPÓSITO/ADMINISTRAÇÃO:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso e/ou textura sobre laje
-COWORKING 01:
-Piso:
-Paredes:
-Teto:
-Decoração:
-
-COWORKING 02:
-Piso:
-Paredes:
-Teto:
-Decoração:
-
-Vinílico com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso
-01 Quadro “working”
-01 Bancada de apoio
-02 Mesas de apoio com 02 cadeiras
-03 Cadeiras
-Prateleiras
-
-Vinílico com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso
-01 Bancada de apoio
-03 Cadeiras
-01 Poltrona
-
-1.4. ÁREAS COMUNS INTERNAS TORRES – PAVIMENTO TÉRREO TORRE 02
-HALL DO TÉRREO E CIRCULAÇÃO:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso.
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso.
 
 7
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
-
-Rubrica 1
 
 Rubrica 2
 
-Rubrica 3
+## ESCADA DA TORRE:
 
-Rubrica 4
+Piso: Laje acabada com pintura Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura Equipamentos: Corrimão em ferro com pintura
 
-ESCADA DA TORRE:
-Piso:
-Laje acabada com pintura
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-Equipamentos:
-Corrimão em ferro com pintura
-CENTRO DE MEDIÇÃO:
-Piso:
-Laje acabada
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-SALA DE QUADROS:
-Piso:
-Cimentado
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Concreto aparente in natura
-PET CARE:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
+## CENTRO DE MEDIÇÃO:
 
-Metais:
-COWORKING 03:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-Decoração:
+Piso: Laje acabada Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura
 
-Cerâmica ou porcelanato com rodapé.
-Pintura sobre gesso e/ou revestimento cerâmico.
-Pintura sobre forro de gesso
-Bancada em pedra natural com cuba em inox
-02 Estruturas de grade com portão
-01 Secador profissional
-01 Chuveiro elétrico
-01 Banco
-01 Estante em MDF
-01 Torneira
+## SALA DE QUADROS:
 
-Vinílico com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso
-01 TV e suporte
-03 Quadros “working”
-01 Bancada de apoio
-03 Mesas de apoio
-03 Cadeiras
-01 Banco em alvenaria
-Almofadas sobre banco em alvenaria
-Prateleiras
+Piso: Cimentado Paredes: Pintura e/ou textura sobre bloco Teto: Concreto aparente in natura
+
+## PET CARE:
+
+Piso: Cerâmica ou porcelanato com rodapé. Paredes: Pintura sobre gesso e/ou revestimento cerâmico. Teto: Pintura sobre forro de gesso Equipamentos: Bancada em pedra natural com cuba em inox 02 Estruturas de grade com portão 01 Secador profissional 01 Chuveiro elétrico 01 Banco 01 Estante em MDF Metais: 01 Torneira
+
+## COWORKING 03:
+
+Piso: Vinílico com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Equipamentos: 01 TV e suporte Decoração: 03 Quadros "working" 01 Bancada de apoio 03 Mesas de apoio 03 Cadeiras 01 Banco em alvenaria Almofadas sobre banco em alvenaria Prateleiras
 
 8
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
 
-Rubrica 1
+5256-GD02-VDA-AP-001-DOC-MEM\_R01
 
-Rubrica 2
+## SALÃO DE GAMES:
 
-Rubrica 3
+Piso: Vinílico com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Equipamentos: 01 TV e suporte. Decoração: 02 Pufes 01 Banco em mdf 01 Mesa de apoio 01 Estante 01 Cadeira Tapete
 
-Rubrica 4
+## SPORT BAR:
 
-SALÃO DE GAMES:
-Piso:
-Vinílico com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso
-Equipamentos:
-01 TV e suporte.
-Decoração:
-02 Pufes
-01 Banco em mdf
-01 Mesa de apoio
-01 Estante
-01 Cadeira
-Tapete
-SPORT BAR:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
+Piso: Cerâmica ou porcelanato com rodapé. Paredes: Pintura sobre gesso e revestimento cerâmico Teto: Pintura sobre forro gesso Equipamentos: Bancada em pedra natural com cuba de aço inox. 01 TV e suporte 01 Cervejeira Metais: Torneira Decoração: 01 Bancada em mdf com 02 banquetas 01 Mesa com 02 cadeiras 01 Mesa de carteado 01 Mesa de pebolim 02 Pufes
 
-Metais:
-Decoração:
+## ESPAÇO MULTIFUNCIONAL:
 
-Cerâmica ou porcelanato com rodapé.
-Pintura sobre gesso e revestimento cerâmico
-Pintura sobre forro gesso
-Bancada em pedra natural com cuba de aço inox.
-01 TV e suporte
-01 Cervejeira
-Torneira
-01 Bancada em mdf com 02 banquetas
-01 Mesa com 02 cadeiras
-01 Mesa de carteado
-01 Mesa de pebolim
-02 Pufes
+Piso: Vinílico com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre lajes e vigas Equipamentos: 01 TV com suporte 01 Saco de pancada 01 Banco 01 Bola de pilates com suporte 01 Espaldar 01 kit de anilhas e suporte 01 Kit de halteres e suporte
 
-ESPAÇO MULTIFUNCIONAL:
-Piso:
-Vinílico com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre lajes e vigas
-Equipamentos:
-01 TV com suporte
-01 Saco de pancada
-01 Banco
-01 Bola de pilates com suporte
-01 Espaldar
-01 kit de anilhas e suporte
-01 Kit de halteres e suporte
-1.5. ÁREAS COMUNS INTERNAS TORRES – PAVIMENTO TÉRREO TORRE 03
-HALL DO TÉRREO E CIRCULAÇÃO:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso.
+## 1.5. ÁREAS COMUNS INTERNAS TORRES - PAVIMENTO TÉRREO TORRE 03
+
+## HALL DO TÉRREO E CIRCULAÇÃO:
+
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso.
 
 9
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
-
-Rubrica 1
-
-Rubrica 2
 
 Rubrica 3
 
 Rubrica 4
 
-ESCADA DA TORRE:
-Piso:
-Laje acabada com pintura
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-Equipamentos:
-Corrimão em ferro com pintura
-CENTRO DE MEDIÇÃO:
-Piso:
-Laje acabada
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-SALA DE QUADROS:
-Piso:
-Cimentado
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Concreto aparente in natura
-LAVANDERIA COLETIVA DE APOIO – SISTEMA “PAY PER USE”:
-Piso:
-Porcelanato com rodapé
-Paredes:
-Pintura sobre gesso e/ou revestimento cerâmico
-Teto:
-Pintura sobre forro de gesso
-Equipamentos:
-Bancada em pedra natural
-02 Lavadoras
-03 Secadoras
-01 Tanque de encaixe
-02 Cadeiras
-01 Banco em mdf
-01 Carrinho de carga
-01 Mesa de apoio
-Metais:
-Torneira
-Decoração:
-Prateleiras
-BRINQUEDOTECA:
-Piso:
-Vinílico com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso
-Equipamentos:
-01 TV e suporte
-01 Piscina de bolinhas
-Decoração:
-02 Bancos em mdf com nichos
-01 Painel para TV em mdf
-02 Mesa infantil com 02 cadeiras infantis cada
-03 Pufes
-01 Gangorra
-01 Rack
-Prateleiras
+## ESCADA DA TORRE:
 
-10
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+Piso: Laje acabada com pintura Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura Equipamentos: Corrimão em ferro com pintura
 
-Rubrica 1
+## CENTRO DE MEDIÇÃO:
 
-Rubrica 2
+Piso: Laje acabada Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura
 
-Rubrica 3
+## SALA DE QUADROS:
+
+Piso: Cimentado Paredes: Pintura e/ou textura sobre bloco Teto: Concreto aparente in natura
+
+## LAVANDERIA COLETIVA DE APOIO - SISTEMA "PAY PER USE":
+
+Piso: Porcelanato com rodapé Paredes: Pintura sobre gesso e/ou revestimento cerâmico Teto: Pintura sobre forro de gesso Equipamentos: Bancada em pedra natural 02 Lavadoras 03 Secadoras 01 Tanque de encaixe 02 Cadeiras 01 Banco em mdf 01 Carrinho de carga 01 Mesa de apoio Metais: Torneira Decoração: Prateleiras
+
+## BRINQUEDOTECA:
+
+Piso: Vinílico com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Equipamentos: 01 TV e suporte 01 Piscina de bolinhas Decoração: 02 Bancos em mdf com nichos 01 Painel para TV em mdf 02 Mesa infantil com 02 cadeiras infantis cada 03 Pufes 01 Gangorra 01 Rack Prateleiras Rubrica 3
 
 Rubrica 4
 
-PLAYBABY:
-Piso:
-Paredes:
-Teto:
-Decoração:
+## PLAYBABY:
 
-Vinílico com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso
-01 Banco em mdf com nichos e futton
-01 Mesa infantil com 02 cadeiras cada
-01 Cozinha infantil
-Nichos em mdf
+Piso: Vinílico com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Decoração: 01 Banco em mdf com nichos e futton 01 Mesa infantil com 02 cadeiras cada 01 Cozinha infantil Nichos em mdf
 
-EASY MARKET – SISTEMA “PAY PER USE”:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso e/ou revestimento
-Teto:
-Pintura sobre forro de gesso
-OFICINA:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-Metais:
-Decoração:
+## EASY MARKET - SISTEMA "PAY PER USE":
 
-Cerâmica ou Porcelanato com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso
-Bancada em pedra natural com tanque em aço inox
-01 Torneira
-01 Painel
-01 Estante
-01 Mesa com 02 cadeiras
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso e/ou revestimento Teto: Pintura sobre forro de gesso
 
-1.6. ÁREAS COMUNS INTERNAS TORRES – PAVIMENTO TÉRREO TORRE 04
-HALL DO TÉRREO E CIRCULAÇÃO:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso.
-ESCADA DA TORRE:
-Piso:
-Laje acabada com pintura
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-Equipamentos:
-Corrimão em ferro com pintura
-CENTRO DE MEDIÇÃO:
-Piso:
-Laje acabada
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-SALA DE QUADROS:
-Piso:
-Cimentado
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Concreto aparente in natura
+## OFICINA:
 
-11
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+Piso: Cerâmica ou Porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Equipamentos: Bancada em pedra natural com tanque em aço inox Metais: 01 Torneira Decoração: 01 Painel 01 Estante 01 Mesa com 02 cadeiras
 
-Rubrica 1
+## 1.6. ÁREAS COMUNS INTERNAS TORRES - PAVIMENTO TÉRREO TORRE 04
+
+## HALL DO TÉRREO E CIRCULAÇÃO:
+
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso.
+
+## ESCADA DA TORRE:
+
+Piso: Laje acabada com pintura Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura Equipamentos: Corrimão em ferro com pintura
+
+## CENTRO DE MEDIÇÃO:
+
+Piso: Laje acabada Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura
+
+## SALA DE QUADROS:
+
+Piso: Cimentado Paredes: Pintura e/ou textura sobre bloco Teto: Concreto aparente in natura Rubrica 3
 
 Rubrica 2
 
-Rubrica 3
-
 Rubrica 4
 
-SALA DE PRESSURIZAÇÃO:
-Piso:
-Cimentado
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje ou concreto aparente in natura
-SPA/MASSAGEM:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-Metais:
-Decoração:
-ESPAÇO BELEZA:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-Decoração:
+## SALA DE PRESSURIZAÇÃO:
 
-Vinílico com rodapé
-Pintura sobre gesso e/ou revestimento cerâmico
-Pintura sobre forro de gesso
-01 Bancada em pedra natural com cuba em louça
-01 Maca
-01 Torneira
-01 Banco
+Piso: Cimentado Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje ou concreto aparente in natura
 
-Cerâmica ou porcelanato com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso
-01 Lavatório
-02 Poltronas
-01 Mesa lateral
-01 Aparador
-02 Cadeiras hidráulicas
-02 Bancadas de apoio em mdf
-Espelhos
+## SPA/MASSAGEM:
 
-SALA DE DESCANSO:
-Piso:
-Cerâmica, porcelanato, laminado ou vinílico com rodapé
-Paredes:
-Pintura sobre gesso
-Teto:
-Pintura sobre forro de gesso
-Equipamentos:
-01 Chuveiro
-Decoração:
-02 Espreguiçadeiras
-01 Conjunto de mesa de centro
-01 Banco
-02 Mesas lateral
-Espelho
-SAUNA:
-Piso:
-Paredes:
-Teto:
+Piso: Vinílico com rodapé Paredes: Pintura sobre gesso e/ou revestimento cerâmico Teto: Pintura sobre forro de gesso Equipamentos: 01 Bancada em pedra natural com cuba em louça 01 Maca Metais: 01 Torneira Decoração: 01 Banco
 
-Madeira
-Madeira
-Madeira
+## ESPAÇO BELEZA:
 
-DEPÓSITO:
-Piso:
-Paredes:
-Teto:
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Equipamentos: 01 Lavatório Decoração: 02 Poltronas 01 Mesa lateral 01 Aparador 02 Cadeiras hidráulicas 02 Bancadas de apoio em mdf Espelhos
 
-Cerâmica ou porcelanato com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso e/ou textura sobre laje
+## SALA DE DESCANSO:
 
-12
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+Piso: Cerâmica, porcelanato, laminado ou vinílico com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Equipamentos: 01 Chuveiro Decoração: 02 Espreguiçadeiras 01 Conjunto de mesa de centro 01 Banco 02 Mesas lateral Espelho
 
-Rubrica 1
+## SAUNA:
+
+Piso: Madeira Paredes: Madeira Teto: Madeira
+
+## DEPÓSITO:
+
+Piso: Cerâmica ou porcelanato com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso e/ou textura sobre laje
+
+5256-GD02-VDA-AP-001-DOC-MEM\_R01
+
+Rubrica 3
 
 Rubrica 2
 
-Rubrica 3
-
 Rubrica 4
 
-COWORKING 04:
-Piso:
-Paredes:
-Teto:
-Decoração:
+## COWORKING 04:
 
-Vinílico com rodapé
-Pintura sobre gesso
-Pintura sobre forro de gesso
-01 Bancada de apoio
-01 Mesa de apoio
-03 Cadeiras
-01 Sofá
+Piso: Vinílico com rodapé Paredes: Pintura sobre gesso Teto: Pintura sobre forro de gesso Decoração: 01 Bancada de apoio 01 Mesa de apoio 03 Cadeiras 01 Sofá
 
-1.7. ÁREAS COMUNS INTERNAS TORRES – PAVIMENTO TIPO
-HALL DO TIPO E CIRCULAÇÃO:
-Piso:
-Cerâmica ou porcelanato com rodapé
-Parede:
-Pintura sobre gesso
-Teto:
-Textura sobre laje e/ou pintura sobre forro de gesso
-ESCADA DA TORRE:
-Piso:
-Laje acabada com pintura
-Paredes:
-Pintura e/ou textura sobre bloco
-Teto:
-Textura sobre laje
-Equipamentos:
-Corrimão em ferro com pintura
-2. DEPENDÊNCIAS DE USO PRIVATIVO
+## 1.7. ÁREAS COMUNS INTERNAS TORRES - PAVIMENTO TIPO
+
+## HALL DO TIPO E CIRCULAÇÃO:
+
+Piso: Cerâmica ou porcelanato com rodapé Parede: Pintura sobre gesso Teto: Textura sobre laje e/ou pintura sobre forro de gesso
+
+## ESCADA DA TORRE:
+
+Piso: Laje acabada com pintura Paredes: Pintura e/ou textura sobre bloco Teto: Textura sobre laje Equipamentos: Corrimão em ferro com pintura
+
+## 2. DEPENDÊNCIAS DE USO PRIVATIVO
+
 As áreas privativas serão entregues conforme descrição a seguir:
-2.1. ÁREA PRIVATIVA - APARTAMENTO TIPO
-SALA DE ESTAR E JANTAR:
-Piso:
-Laje acabada
-Parede:
-Pintura sobre gesso
-Teto:
-textura ou pintura sobre laje
-DORMITÓRIOS:
-Piso:
-Parede:
-Teto:
-COZINHA:
-Piso:
-Parede:
-Teto:
-Equipamentos:
-Metais:
 
-Piso laminado
-Pintura sobre gesso
-textura ou pintura sobre laje
+## 2.1. ÁREA PRIVATIVA - APARTAMENTO TIPO
 
-Laje acabada
-Barrado cerâmico sobre a bancada e, no restante e demais paredes, pintura
-sobre gesso
-textura ou pintura sobre laje e pintura sobre sanca de gesso
-Bancada e cuba em aço inox ou em mármore sintético ou bancada em
-granito com cuba em aço inox
-Torneira
+## SALA DE ESTAR E JANTAR:
 
-13
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+Piso: Laje acabada Parede: Pintura sobre gesso Teto: textura ou pintura sobre laje
 
-Rubrica 1
+## DORMITÓRIOS:
 
-Rubrica 2
+Piso: Piso laminado Parede: Pintura sobre gesso Teto: textura ou pintura sobre laje
+
+## COZINHA:
+
+Piso: Laje acabada Parede: Barrado cerâmico sobre a bancada e, no restante e demais paredes, pintura sobre gesso Teto: textura ou pintura sobre laje e pintura sobre sanca de gesso Equipamentos: Bancada e cuba em aço inox ou em mármore sintético ou bancada em granito com cuba em aço inox Metais: Torneira
 
 Rubrica 3
 
+Rubrica 2
+
 Rubrica 4
 
-ÁREA DE SERVIÇO:
-Piso:
-Cerâmica com rodapé
-Parede:
-Cerâmica em todas as paredes. Nas demais paredes, pintura sobre gesso.
-Teto:
-Textura ou pintura sobre laje e sanca de gesso com pintura
-Equipamentos:
-Tanque em mármore sintético ou louça
-Metais:
-Torneira
-BANHO:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-Metais:
+## ÁREA DE SERVIÇO:
 
-Cerâmica com rodapé
-Cerâmica nas paredes do box e barrado cerâmico sobre o lavatório, nas
-demais paredes, pintura sobre gesso.
-Pintura sobre forro de gesso
-Bacia de louça com caixa acoplada
-Lavatório de louça
-Torneira
+Piso: Cerâmica com rodapé Parede: Cerâmica em todas as paredes. Nas demais paredes, pintura sobre gesso. Teto: Textura ou pintura sobre laje e sanca de gesso com pintura Equipamentos: Tanque em mármore sintético ou louça Metais: Torneira
 
-TERRAÇO (QUANDO APLICÁVEL):
-Piso:
-Cerâmica com rodapé
-Paredes:
-Textura acompanhando a fachada
-Teto:
-Textura sobre laje ou pintura sobre laje acabada
-Gradil:
-Ferro com pintura
-2.2. ÁREA PRIVATIVA – APARTAMENTO ADAPTADO PARA PCD
-Será executado conforme exigência da Norma ABNT 9050 vigente e das leis municipais, estaduais e
-federais obrigatórias.
-SALA DE ESTAR E JANTAR:
-Piso:
-Laje acabada
-Paredes:
-Pintura sobre gesso
-Teto:
-textura ou pintura sobre laje
-DORMITÓRIO:
-Piso:
-Parede:
-Teto:
-COZINHA:
-Piso:
-Parede:
-Teto:
-Equipamentos:
-Metais:
+## BANHO:
 
-Piso laminado
-Pintura sobre gesso
-textura ou pintura sobre laje
+Piso: Cerâmica com rodapé Paredes: Cerâmica nas paredes do box e barrado cerâmico sobre o lavatório, nas demais paredes, pintura sobre gesso. Teto: Pintura sobre forro de gesso Equipamentos: Bacia de louça com caixa acoplada Lavatório de louça Metais: Torneira
 
-Laje acabada
-Barrado cerâmico sobre a bancada e, no restante e demais paredes, pintura
-sobre gesso.
-textura ou pintura sobre laje e pintura sobre sanca de gesso
-Bancada e cuba em aço inox ou em mármore sintético
-Torneira
+## TERRAÇO (QUANDO APLICÁVEL):
+
+Piso: Cerâmica com rodapé Paredes: Textura acompanhando a fachada Teto: Textura sobre laje ou pintura sobre laje acabada Gradil: Ferro com pintura
+
+## 2.2. ÁREA PRIVATIVA - APARTAMENTO ADAPTADO PARA PCD
+
+Será executado conforme exigência da Norma ABNT 9050 vigente e das leis municipais, estaduais e federais obrigatórias.
+
+## SALA DE ESTAR E JANTAR:
+
+Piso: Laje acabada Paredes: Pintura sobre gesso Teto: textura ou pintura sobre laje
+
+## DORMITÓRIO:
+
+Piso: Piso laminado Parede: Pintura sobre gesso Teto: textura ou pintura sobre laje
+
+## COZINHA:
+
+Piso: Laje acabada Parede: Barrado cerâmico sobre a bancada e, no restante e demais paredes, pintura sobre gesso. Teto: textura ou pintura sobre laje e pintura sobre sanca de gesso Equipamentos: Bancada e cuba em aço inox ou em mármore sintético Metais: Torneira
 
 14
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
-
-Rubrica 1
-
-Rubrica 2
 
 Rubrica 3
 
+Rubrica 2
+
 Rubrica 4
 
-ÁREA DE SERVIÇO:
-Piso:
-Cerâmica
-Parede:
-Cerâmica em todas as paredes
-Teto:
-textura ou pintura sobre laje e sanca de gesso com pintura
-Equipamentos:
-Tanque em louça ou mármore sintético
-Metais:
-Torneira
-BANHO:
-Piso:
-Paredes:
-Teto:
-Equipamentos:
-Metais:
+5256-GD02-VDA-AP-001-DOC-MEM\_R01
 
-Cerâmica
-Cerâmica em todas as paredes
-Pintura sobre forro de gesso
-Bacia de louça com caixa acoplada
-Lavatório de louça
-Torneira
-Barras de apoio e assento para chuveiro
+## ÁREA DE SERVIÇO:
 
-3. SISTEMAS CONSTRUTIVOS
+Piso: Cerâmica Parede: Cerâmica em todas as paredes Teto: textura ou pintura sobre laje e sanca de gesso com pintura Equipamentos: Tanque em louça ou mármore sintético Metais: Torneira
 
-3.1. SISTEMA ESTRUTURAL
-O empreendimento será executado em ALVENARIA ESTRUTURAL, de acordo com o projeto e
-atendendo às normas vigentes.
-Por exigência do sistema construtivo são PROIBIDAS quaisquer alterações tais como:
-quebras, demolições de paredes, aberturas de vãos, alterações nos pontos elétricos e
-hidráulicos ou instalação de aparelhos de ar-condicionado em locais não especificados em
-projeto após o recebimento da unidade, pois comprometerão a estabilidade da estrutura da
-edificação e poderão causar patologias.
+## BANHO:
 
-3.2. VEDAÇÕES
-As paredes não estruturais de vedação serão executadas em alvenaria de blocos de concreto e/ou
-fechamento em drywall ou material similar conforme projeto executivo.
-3.3. FUNDAÇÕES
-As fundações serão executadas de acordo com projeto realizado por profissional devidamente
-capacitado.
-3.4. COBERTURAS
-As coberturas das torres serão em telhas de fibrocimento ou em laje impermeabilizada ou ambas as
-soluções (a ser especificado em projeto arquitetônico).
-Nas edificações de apoio, a cobertura poderá ser executada em laje impermeabilizada, laje com
-cobertura de fibrocimento ou telhado em estrutura de madeira e/ou metálica e cobertura em telha
-cerâmica (a ser especificado em projeto arquitetônico).
-15
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+Piso: Cerâmica Paredes: Cerâmica em todas as paredes Teto: Pintura sobre forro de gesso Equipamentos: Bacia de louça com caixa acoplada Lavatório de louça Metais: Torneira Barras de apoio e assento para chuveiro
 
-Rubrica 1
+| 3. SISTEMAS CONSTRUTIVOS |
+|----------------------------|
+
+| 3.1. SISTEMA ESTRUTURAL |
+|---------------------------|
+
+O empreendimento será executado em ALVENARIA ESTRUTURAL, de acordo com o projeto e atendendo às normas vigentes. Por exigência do sistema construtivo são PROIBIDAS quaisquer alterações tais como: quebras, demolições de paredes, aberturas de vãos, alterações nos pontos elétricos e hidráulicos ou instalação de aparelhos de ar-condicionado em locais não especificados em
+
+projeto após o recebimento da unidade, pois comprometerão a estabilidade da estrutura da edificação e poderão causar patologias.
+
+| 3.2. VEDAÇÕES |
+|-----------------|
+
+As paredes não estruturais de vedação serão executadas em alvenaria de blocos de concreto e/ou fechamento em drywall ou material similar conforme projeto executivo.
+
+| 3.3. FUNDAÇÕES |
+|------------------|
+
+As fundações serão executadas de acordo com projeto realizado por profissional devidamente capacitado.
+
+| 3.4. COBERTURAS |
+|-------------------|
+
+As coberturas das torres serão em telhas de fibrocimento ou em laje impermeabilizada ou ambas as soluções (a ser especificado em projeto arquitetônico). Nas edificações de apoio, a cobertura poderá ser executada em laje impermeabilizada, laje com cobertura de fibrocimento ou telhado em estrutura de madeira e/ou metálica e cobertura em telha cerâmica (a ser especificado em projeto arquitetônico).
 
 Rubrica 2
 
-Rubrica 3
-
 Rubrica 4
 
-4. ACABAMENTOS
+| 4. ACABAMENTOS |
+|------------------|
 
-4.1. FORROS E COBERTURAS
-Os forros serão executados em placas de gesso liso nos ambientes previstos com acabamento em
-pintura. A existência de forros e/ou sancas nos ambientes dependerá da necessidade, conforme
-projetos executivos.
-4.2. ESQUADRIAS E VIDROS
-As unidades terão seus caixilhos em alumínio com vidros lisos e incolores, exceto nos banheiros que
-terão vidros do tipo fantasia. As portas de acesso às áreas externas também serão em alumínio.
-4.3. ESQUADRIAS DE MADEIRA
-As portas e batentes das unidades privativas e algumas áreas internas comuns (conforme
-especificado em projeto executivo) terão acabamento liso em madeira e/ou em MDF.
-4.4. FERRAGENS
+## 4.1. FORROS E COBERTURAS
+
+Os forros serão executados em placas de gesso liso nos ambientes previstos com acabamento em pintura. A existência de forros e/ou sancas nos ambientes dependerá da necessidade, conforme projetos executivos.
+
+## 4.2. ESQUADRIAS E VIDROS
+
+As unidades terão seus caixilhos em alumínio com vidros lisos e incolores, exceto nos banheiros que terão vidros do tipo fantasia. As portas de acesso às áreas externas também serão em alumínio.
+
+| 4.3. ESQUADRIAS DE MADEIRA |
+|------------------------------|
+
+As portas e batentes das unidades privativas e algumas áreas internas comuns (conforme especificado em projeto executivo) terão acabamento liso em madeira e/ou em MDF.
+
+## 4.4. FERRAGENS
+
 As maçanetas e dobradiças das esquadrias de madeira terão acabamento cromado ou pintado.
-4.5. ACABAMENTOS ELÉTRICOS
-Os espelhos (interruptores e tomadas) serão em policarbonato e/ou poliestireno em todos os
-ambientes.
-4.6. LOUÇAS
-As louças serão fabricadas em cerâmica e/ou mármore sintético. A bacia terá caixa acoplada. Para
-ambientes adaptados à PCD serão previstos equipamentos específicos, de acordo com a NBR 9050
-em sua versão vigente na data do protocolo do Projeto em Prefeitura.
 
-4.7. METAIS
-Os metais serão entregues com acabamento cromado. Para ambientes adaptados à PCD serão
-previstos equipamentos específicos, de acordo com a NBR 9050 em sua versão vigente na data do
-protocolo do Projeto em Prefeitura.
-4.8. REVESTIMENTOS CERÂMICOS
-As cerâmicas e porcelanatos terão acabamento acetinado ou brilhante ou fosco ou antiderrapante. A
-dimensão e a cor dos revestimentos serão conforme especificação do projeto executivo de
-arquitetura. As características físicas e químicas dos revestimentos atenderão às especificações
-técnicas da norma pertinente em sua versão vigente na data do protocolo do Projeto em Prefeitura.
+| 4.5. ACABAMENTOS ELÉTRICOS |
+|------------------------------|
 
-16
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+Os espelhos (interruptores e tomadas) serão em policarbonato e/ou poliestireno em todos os ambientes.
 
-Rubrica 1
+## 4.6. LOUÇAS
 
-Rubrica 2
+As louças serão fabricadas em cerâmica e/ou mármore sintético. A bacia terá caixa acoplada. Para ambientes adaptados à PCD serão previstos equipamentos específicos, de acordo com a NBR 9050 em sua versão vigente na data do protocolo do Projeto em Prefeitura.
 
-Rubrica 3
+## 4.7. METAIS
 
-Rubrica 4
+Os metais serão entregues com acabamento cromado. Para ambientes adaptados à PCD serão previstos equipamentos específicos, de acordo com a NBR 9050 em sua versão vigente na data do protocolo do Projeto em Prefeitura.
 
-4.9. ILUMINAÇÃO
-Serão entregues as luminárias das áreas comuns, conforme especificação do projeto executivo de
-Arquitetura e/ou Paisagismo.
-4.10. PORTÕES E GRADIS
-A automatização dos portões da garagem e da entrada de pedestres será instalada e entregue em
-funcionamento (ambos com controle na guarita).
-Os portões e gradis ornamentais do empreendimento serão executados em ferro com pintura,
-conforme desenho previamente definido em projeto. Não serão entregues controles individuais.
-4.11. SOLEIRAS / BAGUETES
-Nos ambientes serão instaladas soleiras e baguetes em pedra natural ou no mesmo material do piso,
-sempre que houver mudança de piso e/ou sistema de impermeabilização.
-4.12. PEITORIL / PINGADEIRA
+| 4.8. REVESTIMENTOS CERÂMICOS |
+|--------------------------------|
+
+As cerâmicas e porcelanatos terão acabamento acetinado ou brilhante ou fosco ou antiderrapante. A dimensão e a cor dos revestimentos serão conforme especificação do projeto executivo de arquitetura. As características físicas e químicas dos revestimentos atenderão às especificações técnicas da norma pertinente em sua versão vigente na data do protocolo do Projeto em Prefeitura.
+
+## 4.9. ILUMINAÇÃO
+
+Serão entregues as luminárias das áreas comuns, conforme especificação do projeto executivo de Arquitetura e/ou Paisagismo.
+
+## 4.10. PORTÕES E GRADIS
+
+A automatização dos portões da garagem e da entrada de pedestres será instalada e entregue em funcionamento (ambos com controle na guarita).
+
+Os portões e gradis ornamentais do empreendimento serão executados em ferro com pintura, conforme desenho previamente definido em projeto. Não serão entregues controles individuais.
+
+## 4.11. SOLEIRAS / BAGUETES
+
+Nos ambientes serão instaladas soleiras e baguetes em pedra natural ou no mesmo material do piso, sempre que houver mudança de piso e/ou sistema de impermeabilização.
+
+## 4.12. PEITORIL / PINGADEIRA
+
 Serão instalados peitoris em pedra natural nos caixilhos que possuem face para áreas externas.
-4.13. IMPERMEABILIZAÇÃO DAS ÁREAS MOLHADAS
-O banheiro e a área de serviço das unidades serão entregues com impermeabilização sob o piso
-cerâmico.
-Demais ambientes da unidade não serão impermeabilizadas e não sendo resistentes a lâmina
-d´água.
-4.14. FACHADAS
+
+## 4.13. IMPERMEABILIZAÇÃO DAS ÁREAS MOLHADAS
+
+O banheiro e a área de serviço das unidades serão entregues com impermeabilização sob o piso cerâmico.
+
+Demais ambientes da unidade não serão impermeabilizadas e não sendo resistentes a lâmina d´água.
+
+## 4.14. FACHADAS
+
 As fachadas serão acabadas com textura sobre massa única ou em Monocapa.
-As divisas serão executadas em alambrado, gradil, em bloco de concreto com pintura ou textura,
-alvenaria, muro pré-moldado ou similar e terão altura conforme projeto de arquitetura.
-Conforme Instrução Técnica 09/19 de 04 de julho de 2020 do Corpo de Bombeiros de SP, não
-poderão ser executados fechamentos em vidro nos terraços. O Descumprimento está sujeito a não
-renovação do AVCB.
-5. EQUIPAMENTOS E SISTEMAS
 
-5.1. INSTALAÇÕES ELÉTRICAS
-Serão executadas e entregues conforme projeto específico que deverá atender às exigências
-municipais, da concessionária local e das normas vigentes.
-5.2. INSTALAÇÕES HIDRÁULICAS
-Serão executadas conforme projeto específico que deverá atender às exigências municipais, da
-concessionária local e das normas vigentes. Será entregue previsão para medição individualizada.
-17
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
+As divisas serão executadas em alambrado, gradil, em bloco de concreto com pintura ou textura, alvenaria, muro pré-moldado ou similar e terão altura conforme projeto de arquitetura.
 
-Rubrica 1
+Conforme Instrução Técnica 09/19 de 04 de julho de 2020 do Corpo de Bombeiros de SP, não poderão ser executados fechamentos em vidro nos terraços. O Descumprimento está sujeito a não renovação do AVCB.
 
-Rubrica 2
+## 5. EQUIPAMENTOS E SISTEMAS
 
-Rubrica 3
+## 5.1. INSTALAÇÕES ELÉTRICAS
 
-Rubrica 4
+Serão executadas e entregues conforme projeto específico que deverá atender às exigências municipais, da concessionária local e das normas vigentes.
 
-5.3. INSTALAÇÕES DE GÁS
-Serão executadas conforme projeto específico que deverá atender às exigências municipais, da
-concessionária local e das normas vigentes. Será entregue previsão para medição individualizada.
-Os medidores individuais ficarão a cargo dos adquirentes das unidades.
-5.4. AQUECIMENTO DE ÁGUA
-O aquecimento dos chuveiros das unidades privativas poderá ser executado de alguma das formas
-abaixo:
-1) Sistema de aquecimento central a gás que servirá para todas as unidades privativas. A central de
-água quente a gás será localizada no barrilete com todos os equipamentos instalados e fornecidos
-pela Construtora. O chuveiro não será instalado nem fornecido pela Construtora.
-2) Nas unidades privativas onde a área de serviço é enclausurada e não havendo possibilidade de
-instalação do aquecimento individualizado no terraço será previsto instalação para o chuveiro elétrico
-como sistema de aquecimento. E nas unidades privativas onde a área de serviço é ventilada será
-previsto o sistema de aquecimento individualizado a gás. O aquecedor individualizado a gás não será
-instalado nem fornecido pela Construtora assim como o chuveiro.
-3) No caso da opção 01, o aquecimento central a gás, terá previsão para medidor individual de água
-quente para cada unidade.
-5.5. SINAL DE TV
-Será executada a infraestrutura (tubulação seca) para futura instalação e TV a cabo, que ficará a
-cargo do proprietário e/ou do Condomínio.
+| 5.2. INSTALAÇÕES HIDRÁULICAS |
+|--------------------------------|
+
+Serão executadas conforme projeto específico que deverá atender às exigências municipais, da concessionária local e das normas vigentes. Será entregue previsão para medição individualizada.
+
+| 5.3. INSTALAÇÕES DE GÁS |
+|---------------------------|
+
+Serão executadas conforme projeto específico que deverá atender às exigências municipais, da concessionária local e das normas vigentes. Será entregue previsão para medição individualizada. Os medidores individuais ficarão a cargo dos adquirentes das unidades.
+
+| 5.4. AQUECIMENTO DE ÁGUA |
+|----------------------------|
+
+O aquecimento dos chuveiros das unidades privativas poderá ser executado de alguma das formas abaixo:
+
+- 1) Sistema de aquecimento central a gás que servirá para todas as unidades privativas. A central de água quente a gás será localizada no barrilete com todos os equipamentos instalados e fornecidos pela Construtora. O chuveiro não será instalado nem fornecido pela Construtora.
+- 2) Nas unidades privativas onde a área de serviço é enclausurada e não havendo possibilidade de instalação do aquecimento individualizado no terraço será previsto instalação para o chuveiro elétrico como sistema de aquecimento. E nas unidades privativas onde a área de serviço é ventilada será previsto o sistema de aquecimento individualizado a gás. O aquecedor individualizado a gás não será instalado nem fornecido pela Construtora assim como o chuveiro.
+- 3) No caso da opção 01, o aquecimento central a gás, terá previsão para medidor individual de água quente para cada unidade.
+
+## 5.5. SINAL DE TV
+
+Será executada a infraestrutura (tubulação seca) para futura instalação e TV a cabo, que ficará a cargo do proprietário e/ou do Condomínio.
+
 Serão entregues os seguintes pontos:
-✓ TV: 01 ponto em um dormitório e 01 ponto na sala de estar.
 
-5.6. SISTEMA DE COMUNICAÇÃO INTERNA
-Será entregue um sistema eletrônico sem fios para comunicação interna (interfonia) que fará a
-comunicação da portaria com um telefone fixo e/ou um celular do proprietário.
-Não contempla fornecimento de aparelhos.
-Para a comunicação das unidades PCD (apenas nos banheiros), áreas de convivência e escadaria
-(recuo para cadeirante) será entregue um sistema convencional analógico com fios e serão
-fornecidos os aparelhos.
-5.7. EQUIPAMENTOS DE COMBATE A INCÊNDIO
-Serão instalados todos os equipamentos necessários ao combate e prevenção a incêndios, conforme
-normas e exigências do Corpo de Bombeiros e projeto aprovado no mesmo.
+- TV: 01 ponto em um dormitório e 01 ponto na sala de estar.
+
+| 5.6. SISTEMA DE COMUNICAÇÃO INTERNA |
+|---------------------------------------|
+
+Será entregue um sistema eletrônico sem fios para comunicação interna (interfonia) que fará a comunicação da portaria com um telefone fixo e/ou um celular do proprietário. Não contempla fornecimento de aparelhos. Para a comunicação das unidades PCD (apenas nos banheiros), áreas de convivência e escadaria (recuo para cadeirante) será entregue um sistema convencional analógico com fios e serão fornecidos os aparelhos.
+
+| 5.7. EQUIPAMENTOS DE COMBATE A INCÊNDIO |
+|-------------------------------------------|
+
+Serão instalados todos os equipamentos necessários ao combate e prevenção a incêndios, conforme normas e exigências do Corpo de Bombeiros e projeto aprovado no mesmo.
 
 18
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
 
-Rubrica 1
+## 5.8. SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS
 
-Rubrica 2
+O empreendimento será dotado de sistema de proteção contra descargas atmosféricas conforme detalhes e especificações do projeto de instalações elétricas e normas vigentes.
 
-Rubrica 3
+## 5.9. AR-CONDICIONADO
 
-Rubrica 4
+Para as unidades privativas NÃO está prevista carga elétrica para ar-condicionado e NÃO será permitida a instalação de nenhum tipo de equipamento, mesmo a cargo do proprietário ou condomínio. Para as áreas de lazer cobertas e a portaria será previsto carga/dimensionamento e dreno para aparelho tipo split, estando exclusos a rede frigorígena e cabeamento. Os aparelhos das áreas de lazer cobertas e da portaria não estão inclusos e deverão ser instalados pelo condomínio.
 
-5.8. SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS
-O empreendimento será dotado de sistema de proteção contra descargas atmosféricas conforme
-detalhes e especificações do projeto de instalações elétricas e normas vigentes.
-5.9. AR-CONDICIONADO
-Para as unidades privativas NÃO está prevista carga elétrica para ar-condicionado e NÃO será
-permitida a instalação de nenhum tipo de equipamento, mesmo a cargo do proprietário ou
-condomínio. Para as áreas de lazer cobertas e a portaria será previsto carga/dimensionamento e
-dreno para aparelho tipo split, estando exclusos a rede frigorígena e cabeamento. Os aparelhos das
-áreas de lazer cobertas e da portaria não estão inclusos e deverão ser instalados pelo condomínio.
-6. OBSERVAÇÕES GERAIS
-a)
+## 6. OBSERVAÇÕES GERAIS
 
-No interesse do bom andamento da obra, a Construtora poderá substituir os equipamentos
+- a) No interesse do bom andamento da obra, a Construtora poderá substituir os equipamentos ou materiais que faltarem no mercado na época de sua aquisição ou que se tornarem inacessíveis desde que mantida a mesma qualidade, podendo inclusive as áreas comuns sofrer pequenas alterações ditadas pela melhor solução técnica ou estética.
+- b) Materiais naturais como pedras e madeiras, estão sujeitos a diferenças de tonalidades.
+- c) Os layouts, mobiliários, cores, paginações de acabamentos, e vegetação apresentados nas imagens de vendas e maquete do empreendimento são ilustrativos. A Construtora reserva-se o direito de atualizar a estética da decoração e do paisagismo desses ambientes, bem como de substituir elementos por necessidades técnicas. Em virtude do grande número de lançamentos de materiais e equipamentos novos, ou de produtos que tenham saído de linha na época da construção, a Construtora reserva-se o direito de substituir alguns dos itens apresentados neste memorial por outros de qualidade equivalente.
+- d) As imagens, ilustrações, artes, perspectivas, plantas humanizadas e maquetes referentes ao imóvel apresentadas no stand de vendas, folders, material publicitário, outdoors, anúncios ou qualquer outra forma de veiculação são ilustrativas e artísticas, podendo apresentar variações em relação à obra final em função do desenvolvimento dos projetos executivos, da necessidade de adequabilidades técnicas ou do atendimento a postulados legais.
+- e) As áreas comuns serão entregues mobiliadas conforme previsto neste memorial descritivo.
+- f) Não está prevista a execução de ralo nas cozinhas.
+- g) Os quadros de luz, tomadas, interruptores e registros de comando das instalações hidráulicas, poderão estar localizados em locais diferentes daqueles representados no modelo do stand de vendas.
 
-ou materiais que faltarem no mercado na época de sua aquisição ou que se tornarem inacessíveis
-desde que mantida a mesma qualidade, podendo inclusive as áreas comuns sofrer pequenas
-alterações ditadas pela melhor solução técnica ou estética.
-b)
-
-Materiais naturais como pedras e madeiras, estão sujeitos a diferenças de tonalidades.
-
-c)
-
-Os layouts, mobiliários, cores, paginações de acabamentos, e vegetação apresentados nas
-
-imagens de vendas e maquete do empreendimento são ilustrativos. A Construtora reserva-se o direito
-de atualizar a estética da decoração e do paisagismo desses ambientes, bem como de substituir
-elementos por necessidades técnicas. Em virtude do grande número de lançamentos de materiais e
-equipamentos novos, ou de produtos que tenham saído de linha na época da construção, a
-Construtora reserva-se o direito de substituir alguns dos itens apresentados neste memorial por
-outros de qualidade equivalente.
-d)
-
-As imagens, ilustrações, artes, perspectivas, plantas humanizadas e maquetes referentes ao
-
-imóvel apresentadas no stand de vendas, folders, material publicitário, outdoors, anúncios ou
-qualquer outra forma de veiculação são ilustrativas e artísticas, podendo apresentar variações em
-relação à obra final em função do desenvolvimento dos projetos executivos, da necessidade de
-adequabilidades técnicas ou do atendimento a postulados legais.
-e)
-
-As áreas comuns serão entregues mobiliadas conforme previsto neste memorial descritivo.
-
-f)
-
-Não está prevista a execução de ralo nas cozinhas.
-
-g)
-
-Os quadros de luz, tomadas, interruptores e registros de comando das instalações hidráulicas,
-
-poderão estar localizados em locais diferentes daqueles representados no modelo do stand de
-vendas.
 19
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
-
-Rubrica 1
-
-Rubrica 2
 
 Rubrica 3
 
-Rubrica 4
-
-h)
-
-As instalações elétricas preveem pontos de tomada com voltagens pré-definidas (110V). Não
-
-é possível a alteração da voltagem das mesmas.
-i)
-
-Recomendamos a instalação de fogão de quatro bocas.
-
-j)
-
-Não está prevista infraestrutura para instalação de coifa na cozinha. O empreendimento
-
-oferece ponto elétrico para instalação de depurador de ar.
-k)
-
-As dimensões assinaladas nas plantas de vendas são de face a face com acabamento.
-
-Poderão ocorrer variações de ordem técnica nos projetos e na execução em até 5% conforme
-disposto no Art.500 do Código Civil Brasileiro.
-l)
-
-Não serão permitidas visitas à obra, por parte dos senhores adquirentes. O Departamento
-
-Comercial da Construtora enviará comunicado agendando uma visita coletiva em data oportuna, se
-necessário.
-m)
-
-As condições de garantia, uso e manutenção do imóvel são as constantes no manual do
-
-proprietário e manual do síndico, que serão entregues junto com as chaves da unidade privativa.
-
-20
-02/10/2023
-5256-GD02-VDA-AP-001-DOC-MEM_R01
-
-Rubrica 1
-
 Rubrica 2
 
-Rubrica 3
-
 Rubrica 4
+
+- h) As instalações elétricas preveem pontos de tomada com voltagens pré-definidas (110V). Não é possível a alteração da voltagem das mesmas.
+- i) Recomendamos a instalação de fogão de quatro bocas.
+- j) Não está prevista infraestrutura para instalação de coifa na cozinha. O empreendimento oferece ponto elétrico para instalação de depurador de ar.
+- k) As dimensões assinaladas nas plantas de vendas são de face a face com acabamento. Poderão ocorrer variações de ordem técnica nos projetos e na execução em até 5% conforme disposto no Art.500 do Código Civil Brasileiro.
+- l) Não serão permitidas visitas à obra, por parte dos senhores adquirentes. O Departamento Comercial da Construtora enviará comunicado agendando uma visita coletiva em data oportuna, se necessário.
+- m) As condições de garantia, uso e manutenção do imóvel são as constantes no manual do proprietário e manual do síndico, que serão entregues junto com as chaves da unidade privativa.
