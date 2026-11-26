@@ -16,7 +16,7 @@ final class Store
 {
     public const CONTENT_SETTINGS = ['categories', 'quick_searches', 'status', 'stats', 'timeline', 'amenities', 'checklist',
         'glossary', 'doc_meta', 'updated_at', 'gallery_folder_id', 'vendor_sheet_id', 'places', 'places_origin', 'places_pinned', 'places_lines', 'announcements', 'condo_rateio'];
-    public const STATE_SETTINGS = ['vendors', 'obra_progress', 'obra_progress_history', 'initialized', 'initialized_at', 'last_sync'];
+    public const STATE_SETTINGS = ['vendors', 'obra_progress', 'obra_progress_history', 'initialized', 'initialized_at', 'last_sync', 'extractor_version'];
     public const DOC_EDITABLE = ['title', 'description', 'doc_type', 'doc_date', 'is_public', 'review_status'];
 
     public static function contentDir(): string { return ROOT . '/content'; }

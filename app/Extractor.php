@@ -74,6 +74,9 @@ final class Extractor
         }
     }
 
+    /** Sobe quando a leitura de PDF melhora: o robô relê uma vez os PDFs já extraídos. */
+    public const VERSION = 2;
+
     private function pdf(string $path): array
     {
         $text = '';
@@ -83,10 +86,14 @@ final class Extractor
         if (function_exists('shell_exec') && !in_array('shell_exec', array_map('trim', explode(',', (string) ini_get('disable_functions'))), true)) {
             $bin = trim((string) @shell_exec(PHP_OS_FAMILY === 'Windows' ? 'where pdftotext 2>NUL' : 'command -v pdftotext 2>/dev/null'));
             if ($bin !== '') {
-                $out = tempnam(sys_get_temp_dir(), 'gpnt');
-                @shell_exec('pdftotext -enc UTF-8 ' . escapeshellarg($path) . ' ' . escapeshellarg($out));
-                $text = (string) @file_get_contents($out);
-                @unlink($out);
+                $run = function (string $opts) use ($path): string {
+                    $out = tempnam(sys_get_temp_dir(), 'gpnt');
+                    @shell_exec('pdftotext -enc UTF-8 ' . $opts . escapeshellarg($path) . ' ' . escapeshellarg($out));
+                    $t = (string) @file_get_contents($out);
+                    @unlink($out);
+                    return $t;
+                };
+                $text = self::mergeLayout($run(''), $run('-layout '));
                 $pages = max(1, substr_count($text, "\f"));
             }
         }
@@ -113,6 +120,34 @@ final class Extractor
         return ['status' => 'ok', 'text' => $text, 'error' => null];
     }
 
+    /**
+     * Junta as duas leituras do pdftotext, página a página.
+     * A leitura normal mantém a ordem de textos em colunas (ex.: Convenção em duas colunas), mas separa as tabelas
+     * (todos os itens e depois todos os valores). Nas páginas com cara de tabela usa o modo -layout, que mantém
+     * cada linha inteira; colunas viram " | " para o valor continuar ao lado do item.
+     */
+    public static function mergeLayout(string $plain, string $layout): string
+    {
+        $a = explode("\f", $plain);
+        $b = explode("\f", $layout);
+        if (count($a) !== count($b)) return $plain; // por segurança, fica com a leitura normal
+        foreach ($a as $i => $page) {
+            if (!self::looksTabular($page)) continue;
+            $lines = array_map(fn ($l) => preg_replace('/ {3,}/', ' | ', trim($l)), explode("\n", $b[$i]));
+            $a[$i] = implode("\n", $lines);
+        }
+        return implode("\f", $a);
+    }
+
+    /** Página com várias linhas só de números/valores (R$, %, datas) = tabela quebrada pela leitura normal. */
+    public static function looksTabular(string $page): bool
+    {
+        $lines = array_values(array_filter(array_map('trim', explode("\n", $page)), fn ($l) => $l !== ''));
+        if (count($lines) < 6) return false;
+        $num = count(array_filter($lines, fn ($l) => preg_match('/^(R\$\s*)?[-–]?[\d.,%\/ ]+$/u', $l) && preg_match('/\d/', $l)));
+        return $num >= 4 && $num / count($lines) >= 0.2;
+    }
+
     /** OCR com pdftoppm + tesseract (instalados no GitHub Actions). Null se indisponível. */
     private static function ocr(string $pdf): ?string
     {
@@ -122,8 +157,8 @@ final class Extractor
         $dir = sys_get_temp_dir() . '/ocr_' . bin2hex(random_bytes(4));
         @mkdir($dir);
         try {
-            // até 60 páginas, 200 dpi em tons de cinza
-            @shell_exec('pdftoppm -r 200 -gray -l 60 -png ' . escapeshellarg($pdf) . ' ' . escapeshellarg("$dir/p") . ' 2>/dev/null');
+            // até 60 páginas, 300 dpi em tons de cinza (200 dpi perdia números pequenos)
+            @shell_exec('pdftoppm -r 300 -gray -l 60 -png ' . escapeshellarg($pdf) . ' ' . escapeshellarg("$dir/p") . ' 2>/dev/null');
             $pages = glob("$dir/p*.png") ?: [];
             sort($pages, SORT_NATURAL);
             $out = [];

@@ -75,6 +75,17 @@ final class Sync
                 WHERE duplicate_of IS NULL");
 
             /* 4. Extrai texto do que estiver pendente */
+            // Leitura de PDF melhorou desde a última extração: relê os PDFs (menos os transcritos à mão), uma vez
+            $reread = [];
+            if ((int) setting('extractor_version', 1) < Extractor::VERSION) {
+                // id => situação atual, para voltar a ela se a releitura falhar
+                $reread = $pdo->query("SELECT id, text_status FROM docs WHERE removed = 0 AND duplicate_of IS NULL
+                                       AND mime = 'application/pdf' AND text_status IN ('ok', 'scanned')")->fetchAll(PDO::FETCH_KEY_PAIR);
+                if ($reread) {
+                    log_line('Leitura de PDF atualizada: relendo ' . count($reread) . ' PDFs');
+                    $pdo->exec("UPDATE docs SET text_status = 'pending' WHERE id IN (" . implode(',', array_map([$pdo, 'quote'], array_keys($reread))) . ")");
+                }
+            }
             $pending = $pdo->query("SELECT * FROM docs WHERE removed = 0 AND duplicate_of IS NULL
                                     AND text_status IN ('pending', 'error') ORDER BY first_seen")->fetchAll();
             foreach ($pending as $doc) {
@@ -84,11 +95,18 @@ final class Sync
                 }
                 log_line("Extraindo texto: {$doc['name']}");
                 $r = $this->extractor->extract($doc);
+                if (isset($reread[$doc['id']]) && $r['status'] !== 'ok') {
+                    // a releitura falhou (ex.: download): mantém o texto que já existia
+                    $pdo->prepare('UPDATE docs SET text_status = ? WHERE id = ?')->execute([$reread[$doc['id']], $doc['id']]);
+                    continue;
+                }
                 $this->saveText($doc['id'], $r['text'], $r['status'], $r['error']);
                 if ($r['status'] === 'ok') $this->stats['textos']++;
                 if ($r['status'] === 'scanned') $this->stats['escaneados']++;
                 if ($r['status'] === 'error') { $this->stats['erros']++; log_line("  erro: {$r['error']}"); }
             }
+
+            if ((int) setting('extractor_version', 1) < Extractor::VERSION) set_setting('extractor_version', Extractor::VERSION);
 
             /* 5. Planilha de fornecedores */
             $sheet = setting('vendor_sheet_id');
