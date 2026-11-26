@@ -6,150 +6,53 @@ COMPARATIVO DE REPASSE
 
 Faturamento bruto × faturamento líquido
 Simulação com faturamento de R$ 100.000/mês e repasse de 5% para o condomínio
-BASE BRUTA
-
-BASE LÍQUIDA
+BASE BRUTA | BASE LÍQUIDA
 
 Market4u
-
 MESMO FATURAMENTO
-
-R$ 100 mil
-
-5% do faturamento bruto
-
 CONCORRENTES
-8% do faturamento líquido
+5% do faturamento bruto
+R$ 100 mil | 8% do faturamento líquido
 
-Faturamento mensal
+Faturamento mensal | R$ 100.000 | Faturamento mensal | R$ 100.000
 
-R$ 100.000
+Base do repasse | R$ 100.000
+Impostos e taxas (30%) | – R$ 30.000
+–30% | Base do repasse | R$ 70.000
+Repasse mensal (5%) | R$ 5.000 | impostos e taxas
+Repasse mensal (5%) | R$ 3.500
 
-Faturamento mensal
-
-R$ 100.000
-
-Base do repasse
-
-R$ 100.000
-
-Impostos e taxas (30%)
-
-– R$ 30.000
-
-Repasse mensal (5%)
-
-R$ 5.000
-
-–30%
-impostos e taxas
-
-REPASSE ANUAL
-
-R$ 60.000
-+
-
-R$ 18.000 A MAIS POR ANO
-
-Base do repasse
-
-R$ 70.000
-
-Repasse mensal (5%)
-
-R$ 3.500
-
-REPASSE ANUAL
+REPASSE ANUAL | REPASSE ANUAL
 Na simulação do líquido
+R$ 60.000 | R$ 42.000
 
-R$ 42.000
-43% de repasse adicional
++ | R$ 18.000 A MAIS POR ANO | 43% de repasse adicional
 
 Market4u
-
 PREÇOS DE REFERÊNCIA
 
 Preço visível: exemplos reais da cesta apresentada
 Lista de referência disponibilizada para o condomínio
-AGUA CRYSTAL 1,5L
 
-R$ 5,12
+AGUA CRYSTAL 1,5L | R$ 5,12 | COCA COLA 220ML LATA | R$ 3,46
 
-COCA COLA 220ML LATA
+AGUA CRYSTAL 500ML | R$ 2,80 | COCA COLA 600ML | R$ 8,48
 
-R$ 3,46
+AGUA CRYSTAL C/ GAS 500ML | R$ 3,31 | COCA COLA ZERO 1,5L | R$ 11,62
 
-AGUA CRYSTAL 500ML
+LEITE ITALAC INTEGRAL 1 L | R$ 9,44 | COCA COLA ZERO 220ML LATA | R$ 3,47
 
-R$ 2,80
+AMENDOIM OVINHO ELMA CHIPS 145G | R$ 4,99 | COCA COLA ZERO 600ML | R$ 8,48
 
-COCA COLA 600ML
+AMSTEL SLEEK LATA 350ML CERVEJA | R$ 4,84 | DORITOS 84G | R$ 13,22
 
-R$ 8,48
+BARRA AO LEITE LACTA 80G | R$ 10,69 | OVOS BRANCOS, 10 un. | R$ 11,43
 
-AGUA CRYSTAL C/ GAS 500ML
+PAO FORMA PULLMAN 480G | R$ 13,02 | GUARANA 1,5L ANTARCTICA | R$ 7,29
 
-R$ 3,31
+BIS 100G | R$ 9,48 | H20 LIMONETO C/ GAS 500ML | R$ 4,76
 
-COCA COLA ZERO 1,5L
-
-R$ 11,62
-
-LEITE ITALAC INTEGRAL 1 L
-
-R$ 9,44
-
-COCA COLA ZERO 220ML LATA
-
-R$ 3,47
-
-AMENDOIM OVINHO ELMA CHIPS 145G
-
-R$ 4,99
-
-COCA COLA ZERO 600ML
-
-R$ 8,48
-
-AMSTEL SLEEK LATA 350ML CERVEJA
-
-R$ 4,84
-
-DORITOS 84G
-
-R$ 13,22
-
-BARRA AO LEITE LACTA 80G
-
-R$ 10,69
-
-OVOS BRANCOS, 10 un.
-
-R$ 11,43
-
-PAO FORMA PULLMAN 480G
-
-R$ 13,02
-
-GUARANA 1,5L ANTARCTICA
-
-R$ 7,29
-
-BIS 100G
-
-R$ 9,48
-
-H20 LIMONETO C/ GAS 500ML
-
-R$ 4,76
-
-COCA COLA 1,5L
-
-R$ 11,71
-
-HEINEKEN SLEEK LATA 350ML CERVEJA
-
-R$ 7,53
+COCA COLA 1,5L | R$ 11,71 | HEINEKEN SLEEK LATA 350ML CERVEJA | R$ 7,53
 
 Preços sujeitos a atualizações comerciais. Não representam compromisso de congelamento de valores ou estoque permanente de cada SKU.
 17

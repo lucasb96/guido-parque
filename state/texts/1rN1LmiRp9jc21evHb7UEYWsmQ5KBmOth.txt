@@ -34,27 +34,21 @@ distribuidores
 
 Sistema CFTV
 
-Principais
-
+Principais | Topologias CFTV
 SOBRE NÓS
-
-Topologias CFTV
-
 02
 Power Balun
 
 05
+
 3
 Gravador
-03
-
 06
-
-Switch
+03 | Switch
 04
-
 Câmera
 01
+
 Nobreak
 
 DESCRIÇÃO SISTEMA CFTV
@@ -88,106 +82,22 @@ Prepara compressão de vídeo (H.265) para que as imagens
 sejam visualizadas e transmitidas em alta resolução, sem
 oscilação na rede.
 
-Descrição
-
-Sistema CFTV
-
+Descrição | Sistema CFTV
 SOBRE NÓS
-LOCAL
+LOCAL | QT. | LOCAL | QT.
+Portaria | 01 | Coworking | 02
+Frente Clausura | 10 | Sala de Jogos | 02
+Piscina | 01 | Playground | 01
+Churrasqueiras | 02 | Academia | 05
+Pet Care | 01 | Fitness | 03
+Salão de Festas | 03 | Pet Care | 01
+Espaço Beleza | 02 | Games | 01
+Brinquedoteca | 02 | Elevadores | 13
+Play Baby | 02 | Area de Circulação | 14
+Delivery | 01 | Hall térreo | 16
+Oficina | 02
 
-QT.
-
-LOCAL
-
-QT.
-
-Portaria
-
-01
-
-Coworking
-
-02
-
-Frente Clausura
-
-10
-
-Sala de Jogos
-
-02
-
-Piscina
-
-01
-
-Playground
-
-01
-
-Churrasqueiras
-
-02
-
-Academia
-
-05
-
-Pet Care
-
-01
-
-Fitness
-
-03
-
-Salão de Festas
-
-03
-
-Pet Care
-
-01
-
-Espaço Beleza
-
-02
-
-Games
-
-01
-
-Brinquedoteca
-
-02
-
-Elevadores
-
-13
-
-Play Baby
-
-02
-
-Area de Circulação
-
-14
-
-Delivery
-
-01
-
-Hall térreo
-
-16
-
-Oficina
-
-02
-
-TOTAL
-
-85 CÂMERAS
+TOTAL | 85 CÂMERAS
 
 Controle de Acesso
 
@@ -195,70 +105,18 @@ Principais Topologias Acesso
 
 SOBRE NÓS
 
-Descrição
-
+Descrição | Controle de Acesso
 SOBRE NÓS
-
-DESCRIÇÃO
-
-Controle de Acesso
-LOCAL
-
-QT.
-
-Terminal Facial
-
-Entrada Social
-
-01
-
-Terminal Facial
-
-Entrada Secundaria Social
-
-01
-
-Protetor de Facial
-
-Acesso Pedestre
-
-02
-
-Mola Aérea
-
-Acesso Pedestre
-
-02
-
-Roteador VPN
-
-Acesso Pedestre
-
-01
-
-Portaria
-
-01
-
-Botoeira
-
-Saída Social
-
-02
-
-Sistema de Intertravamento
-
-Acesso Serviço
-
-01
-
-Monitor Controle de Acesso
-
-Portaria
-
-01
-
-Quadro de Comando
+DESCRIÇÃO | LOCAL | QT.
+Terminal Facial | Entrada Social | 01
+Terminal Facial | Entrada Secundaria Social | 01
+Protetor de Facial | Acesso Pedestre | 02
+Mola Aérea | Acesso Pedestre | 02
+Roteador VPN | Acesso Pedestre | 01
+Quadro de Comando | Portaria | 01
+Botoeira | Saída Social | 02
+Sistema de Intertravamento | Acesso Serviço | 01
+Monitor Controle de Acesso | Portaria | 01
 
 Proteção
 Perimetral
