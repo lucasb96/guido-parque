@@ -75,7 +75,7 @@ final class Extractor
     }
 
     /** Sobe quando a leitura de PDF melhora: o robô relê uma vez os PDFs já extraídos. */
-    public const VERSION = 2;
+    public const VERSION = 3; // 3 = Docling (tabelas + OCR de página inteira em PDFs com texto sobreposto)
 
     private function pdf(string $path): array
     {
@@ -109,6 +109,19 @@ final class Extractor
         $text = Text::clean($text);
         // Pouco texto por página = PDF escaneado (imagem)
         $letters = preg_match_all('/\p{L}/u', $text);
+
+        // Docling (só no robô): monta as tabelas. Em PDF escaneado ou com texto duplicado/sobreposto,
+        // lê a página como imagem (OCR), o que elimina a duplicação.
+        $scanned = $letters < 150 * $pages && $letters < 2000;
+        $ocrAll = $scanned || self::duplicatedText($text) >= 0.015;
+        $md = self::docling($path, $ocrAll);
+        // Num PDF de texto normal, o Docling só fica se ler pelo menos 80% do texto da leitura comum
+        // (em PDFs cheios de imagens ele às vezes perde trechos)
+        if ($md !== null && !$ocrAll && preg_match_all('/\p{L}/u', $md) < 0.8 * $letters) $md = null;
+        if ($md !== null) {
+            return ['status' => 'ok', 'text' => ($ocrAll ? "[Texto obtido por OCR automático – pode conter pequenos erros de leitura]\n\n" : '') . $md, 'error' => null];
+        }
+
         if ($letters < 150 * $pages && $letters < 2000) {
             // PDF escaneado: tenta OCR (Tesseract em português), se disponível no servidor
             $ocr = self::ocr($path);
@@ -146,6 +159,40 @@ final class Extractor
         if (count($lines) < 6) return false;
         $num = count(array_filter($lines, fn ($l) => preg_match('/^(R\$\s*)?[-–]?[\d.,%\/ ]+$/u', $l) && preg_match('/\d/', $l)));
         return $num >= 4 && $num / count($lines) >= 0.2;
+    }
+
+    /**
+     * Fração de palavras repetidas em sequência ("10.600,97 10.600,97", "Subtotal Subtotal").
+     * Acima de ~1,5% = PDF com duas camadas de texto sobrepostas (a Apresentação da AGI tinha 3,2%; os demais, até 0,5%).
+     */
+    public static function duplicatedText(string $text): float
+    {
+        $t = preg_split('/\s+/u', trim($text), -1, PREG_SPLIT_NO_EMPTY) ?: [];
+        if (count($t) < 50) return 0.0;
+        $rep = 0;
+        for ($i = 1, $n = count($t); $i < $n; $i++) {
+            if ($t[$i] === $t[$i - 1] && mb_strlen($t[$i]) > 2) $rep++;
+        }
+        return $rep / count($t);
+    }
+
+    /** Lê o PDF com tools/docling_pdf.py. Null se o Docling não estiver instalado ou a leitura falhar. */
+    private static function docling(string $pdf, bool $ocrAll): ?string
+    {
+        static $py = null;
+        if (!function_exists('shell_exec') || PHP_OS_FAMILY === 'Windows') return null;
+        if ($py === null) {
+            $cand = getenv('DOCLING_PYTHON') ?: 'python3';
+            $ok = trim((string) @shell_exec(escapeshellarg($cand) . ' -c "import docling; print(1)" 2>/dev/null')) === '1';
+            $py = $ok ? $cand : false;
+            log_line($ok ? 'Leitura de PDF: Docling ativo' : 'Leitura de PDF: Docling não instalado, usando pdftotext/Tesseract');
+        }
+        if ($py === false) return null;
+        $script = ROOT . '/tools/docling_pdf.py';
+        $cmd = 'timeout 1200 ' . escapeshellarg($py) . ' ' . escapeshellarg($script) . ' ' . escapeshellarg($pdf)
+            . ($ocrAll ? ' --ocr-pagina-inteira' : '') . ' 2>/dev/null';
+        $md = Text::clean((string) @shell_exec($cmd));
+        return preg_match_all('/\p{L}/u', $md) >= 200 ? $md : null;
     }
 
     /** OCR com pdftoppm + tesseract (instalados no GitHub Actions). Null se indisponível. */
