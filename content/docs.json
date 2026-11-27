@@ -111,6 +111,14 @@
         "is_public": 1,
         "review_status": "reviewed"
     },
+    "16mA5X3KIuXmeqQdZcGfxiVYg-gOjpnwb": {
+        "title": "Candidatos da AGI (perfis)",
+        "description": "Perfis dos candidatos com dados pessoais: fica só na plataforma da OMA.",
+        "doc_type": "Administradora",
+        "doc_date": "27/11/2026",
+        "is_public": 0,
+        "review_status": "reviewed"
+    },
     "189jHByWuam36cCY-i0-TN6Q8Ucqenc4G": {
         "title": null,
         "description": null,
@@ -655,6 +663,14 @@
         "is_public": 1,
         "review_status": "reviewed"
     },
+    "1l-guC4DaGot2Eit8-0RZaVhWszNg6nFL": {
+        "title": "Proposta de síndico profissional: RR Síndicos",
+        "description": "Proposta de Rafael Araújo (RR Síndicos) para síndico profissional.",
+        "doc_type": "Comercial",
+        "doc_date": "27/11/2026",
+        "is_public": 1,
+        "review_status": "reviewed"
+    },
     "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn": {
         "title": "Book de lançamento",
         "description": "Ficha técnica, plantas, localização e lista de lazer.",
@@ -700,6 +716,14 @@
         "description": null,
         "doc_type": "",
         "doc_date": "",
+        "is_public": 1,
+        "review_status": "reviewed"
+    },
+    "1qbB3Wr1Sc0b04Meg3kqlYNQPjOUzYSGQ": {
+        "title": "Proposta de síndico profissional: Menelim",
+        "description": "Proposta de Pedro Menezes (Menelim) para síndico profissional.",
+        "doc_type": "Comercial",
+        "doc_date": "27/11/2026",
         "is_public": 1,
         "review_status": "reviewed"
     },
@@ -876,6 +900,14 @@
         "description": null,
         "doc_type": "",
         "doc_date": "",
+        "is_public": 1,
+        "review_status": "reviewed"
+    },
+    "1zV9FwV4ntl2-VXe8pTpKWswQG1VQgYl7": {
+        "title": "Proposta de síndico profissional: Siggia & Procaci",
+        "description": "Proposta de Rafael Procaci (Siggia & Procaci) para síndico profissional.",
+        "doc_type": "Comercial",
+        "doc_date": "27/11/2026",
         "is_public": 1,
         "review_status": "reviewed"
     }

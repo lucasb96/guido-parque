@@ -130,7 +130,7 @@
         "cat": "entrega",
         "status": "oficial",
         "q": "Quem são os candidatos a síndico, subsíndico e Conselho?",
-        "a": "<p><strong>Votação hoje, 27/11/2026, das 10h às 20h</strong>, no portal ou no app da OMA (Winker). Estes são os candidatos da cédula:</p>\n<p><strong>Síndico</strong> (vote em 1):</p>\n<ul>\n<li>Pedro Menezes · <strong>Menelim</strong> (síndico profissional)</li>\n<li>Rafael Araújo · <strong>RR Síndicos</strong> (síndico profissional)</li>\n<li>Rafael Procaci · <strong>Siggia &amp; Procaci</strong> (síndico profissional)</li>\n<li>Michael Gonçalves da Silva · <strong>morador</strong>, Torre 02</li>\n</ul>\n<p><strong>Subsíndico</strong> (vote em 1):</p>\n<ul>\n<li>Marcos Alves de Jesus Januario · Torre 04</li>\n<li>Francisco Arnaldo Oliveira Costa · Torre 03</li>\n</ul>\n<p><strong>Conselho</strong> (vote em até 3):</p>\n<ul>\n<li>Angelica Malagola · Torre 04</li>\n<li>Victor Alves de Lima · Torre 03</li>\n<li>William Gomes de Brito Ribeiro · Torre 01</li>\n<li>Israel Félix da Costa · Torre 01</li>\n<li>Isaías José da Silva · Torre 02</li>\n</ul>\n<p>As 3 empresas de síndico profissional cobram <strong>R$ 14 por unidade</strong> por mês. Esse valor não está na previsão do condomínio (veja <a href=\"#faq-valor-condominio\">quanto vai custar</a>). O mandato é de 2 anos.</p>\n<p class=\"note\">Aqui aparecem só o nome e a torre. A unidade, a profissão e o perfil de cada candidato estão na cédula e no material de campanha, dentro da plataforma da OMA.</p>",
+        "a": "<p><strong>Votação hoje, 27/11/2026, das 10h às 20h</strong>, no portal ou no app da OMA (Winker). Estes são os candidatos da cédula:</p>\n<p><strong>Síndico</strong> (vote em 1):</p>\n<ul>\n<li>Pedro Menezes · <strong>Menelim</strong> (síndico profissional). <a href=\"#doc-1qbB3Wr1Sc0b04Meg3kqlYNQPjOUzYSGQ\">Proposta</a>.<div class=\"yt\" data-yt=\"h6DcPMyqpWE\" data-title=\"Apresentação: Menelim\"></div></li>\n<li>Rafael Araújo · <strong>RR Síndicos</strong> (síndico profissional). <a href=\"#doc-1l-guC4DaGot2Eit8-0RZaVhWszNg6nFL\">Proposta</a>.<div class=\"yt\" data-yt=\"OOlUT396lfM\" data-title=\"Apresentação: RR Síndicos\"></div></li>\n<li>Rafael Procaci · <strong>Siggia &amp; Procaci</strong> (síndico profissional). <a href=\"#doc-1zV9FwV4ntl2-VXe8pTpKWswQG1VQgYl7\">Proposta</a>.<div class=\"yt\" data-yt=\"IuEbJQEnDs8\" data-title=\"Apresentação: Siggia &amp; Procaci\"></div></li>\n<li>Michael Gonçalves da Silva · <strong>morador</strong>, Torre 02</li>\n</ul>\n<p><strong>Subsíndico</strong> (vote em 1):</p>\n<ul>\n<li>Marcos Alves de Jesus Januario · Torre 04</li>\n<li>Francisco Arnaldo Oliveira Costa · Torre 03</li>\n</ul>\n<p><strong>Conselho</strong> (vote em até 3):</p>\n<ul>\n<li>Angelica Malagola · Torre 04</li>\n<li>Victor Alves de Lima · Torre 03</li>\n<li>William Gomes de Brito Ribeiro · Torre 01</li>\n<li>Israel Félix da Costa · Torre 01</li>\n<li>Isaías José da Silva · Torre 02</li>\n</ul>\n<p>As 3 empresas de síndico profissional cobram <strong>R$ 14 por unidade</strong> por mês. Esse valor não está na previsão do condomínio (veja <a href=\"#faq-valor-condominio\">quanto vai custar</a>). O mandato é de 2 anos.</p>\n<p class=\"note\">Aqui aparecem só o nome e a torre. A unidade, a profissão e o perfil de cada candidato estão na cédula e no material de campanha, dentro da plataforma da OMA.</p>",
         "tags": [
             "candidatos",
             "candidato",
@@ -145,12 +145,15 @@
             "quem"
         ],
         "src": [
+            "1l-guC4DaGot2Eit8-0RZaVhWszNg6nFL",
+            "1qbB3Wr1Sc0b04Meg3kqlYNQPjOUzYSGQ",
+            "1zV9FwV4ntl2-VXe8pTpKWswQG1VQgYl7",
             "19rzQ7OIBZNEWXQFXNT26-ZAF4lDAJ34W",
             "1CydSUxYdIqK9def-poi5WRj4R1YRPXuW"
         ],
         "sort": 3,
         "published": 1,
-        "updated_at": "2026-11-27 13:30:00"
+        "updated_at": "2026-11-27 13:20:00"
     },
     {
         "id": "como-participar-agi",
