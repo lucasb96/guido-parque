@@ -77,8 +77,8 @@
         },
         {
             "label": "AGI",
-            "value": "27/11/2026",
-            "detail": "Online pela OMA · votação 10h–20h",
+            "value": "Hoje, até 20h",
+            "detail": "323 de 744 aptos participaram (13h04) · vote em todos os itens",
             "tone": "warn"
         },
         {
@@ -1646,6 +1646,12 @@
         ]
     },
     "announcements": [
+        {
+            "date": "27/11/2026",
+            "title": "Votação até as 20h: 323 de 744 apartamentos já participaram",
+            "text": "Número das 13h04. Quem já entrou, confira se votou em todos os itens: síndico, subsíndico, Conselho, segurança e Market4u.",
+            "link": "#faq-como-participar-agi"
+        },
         {
             "date": "27/11/2026",
             "title": "Hoje é dia de votação: veja os candidatos",
