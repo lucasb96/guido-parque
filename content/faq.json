@@ -24,9 +24,9 @@
     {
         "id": "quando-chaves",
         "cat": "entrega",
-        "status": "informado",
+        "status": "oficial",
         "q": "Quando vou receber as chaves?",
-        "a": "<p><strong>Sequência oficial</strong> (comunicado de 12/11/2026): AGI em 27/11, depois a vistoria da área comum pelo síndico eleito e, em seguida, <strong>vistoria e entrega das chaves</strong> com agendamento pela Central de Relacionamento da Cury.</p><p>Na visita de <strong>05/11/2026</strong>, o engenheiro responsável disse que a entrega deve acontecer <strong>até abril de 2027</strong>. A expectativa é que a maior parte das unidades seja entregue entre <strong>dezembro, janeiro e fevereiro</strong>.</p>\n<p>Oficialmente, a Cury diz que ainda <strong>não há data definida</strong>. A entrega das chaves começa depois da AGI, para clientes aptos financeiramente.</p>",
+        "a": "<p class=\"note\"><strong>Atualização (e-mail \"Cury Portas Abertas – Início das Vistorias\", de 27/11/2026):</strong> <strong>30/11/2026</strong>: começa o <strong>agendamento</strong> das vistorias; <strong>07/12/2026</strong>: começam as <strong>vistorias nas unidades</strong>. As chaves são entregues junto com a vistoria da unidade.</p>\n<p><strong>Sequência oficial</strong> (comunicado de 12/11/2026): AGI em 27/11, depois a vistoria da área comum pelo síndico eleito e, em seguida, <strong>vistoria e entrega das chaves</strong> com agendamento pela Central de Relacionamento da Cury.</p><p>Na visita de <strong>05/11/2026</strong>, o engenheiro responsável disse que a entrega deve acontecer <strong>até abril de 2027</strong>. A expectativa é que a maior parte das unidades seja entregue entre <strong>dezembro, janeiro e fevereiro</strong>.</p>\n<p>A Cury não divulga uma data por unidade: as unidades são liberadas aos poucos, e cada proprietário recebe um e-mail para agendar. A entrega é para clientes aptos financeiramente.</p>",
         "tags": [
             "chaves",
             "data",
@@ -42,14 +42,14 @@
         ],
         "sort": 1,
         "published": 1,
-        "updated_at": "2026-11-13 23:34:58"
+        "updated_at": "2026-11-27 13:40:00"
     },
     {
         "id": "chaves-apos-agi",
         "cat": "entrega",
         "status": "oficial",
         "q": "A entrega das chaves acontece logo depois da AGI?",
-        "a": "<p>Logo depois, não. Há uma etapa no meio. Pelo comunicado de 12/11/2026:</p>\n<ol>\n<li>a <strong>AGI</strong> instala o condomínio (votação em 27/11);</li>\n<li>o <strong>síndico eleito vistoria e aceita a área comum</strong>;</li>\n<li>começam as <strong>vistorias das unidades junto com a entrega das chaves</strong>, para clientes aptos, com agendamento prévio pela Central de Relacionamento da Cury.</li>\n</ol>",
+        "a": "<p>Logo depois, não. Há uma etapa no meio. Pelo comunicado de 12/11/2026:</p>\n<ol>\n<li>a <strong>AGI</strong> instala o condomínio (votação em 27/11);</li>\n<li>o <strong>síndico eleito vistoria e aceita a área comum</strong>;</li>\n<li>começam as <strong>vistorias das unidades junto com a entrega das chaves</strong>, para clientes aptos, com agendamento prévio pela Central de Relacionamento da Cury.</li>\n</ol>\n<p><strong>Datas (e-mail \"Cury Portas Abertas – Início das Vistorias\", de 27/11/2026):</strong> <strong>30/11/2026</strong>: começa o <strong>agendamento</strong> das vistorias; <strong>07/12/2026</strong>: começam as <strong>vistorias nas unidades</strong>. Veja <a href=\"#faq-quando-vistoria\">como funciona o agendamento</a>.</p>",
         "tags": [
             "AGI",
             "assembleia",
@@ -62,7 +62,7 @@
         ],
         "sort": 2,
         "published": 1,
-        "updated_at": "2026-11-13 23:34:57"
+        "updated_at": "2026-11-27 13:40:00"
     },
     {
         "id": "data-agi",
@@ -372,13 +372,19 @@
         "cat": "vistoria",
         "status": "oficial",
         "q": "Quando começam as vistorias?",
-        "a": "<p>Pelo comunicado oficial de <strong>12/11/2026</strong>, as vistorias dos apartamentos começam <strong>depois da AGI</strong> (27/11) e da <strong>vistoria da área comum pelo síndico eleito</strong>. Elas acontecem <strong>junto com a entrega das chaves</strong>.</p>\n<ul>\n<li>O <strong>agendamento é feito pela Central de Relacionamento da Cury</strong>. Aguarde o contato e mantenha seus dados atualizados.</li>\n<li>A ordem segue os <strong>andares, de baixo para cima</strong>, com prioridade para o <strong>Cury Chega Mais</strong>.</li>\n<li>Só são chamadas as unidades <strong>adimplentes</strong>, com a taxa de obra em dia.</li>\n</ul>\n<p>Na visita de 05/11, a equipe da obra falava em começar entre o fim de novembro e o início de dezembro. Com a nova sequência, o mais provável é a partir de <strong>dezembro</strong>, mas ainda não há data oficial.</p>",
+        "a": "<p><strong>Datas oficiais</strong> (e-mail \"Cury Portas Abertas – Início das Vistorias\", de 27/11/2026):</p>\n<ul>\n<li><strong>30/11/2026:</strong> começa o <strong>agendamento</strong> das vistorias;</li>\n<li><strong>07/12/2026:</strong> começam as <strong>vistorias nas unidades</strong>.</li>\n</ul>\n<p>As unidades são <strong>liberadas aos poucos</strong>. Quando a sua estiver disponível, a Cury manda um <strong>e-mail com as instruções</strong> para agendar. Um <strong>engenheiro da Cury</strong> acompanha a vistoria, mostra os pontos importantes e tira dúvidas.</p>\n<ul>\n<li>Pelo comunicado de 12/11, a ordem segue os <strong>andares, de baixo para cima</strong>, com prioridade para o <strong>Cury Chega Mais</strong>.</li>\n<li>Só são chamadas as unidades <strong>adimplentes</strong>. Mantenha seus dados atualizados e, se houver pendência financeira, fale com a Cury.</li>\n</ul>\n<p>Para o dia da vistoria, use o <a href=\"#checklist\">checklist da vistoria</a>.</p>",
         "tags": [
-            "vistoria",
+            "30 de novembro",
+            "7 de dezembro",
+            "Caixa",
+            "Portas Abertas",
+            "agendamento",
             "data",
-            "quando",
+            "e-mail",
+            "engenheiro",
             "início",
-            "Caixa"
+            "quando",
+            "vistoria"
         ],
         "src": [
             "1b16u3jKFRmjXYBDjsBIx1XWRwfZ-9Gqb",
@@ -387,7 +393,7 @@
         ],
         "sort": 13,
         "published": 1,
-        "updated_at": "2026-11-13 23:34:57"
+        "updated_at": "2026-11-27 13:40:00"
     },
     {
         "id": "ordem-vistoria",
@@ -416,7 +422,7 @@
         "cat": "vistoria",
         "status": "oficial",
         "q": "A vistoria acontece antes ou depois da AGI?",
-        "a": "<p><strong>Depois da AGI.</strong> O comunicado oficial da Cury de <strong>12/11/2026</strong> definiu esta sequência:</p>\n<ol>\n<li><strong>AGI</strong> (votação em 27/11/2026), que instala o condomínio;</li>\n<li><strong>Vistoria e aceite da área comum</strong> pelo síndico eleito;</li>\n<li><strong>Vistorias dos apartamentos junto com a entrega das chaves</strong>, para clientes aptos, com agendamento feito pela Central de Relacionamento da Cury.</li>\n</ol>\n<p class=\"note\">Isso substitui a previsão de agosto/2026 (Perguntas e Respostas), quando a Cury indicava vistorias antes da AGI e sem entrega de chaves.</p>",
+        "a": "<p><strong>Depois da AGI.</strong> O comunicado oficial da Cury de <strong>12/11/2026</strong> definiu esta sequência:</p>\n<ol>\n<li><strong>AGI</strong> (votação em 27/11/2026), que instala o condomínio;</li>\n<li><strong>Vistoria e aceite da área comum</strong> pelo síndico eleito;</li>\n<li><strong>Vistorias dos apartamentos junto com a entrega das chaves</strong>, para clientes aptos, com agendamento feito pela Central de Relacionamento da Cury.</li>\n</ol>\n<p class=\"note\">Isso substitui a previsão de agosto/2026 (Perguntas e Respostas), quando a Cury indicava vistorias antes da AGI e sem entrega de chaves.</p>\n<p><strong>Datas (e-mail \"Cury Portas Abertas – Início das Vistorias\", de 27/11/2026):</strong> <strong>30/11/2026</strong>: começa o <strong>agendamento</strong> das vistorias; <strong>07/12/2026</strong>: começam as <strong>vistorias nas unidades</strong>. Veja <a href=\"#faq-quando-vistoria\">como funciona o agendamento</a>.</p>",
         "tags": [
             "vistoria",
             "AGI",
@@ -429,7 +435,7 @@
         ],
         "sort": 15,
         "published": 1,
-        "updated_at": "2026-11-13 23:34:57"
+        "updated_at": "2026-11-27 13:40:00"
     },
     {
         "id": "quem-vistoria",
