@@ -604,7 +604,7 @@
             "doc_date": "11/2026"
         }
     },
-    "updated_at": "25/11/2026",
+    "updated_at": "27/11/2026",
     "vendor_sheet_id": "1hx0xeP9tdHQtO3RSPLBWLGMSjntcshE3xMD48vyZR_I",
     "places": {
         "origin": {
@@ -1646,6 +1646,12 @@
         ]
     },
     "announcements": [
+        {
+            "date": "27/11/2026",
+            "title": "Hoje é dia de votação: veja os candidatos",
+            "text": "Das 10h às 20h, no portal ou app da OMA. Síndico (4 candidatos), subsíndico (2) e Conselho (5), além de segurança e Market4u.",
+            "link": "#faq-candidatos-agi"
+        },
         {
             "date": "25/11/2026",
             "title": "Calcule o condomínio do seu apartamento",
