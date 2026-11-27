@@ -71,8 +71,8 @@
         },
         {
             "label": "Vistorias",
-            "value": "Após a AGI",
-            "detail": "Junto com a entrega das chaves, agendadas pela Cury",
+            "value": "A partir de 07/12",
+            "detail": "Agendamento abre em 30/11 · a Cury manda um e-mail para cada unidade",
             "tone": "warn"
         },
         {
@@ -206,6 +206,18 @@
             "state": "next"
         },
         {
+            "date": "30/11/2026",
+            "title": "Início do agendamento das vistorias",
+            "text": "As unidades são liberadas aos poucos: a Cury envia um e-mail com as instruções para agendar.",
+            "state": "next"
+        },
+        {
+            "date": "07/12/2026",
+            "title": "Início das vistorias nas unidades",
+            "text": "Vistoria acompanhada por um engenheiro da Cury, junto com a entrega das chaves.",
+            "state": "next"
+        },
+        {
             "date": "Após a AGI",
             "title": "Implantação do condomínio pela OMA",
             "text": "Registro da ata da AGI, CNPJ, certificado digital, CCM, seguro obrigatório, elevadores, troca de titularidade de água, luz e gás e desdobro do IPTU. A OMA envia relatórios do andamento.",
@@ -225,8 +237,8 @@
         },
         {
             "date": "Dez/26 – Abr/27",
-            "title": "Vistorias e entrega das chaves",
-            "text": "Vistoria da unidade junto com a entrega das chaves, para clientes aptos, com agendamento pela Cury.",
+            "title": "Vistorias e entregas de todas as unidades",
+            "text": "Previsão da obra: a maior parte das entregas entre dezembro e fevereiro, e todas até abril de 2027.",
             "state": "next"
         },
         {
@@ -1651,6 +1663,12 @@
             "title": "Votação até as 20h: 323 de 744 apartamentos já participaram",
             "text": "Número das 13h04. Quem já entrou, confira se votou em todos os itens: síndico, subsíndico, Conselho, segurança e Market4u.",
             "link": "#faq-como-participar-agi"
+        },
+        {
+            "date": "27/11/2026",
+            "title": "Vistorias: agendamento a partir de 30/11, vistorias a partir de 07/12",
+            "text": "Comunicado da Cury: as unidades são liberadas aos poucos, e cada proprietário recebe um e-mail para agendar.",
+            "link": "#faq-quando-vistoria"
         },
         {
             "date": "27/11/2026",
