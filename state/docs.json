@@ -296,8 +296,8 @@
     "16mA5X3KIuXmeqQdZcGfxiVYg-gOjpnwb": {
         "id": "16mA5X3KIuXmeqQdZcGfxiVYg-gOjpnwb",
         "name": "CANDIDATOS (AS) GUIDO PARQUE NAÇÕES UNIDAS.pdf",
-        "title": null,
-        "description": null,
+        "title": "Candidatos da AGI (perfis)",
+        "description": "Perfis dos candidatos com dados pessoais: fica só na plataforma da OMA.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -307,12 +307,12 @@
         "first_seen": "2026-11-27 13:03:24",
         "text_status": "ok",
         "char_count": 6072,
-        "review_status": "new",
-        "is_public": 1,
+        "review_status": "reviewed",
+        "is_public": 0,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Administradora",
+        "doc_date": "27/11/2026"
     },
     "189jHByWuam36cCY-i0-TN6Q8Ucqenc4G": {
         "id": "189jHByWuam36cCY-i0-TN6Q8Ucqenc4G",
@@ -1745,8 +1745,8 @@
     "1l-guC4DaGot2Eit8-0RZaVhWszNg6nFL": {
         "id": "1l-guC4DaGot2Eit8-0RZaVhWszNg6nFL",
         "name": "PROPOSTA RAFAEL ARAÚJO - RR SÍNDICOS.pdf",
-        "title": null,
-        "description": null,
+        "title": "Proposta de síndico profissional: RR Síndicos",
+        "description": "Proposta de Rafael Araújo (RR Síndicos) para síndico profissional.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -1756,12 +1756,12 @@
         "first_seen": "2026-11-27 13:03:24",
         "text_status": "ok",
         "char_count": 2836,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Comercial",
+        "doc_date": "27/11/2026"
     },
     "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn": {
         "id": "1lJYNon5p6RJ6BURfCUnTKTic5-sygYsn",
@@ -1892,8 +1892,8 @@
     "1qbB3Wr1Sc0b04Meg3kqlYNQPjOUzYSGQ": {
         "id": "1qbB3Wr1Sc0b04Meg3kqlYNQPjOUzYSGQ",
         "name": "PROPOSTA PEDRO MENEZES - MENELIM.pdf",
-        "title": null,
-        "description": null,
+        "title": "Proposta de síndico profissional: Menelim",
+        "description": "Proposta de Pedro Menezes (Menelim) para síndico profissional.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -1903,12 +1903,12 @@
         "first_seen": "2026-11-27 13:03:24",
         "text_status": "ok",
         "char_count": 4543,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Comercial",
+        "doc_date": "27/11/2026"
     },
     "1qhI6B-XaWmKjUvJ6-0nBchExwJ9bK6xD": {
         "id": "1qhI6B-XaWmKjUvJ6-0nBchExwJ9bK6xD",
@@ -2375,8 +2375,8 @@
     "1zV9FwV4ntl2-VXe8pTpKWswQG1VQgYl7": {
         "id": "1zV9FwV4ntl2-VXe8pTpKWswQG1VQgYl7",
         "name": "PROPOSTA RAFAEL PROCACI - SIGGIA & PROCACI.pdf",
-        "title": null,
-        "description": null,
+        "title": "Proposta de síndico profissional: Siggia & Procaci",
+        "description": "Proposta de Rafael Procaci (Siggia & Procaci) para síndico profissional.",
         "mime": "application/pdf",
         "folder_id": "1Facfx9GzPhTotkJDz3ZP_T6RLUzY314m",
         "folder_path": "GUIDO PARQUE NAÇÕES UNIDAS",
@@ -2386,11 +2386,11 @@
         "first_seen": "2026-11-27 13:03:24",
         "text_status": "ok",
         "char_count": 8025,
-        "review_status": "new",
+        "review_status": "reviewed",
         "is_public": 1,
         "duplicate_of": null,
         "removed": 0,
-        "doc_type": "",
-        "doc_date": ""
+        "doc_type": "Comercial",
+        "doc_date": "27/11/2026"
     }
 }
